@@ -1,16 +1,116 @@
 ---
-
+// No server-side fetch – everything client-side
 ---
 
+<!doctype html>
 <html lang="en">
-	<head>
-		<meta charset="utf-8" />
-		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
-		<meta name="viewport" content="width=device-width" />
-		<meta name="generator" content={Astro.generator} />
-		<title>Astro</title>
-	</head>
-	<body>
-		<h1>Astro</h1>
-	</body>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Sports News</title>
+    <style>
+      body { font-family: Arial, sans-serif; max-width: 1200px; margin: 0 auto; padding: 20px; }
+      h1 { text-align: center; }
+      #search { width: 100%; padding: 10px; font-size: 1.2em; margin-bottom: 20px; }
+      .news-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 20px; }
+      .news-item { border: 1px solid #ddd; padding: 15px; border-radius: 8px; }
+      .news-item img { max-width: 100%; height: auto; border-radius: 4px; }
+      .news-item h2 { font-size: 1.2em; margin: 10px 0; }
+      .news-item p { color: #555; }
+      .source { font-style: italic; color: #888; }
+      .loading { text-align: center; font-size: 1.5em; margin: 40px; }
+      .error { color: red; text-align: center; }
+    </style>
+  </head>
+  <body>
+    <h1>Latest Sports News</h1>
+    <input type="text" id="search" placeholder="Search news titles or descriptions..." />
+    <div id="news-container" class="news-grid"></div>
+    <div id="status" class="loading">Loading news...</div>
+
+    <script is:raw>
+  const RSS_URL = 'https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp1ZEdvU0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en';
+  const container = document.getElementById('news-container');
+  const status = document.getElementById('status');
+  const searchInput = document.getElementById('search');
+
+  async function fetchNews() {
+    try {
+      status.textContent = 'Loading news...';
+      container.innerHTML = '';
+      const proxy = 'https://corsproxy.io/?';
+      const response = await fetch(proxy + encodeURIComponent(RSS_URL));
+      if (!response.ok) throw new Error('Proxy error');
+      const text = await response.text();
+      const parser = new DOMParser();
+      const xml = parser.parseFromString(text, 'text/xml');
+      const items = xml.querySelectorAll('item');
+
+      if (items.length === 0) {
+        status.textContent = 'No news found (check URL/proxy).';
+        return;
+      }
+
+      let newsArray = [];
+      items.forEach(item => {
+        const title = item.querySelector('title')?.textContent || 'No title';
+        const link = item.querySelector('link')?.textContent || '#';
+        const desc = item.querySelector('description')?.textContent || '';
+        const pubDate = item.querySelector('pubDate')?.textContent || '';
+        const source = item.querySelector('source')?.textContent || 'Google News';
+
+        let img = '';
+        const media = item.querySelector('media\\:content, content');
+        if (media && media.getAttribute('url')) {
+          img = media.getAttribute('url');
+        } else {
+          const imgMatch = desc.match(/src="(https?:\/\/[^"]+\.(jpg|jpeg|png|gif|webp))"/i);
+          if (imgMatch) img = imgMatch[1];
+        }
+
+        newsArray.push({ title, link, desc, img, source, pubDate });
+      });
+
+      renderNews(newsArray);
+      status.textContent = `Loaded ${newsArray.length} news items. Last update: ${new Date().toLocaleTimeString()}`;
+    } catch (err) {
+      console.error(err);
+      status.className = 'error';
+      status.textContent = 'Error loading news (check console for details).';
+    }
+  }
+
+  function renderNews(news) {
+    container.innerHTML = '';
+    news.forEach(item => {
+      const div = document.createElement('div');
+      div.className = 'news-item';
+      div.innerHTML = `
+        ${item.img ? `<img src="${item.img}" alt="${item.title}" loading="lazy" />` : ''}
+        <h2><a href="${item.link}" target="_blank" rel="noopener">${item.title}</a></h2>
+        <p>${item.desc.replace(/<[^>]*>/g, '')}</p> <!-- Strip any remaining HTML from desc -->
+        <div class="source">${item.source} • ${new Date(item.pubDate).toLocaleDateString()}</div>
+      `;
+      container.appendChild(div);
+    });
+  }
+
+  // Search filter
+  searchInput.addEventListener('input', (e) => {
+    const term = e.target.value.toLowerCase();
+    const allItems = container.querySelectorAll('.news-item');
+    allItems.forEach(item => {
+      const title = item.querySelector('h2')?.textContent.toLowerCase() || '';
+      const desc = item.querySelector('p')?.textContent.toLowerCase() || '';
+      item.style.display = (title.includes(term) || desc.includes(term)) ? 'block' : 'none';
+    });
+  });
+
+  // Initial load
+  fetchNews();
+
+  // Auto-refresh every 10 minutes
+  setInterval(fetchNews, 600000);
+</script>
+  </body>
 </html>
