@@ -8,7 +8,7 @@ const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 const APP_DIR = path.resolve(__dirname, '..');
 const DIST_DIR = path.resolve(APP_DIR, 'dist');
-const URL_FILE = path.resolve(APP_DIR, '..', '..', 'astro_sitemap_urls.txt');
+const URL_FILE = path.resolve(APP_DIR, 'astro_sitemap_urls.txt');
 const ASTRO_CONFIG_FILE = path.resolve(APP_DIR, 'astro.config.mjs');
 
 async function fetchExistingSitemapIndex(domain) {
