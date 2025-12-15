@@ -82,7 +82,7 @@ async function generateSitemaps(urls, domain) {
             u.ele('lastmod').txt(new Date().toISOString());
         }
 
-        const xmlString = root.end({ prettyPrint: true });
+        const xmlString = root.end({ prettyPrint: true, headless: true });
         
         let sitemapFilename;
         if (numChunks > 1) {
@@ -136,7 +136,7 @@ async function generateSitemaps(urls, domain) {
         }
     }
 
-    const sitemapIndexXml = index.end({ prettyPrint: true });
+    const sitemapIndexXml = index.end({ prettyPrint: true, headless: true });
     files["sitemap.xml"] = `<?xml version="1.0" encoding="UTF-8"?>\n${pi}\n${sitemapIndexXml}`;
     files["robots.txt"] = `User-agent: *\nSitemap: https://${domain}/sitemap.xml`;
 
