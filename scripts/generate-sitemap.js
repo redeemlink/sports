@@ -160,8 +160,7 @@ async function main() {
     }
 
     if (urls.length === 0) {
-        console.warn("No URLs found to generate sitemaps.");
-        return;
+        console.warn("No new URLs found to add. The sitemap index will be regenerated using existing sitemaps.");
     }
 
     console.log(`Generating sitemaps for ${urls.length} URLs...`);
