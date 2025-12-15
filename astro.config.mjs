@@ -11,5 +11,5 @@ export default defineConfig({
   // base: '/your-repo-name',  // Uncomment if deploying to a project site (not user site)
   site: 'https://redeemlink.xyz',
 
-  integrations: [sitemap()]
+  integrations: []
 });
