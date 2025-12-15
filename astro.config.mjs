@@ -1,8 +1,6 @@
 // @ts-check
 import { defineConfig } from 'astro/config';
 
-import sitemap from '@astrojs/sitemap';
-
 // For project repo (e.g., username.github.io/my-repo), use base: '/my-repo/'
 // For user site (username.github.io), no base needed
 // For custom domain, set site to your domain
