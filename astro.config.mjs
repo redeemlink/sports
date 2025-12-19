@@ -3,6 +3,7 @@ import { defineConfig } from 'astro/config';
 import sitemap from '@astrojs/sitemap';
 
 export default defineConfig({
-  site: 'https://redeemlink.xyz', // Change to your Netlify/custom domain
+  site: 'https://redeemlink.xyz',
+  base: '/sports',
   integrations: [sitemap()],
 });
