@@ -1,0 +1,49 @@
+---
+import { getCollection, getEntry } from 'astro:content';
+
+export async function getStaticPaths() {
+  const posts = await getCollection('news');
+  return posts.map(post => ({
+    params: { slug: post.slug },
+  }));
+}
+
+const { slug } = Astro.params;
+const post = await getEntry('news', slug);
+
+if (!post) {
+  return Astro.redirect('/404'); // Optional: create 404.astro
+}
+
+const { Content } = await post.render();
+const { title, description, image, link, source, pubDate } = post.data;
+---
+
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>{title} | Sports News</title>
+  <meta name="description" content={description} />
+  <meta property="og:title" content={title} />
+  <meta property="og:description" content={description} />
+  {image && <meta property="og:image" content={image} />}
+</head>
+<body>
+  <main>
+    <article>
+      <h1>{title}</h1>
+      {image && <img src={image} alt={title} loading="lazy" />}
+      <p><strong>Source:</strong> <a href={link} target="_blank" rel="noopener">{source}</a> • {new Date(pubDate).toLocaleDateString()}</p>
+      <p>{description}</p>
+      <Content />
+      <p><a href={link} target="_blank" rel="noopener">Read full article →</a></p>
+    </article>
+    <a href="/">← Back to latest news</a>
+  </main>
+  <style>
+    main { max-width: 800px; margin: 40px auto; padding: 20px; line-height: 1.6; }
+    img { max-width: 100%; border-radius: 8px; }
+  </style>
+</body>
+</html>

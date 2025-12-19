@@ -3,12 +3,16 @@
   "type": "module",
   "version": "0.0.1",
   "scripts": {
-    "dev": "astro dev",
-    "build": "astro build",
+    "dev": "npm run generate && astro dev",
+    "generate": "node ./scripts/generate-posts.js",
+    "build": "npm run generate && astro build",
     "preview": "astro preview",
-    "astro": "astro"
+    "postbuild": "node ./scripts/ping-google.js"
   },
   "dependencies": {
-    "astro": "^5.16.6"
+    "@astrojs/sitemap": "^3.6.0",
+    "astro": "^5.16.6",
+    "node-fetch": "^3.3.2",
+    "rss-parser": "^3.13.0"
   }
 }

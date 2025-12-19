@@ -1,16 +1,222 @@
 ---
 
 ---
-
+<!doctype html>
 <html lang="en">
-	<head>
-		<meta charset="utf-8" />
-		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
-		<meta name="viewport" content="width=device-width" />
-		<meta name="generator" content={Astro.generator} />
-		<title>Astro</title>
-	</head>
-	<body>
-		<h1>Astro</h1>
-	</body>
+<head>
+  <meta charset="UTF-8" />
+  <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="generator" content={Astro.generator} />
+  <title>Latest Sports News</title>
+  <style>
+    body { font-family: Arial, sans-serif; max-width: 900px; margin: 0 auto; padding: 20px; }
+    h1 { text-align: center; }
+    #search { width: 100%; padding: 12px; font-size: 1.2em; margin: 20px 0; box-sizing: border-box; }
+    .news-list { list-style: none; padding: 0; }
+    .news-item { border-bottom: 1px solid #eee; padding: 20px 0; }
+    .news-item:last-child { border-bottom: none; }
+    .news-item img { max-width: 100%; height: auto; border-radius: 8px; margin-bottom: 10px; }
+    .news-item h2 { margin: 10px 0; font-size: 1.4em; }
+    .news-item h2 a { color: #1a0dab; text-decoration: none; }
+    .news-item h2 a:hover { text-decoration: underline; }
+    .source { color: #666; font-size: 0.9em; }
+    #status { text-align: center; margin: 20px 0; font-style: italic; }
+    
+    /* Pagination styles */
+    .pagination {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      gap: 10px;
+      margin: 40px 0;
+      flex-wrap: wrap;
+    }
+    .pagination button {
+      padding: 8px 16px;
+      background: #f0f0f0;
+      border: 1px solid #ddd;
+      border-radius: 6px;
+      cursor: pointer;
+    }
+    .pagination button.active {
+      background: #1a0dab;
+      color: white;
+      border-color: #1a0dab;
+    }
+    .pagination button:disabled {
+      opacity: 0.5;
+      cursor: not-allowed;
+    }
+  </style>
+</head>
+<body>
+  <h1 id="page-title">Latest Sports News</h1>
+
+  <input type="text" id="search" placeholder="Search titles or descriptions..." aria-label="Search news" />
+
+  <main id="main" aria-labelledby="page-title">
+    <ul id="news-container" class="news-list"></ul>
+  </main>
+
+  <div class="pagination" id="pagination" role="navigation" aria-label="Pagination"></div>
+
+  <div id="status" role="status" aria-live="polite">Loading latest sports news...</div>
+
+  <script is:raw>
+    const ITEMS_PER_PAGE = 20;
+    let allNews = [];
+    let currentPage = 1;
+
+    async function loadNews() {
+      try {
+        const res = await fetch('/data/posts.json');
+        if (!res.ok) throw new Error();
+        allNews = await res.json();
+        currentPage = 1;
+        renderPage();
+        updateStatus();
+      } catch (e) {
+        document.getElementById('status').textContent = 'Failed to load news – try refreshing';
+      }
+    }
+
+    function renderPage() {
+      const container = document.getElementById('news-container');
+      const searchTerm = document.getElementById('search').value.toLowerCase();
+
+      // Filter news
+      const filtered = allNews.filter(item =>
+        item.title.toLowerCase().includes(searchTerm) ||
+        item.description.toLowerCase().includes(searchTerm)
+      );
+
+      // Calculate pagination
+      const totalPages = Math.max(1, Math.ceil(filtered.length / ITEMS_PER_PAGE));
+      const start = (currentPage - 1) * ITEMS_PER_PAGE;
+      const end = start + ITEMS_PER_PAGE;
+      const pageItems = filtered.slice(start, end);
+
+      // Render items
+      container.innerHTML = '';
+      if (pageItems.length === 0) {
+        container.innerHTML = '<li style="text-align:center; padding:40px;">No articles found.</li>';
+        renderPagination(1);
+        return;
+      }
+
+      pageItems.forEach(item => {
+        const li = document.createElement('li');
+        li.className = 'news-item';
+        li.innerHTML = `
+          ${item.image ? `<img src="${item.image}" loading="lazy" alt="${item.title}" />` : ''}
+          <h2><a href="/${item.slug}">${item.title}</a></h2>
+          <p>${item.description}</p>
+          <div class="source">${item.source} • ${new Date(item.pubDate).toLocaleDateString()}</div>
+          <a href="${item.link}" target="_blank" rel="noopener">Read original →</a>
+        `;
+        container.appendChild(li);
+      });
+
+      renderPagination(totalPages);
+    }
+
+    function renderPagination(totalPages) {
+      const pagination = document.getElementById('pagination');
+      pagination.innerHTML = '';
+
+      // Previous button
+      const prev = document.createElement('button');
+      prev.textContent = 'Previous';
+      prev.disabled = currentPage === 1;
+      prev.onclick = () => {
+        if (currentPage > 1) {
+          currentPage--;
+          renderPage();
+          window.scrollTo(0, 0);
+        }
+      };
+      pagination.appendChild(prev);
+
+      // Page numbers (show up to 7 pages intelligently)
+      const maxButtons = 7;
+      let startPage = Math.max(1, currentPage - Math.floor(maxButtons / 2));
+      let endPage = Math.min(totalPages, startPage + maxButtons - 1);
+      if (endPage - startPage + 1 < maxButtons) {
+        startPage = Math.max(1, endPage - maxButtons + 1);
+      }
+
+      if (startPage > 1) {
+        const first = document.createElement('button');
+        first.textContent = '1';
+        first.onclick = () => { currentPage = 1; renderPage(); window.scrollTo(0, 0); };
+        pagination.appendChild(first);
+        if (startPage > 2) {
+          const dots = document.createElement('span');
+          dots.textContent = '...';
+          pagination.appendChild(dots);
+        }
+      }
+
+      for (let i = startPage; i <= endPage; i++) {
+        const btn = document.createElement('button');
+        btn.textContent = i;
+        if (i === currentPage) btn.classList.add('active');
+        btn.onclick = () => {
+          currentPage = i;
+          renderPage();
+          window.scrollTo(0, 0);
+        };
+        pagination.appendChild(btn);
+      }
+
+      if (endPage < totalPages) {
+        if (endPage < totalPages - 1) {
+          const dots = document.createElement('span');
+          dots.textContent = '...';
+          pagination.appendChild(dots);
+        }
+        const last = document.createElement('button');
+        last.textContent = totalPages;
+        last.onclick = () => { currentPage = totalPages; renderPage(); window.scrollTo(0, 0); };
+        pagination.appendChild(last);
+      }
+
+      // Next button
+      const next = document.createElement('button');
+      next.textContent = 'Next';
+      next.disabled = currentPage === totalPages;
+      next.onclick = () => {
+        if (currentPage < totalPages) {
+          currentPage++;
+          renderPage();
+          window.scrollTo(0, 0);
+        }
+      };
+      pagination.appendChild(next);
+    }
+
+    function updateStatus() {
+      const filteredCount = allNews.filter(item =>
+        item.title.toLowerCase().includes(document.getElementById('search').value.toLowerCase()) ||
+        item.description.toLowerCase().includes(document.getElementById('search').value.toLowerCase())
+      ).length;
+      document.getElementById('status').textContent = 
+        `Showing page ${currentPage} • ${filteredCount} total articles • Updated: ${new Date().toLocaleString()}`;
+    }
+
+    // Search with pagination reset
+    document.getElementById('search').addEventListener('input', () => {
+      currentPage = 1;
+      renderPage();
+      updateStatus();
+    });
+
+    // Initial load
+    loadNews();
+
+    // Auto-refresh every 10 minutes
+    setInterval(loadNews, 600000);
+  </script>
+</body>
 </html>
