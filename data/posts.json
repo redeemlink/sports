@@ -1,14 +1,5 @@
 [
   {
-    "slug": "watch-match-of-the-day",
-    "title": "Watch: Match of the Day",
-    "description": "Highlights of eight Premier League games, including Tottenham v Liverpool.",
-    "pubDate": "2025-12-21",
-    "image": "",
-    "link": "https://www.bbc.co.uk/iplayer/live/bbcone?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport"
-  },
-  {
     "slug": "follow-live-commanders-hold-lead-after-jake-elliott-misses-another-fg",
     "title": "Follow live: Commanders hold lead after Jake Elliott misses another FG",
     "description": "null",
@@ -63,13 +54,13 @@
     "source": "Dave Wilson"
   },
   {
-    "slug": "fudd-strong-lead-no-1-uconn-past-no-11-iowa",
-    "title": "Fudd, Strong lead No. 1 UConn past No. 11 Iowa",
-    "description": "Azzi Fudd and Sarah Strong combined for 50 points to lead No. 1 UConn past 11th-ranked Iowa 90-64 on Saturday in the Women's Champions Classic.",
+    "slug": "vikings-team-plane-returns-to-airport-after-takeoff",
+    "title": "Vikings' team plane returns to airport after takeoff",
+    "description": "The Vikings' charter plane experienced mechanical issues shortly after takeoff Saturday afternoon and returned to Minneapolis-St. Paul Airport, a team spokesman confirmed.",
     "pubDate": "2025-12-20",
     "image": "",
-    "link": "https://www.espn.com/womens-college-basketball/story/_/id/47370583/no-1-uconn-powers-no-11-iowa-women-champions-classic",
-    "source": "www.espn.com - TOP"
+    "link": "https://www.espn.com/nfl/story/_/id/47372749/vikings-team-plane-returns-minneapolis-takeoff",
+    "source": "Kevin Seifert"
   },
   {
     "slug": "qb-becht-leaving-cyclones-for-new-opportunities",
@@ -387,12 +378,12 @@
     "source": "BBC Sport"
   },
   {
-    "slug": "williamson-drops-simpson-four-times-in-stoppage-win",
-    "title": "Williamson drops Simpson four times in stoppage win",
-    "description": "Troy Williamson upsets the odds to stop Callum Simpson in brilliant fashion and win the British, Commonwealth and European super-middleweight titles.",
+    "slug": "top-and-bottom-at-christmas-what-does-it-mean",
+    "title": "Top and bottom at Christmas - what does it mean?",
+    "description": "As we approach the halfway point of the season, what do the ghosts of Christmas past tell us about the Premier League title race and relegation battle?",
     "pubDate": "2025-12-20",
     "image": "",
-    "link": "https://www.bbc.com/sport/boxing/articles/c2k4y1nv31zo?at_medium=RSS&at_campaign=rss",
+    "link": "https://www.bbc.com/sport/football/articles/c87lqlw9ej2o?at_medium=RSS&at_campaign=rss",
     "source": "BBC Sport"
   },
   {
@@ -402,6 +393,15 @@
     "pubDate": "2025-12-20",
     "image": "",
     "link": "https://www.bbc.com/sport/boxing/videos/c93w252en9vo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport"
+  },
+  {
+    "slug": "williamson-drops-simpson-four-times-in-stoppage-win",
+    "title": "Williamson drops Simpson four times in stoppage win",
+    "description": "Troy Williamson upsets the odds to stop Callum Simpson in brilliant fashion and win the British, Commonwealth and European super-middleweight titles.",
+    "pubDate": "2025-12-20",
+    "image": "",
+    "link": "https://www.bbc.com/sport/boxing/articles/c2k4y1nv31zo?at_medium=RSS&at_campaign=rss",
     "source": "BBC Sport"
   },
   {
@@ -432,15 +432,6 @@
     "source": "BBC Sport"
   },
   {
-    "slug": "exeter-go-top-with-dramatic-late-win-at-saracens",
-    "title": "Exeter go top with dramatic late win at Saracens ",
-    "description": "Exeter score three late tries in a fightback to beat Saracens at StoneX Stadium and go top of the Prem table.",
-    "pubDate": "2025-12-20",
-    "image": "",
-    "link": "https://www.bbc.com/sport/rugby-union/articles/ce86jrypxlgo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport"
-  },
-  {
     "slug": "man-utd-could-make-january-signing-amid-neves-link",
     "title": "Man Utd 'could make January signing' amid Neves link",
     "description": "Manchester United head coach Ruben Amorim says it is possible the club could make a January transfer window signing.",
@@ -459,12 +450,12 @@
     "source": "BBC Sport"
   },
   {
-    "slug": "joshua-and-paul-earn-riches-but-deliver-budget-sporting-spectacle",
-    "title": "Joshua and Paul earn riches but deliver budget sporting spectacle",
-    "description": "Anthony Joshua earns one of the biggest paydays of his career - but where does his victory over Jake Paul leave both fighters and boxing?",
+    "slug": "exeter-go-top-with-dramatic-late-win-at-saracens",
+    "title": "Exeter go top with dramatic late win at Saracens ",
+    "description": "Exeter score three late tries in a fightback to beat Saracens at StoneX Stadium and go top of the Prem table.",
     "pubDate": "2025-12-20",
     "image": "",
-    "link": "https://www.bbc.com/sport/boxing/articles/cde6jyl1gneo?at_medium=RSS&at_campaign=rss",
+    "link": "https://www.bbc.com/sport/rugby-union/articles/ce86jrypxlgo?at_medium=RSS&at_campaign=rss",
     "source": "BBC Sport"
   },
   {
@@ -549,6 +540,15 @@
     "source": "BBC Sport"
   },
   {
+    "slug": "joshua-and-paul-earn-riches-but-deliver-budget-sporting-spectacle",
+    "title": "Joshua and Paul earn riches but deliver budget sporting spectacle",
+    "description": "Anthony Joshua earns one of the biggest paydays of his career - but where does his victory over Jake Paul leave both fighters and boxing?",
+    "pubDate": "2025-12-20",
+    "image": "",
+    "link": "https://www.bbc.com/sport/boxing/articles/cde6jyl1gneo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport"
+  },
+  {
     "slug": "kildunne-scores-superb-solo-try-as-quins-beat-bristol",
     "title": "Kildunne scores superb solo try as Quins beat Bristol",
     "description": "England star - and BBC Sports Personality of the Year 2025 runner-up - Ellie Kildunne scores a sensational solo try as Harlequins beat Bristol Bears at Allianz Stadium.",
@@ -573,15 +573,6 @@
     "pubDate": "2025-12-20",
     "image": "",
     "link": "https://www.bbc.com/sport/articles/clydpdypp1yo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport"
-  },
-  {
-    "slug": "stupid-or-valid-did-brook-s-shot-put-australia-on-the-brink",
-    "title": "Stupid or valid? Did Brook's shot put Australia on the brink?",
-    "description": "Harry Brook's dismissal put England on the brink of Ashes defeat but was his reverse sweep stupid or valid?",
-    "pubDate": "2025-12-20",
-    "image": "",
-    "link": "https://www.bbc.com/sport/cricket/articles/cg5m38j68d6o?at_medium=RSS&at_campaign=rss",
     "source": "BBC Sport"
   },
   {
@@ -666,12 +657,12 @@
     "source": "BBC Sport"
   },
   {
-    "slug": "dubois-drops-outclasses-panatta-to-retain-wbc-title",
-    "title": "Dubois drops & outclasses Panatta to retain WBC title",
-    "description": "Caroline Dubois produced a commanding performance on her American debut, outpointing Camilla Panatt to retain her WBC lightweight title in Miami.",
+    "slug": "stupid-or-valid-did-brook-s-shot-put-australia-on-the-brink",
+    "title": "Stupid or valid? Did Brook's shot put Australia on the brink?",
+    "description": "Harry Brook's dismissal put England on the brink of Ashes defeat but was his reverse sweep stupid or valid?",
     "pubDate": "2025-12-20",
     "image": "",
-    "link": "https://www.bbc.com/sport/boxing/articles/c5y9x61dl52o?at_medium=RSS&at_campaign=rss",
+    "link": "https://www.bbc.com/sport/cricket/articles/cg5m38j68d6o?at_medium=RSS&at_campaign=rss",
     "source": "BBC Sport"
   },
   {
@@ -747,12 +738,12 @@
     "source": "BBC Sport"
   },
   {
-    "slug": "mancini-sibling-rivalry-and-wanting-to-excite-fans-the-yaya-toure-story",
-    "title": "Mancini, sibling rivalry and wanting to excite fans - the Yaya Toure story",
-    "description": "Yaya Toure reflects on a glittering career at clubs such as Barcelona and Manchester City as well as with his country, Ivory Coast.",
+    "slug": "dubois-drops-outclasses-panatta-to-retain-wbc-title",
+    "title": "Dubois drops & outclasses Panatta to retain WBC title",
+    "description": "Caroline Dubois produced a commanding performance on her American debut, outpointing Camilla Panatt to retain her WBC lightweight title in Miami.",
     "pubDate": "2025-12-20",
     "image": "",
-    "link": "https://www.bbc.com/sport/football/articles/cgqzg33jwn4o?at_medium=RSS&at_campaign=rss",
+    "link": "https://www.bbc.com/sport/boxing/articles/c5y9x61dl52o?at_medium=RSS&at_campaign=rss",
     "source": "BBC Sport"
   },
   {
@@ -792,219 +783,237 @@
     "source": "BBC Sport"
   },
   {
-    "slug": "ballon-d-39-onefootball-full-back-involved-in-22-goals-finishes-6th",
-    "title": "🎖️ Ballon D&#39;OneFootball: full-back involved in 22 goals, finishes 6th",
-    "description": "Reinaldo was involved in 22 GOALS this year, helped lead Mirassol to the Libertadores, and, with all that, finished in SIXTH place in the Ballon D'OneFootball 2025.The award, organized by Brazilian jo...",
+    "slug": "misfits-23-live-streaming-results-video-highlights-tate-vs-demoor",
+    "title": "Misfits 23 live streaming results, video highlights | Tate vs. DeMoor",
+    "description": "Misfits Boxing 23 is primed and ready to take place TODAY (Sat., Dec. 20, 2025) inside Dubai Duty Free Tennis Stadium in Dubai, United Arab Emirates. The event — which can be streamed on Rumble Premium— is headlined by a Heavyweight title fight as Andrew Tate challenges division kingpin, Chase DeMoo",
     "pubDate": "2025-12-20",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/ballon-donefootball-full-back-involved-225100576.html",
+    "link": "https://sports.yahoo.com/articles/misfits-23-live-streaming-results-175831659.html",
     "source": "Google News"
   },
   {
-    "slug": "pnc-championship-2025-sunday-tee-times-where-to-watch",
-    "title": "PNC Championship 2025 Sunday tee times, where to watch",
-    "description": "Check out tee times for Sunday at the 2025 PNC Championship.",
+    "slug": "managing-madrid-podcast-real-madrid-2-0-sevilla-post-game-reaction-la-liga-2025-2026",
+    "title": "Managing Madrid Podcast: Real Madrid 2 – 0 Sevilla, Post-game Reaction: La Liga 2025 – 2026",
+    "description": "Kiyan’s reaction to the last game of the 2025 season",
     "pubDate": "2025-12-20",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/pnc-championship-2025-sunday-tee-224943406.html",
+    "link": "https://sports.yahoo.com/articles/managing-madrid-podcast-real-madrid-234858588.html",
     "source": "Google News"
   },
   {
-    "slug": "matt-boldy-scores-twice-wild-beat-oilers-5-2-for-7th-straight-victory",
-    "title": "Matt Boldy scores twice, Wild beat Oilers 5-2 for 7th straight victory",
-    "description": "Matt Boldy scored twice, Filip Gustavsson made 28 saves and the Minnesota Wild beat the Edmonton Oilers 5-2 on Saturday for their seventh straight victory.  Ryan Hartman, Vladimir Tarasenko and Nico Sturm also scored, Mats Zuccarello had two assists and Minnesota set a franchise record with a 14-gam",
+    "slug": "commanders-wr-jaylin-lane-ruled-out-with-an-ankle-injury-vs-eagles",
+    "title": "Commanders WR Jaylin Lane ruled out with an ankle injury vs. Eagles",
+    "description": "Commanders WR/PR Jaylin Lane will not return vs. Eagles",
     "pubDate": "2025-12-20",
     "image": "",
-    "link": "https://www.yahoo.com/news/articles/matt-boldy-scores-twice-wild-224912317.html",
-    "source": "MIKE COOK"
-  },
-  {
-    "slug": "mario-cristobal-goes-viral-for-wild-kiss-from-michael-irvin-in-miami-postgame",
-    "title": "Mario Cristobal goes viral for wild kiss from Michael Irvin in Miami postgame",
-    "description": "The Hurricanes celebrate a big win.",
-    "pubDate": "2025-12-20",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/mario-cristobal-goes-viral-wild-224601989.html",
+    "link": "https://sports.yahoo.com/articles/commanders-wr-jaylin-lane-ruled-234809694.html",
     "source": "Google News"
   },
   {
-    "slug": "washington-commanders-vs-philadelphia-eagles-2nd-quarter",
-    "title": "Washington Commanders vs Philadelphia Eagles 2nd Quarter",
-    "description": "The Washington Commanders host the Philadelphia Eagles",
+    "slug": "seahawks-win-costs-rams-special-team-coordinator-his-job",
+    "title": "Seahawks win costs Rams special team coordinator his job",
+    "description": "Chase Blackburn had served as the Rams’ special teams coordinator since 2023.",
     "pubDate": "2025-12-20",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/washington-commanders-vs-philadelphia-eagles-224500047.html",
+    "link": "https://sports.yahoo.com/articles/seahawks-win-costs-rams-special-234657475.html",
     "source": "Google News"
   },
   {
-    "slug": "eagles-vs-commanders-second-quarter-score-updates",
-    "title": "Eagles vs. Commanders: Second quarter score updates",
-    "description": "After the first quarter, the Eagles lead the Commanders by a score of 7 to 3.",
+    "slug": "quick-reaction-northwestern-falls-to-butler-61-58",
+    "title": "Quick Reaction: Northwestern falls to Butler 61-58",
+    "description": "The shorthanded Wildcats narrowly fell to the Bulldogs in Indianapolis despite a strong performance on defense.",
     "pubDate": "2025-12-20",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/eagles-vs-commanders-second-quarter-224432295.html",
+    "link": "https://sports.yahoo.com/articles/quick-reaction-northwestern-falls-butler-234538519.html",
     "source": "Google News"
   },
   {
-    "slug": "everything-hc-mike-elko-players-said-after-texas-a-m-39-s-10-3-cfp-loss",
-    "title": "Everything HC Mike Elko, players said after Texas A&M&#39;s 10-3 CFP loss",
-    "description": "Here is everything HC Mike Elko, QB Marcel Reed, and several other players and coaches said after Texas A&M's 10-3 CFP loss to Miami.",
+    "slug": "nfl-playoff-picture-nfl-standings-update-in-week-16",
+    "title": "NFL playoff picture, NFL standings update in Week 16",
+    "description": "The NFL playoff picture in Week 16 continues with an NFC South-deciding game on Dec. 21.",
     "pubDate": "2025-12-20",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/everything-hc-mike-elko-players-224353674.html",
+    "link": "https://sports.yahoo.com/articles/nfl-playoff-picture-nfl-standings-234516381.html",
     "source": "Google News"
   },
   {
-    "slug": "broncos-get-two-players-returns-in-week-16-including-one-who-hasn-39-t-played-in-two-years",
-    "title": "Broncos get two players returns in Week 16, including one who hasn&#39;t played in two years",
-    "description": "The Denver Broncos are getting players healthy for the playoff run.",
+    "slug": "nfl-playoff-picture-nfl-standings-update-in-week-16",
+    "title": "NFL playoff picture, NFL standings update in Week 16",
+    "description": "The NFL playoff picture in Week 16 continues with an NFC South-deciding game on Dec. 21.",
     "pubDate": "2025-12-20",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/broncos-two-players-returns-week-224320566.html",
+    "link": "https://sports.yahoo.com/articles/nfl-playoff-picture-nfl-standings-234523933.html",
     "source": "Google News"
   },
   {
-    "slug": "slowdown-of-record-shooting-pace-a-cautionary-tale-for-iu-one-it-proved-it-can-solve",
-    "title": "Slowdown of record shooting pace a cautionary tale for IU, one it proved it can solve",
-    "description": "The end result wasn't in question after a strong shooting first half. They weren't concerned about their poor shooting in the second half, either. They showed why.",
+    "slug": "naithan-george-scores-22-points-and-syracuse-uses-free-throw-line-to-advantage-in-91-83-win",
+    "title": "Naithan George scores 22 points and Syracuse uses free-throw line to advantage in 91-83 win",
+    "description": "Naithan George scored 22 points and Syracuse made 34 free throws en route to a 91-83 win over Northeastern on Saturday.  Kiyan Anthony aded 18 points and Nate Kingz, William Kyle III and Tyler Betsey added 14 points apiece for the Orange (8-4), who have won all 10 meetings with the Huskies.",
     "pubDate": "2025-12-20",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/slowdown-record-shooting-pace-cautionary-224311978.html",
+    "link": "https://sports.yahoo.com/articles/naithan-george-scores-22-points-234517438.html",
     "source": "Google News"
   },
   {
-    "slug": "ten-key-moments-from-ohio-state-s-71-70-loss-to-north-carolina",
-    "title": "Ten key moments from Ohio State’s 71-70 loss to North Carolina",
-    "description": "North Carolina star freshman Caleb Wilson was too much to handle for the Buckeyes as the Tar Heels secured the win",
+    "slug": "nakobe-dean-injury-eagles-lb-downgraded-to-out-against-commanders",
+    "title": "Nakobe Dean injury: Eagles LB downgraded to OUT against Commanders",
+    "description": "Some injury news out of the Week 16 NFC East matchup between the Eagles and Commanders.",
     "pubDate": "2025-12-20",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/ten-key-moments-ohio-state-224253687.html",
+    "link": "https://sports.yahoo.com/articles/nakobe-dean-injury-eagles-lb-224811589.html",
     "source": "Google News"
   },
   {
-    "slug": "browns-qb-need-qbs-worth-deshaun-watson-haul-dolphins-offer-for-joe-burrow",
-    "title": "Browns QB need: QBs worth Deshaun Watson haul, Dolphins offer for Joe Burrow",
-    "description": "Dolphins are rumored to have offered 4 first round picks for Joe Burrow. How many QBs should Browns make that offer for?",
+    "slug": "seth-trimble-returns-to-lead-no-12-north-carolina-past-ohio-state-71-70",
+    "title": "Seth Trimble returns to lead No. 12 North Carolina past Ohio State 71-70",
+    "description": "Henri Veesaar scored the winning basket on a dunk with 7.2 seconds remaining off a pass from a stumbling Seth Trimble, and No. 12 North Carolina held off Ohio State 71-70 on Saturday.  Trimble, playing his first game since breaking his left forearm in a Nov. 9 training mishap, wanted to shoot but tr",
     "pubDate": "2025-12-20",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/browns-qb-qbs-worth-deshaun-224243517.html",
+    "link": "https://sports.yahoo.com/articles/seth-trimble-returns-lead-no-234309634.html",
+    "source": "PAUL NEWBERRY"
+  },
+  {
+    "slug": "eagles-39-jake-elliott-misses-3-first-half-field-goal-attempts-vs-commanders-including-second-chance-kick-after-penalty",
+    "title": "Eagles&#39; Jake Elliott misses 3 first-half field-goal attempts vs. Commanders, including second-chance kick after penalty",
+    "description": "In an NFL season featuring historic kicking performances, this is not what you want out your kicker.",
+    "pubDate": "2025-12-20",
+    "image": "",
+    "link": "https://sports.yahoo.com/nfl/breaking-news/article/eagles-jake-elliott-misses-3-first-half-field-goal-attempts-vs-commanders-including-second-chance-kick-after-penalty-234253418.html",
+    "source": "Jason Owens"
+  },
+  {
+    "slug": "utah-state-beats-up-on-colorado-state-in-42-point-win",
+    "title": "Utah State beats up on Colorado State in 42-point win",
+    "description": "“I wish we could play again tomorrow,” Calhoun said after the Aggies’ 100-58 dismantling of the Rams on Stew Morrill Court.  Winners of five straight games and one of the top offensive teams in the nation coming into the conference opener for both teams, Colorado State (9-3 overall, 0-1 in the Mount",
+    "pubDate": "2025-12-20",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/utah-state-beats-colorado-state-234236594.html",
     "source": "Google News"
   },
   {
-    "slug": "ole-miss-qb-trinidad-chambliss-takes-hard-hit-on-scramble-against-tulane-in-cfp",
-    "title": "Ole Miss QB Trinidad Chambliss takes hard hit on scramble against Tulane in CFP",
-    "description": "Mississippi quarterback Trinidad Chambliss received treatment on the field and was sidelined during the Rebels' final first-half series on Saturday against Tulane in the College Football Playoff.  Chambliss was evaluated for a concussion and cleared.  In the final minute before halftime, Chambliss t",
+    "slug": "highlights-chase-demoor-beats-andrew-tate-bloody-in-hilariously-bad-fight-misfits-boxing-23",
+    "title": "Highlights! Chase DeMoor beats Andrew Tate bloody in hilariously bad fight | Misfits Boxing 23",
+    "description": "Andrew Tate vs. Chase DeMoor threw down in the main event of Misfits Boxing 23 earlier tonight (Sat. Dec. 20, 2025) live on Rumble Premium inside Dubai Duty Free Tennis Stadium in Dubai, United Arab Emirates. In one of the lowest skill fights I’ve ever seen, DeMoor ended up beating up Tate for much",
     "pubDate": "2025-12-20",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/ole-miss-qb-trinidad-chambliss-224214283.html",
+    "link": "https://sports.yahoo.com/articles/highlights-chase-demoor-beats-andrew-234101105.html",
     "source": "Google News"
   },
   {
-    "slug": "eagles-get-flagged-for-false-start-on-tush-push-still-score-to-take-lead-over-commanders",
-    "title": "Eagles get flagged for false start on tush push, still score to take lead over Commanders",
-    "description": "The Eagles often false start on the tush push. Sometimes, the officials flag it. Today was one of those times. But the Eagles scored anyway.",
+    "slug": "a-key-return-saint-maximin-joins-am-rica-for-pre-season",
+    "title": "A key return: Saint-Maximin joins América for pre-season",
+    "description": "Allan Saint-Maximin joined the preseason training with América, after the club requested a special leave due to the death of a family member, according to close sources. His presence in Coapa genera...",
     "pubDate": "2025-12-20",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/eagles-flagged-false-start-tush-224202493.html",
+    "link": "https://sports.yahoo.com/articles/key-return-saint-maximin-joins-234000707.html",
     "source": "Google News"
   },
   {
-    "slug": "ncaa-d3-football-playoffs-schedule-2025-bracket-tv-channels-times-live-streams-scores-for-division-iii-games",
-    "title": "NCAA D3 football playoffs schedule 2025: Bracket, TV channels, times, live streams, scores for Division III games",
-    "description": "Defending champion North Central once again looks like the team to beat in D3. Here's how to watch all the action on the road to the Stagg Bowl.",
+    "slug": "kuchars-shoot-57-in-scramble-format-to-lead-dalys-at-pnc-championship",
+    "title": "Kuchars shoot 57 in scramble format to lead Dalys at PNC Championship",
+    "description": "Matt and son Cameron Kuchar have two-shot lead over John Daly and son John II after the first round",
     "pubDate": "2025-12-20",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/ncaa-d3-football-playoffs-schedule-200001311.html",
+    "link": "https://sports.yahoo.com/articles/kuchars-shoot-57-scramble-format-233937492.html",
     "source": "Google News"
   },
   {
-    "slug": "can-the-ravens-afford-to-lose-any-more-games-this-year",
-    "title": "Can the Ravens Afford to Lose Any More Games This Year?",
-    "description": "The Ravens sit at 7-7 after shutting out the Bengals in their most complete performance of the season. The defense played at its best, restoring belief across the roster. Still, despite the momentum, the standings remain tight. With Pittsburgh holding first place in the division, the pressure has no",
+    "slug": "dolphins-tried-to-trade-4-first-round-picks-before-2020-draft-for-chance-to-take-joe-burrow-no-1-report",
+    "title": "Dolphins tried to trade 4 first-round picks before 2020 draft for chance to take Joe Burrow No. 1: Report",
+    "description": "The news comes days after Miami benched Tua Tagovailoa, whom the Dolphins ended up selecting No. 5 overall in that year's draft.",
     "pubDate": "2025-12-20",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/ravens-afford-lose-more-games-224118154.html",
+    "link": "https://sports.yahoo.com/nfl/article/dolphins-tried-to-trade-4-first-round-picks-before-2020-draft-for-chance-to-take-joe-burrow-no-1-report-233936708.html",
+    "source": "Andy Backstrom"
+  },
+  {
+    "slug": "everton-0-1-arsenal-match-report-instant-reaction-o-brien-error-gives-gunners-the-win",
+    "title": "Everton 0-1 Arsenal: Match Report & Instant Reaction | O’Brien error gives Gunners the win",
+    "description": "Barry penalty denied by VAR was atrocious",
+    "pubDate": "2025-12-20",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/everton-0-1-arsenal-match-225920680.html",
     "source": "Google News"
   },
   {
-    "slug": "packers-rt-zach-tom-s-evan-williams-expected-to-miss-bears-game",
-    "title": "Packers RT Zach Tom, S Evan Williams expected to miss Bears game",
-    "description": "One of Darian Kinnard or Zach Tom are likely to make the start for the Green Bay Packers at right tackle in Chicago.",
+    "slug": "no-9-michigan-state-beats-oakland-in-annual-holiday-matchup",
+    "title": "No. 9 Michigan State beats Oakland in annual holiday matchup",
+    "description": "Coen Carr scored 16 of his 22 points in the second half to help No. 9 Michigan State hold off Oakland for a 79-80 win on Saturday.  The Golden Grizzlies (6-7) led for much of the first half and were ahead by as much as seven points before trailing the entire second half.  Michigan State coach Tom Iz",
     "pubDate": "2025-12-20",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/packers-rt-zach-tom-evan-224100728.html",
+    "link": "https://sports.yahoo.com/articles/no-9-michigan-state-beats-233813649.html",
+    "source": "The Associated Press"
+  },
+  {
+    "slug": "vini-jr-hits-worst-goal-drought-for-real-madrid-in-five-years",
+    "title": "📉 Vini Jr hits worst goal drought for Real Madrid in five years",
+    "description": "Real Madrid defeated Sevilla 2-0 at the Santiago Bernabéu this Saturday (20th), in the 17th round of La Liga 2025/26.+ Mbappé equals CR7's goal record in a yearBut Vinícius Júnior continues with a...",
+    "pubDate": "2025-12-20",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/vini-jr-hits-worst-goal-233800148.html",
     "source": "Google News"
   },
   {
-    "slug": "rice-hincapie-and-saka-get-7-5-arsenal-players-rated-in-narrow-win-vs-everton",
-    "title": "Rice, Hincapie And Saka Get 7.5 | Arsenal Players Rated In Narrow Win Vs Everton",
-    "description": "Arsenal faced off against Everton at the Hill Dickinson Stadium earlier tonight as they looked to secure a good result on the road in the Premier League. The Gunners made a good start to the game and ...",
+    "slug": "eagles-vs-commanders-takeaways-from-the-first-half-as-washington-holds-a-10-7-lead",
+    "title": "Eagles vs. Commanders: Takeaways from the first half as Washington holds a 10-7 lead",
+    "description": "With the second half set to begin, we're looking at takeaways and observations from the first half.",
     "pubDate": "2025-12-20",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/rice-hincapie-saka-7-5-224000197.html",
+    "link": "https://sports.yahoo.com/articles/eagles-vs-commanders-takeaways-first-233747673.html",
     "source": "Google News"
   },
   {
-    "slug": "spalletti-a-double-victory-for-juventus-learning-from-roma",
-    "title": "Spalletti: ‘A double victory for Juventus, learning from Roma’",
-    "description": "Luciano Spalletti feels Juventus earned a ‘double victory’ over Roma, by beating them and also learning from their aggressive approach, even if he criticised Edon Zhegrova’s ‘liquid’ defendi...",
+    "slug": "washington-commanders-vs-philadelphia-eagles-3-first-half-takeaways",
+    "title": "Washington Commanders vs. Philadelphia Eagles: 3 first-half takeaways",
+    "description": "Three takeaways from a strong first half from the Commanders.",
     "pubDate": "2025-12-20",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/spalletti-double-victory-juventus-learning-224000809.html",
+    "link": "https://sports.yahoo.com/articles/washington-commanders-vs-philadelphia-eagles-233742367.html",
     "source": "Google News"
   },
   {
-    "slug": "49ers-rule-out-ricky-pearsall-renardo-green-for-monday-night",
-    "title": "49ers rule out Ricky Pearsall, Renardo Green for Monday night",
-    "description": "Wide receiver Ricky Pearsall won't be in the 49ers' lineup when they face the Colts on Monday night.",
+    "slug": "three-things-we-learned-from-ohio-state-39-s-loss-to-north-carolina",
+    "title": "Three things we learned from Ohio State&#39;s loss to North Carolina",
+    "description": "Ohio State and North Carolina staged a one-point classic in the CBS Sports Classic. Here are three things we think we learned about the Buckeyes.",
     "pubDate": "2025-12-20",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/49ers-rule-ricky-pearsall-renardo-223924976.html",
+    "link": "https://sports.yahoo.com/articles/three-things-learned-ohio-states-233733954.html",
     "source": "Google News"
   },
   {
-    "slug": "psg-cruise-past-fifth-tier-fontenay-in-french-cup",
-    "title": "PSG cruise past fifth-tier Fontenay in French Cup",
-    "description": "Ousmane Dembele ended his goal drought as Paris Saint-Germain eased into the last 32 of the French Cup on Saturday with a 4-0 victory over fifth-tier Vendee Fontenay.Elsewhere, Lille needed an 80th-minute goal from Marius Broholm to get past fourth-division Creteil 1-0, while Lorient saw off AS Le G",
+    "slug": "andrew-tate-vs-chase-demoor-full-fight-video-highlights",
+    "title": "Andrew Tate vs. Chase DeMoor full fight video highlights",
+    "description": "Chase DeMoor defended Misfits title against Andrew Tate",
     "pubDate": "2025-12-20",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/psg-cruise-past-fifth-tier-215526690.html",
+    "link": "https://sports.yahoo.com/articles/andrew-tate-vs-chase-demoor-233618130.html",
     "source": "Google News"
   },
   {
-    "slug": "romero-wouldn-39-t-have-seen-red-if-referee-39-did-his-job-39-frank",
-    "title": "Romero wouldn&#39;t have seen red if referee &#39;did his job&#39; - Frank",
-    "description": "Cristian Romero would not have been sent off in Tottenham's loss to Liverpool if referee John Brooks \"did his job\" properly, says Spurs boss Thomas Frank.",
+    "slug": "c-m-girls-score-back-to-back-wins",
+    "title": "C-M girls score back-to-back wins",
+    "description": "Dec. 20—COLFAX — A fast start was enough for the Colfax-Mingo girls basketball team agaist Belle Plaine on Tuesday. The Tigerhawks built a double-digit lead at halftime and then held off a second-half rally from the Lady Plainsmen during a 32-27 home win. Colfax-Mingo led the South Iowa Cedar League",
     "pubDate": "2025-12-20",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/romero-wouldnt-seen-red-referee-223904386.html",
+    "link": "https://sports.yahoo.com/articles/c-m-girls-score-back-233600360.html",
     "source": "Google News"
   },
   {
-    "slug": "kewan-lacy-injury-updates-latest-news-on-ole-miss-rb-after-leaving-game-with-upper-body-injury",
-    "title": "Kewan Lacy injury updates: Latest news on Ole Miss RB after leaving game with upper body injury",
-    "description": "Ole Miss saw its talented running back go down in the first half of Saturday's College Football Playoff game against Tulane.",
+    "slug": "little-hawkeye-conference-loses-member-as-pella-votes-to-join-raccoon-river-conference",
+    "title": "Little Hawkeye Conference loses member as Pella votes to join Raccoon River Conference",
+    "description": "Dec. 20—Pella High School wasn't seeking a new situation. And just over a month ago, superintendents at Little Hawkeye Conference schools were told it would be staying put. That was before the Dutch got an invitation into the Raccoon River Conference. And on Monday, the Pella Board of Education vote",
     "pubDate": "2025-12-20",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/kewan-lacy-injury-updates-latest-223403103.html",
+    "link": "https://sports.yahoo.com/articles/little-hawkeye-conference-loses-member-233600353.html",
     "source": "Google News"
   },
   {
-    "slug": "dobey-dumped-out-by-gilding-as-bunting-progresses",
-    "title": "Dobey dumped out by Gilding as Bunting progresses",
-    "description": "World number eight Chris Dobey suffers a shock second round exit at the World Darts Championship with a 3-1 loss to Andrew Gilding.",
+    "slug": "three-bolts-place-third-to-help-baxter-girls-take-sixth-at-tiger-invitational",
+    "title": "Three Bolts place third to help Baxter girls take sixth at Tiger Invitational",
+    "description": "Dec. 20—CARROLL — A trio of third-place finishes highlighted the Baxter girls wrestling team at the Tiger Invitational on Friday night. Four Bolts competed in a tournament hosted by Carroll, and they placed sixth out of eight teams with 57 points. Baxter edged East Sac County (54) and finished well",
     "pubDate": "2025-12-20",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/chisnall-van-duijvenbode-exit-second-172230577.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "gasperini-blasts-ferguson-after-juve-loss-8220-i-8217-m-not-convinced-by-him-and-some-other-signings-8221",
-    "title": "Gasperini blasts Ferguson after Juve loss: &#8220;I&#8217;m not convinced by him and some other signings.&#8221;",
-    "description": "Gian Piero Gasperini spoke to Sky Sport after the Juventus-Roma match, in which the Giallorossi were defeated at the Allianz Stadium. “We made too many poor passes in attack; there were opportunitie...",
-    "pubDate": "2025-12-20",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/gasperini-blasts-ferguson-juve-loss-223700606.html",
+    "link": "https://sports.yahoo.com/articles/three-bolts-place-third-help-233600178.html",
     "source": "Google News"
   },
   {
@@ -1017,111 +1026,111 @@
     "source": "Google News"
   },
   {
-    "slug": "everton-0-arsenal-1-match-report-back-on-top",
-    "title": "Everton 0 – Arsenal 1 match report: back on top",
-    "description": "Arsenal climbed back atop the Premier League table with a 1-0 win over Everton. Deep breath, folks. For all the angst you may be feeling, that was a pretty controlling Arsenal win. Everton managed five shots in the match, only one on target, for a grand total of 0.2 xG. It always feels nervy down […",
+    "slug": "live-misfits-mania-results-tate-vs-demoor",
+    "title": "LIVE! Misfits Mania Results: Tate vs. DeMoor",
+    "description": "Andrew Tate squares off against Chase DeMoor for Misfits title",
     "pubDate": "2025-12-20",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/everton-0-arsenal-1-match-223620827.html",
+    "link": "https://sports.yahoo.com/articles/misfits-mania-results-tate-vs-090000322.html",
     "source": "Google News"
   },
   {
-    "slug": "ucf-loses-big-12-opener-to-byu-71-50",
-    "title": "UCF loses Big 12 Opener to BYU, 71-50",
-    "description": "UCF Knights Women’s Hoops opened conference play Saturday hosting the Brigham Young University Cougars at Addition Financial Arena. The Knights’ charge struggled to leave the stable as they fell to BYU 71-50 Knights Struggle With Cougar Claws Early BYU came out of the gate playing a full-court press",
+    "slug": "karl-mecklenburg-previews-broncos-jaguars-game",
+    "title": "Karl Mecklenburg previews Broncos-Jaguars game",
+    "description": "Karl Mecklenburg will take photos with Broncos fans at his Ring of Fame pillar from 12 to 12:45 p.m. on Sunday.",
     "pubDate": "2025-12-20",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/ucf-loses-big-12-opener-223609990.html",
+    "link": "https://sports.yahoo.com/articles/karl-mecklenburg-previews-broncos-jaguars-233318912.html",
     "source": "Google News"
   },
   {
-    "slug": "illinois-quarterback-headed-to-prestigious-college-football-all-star-game",
-    "title": "Illinois quarterback headed to prestigious college football all-star game",
-    "description": "Luke Altmyer will be the second Illini QB to play in the annual all-star game, joining Kurt Kittner.",
+    "slug": "vikings-39-plane-turns-around-after-mechanical-issues-en-route-to-their-game-at-the-giants",
+    "title": "Vikings&#39; plane turns around after mechanical issues en route to their game at the Giants",
+    "description": "",
     "pubDate": "2025-12-20",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/illinois-quarterback-headed-prestigious-college-223550987.html",
+    "link": "https://sports.yahoo.com/articles/vikings-plane-turns-around-mechanical-233236054.html",
+    "source": "The Associated Press"
+  },
+  {
+    "slug": "can-you-challenge-an-automatic-review-commanders-did-what-happened",
+    "title": "Can you challenge an automatic review? Commanders did. What happened",
+    "description": "Washington Commanders did something odd and it didn't pay off.",
+    "pubDate": "2025-12-20",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/challenge-automatic-review-commanders-did-233146776.html",
     "source": "Google News"
   },
   {
-    "slug": "nfl-fines-broncos-db-talanoa-hufanga-for-shoving-jordan-love-39-s-head",
-    "title": "NFL fines Broncos DB Talanoa Hufanga for shoving Jordan Love&#39;s head",
-    "description": "The NFL fined Broncos DB Talanoa Hufanga after he shoved Packers QB Jordan Love's head down after a play.",
+    "slug": "bills-release-veteran-defender-ahead-of-week-16-vs-browns",
+    "title": "Bills release veteran defender ahead of Week 16 vs. Browns",
+    "description": "The Bills let go of a veteran defender.",
     "pubDate": "2025-12-20",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/nfl-fines-broncos-db-talanoa-223526901.html",
+    "link": "https://sports.yahoo.com/articles/bills-release-veteran-defender-ahead-233107957.html",
     "source": "Google News"
   },
   {
-    "slug": "honour-to-match-idol-ronaldo-39-s-real-madrid-calendar-year-goal-record-mbappe",
-    "title": "Honour to match idol Ronaldo&#39;s Real Madrid calendar year goal record: Mbappe",
-    "description": "French superstar Kylian Mbappe said it was an honour to equal his idol Cristiano Ronaldo's record of 59 Real Madrid goals in a calendar year on Saturday.\"To do like Cristiano did, my idol, the best player in Real Madrid's history and a world great, it's an honour for me.\"",
+    "slug": "recap-okc-blue-drop-125-86-loss-to-capital-city-go-go-in-showcase",
+    "title": "Recap: OKC Blue drop 125-86 loss to Capital City Go-Go in Showcase",
+    "description": "Recap: OKC Blue drop 125-86 loss to Capital City Go-Go in Showcase.",
     "pubDate": "2025-12-20",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/honour-match-idol-ronaldos-real-223425375.html",
+    "link": "https://sports.yahoo.com/articles/recap-okc-blue-drop-125-233017465.html",
     "source": "Google News"
   },
   {
-    "slug": "michigan-state-tabbing-nfl-vet-power-conference-coach-for-cbs-coach",
-    "title": "Michigan State tabbing NFL vet, power conference coach for CBs coach",
-    "description": "Michigan State is turning to a Super Bowl champion, who is currently serving on a P4 staff to be the net CBs coach.",
+    "slug": "oregon-ducks-vs-james-madison-dukes-college-football-playoff-game-thread",
+    "title": "Oregon Ducks vs. James Madison Dukes College Football Playoff Game Thread",
+    "description": "Are you ready for Oregon football? I’m ready for Oregon football",
     "pubDate": "2025-12-20",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/michigan-state-tabbing-nfl-vet-223411846.html",
+    "link": "https://sports.yahoo.com/articles/oregon-ducks-vs-james-madison-233000004.html",
     "source": "Google News"
   },
   {
-    "slug": "still-real-s-shining-light-mbapp-breaks-ronaldo-s-record",
-    "title": "💪 Still Real’s shining light: Mbappé breaks Ronaldo’s record",
-    "description": "In the last game before the winter break, he actually did it: Kylian Mbappé has broken the record set by Cristiano Ronaldo for the most goals in a single year at Real Madrid. In 2013, the Portuguese ...",
+    "slug": "rapid-reaction-northwestern-basketball-narrowly-falls-61-58-to-butler-without-nick-martinelli-in-indianapolis",
+    "title": "Rapid Reaction: Northwestern basketball narrowly falls 61-58 to Butler without Nick Martinelli in Indianapolis",
+    "description": "In a defensive slugfest, Northwestern’s late comeback attempt came up just short, as the ‘Cats fell 61-58 to the Bulldogs.",
     "pubDate": "2025-12-20",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/still-real-shining-light-mbapp-223400092.html",
+    "link": "https://sports.yahoo.com/articles/rapid-reaction-northwestern-basketball-narrowly-232947503.html",
     "source": "Google News"
   },
   {
-    "slug": "breaking-news-nick-lardis-scores-first-career-nhl-goal-in-his-home-province",
-    "title": "BREAKING NEWS: Nick Lardis Scores First Career NHL Goal In His Home Province",
-    "description": "Chicago Blackhawks prospect Nick Lardis scored his first career NHL goal.",
+    "slug": "eagles-39-kicker-jake-elliott-can-only-miss-wide-left",
+    "title": "Eagles&#39; kicker Jake Elliott can only miss wide left",
+    "description": "This is pretty brutal.",
     "pubDate": "2025-12-20",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/breaking-news-nick-lardis-scores-223319764.html",
+    "link": "https://sports.yahoo.com/articles/eagles-kicker-jake-elliott-only-232942986.html",
     "source": "Google News"
   },
   {
-    "slug": "pnc-championship-2025-tee-times-pairings-for-final-round-scramble",
-    "title": "PNC Championship 2025: Tee times, pairings for final-round scramble",
-    "description": "Tee times and pairings for the final round of the team event featuring major winners and family.",
+    "slug": "eagles-39-jake-elliott-has-disastrous-first-half-vs-commanders",
+    "title": "Eagles&#39; Jake Elliott has disastrous first half vs. Commanders",
+    "description": "Philadelphia Eagles kicker Jake Elliott is off to an atrocious start in the Week 16 game against the Washington Commanders after missing three field goals.",
     "pubDate": "2025-12-20",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/pnc-championship-2025-tee-times-223309653.html",
+    "link": "https://sports.yahoo.com/articles/eagles-jake-elliott-disastrous-first-232937839.html",
     "source": "Google News"
   },
   {
-    "slug": "ny-giants-finally-place-edge-defender-on-ir-due-to-shoulder-injury",
-    "title": "NY Giants finally place edge defender on IR due to shoulder injury",
-    "description": "Kayvon Thibodeaux’s season is over as Giants set roster for game against Minnesota Vikings.",
+    "slug": "packers-rb-josh-jacobs-will-be-active-vs-bears",
+    "title": "Packers RB Josh Jacobs will be ACTIVE vs. Bears",
+    "description": "Packers RB Josh Jacobs will be active against the Bears despite a knee injury, per NFL Media.",
     "pubDate": "2025-12-20",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/ny-giants-finally-place-edge-223300803.html",
+    "link": "https://sports.yahoo.com/articles/packers-rb-josh-jacobs-active-232925646.html",
     "source": "Google News"
   },
   {
-    "slug": "man-utd-39-could-make-january-signing-39-amid-neves-link",
-    "title": "Man Utd &#39;could make January signing&#39; amid Neves link",
-    "description": "Manchester United head coach Ruben Amorim says it is possible the club could make a January transfer window signing.",
+    "slug": "eagles-have-a-kicker-problem-jake-elliott-keeps-missing",
+    "title": "Eagles have a kicker problem, Jake Elliott keeps missing",
+    "description": "The Eagles are heading into the home stretch of the season with a kicker who's not inspiring much confidence.",
     "pubDate": "2025-12-20",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/man-utd-could-january-signing-223300532.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "how-game-planning-creates-explosive-passes-on-the-green-bay-packers-defense",
-    "title": "How game planning creates explosive passes on the Green Bay Packers’ defense",
-    "description": "Looking at some of the other less-than-favorable passing game matchups for the Green Bay Packers.",
-    "pubDate": "2025-12-20",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/game-planning-creates-explosive-passes-223259747.html",
+    "link": "https://sports.yahoo.com/articles/eagles-kicker-problem-jake-elliott-232920861.html",
     "source": "Google News"
   },
   {
@@ -1134,111 +1143,93 @@
     "source": "Google News"
   },
   {
-    "slug": "jayden-quaintance-dominates-in-kentucky-debut-i-felt-like-i-d-make-it-my-moment",
-    "title": "Jayden Quaintance dominates in Kentucky debut: “I felt like I’d make it my moment”",
-    "description": "A season-changer for the Kentucky Wildcats.",
+    "slug": "zaide-lowery-will-miss-tonight-s-game-at-creighton",
+    "title": "Zaide Lowery Will Miss Tonight’s Game At Creighton",
+    "description": "The junior from Missouri didn’t travel to Omaha for personal reasons after being benched against Georgetown.",
     "pubDate": "2025-12-20",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/jayden-quaintance-dominates-kentucky-debut-223242292.html",
+    "link": "https://sports.yahoo.com/articles/zaide-lowery-miss-tonight-game-232914382.html",
     "source": "Google News"
   },
   {
-    "slug": "pfl-africa-results-four-tournament-winners-crowned-each-by-stoppage",
-    "title": "PFL Africa results: Four tournament winners crowned, each by stoppage",
-    "description": "The first PFL Africa season completed Saturday, crowning four tournament champions without the need for judges.",
+    "slug": "senators-score-3-goals-in-third-period-of-6-4-win-over-blackhawks",
+    "title": "Senators score 3 goals in third period of 6-4 win over Blackhawks",
+    "description": "Three third-period goals, including a pair from David Perron, powered the Ottawa Senators to a 6-4 win over the Chicago Blackhawks on Saturday.  Despite a solid effort, Chicago lost its fifth straight game.  Perron scored his first goal on the power play and the second off a great pass from Tim Stut",
     "pubDate": "2025-12-20",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/pfl-africa-results-four-tournament-223052956.html",
+    "link": "https://sports.yahoo.com/articles/senators-score-3-goals-third-232825601.html",
     "source": "Google News"
   },
   {
-    "slug": "geno-auriemma-39-s-uconn-huskies-stifle-opponents-with-relentless-defense",
-    "title": "Geno Auriemma&#39;s UConn Huskies stifle opponents with relentless defense",
-    "description": "Geno Auriemma and the No. 1 UConn Huskies have the luxury of not only having great players, but depth too this season.  “We’ve had a lot of identities over the years, a lot of people are more talking about us offensively,” he said.",
+    "slug": "shai-gilgeous-alexander-shrugs-off-favorable-whistle-accusations",
+    "title": "Shai Gilgeous-Alexander shrugs off favorable whistle accusations",
+    "description": "It’s safe to say that Oklahoma City Thunder star Shai Gilgeous-Alexander isn’t concerned with the narrative that he and his teammates get a favorable whistle.  Gilgeous-Alexander himself has frequently been referred to as a “free throw merchant” and opposing head coaches have publicly lamented the p",
     "pubDate": "2025-12-20",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/geno-auriemmas-uconn-huskies-stifle-223042665.html",
-    "source": "DOUG FEINBERG"
-  },
-  {
-    "slug": "oregon-vs-james-madison-live-updates-score-from-ducks-vs-dukes",
-    "title": "Oregon vs. James Madison live updates: score from Ducks vs. Dukes",
-    "description": "Live score updates and highlights from the Oregon Ducks matchup against the James Madison Dukes in the first round of the College Football Playoff.",
-    "pubDate": "2025-12-20",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/oregon-vs-james-madison-live-223042215.html",
+    "link": "https://sports.yahoo.com/articles/shai-gilgeous-alexander-shrugs-off-232814932.html",
     "source": "Google News"
   },
   {
-    "slug": "where-lsu-women-39-s-basketball-ranked-in-the-latest-coaches-39-poll",
-    "title": "Where LSU women&#39;s basketball ranked in the latest coaches&#39; poll",
-    "description": "LSU women's basketball has started the year with a 12-0 record. See where they landed in the latest USA Today Coaches Poll rankings",
+    "slug": "eagles-vs-commanders-third-quarter-score-updates",
+    "title": "Eagles vs. Commanders: Third quarter score updates",
+    "description": "After the first half, the Eagles trail the Commanders by a score of 7 to 10.",
     "pubDate": "2025-12-20",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/where-lsu-womens-basketball-ranked-223030870.html",
+    "link": "https://sports.yahoo.com/articles/eagles-vs-commanders-third-quarter-232730692.html",
     "source": "Google News"
   },
   {
-    "slug": "miami-superfan-abella-danger-teases-quite-informative-reason-for-cheering-on-canes-in-cfp",
-    "title": "Miami superfan Abella Danger teases ‘quite informative’ reason for cheering on Canes in CFP",
-    "description": "Abella Danger came to Texas ready to scream. Miami made sure she got the moment.",
+    "slug": "miami-39-s-fierce-defense-dominates-texas-a-m-to-advance-to-cotton-bowl",
+    "title": "Miami&#39;s fierce defense dominates Texas A&M to advance to Cotton Bowl",
+    "description": "Miami brought a nasty defense into Texas A&M on Saturday to down the seventh-seeded Aggies in the College Football Playoff.  The No. 10 seed Hurricanes forced Marcel Reed into three turnovers and sacked him seven times in the 10-3 victory.  “The defense was off the charts the entire day,” coach Mari",
     "pubDate": "2025-12-20",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/miami-superfan-abella-danger-teases-223012788.html",
+    "link": "https://sports.yahoo.com/articles/miamis-fierce-defense-dominates-texas-232658461.html",
+    "source": "KRISTIE RIEKEN"
+  },
+  {
+    "slug": "washington-commanders-vs-philadelphia-eagles-3rd-quarter",
+    "title": "Washington Commanders vs Philadelphia Eagles 3rd Quarter",
+    "description": "The Washington Commanders host the Philadelphia Eagles",
+    "pubDate": "2025-12-20",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/washington-commanders-vs-philadelphia-eagles-232645440.html",
     "source": "Google News"
   },
   {
-    "slug": "ruben-amorim-tells-kobbie-mainoo-to-ignore-nonsense-and-fight-for-man-united-place",
-    "title": "Ruben Amorim tells Kobbie Mainoo to ignore ‘nonsense’ and ‘fight’ for Man United place",
-    "description": "Amorim used Wayne Rooney and Cristiano Ronaldo as examples as he urged Mainoo to fight for his place",
+    "slug": "sixers-vs-mavericks-final-playing-status-for-big-man-joel-embiid",
+    "title": "Sixers vs. Mavericks: Final playing status for big man Joel Embiid",
+    "description": "Here is the final playing status for Philadelphia 76ers big man Joel Embiid as they take on the Dallas Mavericks on Saturday.",
     "pubDate": "2025-12-20",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/ruben-amorim-tells-kobbie-mainoo-223000256.html",
+    "link": "https://sports.yahoo.com/articles/sixers-vs-mavericks-final-playing-232543567.html",
     "source": "Google News"
   },
   {
-    "slug": "college-football-playoffs-prospects-to-know-oregon-vs-james-madison",
-    "title": "College Football Playoffs prospects to know: Oregon vs James Madison",
-    "description": "Prospects to know for the Oregon matchup against James Madison.",
+    "slug": "report-warriors-targeting-center-position-in-trade",
+    "title": "Report: Warriors targeting center position in trade",
+    "description": "As trade rumors are beginning to heat up around the NBA, the Warriors are reportedly targeting an acquisition at the center position.",
     "pubDate": "2025-12-20",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/college-football-playoffs-prospects-know-223000771.html",
+    "link": "https://sports.yahoo.com/articles/report-warriors-targeting-center-position-232408041.html",
     "source": "Google News"
   },
   {
-    "slug": "allen-beaten-by-chang-in-scottish-open-semi-finals",
-    "title": "Allen beaten by Chang in Scottish Open semi-finals",
-    "description": "Mark Allen fell to a 6-1 defeat by Chang Bingyu in Saturday night's Scottish Open semi-final in Edinburgh.",
+    "slug": "jacoby-brissett-s-admiration-for-trey-mcbride-knows-no-bounds",
+    "title": "Jacoby Brissett’s admiration for Trey McBride knows no bounds",
+    "description": "A look at what Brissett said about McBride and what milestones he has achieved.",
     "pubDate": "2025-12-20",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/allen-beaten-chang-scottish-open-222935444.html",
+    "link": "https://sports.yahoo.com/articles/jacoby-brissett-admiration-trey-mcbride-232404496.html",
     "source": "Google News"
   },
   {
-    "slug": "broncos-announce-that-they-have-activated-g-ben-powers-from-the-ir",
-    "title": "Broncos announce that they have activated G Ben Powers from the IR",
-    "description": "The Denver Broncos announced earlier today that they have activated guard Ben Powers from the injured reserve. Powers had his 21-day practice window opened last week, but despite returning to practice, the team decided that he was not ready and was not activated before the Packers game. Now, after h",
+    "slug": "baltimore-ravens-vs-new-england-patriots-bold-predictions",
+    "title": "Baltimore Ravens vs. New England Patriots: Bold Predictions",
+    "description": "Baltimore Beatdown’s staff offers their predictions for the Ravens’ Week 16 matchup with the Patriots.",
     "pubDate": "2025-12-20",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/broncos-announce-activated-g-ben-222852352.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "how-the-broncos-used-motion-to-take-advance-of-the-green-bay-packers-defense",
-    "title": "How the Broncos used motion to take advance of the Green Bay Packers’ defense",
-    "description": "How the Broncos' pass game sequencing led to another Green Bay Packers coverage breakdown and a touchdown.",
-    "pubDate": "2025-12-20",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/broncos-used-motion-advance-green-222809543.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "josh-jacobs-injury-update-what-packers-lack-of-roster-moves-mean-for-week-16-status",
-    "title": "Josh Jacobs injury update: What Packers lack of roster moves mean for Week 16 status",
-    "description": "Green Bay Packers running back Josh Jacobs is questionable to play in the Week 16 game against the Chicago Bears. Ahead of kickoff, the Packers did not make any roster moves. Here's what that means for Jacobs' status.",
-    "pubDate": "2025-12-20",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/josh-jacobs-injury-packers-lack-222808813.html",
+    "link": "https://sports.yahoo.com/articles/baltimore-ravens-vs-england-patriots-232355912.html",
     "source": "Google News"
   },
   {
