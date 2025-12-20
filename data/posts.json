@@ -1,14 +1,5 @@
 [
   {
-    "slug": "skaggs-family-settles-lawsuit-asks-mlb-to-act",
-    "title": "Skaggs family settles lawsuit, asks MLB to act",
-    "description": "The Angels and the family of Tyler Skaggs have agreed to a last-minute settlement over the civil lawsuit stemming from the former pitcher's death in 2019.",
-    "pubDate": "2025-12-20",
-    "image": "",
-    "link": "https://www.espn.com/mlb/story/_/id/47359175/angels-skaggs-family-reach-last-minute-settlement",
-    "source": "Michael Rothstein"
-  },
-  {
     "slug": "sources-rockets-expand-talks-to-buy-move-sun",
     "title": "Sources: Rockets expand talks to buy, move Sun",
     "description": "Rockets ownership is in substantive talks with the Connecticut Sun over the potential purchase and relocation of the WNBA franchise to Houston, sources told ESPN.",
@@ -16,15 +7,6 @@
     "image": "",
     "link": "https://www.espn.com/wnba/story/_/id/47357385/sources-rockets-owners-expand-talks-buy-move-sun",
     "source": "Alexa Philippou and Ramona Shelburne"
-  },
-  {
-    "slug": "seahawks-olb-hall-suspended-one-game-by-nfl",
-    "title": "Seahawks OLB Hall suspended one game by NFL",
-    "description": "The NFL is suspending Seahawks outside linebacker Derick Hall for one game without pay for an act of unnecessary roughness and unsportsmanlike conduct during Thursday night's game against the Rams.",
-    "pubDate": "2025-12-20",
-    "image": "",
-    "link": "https://www.espn.com/nfl/story/_/id/47360029/nfl-suspends-seahawks-olb-derick-hall-one-game-pay",
-    "source": "Brady Henderson"
   },
   {
     "slug": "griffin-parker-pearl-among-new-hof-candidates",
@@ -36,6 +18,24 @@
     "source": "www.espn.com - TOP"
   },
   {
+    "slug": "wemby-blocks-shot-in-historic-100th-straight-game",
+    "title": "Wemby blocks shot in historic 100th straight game",
+    "description": "Victor Wembanyama joined an exclusive club on Friday night, becoming just the third NBA player to record a block in 100 consecutive regular-season games.",
+    "pubDate": "2025-12-20",
+    "image": "",
+    "link": "https://www.espn.com/nba/story/_/id/47363798/spurs-wembanyama-records-100th-straight-game-block",
+    "source": "www.espn.com - TOP"
+  },
+  {
+    "slug": "skaggs-family-settles-lawsuit-asks-mlb-to-act",
+    "title": "Skaggs family settles lawsuit, asks MLB to act",
+    "description": "The Angels and the family of Tyler Skaggs have agreed to a last-minute settlement over the civil lawsuit stemming from the former pitcher's death in 2019.",
+    "pubDate": "2025-12-20",
+    "image": "",
+    "link": "https://www.espn.com/mlb/story/_/id/47359175/angels-skaggs-family-reach-last-minute-settlement",
+    "source": "Michael Rothstein"
+  },
+  {
     "slug": "silva-drops-woodley-rolls-to-2nd-round-tko-win",
     "title": "Silva drops Woodley, rolls to 2nd-round TKO win",
     "description": "Anderson Silva wobbled Tyron Woodley with a vicious uppercut before cruising to a stoppage victory in Round 2 of their boxing match Friday night in Miami.",
@@ -45,12 +45,21 @@
     "source": "Andreas Hale"
   },
   {
-    "slug": "kings-sabonis-out-another-month-with-knee-injury",
-    "title": "Kings' Sabonis out another month with knee injury",
-    "description": "Kings center Domantas Sabonis, who has not played since Nov. 16 due to a partial meniscus tear in his left knee, will miss four to five more weeks, the team announced.",
+    "slug": "seahawks-olb-hall-suspended-one-game-by-nfl",
+    "title": "Seahawks OLB Hall suspended one game by NFL",
+    "description": "The NFL is suspending Seahawks outside linebacker Derick Hall for one game without pay for an act of unnecessary roughness and unsportsmanlike conduct during Thursday night's game against the Rams.",
     "pubDate": "2025-12-20",
     "image": "",
-    "link": "https://www.espn.com/nba/story/_/id/47362453/kings-domantas-sabonis-another-month-knee-injury",
+    "link": "https://www.espn.com/nfl/story/_/id/47360029/nfl-suspends-seahawks-olb-derick-hall-one-game-pay",
+    "source": "Brady Henderson"
+  },
+  {
+    "slug": "canes-allen-out-for-season-after-cancer-diagnosis",
+    "title": "Canes' Allen out for season after cancer diagnosis",
+    "description": "Miami sophomore forward Marcus Allen has been diagnosed with non-Hodgkin lymphoma and will miss the remainder of the season.",
+    "pubDate": "2025-12-20",
+    "image": "",
+    "link": "https://www.espn.com/mens-college-basketball/story/_/id/47357859/miami-f-marcus-allen-non-hodgkin-lymphoma-season",
     "source": "www.espn.com - TOP"
   },
   {
@@ -63,15 +72,6 @@
     "source": "www.espn.com - TOP"
   },
   {
-    "slug": "canes-allen-out-for-season-after-cancer-diagnosis",
-    "title": "Canes' Allen out for season after cancer diagnosis",
-    "description": "Miami sophomore forward Marcus Allen has been diagnosed with non-Hodgkin lymphoma and will miss the remainder of the season.",
-    "pubDate": "2025-12-20",
-    "image": "",
-    "link": "https://www.espn.com/mens-college-basketball/story/_/id/47357859/miami-f-marcus-allen-non-hodgkin-lymphoma-season",
-    "source": "www.espn.com - TOP"
-  },
-  {
     "slug": "2026-nfl-draft-five-team-race-for-no-1-pick",
     "title": "🏈 2026 NFL draft: Five-team race for No. 1 pick",
     "description": "The Raiders, Browns, Titans, Giants and Jets are front-runners for the No. 1 pick. What would they do with the top selection?",
@@ -81,8 +81,8 @@
     "source": "NFL Nation, Dan Graziano, Jordan Reid and Seth Walder"
   },
   {
-    "slug": "jake-paul-anthony-joshua-live-updates-results-and-analysis",
-    "title": "Jake Paul-Anthony Joshua live updates, results and analysis",
+    "slug": "jake-paul-vs-anthony-joshua-live-updates-results-and-analysis",
+    "title": "Jake Paul vs. Anthony Joshua live updates, results and analysis",
     "description": "Jake Paul faces the toughest test of his career Friday against former heavyweight champion Anthony Joshua. Follow live.",
     "pubDate": "2025-12-20",
     "image": "",
@@ -135,6 +135,15 @@
     "source": "Seth Walder"
   },
   {
+    "slug": "nba-mvp-straw-poll-14-players-received-votes-two-lead-the-way",
+    "title": "NBA MVP straw poll: 14 players received votes -- two lead the way",
+    "description": "SGA? Jokic? Cup MVP Jalen Brunson? We polled 100 media members in a ballot that mirrors the league's official vote.",
+    "pubDate": "2025-12-20",
+    "image": "",
+    "link": "https://www.espn.com/nba/story/_/id/47350041/nba-mvp-straw-poll-rankings-where-sga-jokic-giannis-luka-brunson-wemby-cade-land",
+    "source": "Tim Bontemps"
+  },
+  {
     "slug": "how-different-is-pete-golding-from-lane-kiffin-start-with-social-media-and-yoga",
     "title": "How different is Pete Golding from Lane Kiffin? Start with social media and yoga",
     "description": "After weeks of speculation and turmoil, the Rebels and their new coach are eager to get back on the field.",
@@ -151,6 +160,24 @@
     "image": "",
     "link": "https://www.espn.com/college-football/story/_/id/47337361/college-football-playoff-2025-preview-first-round-matchups-oklahoma-alabama-ole-miss-oregon",
     "source": "Bill Connelly"
+  },
+  {
+    "slug": "reranking-power-conferences-a-big-ten-vs-big-12-battle-for-no-1",
+    "title": "Reranking power conferences: A Big Ten vs. Big 12 battle for No. 1",
+    "description": "Which of the five basketball power conferences is more likely to produce this season's national champion?",
+    "pubDate": "2025-12-20",
+    "image": "",
+    "link": "https://www.espn.com/mens-college-basketball/story/_/id/47348031/reranking-mens-basketball-power-conferences-big-ten-big-12-acc-sec-big-east",
+    "source": "Joe Lunardi"
+  },
+  {
+    "slug": "power-rankings-it-s-arizona-vs-michigan-for-no-1",
+    "title": "Power Rankings: It's Arizona vs. Michigan for No. 1",
+    "description": "The Wildcats and Wolverines are battling it out for the title of best team in the country. See the full top 25.",
+    "pubDate": "2025-12-20",
+    "image": "",
+    "link": "https://www.espn.com/mens-college-basketball/story/_/id/47340101/mens-college-basketball-power-rankings-arizona-michigan-no-1",
+    "source": "Jeff Borzello"
   },
   {
     "slug": "why-did-hamilton-s-debut-season-at-ferrari-go-sideways-will-it-get-any-better-in-2026",
@@ -216,21 +243,30 @@
     "source": "BBC Sport"
   },
   {
-    "slug": "arizona-cardinals-injury-report-marvin-harrison-jr-questionable",
-    "title": "Arizona Cardinals injury report: Marvin Harrison Jr. questionable",
-    "description": "Find out which Cardinals players won't play or might not play against the Falcons on Sunday.",
+    "slug": "no-9-alabama-beats-no-8-oklahoma-34-24-in-college-football-playoff-to-earn-date-against-top-ranked-indiana",
+    "title": "No. 9 Alabama beats No. 8 Oklahoma 34-24 in College Football Playoff to earn date against top-ranked Indiana",
+    "description": "",
     "pubDate": "2025-12-20",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/arizona-cardinals-injury-report-marvin-034922363.html",
+    "link": "https://sports.yahoo.com/articles/no-9-alabama-beats-no-044226560.html",
     "source": "Google News"
   },
   {
-    "slug": "winners-and-losers-cavs-vs-bulls-de-andre-hunter-has-to-be-better",
-    "title": "Winners and Losers: Cavs vs Bulls – De’Andre Hunter has to be better",
-    "description": "The Cavs can’t keep getting this kind of effort.",
+    "slug": "alabama-stuns-oklahoma-with-cfp-comeback-win-to-advance-to-rose-bowl",
+    "title": "Alabama stuns Oklahoma with CFP comeback win to advance to Rose Bowl",
+    "description": "defeated in the first round of the College Football Playoff and advance to a meeting with Indiana in the Rose Bowl.",
     "pubDate": "2025-12-20",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/winners-losers-cavs-vs-bulls-034903133.html",
+    "link": "https://sports.yahoo.com/articles/alabama-stuns-oklahoma-cfp-comeback-044049896.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "miguel-borja-set-to-agree-deal-with-cruz-azul",
+    "title": "⚠️​ Miguel Borja set to agree deal with Cruz Azul",
+    "description": "The \"Hummingbird\" will land in Mexico City to defend the colors of La Máquina during 2026.After weeks of speculation and under-the-radar negotiations, a verbal agreement has been confirmed for Miguel...",
+    "pubDate": "2025-12-20",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/miguel-borja-set-agree-deal-043800437.html",
     "source": "Google News"
   },
   {
@@ -243,246 +279,147 @@
     "source": "Google News"
   },
   {
-    "slug": "nicole-hensley-makes-27-saves-as-frost-ends-fleet-39-s-undefeated-streak-5-2",
-    "title": "Nicole Hensley makes 27 saves as Frost ends Fleet&#39;s undefeated streak, 5-2",
-    "description": "Kendall Coyne Schofield scored her league-leading fifth goal of the season and Nicole Hensley made 27 saves and Minnesota Frost beat the undefeated Boston Fleet 5-2 on Friday night.  Coyne Schofield found the back of the net, poking in a rebound in the first period.  Dominique Petrie scored on a tip",
+    "slug": "instant-reaction-avs-hold-off-winnipeg-jets-with-3-2-win-their-13th-win-in-a-row-at-home",
+    "title": "INSTANT REACTION: Avs hold off Winnipeg Jets with 3-2 win, their 13th win in a row at home",
+    "description": "Going for their 13th straight win at home and succeeding, the Colorado Avalanche managed to hold the Winnipeg Jets at bay, winning 3-2. The Avs took the first period in...",
     "pubDate": "2025-12-20",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/nicole-hensley-makes-27-saves-034838185.html",
+    "link": "https://sports.yahoo.com/articles/instant-reaction-avs-hold-off-043423879.html",
     "source": "Google News"
   },
   {
-    "slug": "jake-paul-vs-anthony-joshua-live-streaming-results-video-highlights-from-miami-judgement-day",
-    "title": "Jake Paul vs. Anthony Joshua live streaming results, video highlights from Miami | Judgement Day",
-    "description": "Jake Paul will lock horns with former WBA (Super), IBF, WBO and IBO Heavyweight champion, Anthony Joshua, later this evening (Fri., Dec. 19, 2025), streaming LIVE on Netflix from inside Kaseya Center in Miami, Fla., in an eight-round professional boxing match that will truly test “El Gallo” like nev",
+    "slug": "how-many-points-did-victor-wembanyama-score-spurs-vs-hawks-stats",
+    "title": "How many points did Victor Wembanyama score? Spurs vs. Hawks stats",
+    "description": "Victor Wembanyama led the Spurs in points and rebounds despite coming off the bench in the victory over the Hawks.",
     "pubDate": "2025-12-20",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/jake-vs-joshua-live-streaming-174500303.html",
+    "link": "https://sports.yahoo.com/articles/many-points-did-victor-wembanyama-043421308.html",
     "source": "Google News"
   },
   {
-    "slug": "dubois-drops-outclasses-panatta-to-retain-wbc-title",
-    "title": "Dubois drops & outclasses Panatta to retain WBC title",
-    "description": "Caroline Dubois produced a commanding performance on her American debut, outpointing Camilla Panatt to retain her WBC lightweight title in Miami.",
+    "slug": "oklahoma-field-goal-ruled-a-miss-on-impossibly-close-call-for-tate-sandell",
+    "title": "Oklahoma field goal ruled a miss on impossibly close call for Tate Sandell",
+    "description": "Man, this was brutal.",
     "pubDate": "2025-12-20",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/dubois-drops-outclasses-panatta-retain-003940784.html",
+    "link": "https://sports.yahoo.com/articles/oklahoma-field-goal-ruled-miss-043354148.html",
     "source": "Google News"
   },
   {
-    "slug": "paul-vs-joshua-results-live-updates-of-the-undercard-and-main-event",
-    "title": "Paul vs. Joshua results: LIVE updates of the undercard and main event",
-    "description": "Jake Paul, Anthony Joshua finally clash in Miami",
+    "slug": "paul-v-joshua-heavyweight-fight-under-way-in-miami",
+    "title": "Paul v Joshua: Heavyweight fight under way in Miami",
+    "description": "Follow build-up as Jake Paul faces two-time heavyweight world champion Anthony Joshua in Miami.",
     "pubDate": "2025-12-20",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/paul-vs-joshua-results-live-050000920.html",
+    "link": "https://sports.yahoo.com/articles/paul-v-joshua-ringwalks-heavyweight-034736604.html",
     "source": "Google News"
   },
   {
-    "slug": "2026-south-side-sox-prospect-vote-round-22",
-    "title": "2026 South Side Sox Prospect Vote: Round 22",
-    "description": "Jedixson Paez was our No. 21 pick. Now, who is the 22nd-best prospect in the White Sox system?",
+    "slug": "lone-star-vs-smithson-valley-live-score-updates-highlights-from-texas-uil-class-5a-division-i-state-championship-game",
+    "title": "Lone Star vs. Smithson Valley: live score, updates, highlights from Texas UIL Class 5A Division I state championship game",
+    "description": "Undefeated Lone Star will try to end Smithson Valley's bid to repeat as the Texas UIL Class 5A Division I state champions",
     "pubDate": "2025-12-20",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/2026-south-side-sox-prospect-034606537.html",
+    "link": "https://sports.yahoo.com/articles/lone-star-vs-smithson-valley-232829137.html",
     "source": "Google News"
   },
   {
-    "slug": "perkins-scores-19-brennan-has-double-double-as-villanova-holds-off-wisconsin-76-66-in-overtime",
-    "title": "Perkins scores 19, Brennan has double-double as Villanova holds off Wisconsin 76-66 in overtime",
-    "description": "",
+    "slug": "josh-pate-sends-massive-potential-indiana-national-title-warning-to-georgia-florida-lsu",
+    "title": "Josh Pate sends massive potential Indiana national title warning to Georgia, Florida, LSU",
+    "description": "Josh Pate is highly impressed with Indiana football as it enters the College Football Playoff. But, if it wins a national title, things could get interesting for the SEC.",
     "pubDate": "2025-12-20",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/perkins-scores-19-brennan-double-034512039.html",
+    "link": "https://sports.yahoo.com/articles/josh-pate-sends-massive-potential-043042792.html",
     "source": "Google News"
   },
   {
-    "slug": "pirates-acquire-three-players-from-rays-trade-pitcher-mike-burrows-to-astros",
-    "title": "Pirates acquire three players from Rays, trade pitcher Mike Burrows to Astros",
-    "description": "The Pittsburgh Pirates on Friday acquired second baseman Brandon Lowe, outfielder Jake Mangum and left-handed pitcher Mason Montgomery from the Tampa Bay Rays.",
+    "slug": "los-angles-kings-trade-center-phillip-danualt-to-montreal-canadiens-for-a-2nd-round-draft-pick",
+    "title": "Los Angles Kings trade center Phillip Danualt to Montreal Canadiens for a 2nd round draft pick",
+    "description": "Phillip Danualt is returning to Montreal for a second stint after the Canadiens acquired the veteran center in a trade with the Los Angeles Kings on Friday.  The move, announced by both teams, came just before the NHL holiday roster freeze began on Saturday.  The Kings landed a second-round draft pi",
     "pubDate": "2025-12-20",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/pirates-acquire-three-players-rays-034304944.html",
+    "link": "https://sports.yahoo.com/articles/los-angles-kings-trade-center-042703352.html",
+    "source": "JOHN WAWROW"
+  },
+  {
+    "slug": "confirmed-la-academia-have-a-manager-for-the-long-haul",
+    "title": "✅ Confirmed: La Academia have a manager for the long haul",
+    "description": "The Academy already has the captain of the ship for the upcoming seasons.After key meetings and a negotiation that kept the entire academic world on edge, there is a total agreement: Gustavo Costas wi...",
+    "pubDate": "2025-12-20",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/confirmed-la-academia-manager-long-042700853.html",
     "source": "Google News"
   },
   {
-    "slug": "how-much-will-jake-paul-and-anthony-joshua-make-for-netflix-fight",
-    "title": "How much will Jake Paul and Anthony Joshua make for Netflix fight?",
-    "description": "Jake Paul and Anthony Joshua meet in the ring. But how much will they make for the fight? Here is what to know:",
+    "slug": "paul-vs-joshua-results-alycia-baumgardner-batters-leila-beaudoin-to-retain-unified-title-on-netflix",
+    "title": "Paul vs. Joshua results: Alycia Baumgardner batters Leila Beaudoin to retain unified title on Netflix",
+    "description": "Alycia Baumgardner showed great poise and patience to destroy Leila Beaudoin in the co-feature bout of Netflix's Jake Paul vs. Anthony Joshua fight card in Miami.",
     "pubDate": "2025-12-20",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/much-jake-paul-anthony-joshua-034108942.html",
+    "link": "https://sports.yahoo.com/boxing/breaking-news/article/paul-vs-joshua-results-alycia-baumgardner-batters-leila-beaudoin-to-retain-unified-title-on-netflix-042530689.html",
+    "source": "Alan Dawson"
+  },
+  {
+    "slug": "who-is-alycia-baumgardner-meet-champion-boxer-who-dominated-leila-beaudoin-on-jake-paul-anthony-joshua-card",
+    "title": "Who is Alycia Baumgardner? Meet champion boxer who dominated Leila Beaudoin on Jake Paul-Anthony Joshua card",
+    "description": "Right before Jake Paul and Anthony Joshua enter the ring, Alycia Baumgardner put on a clinic of her own.",
+    "pubDate": "2025-12-20",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/alycia-baumgardner-meet-champion-boxer-042350754.html",
     "source": "Google News"
   },
   {
-    "slug": "the-ashes-root-crawley-build-with-england-chasing-435-to-win-third-test",
-    "title": "The Ashes: Root & Crawley build with England chasing 435 to win third Test",
-    "description": "Follow live text, radio commentary and in-play video clips as England need a record 435 to beat Australia and keep the Ashes alive in Adelaide.",
+    "slug": "celebrities-at-jake-paul-vs-anthony-joshua-dave-portnoy-rory-mcilroy-among-list-of-stars-in-miami-for-boxing-fight",
+    "title": "Celebrities at Jake Paul vs. Anthony Joshua: Dave Portnoy, Rory McIlroy among list of stars in Miami for boxing fight",
+    "description": "Here is a look at which celebrities are taking in the action on Friday night as Jake Paul and Anthony Joshua duke it out.",
     "pubDate": "2025-12-20",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/ashes-australia-start-day-four-171348216.html",
+    "link": "https://sports.yahoo.com/articles/celebrities-jake-paul-vs-anthony-024900971.html",
     "source": "Google News"
   },
   {
-    "slug": "do-the-houston-rockets-have-a-tari-eason-problem",
-    "title": "Do the Houston Rockets have a Tari Eason problem?",
-    "description": "After Tari Eason's latest extended injury absence for the Rockets, Houston might be forced to make a tough decision about his future",
+    "slug": "why-oklahoma-punted-down-10-with-6-minutes-left-in-the-college-football-playoff",
+    "title": "Why Oklahoma punted down 10 with 6 minutes left in the College Football Playoff",
+    "description": "This might not work.",
     "pubDate": "2025-12-20",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/houston-rockets-tari-eason-problem-034035634.html",
+    "link": "https://sports.yahoo.com/articles/why-oklahoma-punted-down-10-042144506.html",
     "source": "Google News"
   },
   {
-    "slug": "kristian-winfield-mitchell-robinson-makes-7-free-throws-in-knicks-39-loss-to-76ers",
-    "title": "Kristian Winfield: Mitchell Robinson makes 7 free throws in Knicks&#39; loss to 76ers",
-    "description": "NEW YORK — Mitchell Robinson is making free throws. Maybe it’s lightning in a bottle. Maybe it’s a one-off performance, an outlier in the most miserable free-throw shooting season of Robinson’s miserable free-throw shooting career. But for a night — a night the Knicks hope their rim-protecting big m",
+    "slug": "updated-week-16-fantasy-rankings-wr-ppr-start-sit-wide-receivers-best-sleepers-top-streamers-for-first-fantasy-playoffs-week",
+    "title": "Updated Week 16 Fantasy Rankings WR PPR: Start-sit wide receivers, best sleepers, top streamers for first fantasy playoffs week",
+    "description": "See how The Sporting News lines up its Week 16 fantasy football WR rankings, including the best players to start and sit candidates in PPR leagues for the first week of the playoffs.",
     "pubDate": "2025-12-20",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/kristian-winfield-mitchell-robinson-makes-033900017.html",
+    "link": "https://sports.yahoo.com/articles/early-week-16-fantasy-rankings-215517129.html",
     "source": "Google News"
   },
   {
-    "slug": "report-lakers-39-kicking-the-tires-39-on-kings-39-keon-ellis",
-    "title": "Report: Lakers &#39;kicking the tires&#39; on Kings&#39; Keon Ellis",
-    "description": "The third-year guard has shot 41.8% from deep in his career.",
+    "slug": "is-50-cent-an-oklahoma-fan-explaining-rapper-39-s-performance-at-sooners-39-cfp-game-against-alabama",
+    "title": "Is 50 Cent an Oklahoma fan? Explaining rapper&#39;s performance at Sooners&#39; CFP game against Alabama",
+    "description": "Here is more on why rapper 50 Cent performed at the Oklahoma-Alabama game in the first round of the 2025 College Football Playoff.",
     "pubDate": "2025-12-20",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/report-lakers-kicking-tires-kings-033758201.html",
+    "link": "https://sports.yahoo.com/articles/50-cent-oklahoma-fan-explaining-042011193.html",
     "source": "Google News"
   },
   {
-    "slug": "hodge-kellogg-discuss-the-obstacles-behind-challenging-calls",
-    "title": "Hodge, Kellogg discuss the obstacles behind challenging calls",
-    "description": "Dec. 19—MORGANTOWN — The idea of college basketball coaches being able to challenge calls is not exactly new. It's an idea that's been kicked around for a few years by the NCAA Men's Basketball Rules Committee, like that dirty half-flat basketball hanging out in your garage. When the notion first ca",
+    "slug": "updated-week-16-fantasy-te-rankings-ppr-fantasy-playoffs-start-sit-tight-end-tips-best-sleepers-top-streamers",
+    "title": "Updated Week 16 Fantasy TE Rankings PPR: Fantasy playoffs start-sit tight end tips, best sleepers, top streamers",
+    "description": "Check The Sporting News' Week 16 TE fantasy rankings to set your lineups during another bye week. See the best tight end matchups, top waiver-wire adds, and sleeper streamers.",
     "pubDate": "2025-12-20",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/hodge-kellogg-discuss-obstacles-behind-033700756.html",
+    "link": "https://sports.yahoo.com/articles/early-week-16-fantasy-te-210200915.html",
     "source": "Google News"
   },
   {
-    "slug": "porta-mousadis-combine-for-45-points-to-push-trinity-christian-past-union-62-46",
-    "title": "Porta, Mousadis combine for 45 points to push Trinity Christian past Union, 62-46",
-    "description": "Dec. 19—MORGANTOWN — Through the first three games of the 2025 season, the Trinity Christian High duo of Austin Porta and Maddox Mousadis is each averaging over 20 points per game. The most recent performance came on Thursday night, as both players eclipsed the 20-point mark, combining for 45 points",
+    "slug": "50-cent-performs-at-oklahoma-alabama-game-heading-into-fourth-quarter",
+    "title": "50 Cent performs at Oklahoma-Alabama game heading into fourth quarter",
+    "description": "Heading into the fourth quarter of the Oklahoma Sooners vs. Alabama Crimson Tide game, 50 Cent performs \"Many Men.\"",
     "pubDate": "2025-12-20",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/porta-mousadis-combine-45-points-033700459.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "open-thread-dear-reflection-page-2-20-dec-2025",
-    "title": "OPEN THREAD — Dear Reflection Page 2: 20 Dec. 2025",
-    "description": "Another Juninho Edition of the Daily Merengue",
-    "pubDate": "2025-12-20",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/open-thread-dear-reflection-page-033638906.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "cbs-sports-predicts-week-16-outcome-that-could-favor-patriots-playoff-seeding",
-    "title": "CBS Sports Predicts Week 16 Outcome That Could Favor Patriots’ Playoff Seeding",
-    "description": "The Patriots are gearing up for a crucial “Sunday Night Football” matchup against the Baltimore Ravens, which could significantly impact New England’s playoff hopes. New England is currently the No. 2 seed in the AFC with an 11-3 record, trailing the Broncos, who hold the No. 1 seed at 12-2. If the",
-    "pubDate": "2025-12-20",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/cbs-sports-predicts-week-16-033612386.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "jay-boulware-set-to-become-next-wvu-running-backs-coach",
-    "title": "Jay Boulware set to become next WVU running backs coach",
-    "description": "Dec. 19—MORGANTOWN — West Virginia has reportedly settled on its running backs coach for the future. The Mountaineers are reportedly eyeing former Kentucky running backs coach and special team's coordinator Jay Boulware to be their next RB coach, according to John Brice of FootballScoop.com. Footbal",
-    "pubDate": "2025-12-20",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/jay-boulware-set-become-next-033600282.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "girls-basketball-roundup-east-lansing-eaton-rapids-move-to-3-0-in-league-play",
-    "title": "Girls basketball roundup: East Lansing, Eaton Rapids move to 3-0 in league play",
-    "description": "The highlights from Friday, Dec. 19 girls games featuring Greater Lansing teams.",
-    "pubDate": "2025-12-20",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/girls-basketball-roundup-east-lansing-033531051.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "anderson-silva-knockout-50-year-old-mma-legend-defeats-tyron-woodley-via-second-round-tko",
-    "title": "Anderson Silva knockout: 50-year old MMA legend defeats Tyron Woodley via second-round TKO",
-    "description": "The MMA legend added another chapter to his legendary career by knocking out Woodley on Friday night.",
-    "pubDate": "2025-12-20",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/anderson-silva-knockout-50-old-025635292.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "timberwolves-39-chris-finch-ejected-after-berating-official-less-than-6-minutes-into-game-against-thunder",
-    "title": "Timberwolves&#39; Chris Finch ejected after berating official less than 6 minutes into game against Thunder",
-    "description": "Finch erupted after a no-call against Julius Randle. Minnesota didn't get a whistle on an Anthony Edwards layup earlier in the possession either.",
-    "pubDate": "2025-12-20",
-    "image": "",
-    "link": "https://sports.yahoo.com/nba/breaking-news/article/timberwolves-chris-finch-ejected-after-berating-official-less-than-6-minutes-into-game-against-thunder-033403612.html",
-    "source": "Andy Backstrom"
-  },
-  {
-    "slug": "severn-boys-basketball-grinds-out-63-55-overtime-road-win-against-gerstell",
-    "title": "Severn boys basketball grinds out 63-55 overtime road win against Gerstell",
-    "description": "Whenever Severn and Gerstell meet, fans on both sides expect a tight, physical battle between two hard-playing, well-coached teams. After all, it was only a few years ago that the two programs faced off for the MIAA B Conference title — the first of back-to-back championships for the Admirals. “Ever",
-    "pubDate": "2025-12-20",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/severn-boys-basketball-grinds-63-033400379.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "tennessee-titans-39-cedric-gray-out-arden-key-questionable-for-week-16",
-    "title": "Tennessee Titans&#39; Cedric Gray out, Arden Key questionable for Week 16",
-    "description": "The Tennessee Titans will be without their leading tackler when they face the Kansas City Chiefs in Week 16 action.",
-    "pubDate": "2025-12-20",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/tennessee-titans-cedric-gray-arden-033321599.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "weekend-time-schedule",
-    "title": "Weekend Time Schedule",
-    "description": "",
-    "pubDate": "2025-12-20",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/weekend-time-schedule-033126017.html",
-    "source": "The Associated Press"
-  },
-  {
-    "slug": "player-grades-cavs-vs-bulls-darius-garland-scores-35-points-in-loss",
-    "title": "Player Grades: Cavs vs Bulls – Darius Garland scores 35 points in loss",
-    "description": "The Cavs lost another one. At least Darius Garland showed up.",
-    "pubDate": "2025-12-20",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/player-grades-cavs-vs-bulls-033106036.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "boys-basketball-roundup-leslie-p-w-webberville-stay-unbeaten",
-    "title": "Boys basketball roundup: Leslie, P-W, Webberville stay unbeaten",
-    "description": "The highlights from Friday, Dec. 19 boys games featuring Greater Lansing teams.",
-    "pubDate": "2025-12-20",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/boys-basketball-roundup-leslie-p-033041786.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "jake-paul-vs-anthony-joshua-live-fight-stream-highlights",
-    "title": "Jake Paul vs. Anthony Joshua live fight stream, highlights",
-    "description": "Jake Paul vs. Anthony Joshua will square off in a Heavyweight contest tonight (Fri., Dec. 19, 2025) live on NETFLIX inside Kaseya Center in Miami, Florida. Paul deserves credit for this one. Time and time again, Paul has stacked the deck in his favor, taking on smaller and older fighters to build hi",
-    "pubDate": "2025-12-20",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/jake-paul-vs-anthony-joshua-033018012.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "bayern-munich-alum-leroy-san-breaks-down-s-per-lig-football",
-    "title": "Bayern Munich alum Leroy Sané breaks down Süper Lig football",
-    "description": "The former FC Bayern winger is enjoying life in Turkiye.",
-    "pubDate": "2025-12-20",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/bayern-munich-alum-leroy-san-033000841.html",
+    "link": "https://sports.yahoo.com/articles/50-cent-performs-oklahoma-alabama-041953996.html",
     "source": "Google News"
   },
   {
@@ -495,102 +432,48 @@
     "source": "Google News"
   },
   {
-    "slug": "monroe-county-region-basketball-roundup-for-friday-dec-19-2025",
-    "title": "Monroe County Region basketball roundup for Friday, Dec. 19, 2025",
-    "description": "Maximus Silva scores 10 of his career-high 16 points in the second quarter to help Flat Rock boys earn first victory of the season.",
+    "slug": "tyrese-maxey-owes-his-philadelphia-76ers-career-to-klutch-sports-head-rich-paul",
+    "title": "Tyrese Maxey owes his Philadelphia 76ers career to Klutch Sports head Rich Paul",
+    "description": "Tyrese Maxey was not supposed to be part of the Philadelphia 76ers, but Rich Paul intervened in the process.",
     "pubDate": "2025-12-20",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/monroe-county-region-basketball-roundup-032844957.html",
+    "link": "https://sports.yahoo.com/articles/tyrese-maxey-owes-philadelphia-76ers-041907494.html",
     "source": "Google News"
   },
   {
-    "slug": "lakers-release-injury-report-for-saturday-39-s-game-versus-clippers",
-    "title": "Lakers release injury report for Saturday&#39;s game versus Clippers",
-    "description": "The Lakers will continue to be a bit short-handed when they take on the Clippers on Saturday.",
+    "slug": "knicks-head-coach-mike-brown-frustrated-with-officiating-involving-og-anunoby",
+    "title": "Knicks head coach Mike Brown frustrated with officiating involving OG Anunoby",
+    "description": "While Knicks head coach Mike Brown acknowledged that his team didn't play their crispest in Friday night's 116-107 loss to the Philadelphia 76ers in which they turned the ball over 18 times, he wasn't exactly pleased with the officiating either.",
     "pubDate": "2025-12-20",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/lakers-release-injury-report-saturdays-032609256.html",
+    "link": "https://sports.yahoo.com/articles/knicks-head-coach-mike-brown-041904136.html",
     "source": "Google News"
   },
   {
-    "slug": "buzelis-and-vucevic-score-24-apiece-to-lead-bulls-to-136-125-victory-over-short-handed-cavaliers",
-    "title": "Buzelis and Vucevic score 24 apiece to lead Bulls to 136-125 victory over short-handed Cavaliers",
-    "description": "Matas Buzelis and Nikola Vucevic each scored 24 points as the Chicago Bulls pulled away in the fourth quarter for a 136-125 victory over the reeling Cleveland Cavaliers on Friday night.  Vucevic, who also grabbed 15 rebounds, had 11 points and six boards in the fourth quarter as the Bulls won consec",
+    "slug": "england-dig-in-as-they-chase-a-record-435-to-keep-ashes-alive",
+    "title": "England dig in as they chase a record 435 to keep Ashes alive",
+    "description": "Zak Crawley and Joe Root dug in Saturday to keep England's faint hopes alive as they chase a record 435 to win the third Test against Australia and save the Ashes.No team has ever chased down more than 316 at the venue, while the biggest successful run chase in Test history was 418 by the West Indie",
     "pubDate": "2025-12-20",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/buzelis-vucevic-score-24-apiece-032357478.html",
-    "source": "JOE REEDY"
-  },
-  {
-    "slug": "tulane-vs-ole-miss-injury-updates-friday-availability-report-released",
-    "title": "Tulane vs. Ole Miss injury updates: Friday availability report released",
-    "description": "The Green Wave will look for an upset on Saturday.",
-    "pubDate": "2025-12-20",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/tulane-vs-ole-miss-injury-032124934.html",
+    "link": "https://sports.yahoo.com/articles/england-lose-duckett-chase-record-014411363.html",
     "source": "Google News"
   },
   {
-    "slug": "ravens-add-kyle-hamilton-to-final-week-16-injury-report",
-    "title": "Ravens add Kyle Hamilton to final Week 16 injury report",
-    "description": "Ravens safety Kyle Hamilton is questionable for Sunday’s matchup against the Patriots.",
+    "slug": "chargers-vs-cowboys-final-injury-report-and-game-status",
+    "title": "Chargers vs. Cowboys: Final injury report and game status",
+    "description": "With the Chargers taking on the Cowboys on Sunday, the Bolts have revealed their final injury reports ahead of the matchup.",
     "pubDate": "2025-12-20",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/ravens-add-kyle-hamilton-final-032123425.html",
+    "link": "https://sports.yahoo.com/articles/chargers-vs-cowboys-final-injury-041712999.html",
     "source": "Google News"
   },
   {
-    "slug": "lincoln-riley-on-penn-state-39-s-interest-in-d-39-anton-lynn-39-well-see-how-it-turns-out-39",
-    "title": "Lincoln Riley on Penn State&#39;s interest in D&#39;Anton Lynn: &#39;Well see how it turns out&#39;",
-    "description": "Lincoln Riley still isn't saying if he thinks he'll lose defensive coordinator D'Anton Lynn to Penn State, but he has a contingency plan ready if necessary.",
+    "slug": "valley-high-school-39-s-aziz-haffar-named-national-coach-of-the-year",
+    "title": "Valley High School&#39;s Aziz Haffar named National Coach of the Year",
+    "description": "West Des Moines Valley's Aziz Haffar has been named the 2025 National High School Boys Large Public School Coach of the Year by United Soccer Coaches.",
     "pubDate": "2025-12-20",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/lincoln-riley-penn-states-interest-032039862.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "hurricanes-allow-comeback-fall-to-panthers-4-3-in-shootout",
-    "title": "Hurricanes allow comeback, fall to Panthers, 4-3, in shootout",
-    "description": "The Carolina Hurricanes allowed three straight goals in the third period in a 4-3 shootout loss to the back-to-back Stanley Cup champion Florida Panthers in South Florida on Friday night. After having a three goal in lead in the third period with around 10 minutes remaining, the Panthers stormed bac",
-    "pubDate": "2025-12-20",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/hurricanes-allow-comeback-fall-panthers-032034900.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "arizona-cardinals-will-struggle-to-limit-falcons-rb-bijan-robinson",
-    "title": "Arizona Cardinals will struggle to limit Falcons RB Bijan Robinson",
-    "description": "Bijan Robinson leads the NFL in scrimmage yards. The Cardinals struggle against running backs.",
-    "pubDate": "2025-12-20",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/arizona-cardinals-struggle-limit-falcons-031955956.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "what-kalen-deboer-said-at-halftime-about-alabama-football-comeback-vs-ou",
-    "title": "What Kalen DeBoer said at halftime about Alabama football comeback vs OU",
-    "description": "Alabama football came up with 17 points in the second quarter to tie Oklahoma. What Kalen DeBoer said at halftime.",
-    "pubDate": "2025-12-20",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/kalen-deboer-said-halftime-alabama-031820991.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "derrick-white-celtics-torch-heat-129-116-at-td-garden",
-    "title": "Derrick White, Celtics torch Heat 129-116 at TD Garden",
-    "description": "Derrick White had a career-night on Friday to lead the Boston Celtics to a double-digit win over the rival Miami Heat.",
-    "pubDate": "2025-12-20",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/derrick-white-celtics-torch-heat-031746853.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "marquel-sutton-scores-19-for-lsu-in-78-65-win-over-southeastern-louisiana",
-    "title": "Marquel Sutton scores 19 for LSU in 78-65 win over Southeastern Louisiana",
-    "description": "",
-    "pubDate": "2025-12-20",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/marquel-sutton-scores-19-lsu-031511527.html",
+    "link": "https://sports.yahoo.com/articles/valley-high-schools-aziz-haffar-041551610.html",
     "source": "Google News"
   },
   {
@@ -603,76 +486,211 @@
     "source": "Google News"
   },
   {
-    "slug": "panthers-down-3-0-in-the-third-stun-hurricanes-and-win-in-shootout-4-3",
-    "title": "Panthers, down 3-0 in the third, stun Hurricanes and win in shootout, 4-3",
-    "description": "Sam Bennett and Sam Reinhart scored extra-attacker goals in the final minutes to lead a furious comeback, Evan Rodrigues got the winning goal in the shootout and the Florida Panthers stunned the Carolina Hurricanes with a 4-3 victory on Friday night.  Brad Marchand also scored for Florida, which tra",
+    "slug": "waukee-northwest-basketball-fends-off-late-southeast-polk-comeback",
+    "title": "Waukee Northwest basketball fends off late Southeast Polk comeback",
+    "description": "The Waukee Northwest boys basketball team took down Southeast Polk on Friday.",
     "pubDate": "2025-12-20",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/panthers-down-3-0-third-031313233.html",
-    "source": "TIM REYNOLDS"
-  },
-  {
-    "slug": "why-was-alabama-penalized-on-sideline-vs-oklahoma",
-    "title": "Why was Alabama penalized on sideline vs Oklahoma?",
-    "description": "Here's why Alabama football's sideline was penalized in the first half against Oklahoma in the first round of the College Football Playoff.",
-    "pubDate": "2025-12-20",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/why-alabama-penalized-sideline-vs-031119326.html",
+    "link": "https://sports.yahoo.com/articles/waukee-northwest-basketball-fends-off-041435434.html",
     "source": "Google News"
   },
   {
-    "slug": "no-12-kentucky-takes-down-wright-state-96-53",
-    "title": "No. 12 Kentucky takes down Wright State 96-53",
-    "description": "Coach Kenny Brooks wanted to see great focus and energy from his team ahead of their winter break and his players showed that in a 96-53 win over Wright State.",
+    "slug": "wembanyama-26-point-bench-cameo-takes-spurs-to-hawks-win",
+    "title": "Wembanyama 26-point bench cameo takes Spurs to Hawks win",
+    "description": "French NBA superstar Victor Wembanyama came off the bench to score 26 points in just 21 minutes Friday, as the San Antonio Spurs crushed the Atlanta Hawks 126-98.Tyrese Maxey led the scoring, with 30 points, nine rebounds and two assists.",
     "pubDate": "2025-12-20",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/no-12-kentucky-takes-down-031050897.html",
+    "link": "https://sports.yahoo.com/articles/wembanyama-26-point-bench-cameo-041232776.html",
     "source": "Google News"
   },
   {
-    "slug": "baylor-breezes-by-braves-in-blowout-win",
-    "title": "Baylor breezes by Braves in blowout win",
-    "description": "WACO, Texas (FOX 44) — A top-to-bottom team effort from Baylor Men’s Basketball had the Bears soaring above the rim and to a win with a 113-56 victory over Alcorn State Friday night. Baylor dominated the paint and the glass, outscoring Alcorn State 64-30 in points in the paint and outrebounding the",
+    "slug": "montreal-canadiens-acquire-phillip-danault-from-the-los-angeles-kings",
+    "title": "Montreal Canadiens Acquire Phillip Danault From The Los Angeles Kings",
+    "description": "The Montreal Canadiens have acquired Los Angeles Kings center Phillip Danault in exchange for a second-round pick.",
     "pubDate": "2025-12-20",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/baylor-breezes-braves-blowout-win-031038869.html",
+    "link": "https://sports.yahoo.com/articles/montreal-canadiens-acquire-phillip-danault-041153564.html",
     "source": "Google News"
   },
   {
-    "slug": "alabama-stats-vs-ou-in-first-half-of-cfp-game-how-bad-was-tide",
-    "title": "Alabama stats vs OU in first half of CFP game: How bad was Tide?",
-    "description": "Alabama and Oklahoma entered halftime of the first-round CFP game tied 17-17, but the Crimson Tide was dominated on the stats sheet:",
+    "slug": "former-three-time-all-star-praises-dodgers-for-signing-edwin-d-az",
+    "title": "Former Three-Time All-Star Praises Dodgers For Signing Edwin Díaz",
+    "description": "The Los Angeles Dodgers have the national media's attention once again after signing All-Star closer Edwin Díaz.",
     "pubDate": "2025-12-20",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/alabama-stats-vs-ou-first-031035524.html",
+    "link": "https://sports.yahoo.com/articles/former-three-time-star-praises-041013310.html",
     "source": "Google News"
   },
   {
-    "slug": "winter-surf-spokane-paddler-hunts-waves-in-high-water",
-    "title": "Winter surf: Spokane paddler hunts waves in high water",
-    "description": "Dec. 19—The Spokane River was loud and powerful at Corbin Park in Post Falls on Tuesday, roaring past at more than 20,000 cubic feet per second. At the east end of the park, there's a patch of whitewater and a big wave off the edge of an enormous rock slab angled into the river. You'd be forgiven fo",
+    "slug": "why-was-50-cent-at-oklahoma-alabama-game-what-to-know-of-rapper-39-s-appearance",
+    "title": "Why was 50 Cent at Oklahoma-Alabama game? What to know of rapper&#39;s appearance",
+    "description": "Curtis Jackson, better known as 50 Cent, made an appearance before the fourth quarter of Oklahoma's CFP first-round game vs. Alabama. Here's why:",
     "pubDate": "2025-12-20",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/winter-surf-spokane-paddler-hunts-030900242.html",
+    "link": "https://sports.yahoo.com/articles/why-50-cent-oklahoma-alabama-040956227.html",
     "source": "Google News"
   },
   {
-    "slug": "report-arizona-football-to-hire-washington-s-aaron-knotts-as-general-manager",
-    "title": "Report: Arizona football to hire Washington’s Aaron Knotts as general manager",
-    "description": "Arizona is closing in on its next general manager. The UA is set to hire Aaron Knotts as GM, according to ESPN’s Pete Thamel. Knotts has spent the last 12 years at Washington, where he most recently served as Director of Internal Operations and Football Strategy. Knotts previously worked as Chief of",
+    "slug": "sean-mcvay-on-fluke-two-point-conversion-it-39-s-not-something-we-should-want-in-the-game",
+    "title": "Sean McVay on fluke two-point conversion: It&#39;s not something we should want in the game",
+    "description": "McVay thinks backward passes should be treated the same as fumbles in key moments.",
     "pubDate": "2025-12-20",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/report-arizona-football-hire-washington-030810525.html",
+    "link": "https://sports.yahoo.com/articles/sean-mcvay-fluke-two-point-040939308.html",
     "source": "Google News"
   },
   {
-    "slug": "nba-mvp-straw-poll-14-players-received-votes-two-lead-the-way",
-    "title": "NBA MVP straw poll: 14 players received votes -- two lead the way",
-    "description": "SGA? Jokic? Cup MVP Jalen Brunson? We polled 100 media members in a ballot that mirrors the league's official vote.",
-    "pubDate": "2025-12-19",
+    "slug": "victor-wembanyama-records-100th-straight-game-with-at-least-one-block-joining-elite-company",
+    "title": "Victor Wembanyama records 100th straight game with at least one block, joining elite company",
+    "description": "Victor Wembanyama joined an exclusive club on Friday night, recording his 100th consecutive regular-season game with at least one block in the San Antonio Spurs' 126-98 win against the Atlanta Hawks.  The Spurs center led the charge with a team-high 26 points, 12 assists and two blocks.  Wembanyama",
+    "pubDate": "2025-12-20",
     "image": "",
-    "link": "https://www.espn.com/nba/story/_/id/47350041/nba-mvp-straw-poll-rankings-where-sga-jokic-giannis-luka-brunson-wemby-cade-land",
-    "source": "Tim Bontemps"
+    "link": "https://sports.yahoo.com/articles/victor-wembanyama-records-100th-straight-040917596.html",
+    "source": "MAURA CAREY"
+  },
+  {
+    "slug": "1-000-games-later-roy-garvin-39-s-back-at-new-castle-fieldhouse-after-scoring-1st-point",
+    "title": "1,000 games later, Roy Garvin&#39;s back at New Castle Fieldhouse after scoring 1st point",
+    "description": "New Castle has won 719 games, scored more than 66,000 points, hosted 105 different opponents and hosted 43 Indiana Mr. Basketballs",
+    "pubDate": "2025-12-20",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/1-000-games-later-roy-040845948.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "montreal-canadiens-re-acquire-phillip-danault-from-l-a-kings",
+    "title": "Montreal Canadiens Re-Acquire Phillip Danault From L.A. Kings",
+    "description": "The Canadiens traded a second-round pick to the Los Angeles Kings in exchange for Phillip Danault, who played parts of six seasons in Montreal before.",
+    "pubDate": "2025-12-20",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/montreal-canadiens-acquire-phillip-danault-040754364.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "what-happened-to-ryan-williams-how-alabama-wr-went-from-superstar-to-among-nation-39-s-leaders-in-drops",
+    "title": "What happened to Ryan Williams? How Alabama WR went from superstar to among nation&#39;s leaders in drops",
+    "description": "Alabama’s superstar wide receiver has regressed in 2025, in part due to a serious case of the drops.",
+    "pubDate": "2025-12-20",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/happened-ryan-williams-alabama-wr-040748041.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "why-canadiens-traded-for-phillip-danault-from-kings",
+    "title": "Why Canadiens traded for Phillip Danault from Kings",
+    "description": "Montreal is making moves.",
+    "pubDate": "2025-12-20",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/why-canadiens-traded-phillip-danault-040731638.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "50-cent-39-s-39-many-men-39-electrifies-oklahoma-crowd-and-sooners-score-two-plays-later",
+    "title": "50 Cent&#39;s &#39;Many Men&#39; electrifies Oklahoma crowd, and Sooners score two plays later",
+    "description": "",
+    "pubDate": "2025-12-20",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/50-cents-many-men-electrifies-040538135.html",
+    "source": "CLIFF BRUNT"
+  },
+  {
+    "slug": "spoiler-drew-mcintyre-chooses-huge-stipulation-for-wwe-title-match-on-next-smackdown",
+    "title": "Spoiler: Drew McIntyre Chooses Huge Stipulation For WWE Title Match On Next SmackDown",
+    "description": "Drew McIntyre will be getting another opportunity at the WWE Championship and it will be contested under a rare stipulation.",
+    "pubDate": "2025-12-20",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/spoiler-drew-mcintyre-chooses-huge-040533282.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "dubois-drops-outclasses-panatta-to-retain-wbc-title",
+    "title": "Dubois drops & outclasses Panatta to retain WBC title",
+    "description": "Caroline Dubois produced a commanding performance on her American debut, outpointing Camilla Panatt to retain her WBC lightweight title in Miami.",
+    "pubDate": "2025-12-20",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/dubois-drops-outclasses-panatta-retain-003940784.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "how-social-media-reacted-to-aj-dybantsa-s-jaw-dropping-viral-dunk-vs-abilene-christian",
+    "title": "How social media reacted to AJ Dybantsa’s jaw-dropping viral dunk vs. Abilene Christian",
+    "description": "AJ Dybantsa has quite the highlight reel already through 12 games at BYU, but his latest feat may be his most impressive.",
+    "pubDate": "2025-12-20",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/social-media-reacted-aj-dybantsa-040420518.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "falcons-injury-report-drake-london-questionable",
+    "title": "Falcons injury report: Drake London questionable",
+    "description": "Check out which Falcons won't play or might not play on Sunday against the Cardinals.",
+    "pubDate": "2025-12-20",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/falcons-injury-report-drake-london-040234412.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "wisconsin-has-its-worst-start-since-2019-after-loss-to-villanova",
+    "title": "Wisconsin has its worst start since 2019 after loss to Villanova",
+    "description": "The Badgers were not like themselves again in another loss on Friday.",
+    "pubDate": "2025-12-20",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/wisconsin-worst-start-since-2019-040207545.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "anderson-silva-knockout-50-year-old-mma-legend-defeats-tyron-woodley-via-second-round-tko",
+    "title": "Anderson Silva knockout: 50-year old MMA legend defeats Tyron Woodley via second-round TKO",
+    "description": "The MMA legend added another chapter to his legendary career by knocking out Woodley on Friday night.",
+    "pubDate": "2025-12-20",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/anderson-silva-knockout-50-old-025635292.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "ex-nba-player-brian-scalabrine-says-that-bam-adebayo-could-be-more-aggressive-offensively",
+    "title": "Ex-NBA player Brian Scalabrine says that Bam Adebayo could be more ‘aggressive’ offensively",
+    "description": "Adebayo is averaging 18.7 points per game this season.",
+    "pubDate": "2025-12-20",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/ex-nba-player-brian-scalabrine-040136780.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "rapper-50-cent-makes-appearance-in-ou-football-vs-alabama-cfp-game",
+    "title": "Rapper 50 Cent makes appearance in OU football vs Alabama CFP game",
+    "description": "Rapper 50 Cent sang his 2003 hit \"Many Men (Wish Death)\" at the end of the third quarter between Oklahoma and Alabama in the College Football Playoff opener.",
+    "pubDate": "2025-12-20",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/rapper-50-cent-makes-appearance-040050353.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "rapper-50-cent-makes-appearance-in-ou-football-vs-alabama-cfp-game",
+    "title": "Rapper 50 Cent makes appearance in OU football vs Alabama CFP game",
+    "description": "Rapper 50 Cent sang his 2003 hit \"Many Men (Wish Death)\" at the end of the third quarter between Oklahoma and Alabama in the College Football Playoff opener.",
+    "pubDate": "2025-12-20",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/rapper-50-cent-makes-appearance-040050665.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "timberwolves-39-chris-finch-nearly-lost-his-mind-after-ejection",
+    "title": "Timberwolves&#39; Chris Finch nearly lost his mind after ejection",
+    "description": "He might've had a case.",
+    "pubDate": "2025-12-20",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/timberwolves-chris-finch-nearly-lost-040021724.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "purple-row-after-dark-which-matters-more-pitching-or-offense",
+    "title": "Purple Row After Dark: Which matters more, pitching or offense?",
+    "description": "To be fair, neither were very good in 2025.",
+    "pubDate": "2025-12-20",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/purple-row-dark-matters-more-040000377.html",
+    "source": "Google News"
   },
   {
     "slug": "that-s-going-to-probably-piss-off-some-pitchers-how-mlb-teams-are-approaching-new-ball-strike-challenge-system",
@@ -682,24 +700,6 @@
     "image": "",
     "link": "https://www.espn.com/mlb/story/_/id/47347122/mlb-2025-26-ball-strike-challenge-rule-strategy-abs-umpires",
     "source": "Jesse Rogers"
-  },
-  {
-    "slug": "reranking-power-conferences-a-big-ten-vs-big-12-battle-for-no-1",
-    "title": "Reranking power conferences: A Big Ten vs. Big 12 battle for No. 1",
-    "description": "Which of the five basketball power conferences is more likely to produce this season's national champion?",
-    "pubDate": "2025-12-19",
-    "image": "",
-    "link": "https://www.espn.com/mens-college-basketball/story/_/id/47348031/reranking-mens-basketball-power-conferences-big-ten-big-12-acc-sec-big-east",
-    "source": "Joe Lunardi"
-  },
-  {
-    "slug": "power-rankings-it-s-arizona-vs-michigan-for-no-1",
-    "title": "Power Rankings: It's Arizona vs. Michigan for No. 1",
-    "description": "The Wildcats and Wolverines are battling it out for the title of best team in the country. See the full top 25.",
-    "pubDate": "2025-12-19",
-    "image": "",
-    "link": "https://www.espn.com/mens-college-basketball/story/_/id/47340101/mens-college-basketball-power-rankings-arizona-michigan-no-1",
-    "source": "Jeff Borzello"
   },
   {
     "slug": "coveted-head-coaching-jobs-that-might-come-open-this-offseason",
