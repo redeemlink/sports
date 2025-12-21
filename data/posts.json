@@ -180,12 +180,30 @@
     "source": "BBC Sport"
   },
   {
+    "slug": "bazball-as-we-knew-it-is-in-the-skip-but-mccullum-has-england-future",
+    "title": "'Bazball as we knew it is in the skip - but McCullum has England future'",
+    "description": "England must enact change following their Ashes defeat but Brendon McCullum's reaction suggests he can be part of the future, writes Jonathan Agnew.",
+    "pubDate": "2025-12-21",
+    "image": "",
+    "link": "https://www.bbc.com/sport/cricket/articles/c0edyzwv5pwo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport"
+  },
+  {
     "slug": "england-beaten-to-lose-another-ashes-in-australia",
     "title": "England beaten to lose another Ashes in Australia",
     "description": "England's Bazball regime is in tatters as yet another Ashes series in Australia is lost at the earliest possible opportunity.",
     "pubDate": "2025-12-21",
     "image": "",
     "link": "https://www.bbc.com/sport/cricket/articles/c4g4yznemkxo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport"
+  },
+  {
+    "slug": "i-put-my-hands-up-mccullum-admits-ashes-mistakes",
+    "title": "'I put my hands up' - McCullum admits Ashes mistakes",
+    "description": "Coach Brendon McCullum accepts England may have made mistakes with their Ashes preparation after their series defeat was confirmed in Adelaide.",
+    "pubDate": "2025-12-21",
+    "image": "",
+    "link": "https://www.bbc.com/sport/cricket/articles/cm20d0nle64o?at_medium=RSS&at_campaign=rss",
     "source": "BBC Sport"
   },
   {
@@ -207,15 +225,6 @@
     "source": "BBC Sport"
   },
   {
-    "slug": "england-unable-to-hold-out-as-australia-retain-the-ashes",
-    "title": "England unable to hold out as Australia retain the Ashes",
-    "description": "Australia beat England by 82 runs to take a 3-0 series lead and retain the Ashes urn on day five of the third Test in Adelaide.",
-    "pubDate": "2025-12-21",
-    "image": "",
-    "link": "https://www.bbc.com/sport/cricket/videos/c1w9yl5xg1po?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport"
-  },
-  {
     "slug": "the-10-moments-that-decided-the-ashes",
     "title": "The 10 moments that decided the Ashes",
     "description": "Australia have regained the Ashes after winning the first three Tests against England down under once again - here are the 10 moments that decided the destination of the urn.",
@@ -225,21 +234,12 @@
     "source": "BBC Sport"
   },
   {
-    "slug": "i-put-my-hands-up-mccullum-admits-ashes-mistakes",
-    "title": "'I put my hands up' - McCullum admits Ashes mistakes",
-    "description": "Coach Brendon McCullum accepts England may have made mistakes with their Ashes preparation after their series defeat was confirmed in Adelaide.",
+    "slug": "england-unable-to-hold-out-as-australia-retain-the-ashes",
+    "title": "England unable to hold out as Australia retain the Ashes",
+    "description": "Australia beat England by 82 runs to take a 3-0 series lead and retain the Ashes urn on day five of the third Test in Adelaide.",
     "pubDate": "2025-12-21",
     "image": "",
-    "link": "https://www.bbc.com/sport/cricket/articles/cm20d0nle64o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport"
-  },
-  {
-    "slug": "cummins-injured-lyon-unlikely-to-play-fourth-test",
-    "title": "Cummins & injured Lyon unlikely to play fourth Test",
-    "description": "Australia could be without both Pat Cummins and Nathan Lyon for the fourth Ashes Test in Melbourne, which begins on Boxing Day.",
-    "pubDate": "2025-12-21",
-    "image": "",
-    "link": "https://www.bbc.com/sport/cricket/articles/ckgz4321ww7o?at_medium=RSS&at_campaign=rss",
+    "link": "https://www.bbc.com/sport/cricket/videos/c1w9yl5xg1po?at_medium=RSS&at_campaign=rss",
     "source": "BBC Sport"
   },
   {
@@ -252,21 +252,30 @@
     "source": "BBC Sport"
   },
   {
-    "slug": "that-s-the-wicket-labuschagne-takes-brilliant-grab-to-dismiss-jacks",
-    "title": "'That's the wicket' - Labuschagne takes brilliant grab to dismiss Jacks ",
-    "description": "Marnus Labuschagne takes another brilliant catch at slip as Will Jacks is dismissed for 47 to leave England on 337-8 on day five of the third Ashes Test in Adelaide.",
-    "pubDate": "2025-12-21",
-    "image": "",
-    "link": "https://www.bbc.com/sport/cricket/videos/cx254lv1kvro?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport"
-  },
-  {
     "slug": "test-match-special-podcast",
     "title": "Test Match Special Podcast",
     "description": "The Ashes: England's belated resistance ends as Australia retain the Ashes.",
     "pubDate": "2025-12-21",
     "image": "",
     "link": "https://www.bbc.co.uk/sounds/play/p0mpyhgq?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport"
+  },
+  {
+    "slug": "cummins-injured-lyon-unlikely-to-play-fourth-test",
+    "title": "Cummins & injured Lyon unlikely to play fourth Test",
+    "description": "Australia could be without both Pat Cummins and Nathan Lyon for the fourth Ashes Test in Melbourne, which begins on Boxing Day.",
+    "pubDate": "2025-12-21",
+    "image": "",
+    "link": "https://www.bbc.com/sport/cricket/articles/ckgz4321ww7o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport"
+  },
+  {
+    "slug": "that-s-the-wicket-labuschagne-takes-brilliant-grab-to-dismiss-jacks",
+    "title": "'That's the wicket' - Labuschagne takes brilliant grab to dismiss Jacks ",
+    "description": "Marnus Labuschagne takes another brilliant catch at slip as Will Jacks is dismissed for 47 to leave England on 337-8 on day five of the third Ashes Test in Adelaide.",
+    "pubDate": "2025-12-21",
+    "image": "",
+    "link": "https://www.bbc.com/sport/cricket/videos/cx254lv1kvro?at_medium=RSS&at_campaign=rss",
     "source": "BBC Sport"
   },
   {
@@ -303,6 +312,15 @@
     "pubDate": "2025-12-21",
     "image": "",
     "link": "https://www.bbc.com/sport/cricket/videos/c78vyv03kygo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport"
+  },
+  {
+    "slug": "why-is-afcon-taking-place-in-december",
+    "title": "Why is Afcon taking place in December?",
+    "description": "Our Ask Me Anything team explore why Afcon 2025 is in December and why it is held biannually.",
+    "pubDate": "2025-12-21",
+    "image": "",
+    "link": "https://www.bbc.com/sport/football/articles/cx2e1gexypxo?at_medium=RSS&at_campaign=rss",
     "source": "BBC Sport"
   },
   {
@@ -360,15 +378,6 @@
     "source": "BBC Sport"
   },
   {
-    "slug": "how-man-city-smothered-west-ham-with-suffocating-press",
-    "title": "How Man City smothered West Ham with 'suffocating' press",
-    "description": "Match of the Day's Joe Hart looks at Manchester City's \"suffocating\" press as they looked back to their dominant best in a 3-0 win over West Ham.",
-    "pubDate": "2025-12-21",
-    "image": "",
-    "link": "https://www.bbc.com/sport/football/videos/c0edy98j588o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport"
-  },
-  {
     "slug": "booze-beach-beaten-how-england-lost-the-ashes",
     "title": "Booze, beach, beaten – how England lost the Ashes",
     "description": "BBC Sport chief cricket reporter Stephan Shemilt reveals the inside story of England's Ashes defeat in Australia on and off the pitch.",
@@ -378,228 +387,12 @@
     "source": "BBC Sport"
   },
   {
-    "slug": "serie-a-week-16-probable-line-ups-and-where-to-watch-on-tv",
-    "title": "Serie A Week 16: Probable line-ups and where to watch on TV",
-    "description": "Check out the probable line-ups for today’s four Serie A matches: Cagliari-Pisa, Sassuolo-Torino, Fiorentina-Udinese and Genoa-Atalanta.The Serie A schedule is reduced this weekend as Milan, Inter, ...",
+    "slug": "gasperini-i-ll-pick-dybala-every-time-over-ferguson-i-have-january-transfer-hope",
+    "title": "Gasperini: I’ll pick Dybala ‘every time’ over Ferguson, I have January transfer hope",
+    "description": "Roma coach Gian Piero Gasperini insists he’ll pick Paulo Dybala over Evan Ferguson ‘every time’ and hopes the January transfer window will ‘help’ the Giallorossi.Roma lost 2-1 to Juventus on...",
     "pubDate": "2025-12-21",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/serie-week-16-probable-line-085000676.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "hearts-ready-to-handle-pressure-says-shankland-gossip",
-    "title": "Hearts ready to handle pressure, says Shankland - gossip",
-    "description": "Captain backs Hearts to handle pressure, Aberdeen expecting \"best\" Celtic and Saints boss feeling festive.",
-    "pubDate": "2025-12-21",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/hearts-ready-handle-pressure-says-084225075.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "arsenal-retake-top-spot-from-manchester-city",
-    "title": "Arsenal retake top spot from Manchester City",
-    "description": "For the first time since August, Arsenal kicked off a league match in second place, briefly overtaken earlier in the day after Manchester City beat West Ham United.By the end of the evening, the order...",
-    "pubDate": "2025-12-21",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/arsenal-retake-top-spot-manchester-084000928.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "barcelona-and-chelsea-locked-in-battle-for-river-plate-contract-rebel-8211-report",
-    "title": "Barcelona and Chelsea locked in battle for River Plate contract rebel &#8211; report",
-    "description": "Barcelona’s recruitment focus has quietly shifted back towards South America, where another contract standoff is beginning to draw serious attention across Europe. A recent update from Fichajes sug...",
-    "pubDate": "2025-12-21",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/barcelona-chelsea-locked-battle-river-084000507.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "fsg-to-finally-deliver-on-key-michael-edwards-promise-after-almost-two-years",
-    "title": "FSG to FINALLY deliver on key Michael Edwards promise after almost two years",
-    "description": "Are FSG raising funds for the purchase of a second football club?On Friday it was confirmed that FSG will sell their controlling interest in the NHL’s Pittsburgh Penguins for a record $1.7 billion, ...",
-    "pubDate": "2025-12-21",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/fsg-finally-deliver-key-michael-084000269.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "sevilla-midfielder-voices-anger-over-refereeing-after-real-madrid-defeat-8211-8216-every-year-it-8217-s-the-same-8217",
-    "title": "Sevilla midfielder voices anger over refereeing after Real Madrid defeat &#8211; &#8216;Every year it&#8217;s the same&#8217;",
-    "description": "Sevilla’s visit to the Santiago Bernabeu ended in a 0-2 defeat against Real Madrid, but the final score was not the main talking point once the match was over. Instead, refereeing decisions dominat...",
-    "pubDate": "2025-12-21",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/sevilla-midfielder-voices-anger-over-084000297.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "bears-39-dj-moore-wears-cheese-grater-while-celebrating-win-over-packers",
-    "title": "Bears&#39; DJ Moore wears cheese grater while celebrating win over Packers",
-    "description": "Bears wide receiver DJ Moore caught the winning touchdown pass and then trolled the Packers after the game.",
-    "pubDate": "2025-12-21",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/bears-dj-moore-wears-cheese-083857346.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "bazball-revolution-falters-for-england-in-the-ashes-but-it-39-s-not-the-end-of-the-system",
-    "title": "Bazball revolution falters for England in the Ashes, but it&#39;s not the end of the system",
-    "description": "The architects of the Bazball revolution that England aimed to use to summit test cricket have conceded the preparation wasn't quite right for the Ashes.  After arriving on Australian shores with great expectations, coach Brendon McCullum and captain Ben Stokes were intent on imposing the attack-at-",
-    "pubDate": "2025-12-21",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/bazball-revolution-falters-england-ashes-083809397.html",
-    "source": "JOHN PYE"
-  },
-  {
-    "slug": "enzo-maresca-credits-chelsea-character-togetherness-for-historic-fightback-against-newcastle-united",
-    "title": "Enzo Maresca credits Chelsea ‘character, togetherness’ for historic fightback against Newcastle United",
-    "description": "The Game of Two Halves",
-    "pubDate": "2025-12-21",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/enzo-maresca-credits-chelsea-character-083544039.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "marc-marquez-set-to-return-on-a-motorcycle-after-long-injury-layoff",
-    "title": "Marc Marquez set to return on a motorcycle after long injury layoff",
-    "description": "At the ‘Campioni in Festa’ event where Ducati celebrated its outstanding 2025 season, Marquez provided a further update on his health as he continues his recovery",
-    "pubDate": "2025-12-21",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/marc-marquez-set-return-motorcycle-083403690.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "most-sacks-among-active-nfl-players-where-browns-star-myles-garrett-t-j-watt-rank-on-all-time-list",
-    "title": "Most sacks among active NFL players: Where Browns star Myles Garrett, T.J. Watt rank on all-time list",
-    "description": "Myles Garrett's recent sack outburst has him on the cusp of history. But just where does he rank among active NFL sack artists?",
-    "pubDate": "2025-12-21",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/most-sacks-among-active-nfl-083001969.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "elliot-anderson-man-united-8217-s-casemiro-replacement-is-clear",
-    "title": "Elliot Anderson: Man United&#8217;s Casemiro replacement is clear",
-    "description": "The state of Manchester United’s midfield is certainly one of the most discussed topics among fans.It is crystal clear that Ruben Amorim sees Bruno Fernandes and Casemiro as his first-choice midfiel...",
-    "pubDate": "2025-12-21",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/elliot-anderson-man-united-casemiro-083000495.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "booed-by-the-fans-vin-cius-jr-stuck-in-a-goal-drought",
-    "title": "📉 Booed by the fans: Vinícius Jr. stuck in a goal drought",
-    "description": "Real Madrid may have confidently beaten Sevilla 2-0, but one issue overshadows the victory: Vinícius Júnior remains deeply stuck in a goal drought. The Brazilian has been waiting for a success since...",
-    "pubDate": "2025-12-21",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/booed-fans-vin-cius-jr-083000219.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "today-s-papers-juventus-are-coming-inter-s-problem-paratici-close-to-fiorentina",
-    "title": "Today’s Papers – Juventus are coming, Inter’s problem, Paratici close to Fiorentina",
-    "description": "La Gazzetta dello SportDi Lorenzo’s dream: ‘As a captain, I can win like Diego.’Rowe: ‘Italiano tells us the starters only at the stadium. He attacks more than De Zerbi.’Juve are comingRoma ...",
-    "pubDate": "2025-12-21",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/today-papers-juventus-coming-inter-083000965.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "boos-for-vinicius-hugo-boss-and-5-stories-to-kick-off-your-sunday",
-    "title": "☕️🥐 Boos for Vinicius, Hugo Boss and 5️⃣ stories to kick off your Sunday",
-    "description": "If you've already prepared coffee and pastries, we bring you the perfect content to kick off a good Sunday of football: the five stories that will shape today's conversation. A Break to Rest and Refl...",
-    "pubDate": "2025-12-21",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/boos-vinicius-hugo-boss-5-082900953.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "trio-ejected-as-eagles-beat-commanders-to-win-title",
-    "title": "Trio ejected as Eagles beat Commanders to win title",
-    "description": "Three players are ejected as the Philadelphia ⁠Eagles beat the Washington Commanders 29-18 to win the NFC East title.",
-    "pubDate": "2025-12-21",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/trio-ejected-eagles-beat-commanders-082518542.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "inside-the-caleb-williams-to-dj-moore-ot-touchdown-for-a-chicago-bears-win-that-blew-up-soldier-field",
-    "title": "Inside the Caleb Williams-to-DJ Moore OT touchdown for a Chicago Bears win that ‘blew up’ Soldier Field",
-    "description": "Caleb Williams launched the ball from the far side of the 50-yard line. For the players on the field, and for the 60,152 fans in the stands Saturday night at Soldier Field, the ball floated seemingly forever. “I feel like it hung in the air for maybe 10 or 15 seconds,” center Drew Dalman said. Added",
-    "pubDate": "2025-12-21",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/inside-caleb-williams-dj-moore-082500474.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "which-player-profiles-are-the-most-decisive-at-the-afcon",
-    "title": "Which player profiles are the most decisive at the AFCON?",
-    "description": "Exclusive InterviewWhich player profiles are the most decisive at the AFCON?As the AFCON 2025 officially kicks off this December 21, 2025, Portuguese coach Paulo Duarte of Guinea, former manager of Bu...",
-    "pubDate": "2025-12-21",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/player-profiles-most-decisive-afcon-082500376.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "a-good-performance-8211-thomas-frank-reacts-to-tottenham-s-2-1-defeat-against-liverpool",
-    "title": "‘A good performance’ &#8211; Thomas Frank reacts to Tottenham’s 2-1 defeat against Liverpool",
-    "description": "Thomas Frank believes Tottenham Hotspur delivered ‘a good performance’ during their 2-1 Premier League loss to Liverpool on Saturday. The Lilywhites were reduced to 10 men in the 33rd minute of t...",
-    "pubDate": "2025-12-21",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/good-performance-thomas-frank-reacts-082300693.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "39-fantastic-39-niskanen-wins-plaudits-after-exeter-goal",
-    "title": "&#39;Fantastic&#39; Niskanen wins plaudits after Exeter goal",
-    "description": "Exeter City manager Gary Caldwell hails Ilmari Niskanen following his goal and assist in the 3-0 win over Barnsley.",
-    "pubDate": "2025-12-21",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/fantastic-niskanen-wins-plaudits-exeter-082153592.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "real-madrid-tv-renews-its-offensive-against-barcelona-president-8211-8216-they-take-you-for-a-fool-8217",
-    "title": "Real Madrid TV renews its offensive against Barcelona president &#8211; &#8216;They take you for a fool&#8217;",
-    "description": "In the build-up to Real Madrid’s home game against Sevilla, Real Madrid TV used its pre-match coverage to revisit the ongoing Negreira case and directly respond to comments made by Joan Laporta. Th...",
-    "pubDate": "2025-12-21",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/real-madrid-tv-renews-offensive-082000644.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "real-madrid-captain-calls-for-improvement-after-vital-victory-vs-sevilla-8211-8216-at-times-like-this-8230-8217",
-    "title": "Real Madrid captain calls for improvement after vital victory vs Sevilla &#8211; &#8216;At times like this&#8230;&#8217;",
-    "description": "When Real Madrid needed calm, authority, and leadership, Thibaut Courtois delivered once more. The Belgian goalkeeper was one of the key reasons Madrid kept a clean sheet against Sevilla, producing a...",
-    "pubDate": "2025-12-21",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/real-madrid-captain-calls-improvement-082000566.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "ducks-put-up-another-response-bounce-back-over-columbus-4-3",
-    "title": "Ducks put up another response, bounce back over Columbus, 4-3",
-    "description": "Following an \"unacceptable\" 8-3 loss to Dallas on Friday, Pavel Mintyukov scored the go-ahead goal with 3:29 remaining to put Anaheim over the Blue Jackets, 4-3. The Ducks are 10-4-1 following a loss this season.",
-    "pubDate": "2025-12-21",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/ducks-put-another-response-bounce-081711837.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "is-aston-villa-v-man-united-on-tv-channel-kick-off-time-and-how-to-watch-premier-league-fixture",
-    "title": "Is Aston Villa v Man United on TV? Channel, kick-off time and how to watch Premier League fixture",
-    "description": "Can Aston Villa make it seven Premier League wins as Manchester United come to town?",
-    "pubDate": "2025-12-21",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/aston-villa-v-man-united-081349983.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "39-i-put-my-hands-up-39-mccullum-admits-ashes-mistakes",
-    "title": "&#39;I put my hands up&#39; - McCullum admits Ashes mistakes",
-    "description": "Coach Brendon McCullum accepts England may have made mistakes with their Ashes preparation after their series defeat was confirmed in Adelaide.",
-    "pubDate": "2025-12-21",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/put-hands-mccullum-admits-ashes-054901168.html",
+    "link": "https://sports.yahoo.com/articles/gasperini-ll-pick-dybala-every-093000966.html",
     "source": "Google News"
   },
   {
@@ -612,165 +405,12 @@
     "source": "Google News"
   },
   {
-    "slug": "39-test-career-over-for-now-39-ashes-player-ratings",
-    "title": "&#39;Test career over for now?&#39; - Ashes player ratings",
-    "description": "Chief cricket reporter Stephan Shemilt marks the performances of the Australia and England teams after the third Test in Adelaide.",
+    "slug": "39-bazball-as-we-knew-it-is-in-the-skip-but-mccullum-has-england-future-39",
+    "title": "&#39;Bazball as we knew it is in the skip - but McCullum has England future&#39;",
+    "description": "England must enact change following their Ashes defeat but Brendon McCullum's reaction suggests he can be part of the future, writes Jonathan Agnew.",
     "pubDate": "2025-12-21",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/test-career-over-now-ashes-041153538.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "the-10-moments-that-decided-the-ashes",
-    "title": "The 10 moments that decided the Ashes",
-    "description": "Australia have regained the Ashes after winning the first three Tests against England down under once again - here are the 10 moments that decided the destination of the urn.",
-    "pubDate": "2025-12-21",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/10-moments-decided-ashes-041536807.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "booze-beach-beaten-how-england-lost-the-ashes",
-    "title": "Booze, beach, beaten – how England lost the Ashes",
-    "description": "BBC Sport chief cricket reporter Stephan Shemilt reveals the inside story of England's Ashes defeat in Australia on and off the pitch.",
-    "pubDate": "2025-12-21",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/booze-beach-beaten-england-lost-062943065.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "nick-sirianni-explains-why-he-went-for-2-late-in-win-over-commanders",
-    "title": "Nick Sirianni explains why he went for 2 late in win over Commanders",
-    "description": "Eagles coach Nick Sirianni explains why he went for 2-point conversion late in win over Commanders, angering Dan Quinn.",
-    "pubDate": "2025-12-21",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/nick-sirianni-explains-why-went-080524459.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "liverpool-fcw-vs-chelsea-fcw-women-s-league-cup-preview-team-news-how-to-watch",
-    "title": "Liverpool FCW vs. Chelsea FCW, Women’s League Cup: Preview, team news, how to watch",
-    "description": "First of its kind",
-    "pubDate": "2025-12-21",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/liverpool-fcw-vs-chelsea-fcw-080309437.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "is-matt-prater-playing-today-latest-on-bills-kicker-for-week-16",
-    "title": "Is Matt Prater playing today? Latest on Bills kicker for Week 16",
-    "description": "Matt Prater suffered a quadriceps injury to his kicking leg. Here's what to know about his status for Week 16.",
-    "pubDate": "2025-12-21",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/matt-prater-playing-today-latest-080101198.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "when-is-bryan-mbeumo-back-from-afcon-cameroon-schedule-man-united-return-date-after-2025-africa-cup-of-nations",
-    "title": "When is Bryan Mbeumo back from AFCON? Cameroon schedule, Man United return date after 2025 Africa Cup of Nations",
-    "description": "Bryan Mbeumo could miss as many as seven Manchester United games in December and January, including the Manchester derby at Old Trafford.",
-    "pubDate": "2025-12-21",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/bryan-mbeumo-back-afcon-cameroon-080001791.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "what-channel-is-lions-vs-steelers-on-today-live-stream-time-tv-schedule-to-watch-nfl-week-16-game",
-    "title": "What channel is Lions vs. Steelers on today? Live stream, time, TV schedule to watch NFL Week 16 game",
-    "description": "Here is more on how you can watch or listen to the Week 16 matchup between the Lions and the Steelers.",
-    "pubDate": "2025-12-21",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/channel-lions-vs-steelers-today-080001034.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "where-to-watch-aston-villa-vs-man-united-live-stream-tv-channel-start-time-for-premier-league-match",
-    "title": "Where to watch Aston Villa vs. Man United live stream, TV channel, start time for Premier League match",
-    "description": "Aston Villa vs. Man United kickoff time: Here's how to watch the Premier League match on TV and live stream. The Sporting News takes you through all the information you need to follow the game.",
-    "pubDate": "2025-12-21",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/where-watch-aston-villa-vs-080001570.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "updated-2026-nfl-draft-order-giants-raiders-on-pace-to-claim-top-selections-entering-week-16",
-    "title": "Updated 2026 NFL Draft order: Giants, Raiders on pace to claim top selections entering Week 16",
-    "description": "The race for the No. 1 pick is crowded as the regular season enters its final stretch.",
-    "pubDate": "2025-12-21",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/updated-2026-nfl-draft-order-080001356.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "emiliano-martinez-aston-villa-seek-replacement-as-man-united-links-flicker",
-    "title": "Emiliano Martinez: Aston Villa seek replacement as Man United links flicker",
-    "description": "Manchester United were faced with a tough choice in the summer.Difficult choiceWhilst the club was clear it had to upgrade in the goalkeeping department due to the inconsistent performances of Andre O...",
-    "pubDate": "2025-12-21",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/emiliano-martinez-aston-villa-seek-080000449.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "max-eberl-recalls-bayern-munich-s-tough-decision-on-newcastle-united-s-nick-woltemade",
-    "title": "Max Eberl recalls Bayern Munich’s tough decision on Newcastle United’s Nick Woltemade",
-    "description": "FC Bayern really wanted Nick Woltemade…",
-    "pubDate": "2025-12-21",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/max-eberl-recalls-bayern-munich-080000368.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "three-well-known-names-who-wore-the-colours-of-barcelona-and-villarreal",
-    "title": "Three well-known names who wore the colours of Barcelona and Villarreal",
-    "description": "Estadio de la Ceramica sets the stage for one of the most eye-catching fixtures of the La Liga weekend, with table-toppers Barcelona travelling to face a confident and in-form Villarreal side. On pap...",
-    "pubDate": "2025-12-21",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/three-well-known-names-wore-080000956.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "manchester-city-identify-8216-at-least-8217-two-candidates-as-potential-pep-guardiola-replacements",
-    "title": "Manchester City identify &#8216;at least&#8217; two candidates as potential Pep Guardiola replacements",
-    "description": "Hugo Viana and Manchester City have started work on compiling a list of possible successors to Pep Guardiola amid growing doubts the Catalan could leave in 2026.Speculation around Guardiola’s long-t...",
-    "pubDate": "2025-12-21",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/manchester-city-identify-least-two-080000981.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "fabio-paratici-might-actually-join-fiorentina",
-    "title": "Fabio Paratici might actually join Fiorentina",
-    "description": "Is this the man to lift the Viola out of the hole they’ve dug for themselves?",
-    "pubDate": "2025-12-21",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/fabio-paratici-might-actually-join-075719484.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "blackburn-39-s-pink-slip-is-a-lump-of-coal-from-rams",
-    "title": "Blackburn&#39;s pink slip is a lump of coal from Rams",
-    "description": "Up 30-14, everything wrapped in a bow – a punt return, a missed field goal, an overtime dagger. By sunrise, the only gift left for Chase Blackburn was a pink slip.",
-    "pubDate": "2025-12-21",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/blackburns-pink-slip-lump-coal-075517638.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "8216-they-want-the-player-8217-man-united-contact-club-to-sign-attacker-in-a-40m-deal",
-    "title": "&#8216;They want the player&#8217;: Man United contact club to sign attacker in a €40m deal",
-    "description": "Manchester United are interested in signing the Koln attacker Said El Mala. The 19-year-old attacker has done quite well this season, and he has nine goal contributions in 15 league matches. Manchest...",
-    "pubDate": "2025-12-21",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/want-player-man-united-contact-075500059.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "cummins-injured-lyon-unlikely-to-play-fourth-test",
-    "title": "Cummins & injured Lyon unlikely to play fourth Test",
-    "description": "Australia could be without both Pat Cummins and Nathan Lyon for the fourth Ashes Test in Melbourne, which begins on Boxing Day.",
-    "pubDate": "2025-12-21",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/lyon-third-test-doubt-rest-020722626.html",
+    "link": "https://sports.yahoo.com/articles/bazball-knew-skip-mccullum-england-085433962.html",
     "source": "Google News"
   },
   {
@@ -783,49 +423,418 @@
     "source": "Google News"
   },
   {
-    "slug": "what-channel-is-dolphins-vs-bengals-on-today-live-stream-time-tv-schedule-to-watch-nfl-week-16-game",
-    "title": "What channel is Dolphins vs. Bengals on today? Live stream, time, TV schedule to watch NFL Week 16 game",
-    "description": "All you need to know to watch Sunday's game between the Dolphins and Bengals, including TV and live streaming information.",
+    "slug": "manhattan-faces-presbyterian-looks-to-halt-3-game-skid",
+    "title": "Manhattan faces Presbyterian, looks to halt 3-game skid",
+    "description": "",
     "pubDate": "2025-12-21",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/channel-dolphins-vs-bengals-today-075001662.html",
-    "source": "Google News"
+    "link": "https://sports.yahoo.com/articles/manhattan-faces-presbyterian-looks-halt-092402126.html",
+    "source": "The Associated Press"
   },
   {
-    "slug": "inside-bears-caleb-williams-dj-moore-touchdown-play-that-beat-packers",
-    "title": "Inside Bears’ Caleb Williams, DJ Moore touchdown play that beat Packers",
-    "description": "The inside story of how the touchdown pass from Caleb Williams to DJ Moore that beat the Packers came to be and why it was called in that spot. The post Inside Bears’ Caleb Williams, DJ Moore touchdown play that beat Packers appeared first on Marquee Sports Network - Home of the Cubs, Bears, Red Sta",
+    "slug": "northern-iowa-visits-dent-and-saint-mary-39-s-ca",
+    "title": "Northern Iowa visits Dent and Saint Mary&#39;s (CA)",
+    "description": "",
     "pubDate": "2025-12-21",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/inside-bears-caleb-williams-dj-074530267.html",
-    "source": "Google News"
+    "link": "https://sports.yahoo.com/articles/northern-iowa-visits-dent-saint-092401792.html",
+    "source": "The Associated Press"
   },
   {
-    "slug": "slot-liverpool-definitely-not-perfect-yet",
-    "title": "Slot: “[Liverpool] Definitely Not Perfect Yet”",
-    "description": "Liverpool’s coach believes the team are headed in the right direction.",
+    "slug": "dunkley-leads-nicholls-state-against-pacific-after-23-point-showing",
+    "title": "Dunkley leads Nicholls State against Pacific after 23-point showing",
+    "description": "",
     "pubDate": "2025-12-21",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/slot-liverpool-definitely-not-perfect-074255177.html",
-    "source": "Google News"
+    "link": "https://sports.yahoo.com/articles/dunkley-leads-nicholls-state-against-092401076.html",
+    "source": "The Associated Press"
   },
   {
-    "slug": "white-sox-engaged-in-talks-with-munetaka-murakami",
-    "title": "White Sox engaged in talks with Munetaka Murakami",
-    "description": "The White Sox are reportedly in discussions with Japanese slugger Munetaka Murakami before his posting window closes Monday.",
+    "slug": "ford-leads-temple-against-princeton-after-23-point-game",
+    "title": "Ford leads Temple against Princeton after 23-point game",
+    "description": "",
     "pubDate": "2025-12-21",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/white-sox-engaged-talks-munetaka-074216752.html",
-    "source": "Google News"
+    "link": "https://sports.yahoo.com/articles/ford-leads-temple-against-princeton-092400947.html",
+    "source": "The Associated Press"
   },
   {
-    "slug": "arsenal-8217-s-gabriel-jesus-offered-to-milan-again",
-    "title": "Arsenal&#8217;s Gabriel Jesus offered to Milan again",
-    "description": "Arsenal forward Gabriel Jesus has once again been proposed to AC Milan as the January transfer window approaches.According to a report from Gianluigi Longari, the Brazilian international has been offe...",
+    "slug": "oral-roberts-golden-eagles-welcome-the-ut-arlington-mavericks-on-monday",
+    "title": "Oral Roberts Golden Eagles welcome the UT Arlington Mavericks on Monday",
+    "description": "",
     "pubDate": "2025-12-21",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/arsenal-gabriel-jesus-offered-milan-074100263.html",
-    "source": "Google News"
+    "link": "https://sports.yahoo.com/articles/oral-roberts-golden-eagles-welcome-092400988.html",
+    "source": "The Associated Press"
+  },
+  {
+    "slug": "southern-illinois-visits-huibregtse-and-bradley",
+    "title": "Southern Illinois visits Huibregtse and Bradley",
+    "description": "",
+    "pubDate": "2025-12-21",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/southern-illinois-visits-huibregtse-bradley-092359107.html",
+    "source": "The Associated Press"
+  },
+  {
+    "slug": "alabama-state-takes-on-memphis-on-5-game-losing-streak",
+    "title": "Alabama State takes on Memphis on 5-game losing streak",
+    "description": "",
+    "pubDate": "2025-12-21",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/alabama-state-takes-memphis-5-092358063.html",
+    "source": "The Associated Press"
+  },
+  {
+    "slug": "fordham-hosts-fitzpatrick-and-new-haven",
+    "title": "Fordham hosts Fitzpatrick and New Haven",
+    "description": "",
+    "pubDate": "2025-12-21",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/fordham-hosts-fitzpatrick-haven-092357625.html",
+    "source": "The Associated Press"
+  },
+  {
+    "slug": "west-georgia-visits-wilkinson-and-no-25-georgia",
+    "title": "West Georgia visits Wilkinson and No. 25 Georgia",
+    "description": "",
+    "pubDate": "2025-12-21",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/west-georgia-visits-wilkinson-no-092343808.html",
+    "source": "The Associated Press"
+  },
+  {
+    "slug": "njit-visits-butler-on-6-game-road-slide",
+    "title": "NJIT visits Butler on 6-game road slide",
+    "description": "",
+    "pubDate": "2025-12-21",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/njit-visits-butler-6-game-092343643.html",
+    "source": "The Associated Press"
+  },
+  {
+    "slug": "no-23-florida-hosts-colgate-following-cox-39-s-26-point-game",
+    "title": "No. 23 Florida hosts Colgate following Cox&#39;s 26-point game",
+    "description": "",
+    "pubDate": "2025-12-21",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/no-23-florida-hosts-colgate-092343009.html",
+    "source": "The Associated Press"
+  },
+  {
+    "slug": "johnson-leads-san-diego-against-washington-after-23-point-outing",
+    "title": "Johnson leads San Diego against Washington after 23-point outing",
+    "description": "",
+    "pubDate": "2025-12-21",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/johnson-leads-san-diego-against-092343146.html",
+    "source": "The Associated Press"
+  },
+  {
+    "slug": "northeastern-faces-rhode-island-after-williams-39-20-point-game",
+    "title": "Northeastern faces Rhode Island after Williams&#39; 20-point game",
+    "description": "",
+    "pubDate": "2025-12-21",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/northeastern-faces-rhode-island-williams-092342690.html",
+    "source": "The Associated Press"
+  },
+  {
+    "slug": "agee-texas-a-m-aggies-to-host-harrison-and-the-east-texas-a-m-lions",
+    "title": "Agee, Texas A&M Aggies to host Harrison and the East Texas A&M Lions",
+    "description": "",
+    "pubDate": "2025-12-21",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/agee-texas-m-aggies-host-092342767.html",
+    "source": "The Associated Press"
+  },
+  {
+    "slug": "uic-faces-charlotte-on-5-game-skid",
+    "title": "UIC faces Charlotte on 5-game skid",
+    "description": "",
+    "pubDate": "2025-12-21",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/uic-faces-charlotte-5-game-092342119.html",
+    "source": "The Associated Press"
+  },
+  {
+    "slug": "eastern-kentucky-visits-wichita-state-following-giles-39-22-point-showing",
+    "title": "Eastern Kentucky visits Wichita State following Giles&#39; 22-point showing",
+    "description": "",
+    "pubDate": "2025-12-21",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/eastern-kentucky-visits-wichita-state-092342734.html",
+    "source": "The Associated Press"
+  },
+  {
+    "slug": "furman-hosts-charleston-southern-following-hafemeister-39-s-29-point-performance",
+    "title": "Furman hosts Charleston Southern following Hafemeister&#39;s 29-point performance",
+    "description": "",
+    "pubDate": "2025-12-21",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/furman-hosts-charleston-southern-following-092342259.html",
+    "source": "The Associated Press"
+  },
+  {
+    "slug": "brown-leads-oklahoma-against-stetson-after-21-point-performance",
+    "title": "Brown leads Oklahoma against Stetson after 21-point performance",
+    "description": "",
+    "pubDate": "2025-12-21",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/brown-leads-oklahoma-against-stetson-092342214.html",
+    "source": "The Associated Press"
+  },
+  {
+    "slug": "no-12-north-carolina-hosts-riley-and-east-carolina",
+    "title": "No. 12 North Carolina hosts Riley and East Carolina",
+    "description": "",
+    "pubDate": "2025-12-21",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/no-12-north-carolina-hosts-092342934.html",
+    "source": "The Associated Press"
+  },
+  {
+    "slug": "oregon-squares-off-against-no-7-gonzaga",
+    "title": "Oregon squares off against No. 7 Gonzaga",
+    "description": "",
+    "pubDate": "2025-12-21",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/oregon-squares-off-against-no-092342969.html",
+    "source": "The Associated Press"
+  },
+  {
+    "slug": "wake-forest-hosts-miles-and-no-13-vanderbilt",
+    "title": "Wake Forest hosts Miles and No. 13 Vanderbilt",
+    "description": "",
+    "pubDate": "2025-12-21",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/wake-forest-hosts-miles-no-092342464.html",
+    "source": "The Associated Press"
+  },
+  {
+    "slug": "massey-leads-western-illinois-against-siu-edwardsville",
+    "title": "Massey leads Western Illinois against SIU-Edwardsville",
+    "description": "",
+    "pubDate": "2025-12-21",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/massey-leads-western-illinois-against-092342917.html",
+    "source": "The Associated Press"
+  },
+  {
+    "slug": "whitlock-leads-lehigh-against-monmouth",
+    "title": "Whitlock leads Lehigh against Monmouth",
+    "description": "",
+    "pubDate": "2025-12-21",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/whitlock-leads-lehigh-against-monmouth-092342662.html",
+    "source": "The Associated Press"
+  },
+  {
+    "slug": "south-carolina-state-plays-south-carolina-looks-to-end-road-losing-streak",
+    "title": "South Carolina State plays South Carolina, looks to end road losing streak",
+    "description": "",
+    "pubDate": "2025-12-21",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/south-carolina-state-plays-south-092342327.html",
+    "source": "The Associated Press"
+  },
+  {
+    "slug": "morgan-state-visits-san-francisco-following-riley-39-s-22-point-game",
+    "title": "Morgan State visits San Francisco following Riley&#39;s 22-point game",
+    "description": "",
+    "pubDate": "2025-12-21",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/morgan-state-visits-san-francisco-092342007.html",
+    "source": "The Associated Press"
+  },
+  {
+    "slug": "bailey-leads-incarnate-word-against-northern-arizona",
+    "title": "Bailey leads Incarnate Word against Northern Arizona",
+    "description": "",
+    "pubDate": "2025-12-21",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/bailey-leads-incarnate-word-against-092342447.html",
+    "source": "The Associated Press"
+  },
+  {
+    "slug": "new-mexico-state-takes-on-sam-houston-looks-for-6th-straight-home-win",
+    "title": "New Mexico State takes on Sam Houston, looks for 6th straight home win",
+    "description": "",
+    "pubDate": "2025-12-21",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/mexico-state-takes-sam-houston-092341691.html",
+    "source": "The Associated Press"
+  },
+  {
+    "slug": "coastal-carolina-faces-saint-joseph-39-s-pa-after-jones-39-23-point-game",
+    "title": "Coastal Carolina faces Saint Joseph&#39;s (PA) after Jones&#39; 23-point game",
+    "description": "",
+    "pubDate": "2025-12-21",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/coastal-carolina-faces-saint-josephs-092341357.html",
+    "source": "The Associated Press"
+  },
+  {
+    "slug": "central-arkansas-visits-smu-on-6-game-road-skid",
+    "title": "Central Arkansas visits SMU on 6-game road skid",
+    "description": "",
+    "pubDate": "2025-12-21",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/central-arkansas-visits-smu-6-092341474.html",
+    "source": "The Associated Press"
+  },
+  {
+    "slug": "tulsa-hosts-denver-after-nelson-39-s-32-point-outing",
+    "title": "Tulsa hosts Denver after Nelson&#39;s 32-point outing",
+    "description": "",
+    "pubDate": "2025-12-21",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/tulsa-hosts-denver-nelsons-32-092341469.html",
+    "source": "The Associated Press"
+  },
+  {
+    "slug": "alabama-a-m-hosts-frison-and-chattanooga",
+    "title": "Alabama A&M hosts Frison and Chattanooga",
+    "description": "",
+    "pubDate": "2025-12-21",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/alabama-m-hosts-frison-chattanooga-092341278.html",
+    "source": "The Associated Press"
+  },
+  {
+    "slug": "american-visits-hall-and-no-23-virginia",
+    "title": "American visits Hall and No. 23 Virginia",
+    "description": "",
+    "pubDate": "2025-12-21",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/american-visits-hall-no-23-092340786.html",
+    "source": "The Associated Press"
+  },
+  {
+    "slug": "loyola-md-visits-george-mason-following-allenspach-39-s-26-point-outing",
+    "title": "Loyola (MD) visits George Mason following Allenspach&#39;s 26-point outing",
+    "description": "",
+    "pubDate": "2025-12-21",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/loyola-md-visits-george-mason-092339171.html",
+    "source": "The Associated Press"
+  },
+  {
+    "slug": "abilene-christian-plays-texas-southern-following-newton-39-s-23-point-game",
+    "title": "Abilene Christian plays Texas Southern following Newton&#39;s 23-point game",
+    "description": "",
+    "pubDate": "2025-12-21",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/abilene-christian-plays-texas-southern-092338884.html",
+    "source": "The Associated Press"
+  },
+  {
+    "slug": "cal-poly-hosts-idaho-after-ward-39-s-21-point-game",
+    "title": "Cal Poly hosts Idaho after Ward&#39;s 21-point game",
+    "description": "",
+    "pubDate": "2025-12-21",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/cal-poly-hosts-idaho-wards-092337486.html",
+    "source": "The Associated Press"
+  },
+  {
+    "slug": "umkc-hosts-collins-and-austin-peay",
+    "title": "UMKC hosts Collins and Austin Peay",
+    "description": "",
+    "pubDate": "2025-12-21",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/umkc-hosts-collins-austin-peay-092336103.html",
+    "source": "The Associated Press"
+  },
+  {
+    "slug": "maine-takes-on-drexel-for-non-conference-matchup",
+    "title": "Maine takes on Drexel for non-conference matchup",
+    "description": "",
+    "pubDate": "2025-12-21",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/maine-takes-drexel-non-conference-092336621.html",
+    "source": "The Associated Press"
+  },
+  {
+    "slug": "fairleigh-dickinson-faces-boston-college-on-6-game-road-skid",
+    "title": "Fairleigh Dickinson faces Boston College on 6-game road skid",
+    "description": "",
+    "pubDate": "2025-12-21",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/fairleigh-dickinson-faces-boston-college-092336894.html",
+    "source": "The Associated Press"
+  },
+  {
+    "slug": "pittsburgh-panthers-square-off-against-the-penn-state-nittany-lions",
+    "title": "Pittsburgh Panthers square off against the Penn State Nittany Lions",
+    "description": "",
+    "pubDate": "2025-12-21",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/pittsburgh-panthers-square-off-against-092335080.html",
+    "source": "The Associated Press"
+  },
+  {
+    "slug": "clemson-tigers-and-the-cincinnati-bearcats-square-off-in-greenville-south-carolina",
+    "title": "Clemson Tigers and the Cincinnati Bearcats square off in Greenville, South Carolina",
+    "description": "",
+    "pubDate": "2025-12-21",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/clemson-tigers-cincinnati-bearcats-square-092335295.html",
+    "source": "The Associated Press"
+  },
+  {
+    "slug": "utah-tech-plays-creighton-following-potter-39-s-23-point-game",
+    "title": "Utah Tech plays Creighton following Potter&#39;s 23-point game",
+    "description": "",
+    "pubDate": "2025-12-21",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/utah-tech-plays-creighton-following-092335569.html",
+    "source": "The Associated Press"
+  },
+  {
+    "slug": "bryant-visits-high-point-following-martinez-39-s-24-point-game",
+    "title": "Bryant visits High Point following Martinez&#39;s 24-point game",
+    "description": "",
+    "pubDate": "2025-12-21",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/bryant-visits-high-point-following-092334265.html",
+    "source": "The Associated Press"
+  },
+  {
+    "slug": "rider-faces-vcu-on-7-game-slide",
+    "title": "Rider faces VCU on 7-game slide",
+    "description": "",
+    "pubDate": "2025-12-21",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/rider-faces-vcu-7-game-092334580.html",
+    "source": "The Associated Press"
+  },
+  {
+    "slug": "jacksonville-visits-florida-state-on-5-game-road-slide",
+    "title": "Jacksonville visits Florida State on 5-game road slide",
+    "description": "",
+    "pubDate": "2025-12-21",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/jacksonville-visits-florida-state-5-092334768.html",
+    "source": "The Associated Press"
+  },
+  {
+    "slug": "parker-leads-radford-against-vmi-after-26-point-performance",
+    "title": "Parker leads Radford against VMI after 26-point performance",
+    "description": "",
+    "pubDate": "2025-12-21",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/parker-leads-radford-against-vmi-092333897.html",
+    "source": "The Associated Press"
+  },
+  {
+    "slug": "hart-leads-eastern-michigan-against-wright-state-after-32-point-performance",
+    "title": "Hart leads Eastern Michigan against Wright State after 32-point performance",
+    "description": "",
+    "pubDate": "2025-12-21",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/hart-leads-eastern-michigan-against-092333301.html",
+    "source": "The Associated Press"
   },
   {
     "slug": "the-jake-paul-show-is-far-from-over-but-where-does-it-go-from-here",
@@ -1125,15 +1134,6 @@
     "source": "BBC Sport"
   },
   {
-    "slug": "britain-s-azim-headlines-on-bbc-two-on-31-january",
-    "title": "Britain's Azim headlines on BBC Two on 31 January",
-    "description": "British light-welterweight Adam Azim will face Gustavo Lemos on BBC Two and BBC iPlayer on 31 January in London.",
-    "pubDate": "2025-12-20",
-    "image": "",
-    "link": "https://www.bbc.com/sport/boxing/articles/c4g9y0jp9qwo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport"
-  },
-  {
     "slug": "semenyo-prefers-liverpool-move-sunday-s-gossip",
     "title": "Semenyo prefers Liverpool move - Sunday's gossip",
     "description": "Antoine Semenyo favours move to Liverpool, Bayern Munich ready with offer for Bruno Fernandes, Chelsea looking for buyers for Nicolas Jackson, plus more.",
@@ -1161,15 +1161,6 @@
     "source": "BBC Sport"
   },
   {
-    "slug": "redknapp-runner-among-king-george-contenders",
-    "title": "Redknapp runner among King George contenders",
-    "description": "Fact To File, Gaelic Warrior and Harry Redknapp's The Jukebox Man head the confirmations for the King George VI Chase at Kempton on Boxing Day.",
-    "pubDate": "2025-12-20",
-    "image": "",
-    "link": "https://www.bbc.com/sport/horse-racing/articles/cwyw08enly2o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport"
-  },
-  {
     "slug": "ruthless-bristol-batter-harlequins-at-twickenham",
     "title": "Ruthless Bristol batter Harlequins at Twickenham",
     "description": "Bristol produce a scintillating attacking display to batter Harlequins under the lights at Twickenham Stadium.",
@@ -1179,21 +1170,30 @@
     "source": "BBC Sport"
   },
   {
-    "slug": "afcon-to-be-held-every-four-years-from-2028",
-    "title": "Afcon to be held every four years from 2028",
-    "description": "In a huge change to the football calendar, the Africa Cup of Nations will be held every four years from 2028 - switching away from biennial finals.",
+    "slug": "most-attacking-keeper-in-league-why-raya-is-key-for-arsenal",
+    "title": "'Most attacking keeper in league' - why Raya is key for Arsenal",
+    "description": "David Raya has been described as the most attacking goalkeeper in the league by Arsenal boss Mikel Arteta. BBC Sport analyse the importance of the Spaniard.",
     "pubDate": "2025-12-20",
     "image": "",
-    "link": "https://www.bbc.com/sport/football/articles/cgjnx6x4281o?at_medium=RSS&at_campaign=rss",
+    "link": "https://www.bbc.com/sport/articles/cx231l7z32do?at_medium=RSS&at_campaign=rss",
     "source": "BBC Sport"
   },
   {
-    "slug": "wyatt-beats-gb-team-mate-weston-to-world-cup-gold",
-    "title": "Wyatt beats GB team-mate Weston to World Cup gold",
-    "description": "Great Britain's Marcus Wyatt beats team-mate Matt Weston to World Cup gold in the men's skeleton in Sigulda, Latvia, while Zoe Atkin claims halfpipe gold in Colorado.",
+    "slug": "britain-s-azim-headlines-on-bbc-two-on-31-january",
+    "title": "Britain's Azim headlines on BBC Two on 31 January",
+    "description": "British light-welterweight Adam Azim will face Gustavo Lemos on BBC Two and BBC iPlayer on 31 January in London.",
     "pubDate": "2025-12-20",
     "image": "",
-    "link": "https://www.bbc.com/sport/articles/clydpdypp1yo?at_medium=RSS&at_campaign=rss",
+    "link": "https://www.bbc.com/sport/boxing/articles/c4g9y0jp9qwo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport"
+  },
+  {
+    "slug": "redknapp-runner-among-king-george-contenders",
+    "title": "Redknapp runner among King George contenders",
+    "description": "Fact To File, Gaelic Warrior and Harry Redknapp's The Jukebox Man head the confirmations for the King George VI Chase at Kempton on Boxing Day.",
+    "pubDate": "2025-12-20",
+    "image": "",
+    "link": "https://www.bbc.com/sport/horse-racing/articles/cwyw08enly2o?at_medium=RSS&at_campaign=rss",
     "source": "BBC Sport"
   },
   {
@@ -1206,12 +1206,12 @@
     "source": "BBC Sport"
   },
   {
-    "slug": "most-attacking-keeper-in-league-why-raya-is-key-for-arsenal",
-    "title": "'Most attacking keeper in league' - why Raya is key for Arsenal",
-    "description": "David Raya has been described as the most attacking goalkeeper in the league by Arsenal boss Mikel Arteta. BBC Sport analyse the importance of the Spaniard.",
+    "slug": "afcon-to-be-held-every-four-years-from-2028",
+    "title": "Afcon to be held every four years from 2028",
+    "description": "In a huge change to the football calendar, the Africa Cup of Nations will be held every four years from 2028 - switching away from biennial finals.",
     "pubDate": "2025-12-20",
     "image": "",
-    "link": "https://www.bbc.com/sport/articles/cx231l7z32do?at_medium=RSS&at_campaign=rss",
+    "link": "https://www.bbc.com/sport/football/articles/cgjnx6x4281o?at_medium=RSS&at_campaign=rss",
     "source": "BBC Sport"
   },
   {
@@ -1287,6 +1287,15 @@
     "source": "BBC Sport"
   },
   {
+    "slug": "wyatt-beats-gb-team-mate-weston-to-world-cup-gold",
+    "title": "Wyatt beats GB team-mate Weston to World Cup gold",
+    "description": "Great Britain's Marcus Wyatt beats team-mate Matt Weston to World Cup gold in the men's skeleton in Sigulda, Latvia, while Zoe Atkin claims halfpipe gold in Colorado.",
+    "pubDate": "2025-12-20",
+    "image": "",
+    "link": "https://www.bbc.com/sport/articles/clydpdypp1yo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport"
+  },
+  {
     "slug": "paul-was-sitting-there-waiting-to-get-hit-lewis-leads-big-name-reaction",
     "title": "'Paul was sitting there waiting to get hit' - Lewis leads big-name reaction",
     "description": "Former heavyweight champion Lennox Lewis believes Jake Paul 's fitness played a role in his sixth-round stoppage defeat against Anthony Joshua.",
@@ -1320,15 +1329,6 @@
     "pubDate": "2025-12-20",
     "image": "",
     "link": "https://www.bbc.com/sport/boxing/articles/c5y9x61dl52o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport"
-  },
-  {
-    "slug": "it-was-hard-to-recover-in-leinster-defeat-murphy",
-    "title": "It was hard to recover in Leinster defeat - Murphy",
-    "description": "Ulster head coach Richie Murphy says there is no time for \"wallowing\" after losing 24-20 to Leinster in the United Rugby Championship.",
-    "pubDate": "2025-12-20",
-    "image": "",
-    "link": "https://www.bbc.com/sport/rugby-union/articles/c78vky34yzro?at_medium=RSS&at_campaign=rss",
     "source": "BBC Sport"
   },
   {
