@@ -1,7 +1,7 @@
 [
   {
-    "slug": "questions-takeaways-from-nfl-week-16-resilient-bears-pull-out-ot-thriller-eagles-repeat-as-nfc-east-champs",
-    "title": "Questions, takeaways from NFL Week 16: Resilient Bears pull out OT thriller; Eagles repeat as NFC East champs",
+    "slug": "takeaways-resilient-bears-pull-out-ot-thriller-eagles-repeat-as-nfc-east-champs",
+    "title": "Takeaways: Resilient Bears pull out OT thriller; Eagles repeat as NFC East champs",
     "description": "Our NFL Nation reporters answer big questions from each Week 16 game. Here's what you need to know.",
     "pubDate": "2025-12-21",
     "image": "",
@@ -27,27 +27,27 @@
     "source": "John Keim and Tim McManus"
   },
   {
-    "slug": "oregon-beats-jmu-for-first-cfp-win-since-2014",
-    "title": "Oregon beats JMU for first CFP win since 2014",
-    "description": "No. 5 Oregon beat No. 19 James Madison 51-34 on Saturday night in a College Football Playoff opener, the Ducks' first CFP win since 2014.",
+    "slug": "lanning-ducks-fell-short-of-standard-in-cfp-win",
+    "title": "Lanning: Ducks fell short of 'standard' in CFP win",
+    "description": "Dan Lanning expressed disappointment with how Oregon performed in the second half vs. James Madison, despite advancing in the CFP for the first time since 2014.",
     "pubDate": "2025-12-21",
     "image": "",
     "link": "https://www.espn.com/college-football/story/_/id/47375831/oregon-beats-james-madison-college-football-playoff-opener",
-    "source": "www.espn.com - TOP"
+    "source": "Kyle Bonagura"
   },
   {
-    "slug": "texas-tech-jolts-unbeaten-duke-with-17-point-rally",
-    "title": "Texas Tech jolts unbeaten Duke with 17-point rally",
-    "description": "No. 19 Texas Tech rallied from 17 down to beat third-ranked Duke 82-81 at Madison Square Garden.",
+    "slug": "short-handed-texas-tech-jolts-unbeaten-duke-late",
+    "title": "Short-handed Texas Tech jolts unbeaten Duke late",
+    "description": "No. 19 Texas Tech, beset by injuries, rallied from 17 down to stun third-ranked Duke 82-81 at Madison Square Garden.",
     "pubDate": "2025-12-21",
     "image": "",
     "link": "https://www.espn.com/mens-college-basketball/story/_/id/47375526/texas-tech-rallies-17-point-deficit-stun-unbeaten-duke",
-    "source": "www.espn.com - TOP"
+    "source": "Jeff Borzello"
   },
   {
     "slug": "packers-love-concussed-after-hard-hit-vs-bears",
     "title": "Packers' Love concussed after hard hit vs. Bears",
-    "description": "Green Bay Packers quarterback Jordan Love was ruled out of Saturday's game against the Chicago Bears because of a concussion after he took a helmet hit from defensive end Austin Booker in the second quarter.",
+    "description": "Packers quarterback Jordan Love was ruled out of Saturday's game against the Chicago Bears because of a concussion after he took a helmet hit from defensive end Austin Booker in the second quarter.",
     "pubDate": "2025-12-21",
     "image": "",
     "link": "https://www.espn.com/nfl/story/_/id/47374679/packers-jordan-love-exits-concussion-taking-helmet-helmet-hit",
@@ -92,7 +92,7 @@
   {
     "slug": "cfp-first-round-takeaways-miami-s-run-game-special-teams-woes-and-blowouts",
     "title": "CFP first-round takeaways: Miami's run game, special teams woes and blowouts",
-    "description": "After two nailbiters and two blowouts, we've got our quarterfinal. Here's what we've learned from the games.",
+    "description": "After two nail-biters and two blowouts, we've got our quarterfinal. Here's what we've learned from the games.",
     "pubDate": "2025-12-21",
     "image": "",
     "link": "https://www.espn.com/college-football/story/_/id/47362658/college-football-playoff-2025-first-round-takeaways-every-game",
@@ -162,6 +162,15 @@
     "source": "Arda Ocal"
   },
   {
+    "slug": "booze-beach-beaten-how-england-lost-the-ashes",
+    "title": "Booze, beach, beaten – how England lost the Ashes",
+    "description": "BBC Sport chief cricket reporter Stephan Shemilt reveals the inside story of England's Ashes defeat in Australia on and off the pitch.",
+    "pubDate": "2025-12-21",
+    "image": "",
+    "link": "https://www.bbc.com/sport/cricket/articles/c79xynw7e39o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport"
+  },
+  {
     "slug": "england-beaten-to-lose-another-ashes-in-australia",
     "title": "England beaten to lose another Ashes in Australia",
     "description": "England's Bazball regime is in tatters as yet another Ashes series in Australia is lost at the earliest possible opportunity.",
@@ -207,9 +216,18 @@
     "source": "BBC Sport"
   },
   {
-    "slug": "injured-spinner-lyon-a-doubt-for-rest-of-ashes",
-    "title": "Injured spinner Lyon a doubt for rest of Ashes",
-    "description": "Spinner Nathan Lyon is a doubt for the remainder of the Ashes after suffering a hamstring injury in Australia's series-sealing win in Adelaide.",
+    "slug": "stokes-wants-to-remain-captain-despite-ashes-defeat",
+    "title": "Stokes wants to remain captain despite Ashes defeat",
+    "description": "England captain Ben Stokes says he \"absolutely\" has to the energy to still lead the side after their defeat by Australia in the third Test in Adelaide meant they lost the Ashes at the earliest opportunity.",
+    "pubDate": "2025-12-21",
+    "image": "",
+    "link": "https://www.bbc.com/sport/cricket/articles/cpwkekjy8wgo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport"
+  },
+  {
+    "slug": "cummins-injured-lyon-unlikely-to-play-fourth-test",
+    "title": "Cummins & injured Lyon unlikely to play fourth Test",
+    "description": "Australia could be without both Pat Cummins and Nathan Lyon for the fourth Ashes Test in Melbourne, which begins on Boxing Day.",
     "pubDate": "2025-12-21",
     "image": "",
     "link": "https://www.bbc.com/sport/cricket/articles/ckgz4321ww7o?at_medium=RSS&at_campaign=rss",
@@ -225,6 +243,24 @@
     "source": "BBC Sport"
   },
   {
+    "slug": "the-moment-that-australia-retained-the-ashes",
+    "title": "The moment that Australia retained the Ashes",
+    "description": "Marnus Labuschagne takes the catch from Josh Tongue as England are bowled out for 352, giving Australia an 82 run win and a 3-0 series lead to retain The Ashes on day five in Adelaide.",
+    "pubDate": "2025-12-21",
+    "image": "",
+    "link": "https://www.bbc.com/sport/cricket/videos/ce8njz672yyo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport"
+  },
+  {
+    "slug": "england-execution-not-good-enough-for-long-enough-stokes",
+    "title": "England execution not good enough for long enough - Stokes",
+    "description": "England captain Ben Stokes expresses pride in his side's \"character and fight\" in the third Test but admits they were not good enough for long enough to claim a victory.",
+    "pubDate": "2025-12-21",
+    "image": "",
+    "link": "https://www.bbc.com/sport/cricket/videos/cm2vrvep318o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport"
+  },
+  {
     "slug": "it-s-frustrating-smith-out-for-60-after-poor-shot",
     "title": "'It's frustrating' - Smith out for 60 after poor shot",
     "description": "Australia make the breakthrough as Jamie Smith is caught for 60 to leave England on 285-7, needing 150 runs to win the third Test on day five in Adelaide.",
@@ -234,12 +270,12 @@
     "source": "BBC Sport"
   },
   {
-    "slug": "the-moment-that-australia-retained-the-ashes",
-    "title": "The moment that Australia retained the Ashes",
-    "description": "Marnus Labuschagne takes the catch from Josh Tongue as England are bowled out for 352, giving Australia an 82 run win and a 3-0 series lead to retain The Ashes on day five in Adelaide.",
+    "slug": "mccullum-admits-he-s-made-mistakes-after-ashes-defeat",
+    "title": "McCullum admits he's made mistakes after Ashes defeat",
+    "description": "Brendon McCullum says his side haven't lived up to \"high hopes and expectations\" after failing to regain The Ashes, but that fans can expect his side to \"show what we're capable of achieving\" in the final two Test matches in the series.",
     "pubDate": "2025-12-21",
     "image": "",
-    "link": "https://www.bbc.com/sport/cricket/videos/ce8njz672yyo?at_medium=RSS&at_campaign=rss",
+    "link": "https://www.bbc.com/sport/cricket/videos/c78vyv03kygo?at_medium=RSS&at_campaign=rss",
     "source": "BBC Sport"
   },
   {
@@ -279,162 +315,63 @@
     "source": "BBC Sport"
   },
   {
-    "slug": "ben-johnson-gives-electric-postgame-speech-to-bears-after-thrilling-win-over-packers",
-    "title": "Ben Johnson gives electric postgame speech to Bears after thrilling win over Packers",
-    "description": "Chicago Bears head coach Ben Johnson gave his latest electric postgame speech after his team pulled off an improbable Week 16 victory over the Green Bay Packers on Saturday night.",
+    "slug": "fc-breakfast-can-jackpot-ekitike-joins-mbapp",
+    "title": "☕️🥐 FC Breakfast: CAN jackpot 🤑, Ekitike joins Mbappé 🤩",
+    "description": "Jackpot for the AFCON 🤑In his press conference, where he notably announced that the AFCON would be held every four years starting in 2028, the CAF president revealed that the winner of the competit...",
     "pubDate": "2025-12-21",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/ben-johnson-gives-electric-postgame-054436062.html",
+    "link": "https://sports.yahoo.com/articles/fc-breakfast-jackpot-ekitike-joins-064900602.html",
     "source": "Google News"
   },
   {
-    "slug": "awaka-grabs-15-rebounds-as-no-1-arizona-shuts-down-san-diego-state-for-68-45-win-in-phoenix",
-    "title": "Awaka grabs 15 rebounds as No. 1 Arizona shuts down San Diego State for 68-45 win in Phoenix",
-    "description": "Koa Peat scored 11 points, Tobe Awaka grabbed 15 rebounds and top-ranked Arizona smothered San Diego State for a 68-45 win Saturday night in the Naismith Hall of Fame Series.  Arizona held San Diego State to 26% shooting from the floor and 1 of 14 from 3-point distance, turning a tight game into a r",
+    "slug": "are-the-bears-the-most-clutch-team-in-nfl-history-the-numbers-say-yes",
+    "title": "Are the Bears the most clutch team in NFL history? The numbers say yes.",
+    "description": "This team has zero quit in them.",
     "pubDate": "2025-12-21",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/awaka-grabs-15-rebounds-no-054302752.html",
-    "source": "JOHN MARSHALL"
-  },
-  {
-    "slug": "steve-kerr-hits-back-at-the-referees-for-quot-weak-quot-draymond-green-ejection",
-    "title": "Steve Kerr hits back at the referees for &quot;weak&quot; Draymond Green ejection",
-    "description": "Draymond Green was ejected from the Golden State Warriors' game against the Phoenix Suns, which many deem as a horrible call.",
-    "pubDate": "2025-12-21",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/steve-kerr-hits-back-referees-054208551.html",
+    "link": "https://sports.yahoo.com/articles/bears-most-clutch-team-nfl-064620655.html",
     "source": "Google News"
   },
   {
-    "slug": "golden-knights-put-up-burn-the-tape-game-against-flames",
-    "title": "Golden Knights put up ‘burn the tape’ game against Flames",
-    "description": "The trip to Edmonton will be one of soul searching for the Vegas Golden Knights.",
+    "slug": "how-the-39-worst-39-australian-team-in-15-years-just-retained-the-ashes-against-england",
+    "title": "How the &#39;worst&#39; Australian team in 15 years just retained the Ashes against England",
+    "description": "Apparently, the worst Australian cricket team in 15 years just won the Ashes with two matches to spare against the best England squad assembled since 2011.  Long-time protagonist Stuart Broad lit the fuse ahead of a volatile contest for the longest-running rivalry in test cricket when he described t",
     "pubDate": "2025-12-21",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/golden-knights-put-burn-tape-054054866.html",
+    "link": "https://sports.yahoo.com/articles/worst-australian-team-15-years-064543938.html",
+    "source": "JOHN PYE"
+  },
+  {
+    "slug": "39-i-put-my-hands-up-39-mccullum-admits-ashes-mistakes",
+    "title": "&#39;I put my hands up&#39; - McCullum admits Ashes mistakes",
+    "description": "Coach Brendon McCullum accepts England may have made mistakes with their Ashes preparation after their series defeat was confirmed in Adelaide.",
+    "pubDate": "2025-12-21",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/put-hands-mccullum-admits-ashes-054901168.html",
     "source": "Google News"
   },
   {
-    "slug": "dj-moore-had-legendary-postgame-interview-after-bears-39-week-16-win-39-f-the-packers-39",
-    "title": "DJ Moore had legendary postgame interview after Bears&#39; Week 16 win: &#39;F the Packers&#39;",
-    "description": "Chicago Bears wide receiver DJ Moore had one of the best postgame interviews you will ever see following his team's incredible Week 16 victory over the Green Bay Packers on Saturday night.",
+    "slug": "the-10-moments-that-decided-the-ashes",
+    "title": "The 10 moments that decided the Ashes",
+    "description": "Australia have regained the Ashes after winning the first three Tests against England down under once again - here are the 10 moments that decided the destination of the urn.",
     "pubDate": "2025-12-21",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/dj-moore-had-legendary-postgame-054050945.html",
+    "link": "https://sports.yahoo.com/articles/10-moments-decided-ashes-041536807.html",
     "source": "Google News"
   },
   {
-    "slug": "how-long-is-jordan-love-out-latest-updates-recovery-time-on-packers-qb-after-suffering-concussion",
-    "title": "How long is Jordan Love out? Latest updates, recovery time on Packers QB after suffering concussion",
-    "description": "Is Jordan Love at risk of missing a critical Week 17 game for the Packers?",
+    "slug": "stokes-wants-to-remain-captain-despite-ashes-defeat",
+    "title": "Stokes wants to remain captain despite Ashes defeat",
+    "description": "England captain Ben Stokes says he \"absolutely\" has to the energy to still lead the side after their defeat by Australia in the third Test in Adelaide meant they lost the Ashes at the earliest opportunity.",
     "pubDate": "2025-12-21",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/long-jordan-love-latest-updates-034749632.html",
+    "link": "https://sports.yahoo.com/articles/stokes-wants-remain-captain-despite-064255230.html",
     "source": "Google News"
   },
   {
-    "slug": "jordan-love-injury-updates-latest-on-packers-qb-who-left-game-after-jarring-hit-to-head",
-    "title": "Jordan Love injury updates: Latest on Packers QB who left game after jarring hit to head",
-    "description": "Jordan Love absorbed a huge helmet-to-helmet shot in the first half of Saturday's game against the Bears. He exited the game afterward.",
-    "pubDate": "2025-12-21",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/jordan-love-injury-updates-latest-023200459.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "packers-week-16-snap-counts-matthew-golden-remains-wr5",
-    "title": "Packers Week 16 Snap Counts: Matthew Golden remains WR5",
-    "description": "The Green Bay Packers reshuffled their depth chart a bit, but rookie first-round pick Matthew Golden remains buried.",
-    "pubDate": "2025-12-21",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/packers-week-16-snap-counts-053846148.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "marco-sturm-gives-brutally-honest-assessment-of-bruins-frustrating-loss",
-    "title": "Marco Sturm Gives Brutally Honest Assessment Of Bruins’ Frustrating Loss",
-    "description": "The Boston Bruins finally suffered their first overtime loss of the season on Saturday, losing 5-4 to the Vancouver Canucks in shootouts at TD Garden. It was a frustrating loss for the Bruins, who saw their perfect 6-0 record snapped in shootouts. Boston outplayed the Canucks and had more than twice",
-    "pubDate": "2025-12-21",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/marco-sturm-gives-brutally-honest-053727629.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "packers-39-mistakes-vs-bears-how-green-bay-39-s-miscues-led-to-damaging-loss-to-division-rival",
-    "title": "Packers&#39; mistakes vs. Bears: How Green Bay&#39;s miscues led to damaging loss to  division rival",
-    "description": "The Packers suddenly need plenty of help to win the NFC North, and a series of pivotal mistakes are to blame.",
-    "pubDate": "2025-12-21",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/packers-mistakes-vs-bears-green-051948911.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "adam-schefter-issues-brutal-report-regarding-steelers-t-j-watt",
-    "title": "Adam Schefter Issues Brutal Report Regarding Steelers’ T.J. Watt",
-    "description": "The Pittsburgh Steelers can’t seem to avoid bad news when it comes to linebacker T.J. Watt. Watt, who underwent successful surgery to stabilize and repair a partially collapsed lung that was suffered during a dry needling treatment session at the facility two weeks ago, was ruled out earlier this we",
-    "pubDate": "2025-12-21",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/adam-schefter-issues-brutal-report-053327262.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "who-plays-on-39-sunday-night-football-39-tonight-time-tv-channel-schedule-live-stream-for-nfl-week-16-game",
-    "title": "Who plays on &#39;Sunday Night Football&#39; tonight? Time, TV channel, schedule, live stream for NFL Week 16 game",
-    "description": "Here is all you need to know about Week 16's \"Sunday Night Football\" matchup, including who is playing, and how to watch.",
-    "pubDate": "2025-12-21",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/plays-sunday-night-football-tonight-053001990.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "four-academy-wonderkids-set-to-make-matchday-squad-vs-villa",
-    "title": "Four academy wonderkids set to make matchday squad vs Villa",
-    "description": "Manchester United will be without four of their key performers for arguably their toughest test of the Premier League campaign so far.Amad, Bryan Mbeumo, and Noussair Mazraoui have all departed for AF...",
-    "pubDate": "2025-12-21",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/four-academy-wonderkids-set-matchday-053000135.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "bears-pull-off-improbable-rally-and-stun-packers-22-16-in-overtime",
-    "title": "Bears pull off improbable rally and stun Packers, 22-16 in overtime",
-    "description": "CHICAGO — Caleb Williams lofted a 46-yard touchdown pass to receiver DJ Moore for a walk-off touchdown in overtime, giving the Chicago Bears a 22-16 win over the Green Bay Packers on Saturday night at Soldier Field. In stunning fashion, the Bears erased a 10-point fourth-quarter deficit with a furio",
-    "pubDate": "2025-12-21",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/bears-pull-off-improbable-rally-053000568.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "instant-analysis-from-bears-39-improbable-comeback-win-vs-packers",
-    "title": "Instant analysis from Bears&#39; improbable comeback win vs. Packers",
-    "description": "The Chicago Bears mounted an improbable comeback win over the Green Bay Packers on Saturday night. We break it down.",
-    "pubDate": "2025-12-21",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/instant-analysis-bears-improbable-comeback-052927048.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "latest-joe-mazzulla-personal-story-will-make-celtics-fans-laugh",
-    "title": "Latest Joe Mazzulla Personal Story Will Make Celtics Fans Laugh",
-    "description": "Boston Celtics head coach Joe Mazzulla never allows convention to dictate his coaching style, and it sounds like he doesn’t let it rule his home life, either. Mazzulla has been known to show his players footage of killer whales to inspire and educate, and a new story reveals that Mazzulla is now int",
-    "pubDate": "2025-12-21",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/latest-joe-mazzulla-personal-story-052919820.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "nfc-playoff-picture-week-16-how-wild-bears-comeback-impacts-seahawks-no-1-seed-chase",
-    "title": "NFC Playoff Picture, Week 16: How wild Bears comeback impacts Seahawks’ No. 1 seed chase",
-    "description": "The Seahawks’ path to the No. 1 seed is clear, but the shortcut just got altered by the Bears.",
-    "pubDate": "2025-12-21",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/nfc-playoff-picture-week-16-052509110.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "injured-spinner-lyon-a-doubt-for-rest-of-ashes",
-    "title": "Injured spinner Lyon a doubt for rest of Ashes",
-    "description": "Spinner Nathan Lyon is a doubt for the remainder of the Ashes after suffering a hamstring injury in Australia's series-sealing win in Adelaide.",
+    "slug": "cummins-injured-lyon-unlikely-to-play-fourth-test",
+    "title": "Cummins & injured Lyon unlikely to play fourth Test",
+    "description": "Australia could be without both Pat Cummins and Nathan Lyon for the fourth Ashes Test in Melbourne, which begins on Boxing Day.",
     "pubDate": "2025-12-21",
     "image": "",
     "link": "https://sports.yahoo.com/articles/lyon-third-test-doubt-rest-020722626.html",
@@ -450,57 +387,12 @@
     "source": "Google News"
   },
   {
-    "slug": "luka-doncic-injury-news-is-nightmare-scenario-for-lakers",
-    "title": "Luka Doncic injury news is nightmare scenario for Lakers",
-    "description": "The Los Angeles Lakers didn't receive a positive injury update regarding their superstar point guard on Saturday night.",
+    "slug": "booze-beach-beaten-how-england-lost-the-ashes",
+    "title": "Booze, beach, beaten – how England lost the Ashes",
+    "description": "BBC Sport chief cricket reporter Stephan Shemilt reveals the inside story of England's Ashes defeat in Australia on and off the pitch.",
     "pubDate": "2025-12-21",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/luka-doncic-injury-news-nightmare-052131097.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "malik-willis-stats-today-packers-backup-qb-shines-in-relief-after-jordan-love-suffers-concussion-vs-bears",
-    "title": "Malik Willis stats today: Packers backup QB shines in relief after Jordan Love suffers concussion vs. Bears",
-    "description": "Malik Willis saved the best performance of his career for the Packers' Week 16 duel against the Bears.",
-    "pubDate": "2025-12-21",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/malik-willis-stats-today-packers-043054092.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "keys-for-how-the-bengals-can-beat-the-dolphins-in-miami",
-    "title": "Keys for how the Bengals can beat the Dolphins in Miami",
-    "description": "What Joe Burrow and the Cincinnati Bengals need to do to get back on track and beat the Miami Dolphins on Dec. 21.",
-    "pubDate": "2025-12-21",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/keys-bengals-beat-dolphins-miami-052014905.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "quick-takeaways-from-packers-39-22-16-loss-to-bears-red-zone-woes-resurface",
-    "title": "Quick takeaways from Packers&#39; 22-16 loss to Bears: Red zone woes resurface",
-    "description": "The Packers went 0 for 5 in the red zone on Saturday night and it came back to bite them in a crushing loss to the Bears.",
-    "pubDate": "2025-12-21",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/quick-takeaways-packers-22-16-051657476.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "luka-doncic-injury-update-lakers-star-exits-game-vs-clippers",
-    "title": "Luka Doncic injury update: Lakers star exits game vs. Clippers",
-    "description": "Lakers star Luka Doncic was ruled out for the second half of Saturday night's game against the Clippers.",
-    "pubDate": "2025-12-21",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/luka-doncic-injury-lakers-star-051555107.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "cathedral-prep-wins-ksa-pre-holiday-tournament-in-orlando",
-    "title": "Cathedral Prep wins KSA Pre-Holiday Tournament in Orlando",
-    "description": "Cathedral Prep 84, John B. Alexander, 74",
-    "pubDate": "2025-12-21",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/cathedral-prep-wins-ksa-pre-051450492.html",
+    "link": "https://sports.yahoo.com/articles/booze-beach-beaten-england-lost-062943065.html",
     "source": "Google News"
   },
   {
@@ -513,219 +405,363 @@
     "source": "Google News"
   },
   {
-    "slug": "nfl-world-reacts-to-bears-39-stunning-overtime-win-over-packers",
-    "title": "NFL world reacts to Bears&#39; stunning overtime win over Packers",
-    "description": "The Chicago Bears walked off the Green Bay Packers in a wild overtime win and social media went wild.",
+    "slug": "patriots-predicted-to-select-game-changing-pass-rusher-next-season",
+    "title": "Patriots Predicted To Select Game‑Changing Pass Rusher Next Season",
+    "description": "The college football season is winding down, and it’s officially time to start considering where some of the top players in the sport might end up in the 2026 NFL Draft. Although the Patriots still have three games remaining in the regular season and a possible playoff run ahead, New England can als",
     "pubDate": "2025-12-21",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/nfl-world-reacts-bears-stunning-051353232.html",
+    "link": "https://sports.yahoo.com/articles/patriots-predicted-select-game-changing-063959635.html",
     "source": "Google News"
   },
   {
-    "slug": "saturday-scoreboard-december-20",
-    "title": "Saturday Scoreboard – December 20",
-    "description": "SIOUX FALLS, S.D. (KELO) — View scores from around the area on this Saturday. NFLChicago 22, Green Bay 16 (OT) COLLEGE HOCKEYOmaha 4, Augustana 1 WOMEN’S COLLEGE BASKETBALLConcordia-St. Paul 80, Augustana 67Minnesota Crookston 65, Northern St. 58Minnesota St. 93, USF 82 MEN’S COLLEGE BASKETBALLAugus",
+    "slug": "notable-quotes-from-dan-lanning-39-s-presser-after-cfp-win-over-jmu",
+    "title": "Notable quotes from Dan Lanning&#39;s presser after CFP win over JMU",
+    "description": "Oregon Ducks head coach Dan Lanning met with media members to break down his team's win over the James Madison Dukes in the first round of the CFP.",
     "pubDate": "2025-12-21",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/saturday-scoreboard-december-20-051329661.html",
+    "link": "https://sports.yahoo.com/articles/notable-quotes-dan-lannings-presser-063353121.html",
     "source": "Google News"
   },
   {
-    "slug": "presser-palmer-reaches-2-000-career-points",
-    "title": "Presser-Palmer reaches 2,000 career points",
-    "description": "Northwestern basketball standout Makayla Presser-Palmer reached the 2,000 point mark in a 49-26 victory in the KSA Pre-Holiday Tournament on Saturday.",
+    "slug": "max-14-gets-message-of-support-from-man-utd-star",
+    "title": "Max,14, gets message of support from Man Utd star",
+    "description": "Max is receiving treatment after going into hospital at the end of last month.",
     "pubDate": "2025-12-21",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/presser-palmer-reaches-2-000-051328310.html",
+    "link": "https://sports.yahoo.com/articles/max-14-gets-message-support-063312135.html",
     "source": "Google News"
   },
   {
-    "slug": "instant-analysis-of-packers-39-22-16-overtime-loss-to-bears-in-week-16",
-    "title": "Instant analysis of Packers&#39; 22-16 overtime loss to Bears in Week 16",
-    "description": "Instant analysis of the Packers' 22-16 overtime loss to the Bears in Week 16.",
+    "slug": "good-bad-and-ugly-from-packers-39-overtime-loss-to-bears-in-week-16",
+    "title": "Good, bad and ugly from Packers&#39; overtime loss to Bears in Week 16",
+    "description": "The good, the bad and the ugly coming out of the Packers' 22-16 overtime loss to the Bears in Week 16.",
     "pubDate": "2025-12-21",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/instant-analysis-packers-22-16-051227260.html",
+    "link": "https://sports.yahoo.com/articles/good-bad-ugly-packers-overtime-063255438.html",
     "source": "Google News"
   },
   {
-    "slug": "nba-executives-believe-bulls-39-coby-white-could-be-traded",
-    "title": "NBA executives believe Bulls&#39; Coby White could be traded",
-    "description": "White's departure could signal the start of a rebuild.",
+    "slug": "skarek-barracuda-defeat-reign-in-shootout",
+    "title": "Skarek, Barracuda defeat Reign in shootout",
+    "description": "Andre Lee recorded two goals in the Reign's 4-3 shootout loss to the San Jose Barracuda. Jakub Skarek's 28 saves and Egor Afanasyev's two goals would aid in a victory for San Jose.",
     "pubDate": "2025-12-21",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/nba-executives-believe-bulls-coby-051150665.html",
+    "link": "https://sports.yahoo.com/articles/skarek-barracuda-defeat-reign-shootout-063104658.html",
     "source": "Google News"
   },
   {
-    "slug": "schefter-returning-to-field-not-t-j-watt-s-main-focus-after-surgery",
-    "title": "Schefter: Returning to field not T.J. Watt’s main focus after surgery",
-    "description": "The Steelers may not get Watt back for a while.",
+    "slug": "what-channel-is-cowboys-vs-chargers-on-today-live-stream-time-tv-schedule-to-watch-nfl-week-16-game",
+    "title": "What channel is Cowboys vs. Chargers on today? Live stream, time, TV schedule to watch NFL Week 16 game",
+    "description": "Here is everything you need to know to tune in or watch the Cowboys vs. Chargers game in Week 16.",
     "pubDate": "2025-12-21",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/schefter-returning-field-not-t-051131105.html",
+    "link": "https://sports.yahoo.com/articles/channel-cowboys-vs-chargers-today-063001360.html",
     "source": "Google News"
   },
   {
-    "slug": "final-game-before-break-slips-away-from-otters",
-    "title": "Final game before break slips away from Otters",
-    "description": "Flint Firebirds 5, Erie Otters 3",
+    "slug": "bayern-munich-star-harry-kane-describes-incredible-feeling-of-scoring-big-goals",
+    "title": "Bayern Munich star Harry Kane describes incredible feeling of scoring big goals",
+    "description": "Harry Kane talks about doing it all for the love of the game.",
     "pubDate": "2025-12-21",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/final-game-break-slips-away-051049595.html",
+    "link": "https://sports.yahoo.com/articles/bayern-munich-star-harry-kane-063000958.html",
     "source": "Google News"
   },
   {
-    "slug": "chicago-bears-stun-green-bay-packers-in-improbable-rally-williams-finds-moore-for-ot-winning-score",
-    "title": "Chicago Bears stun Green Bay Packers in improbable rally, Williams finds Moore for OT winning score",
-    "description": "The Chicago Bears defeated the Green Bay Packers Saturday night at Soldier Field in another comeback win after a long touchdown pass from Caleb Williams to DJ Moore sealed the game 22-16 in overtime.",
+    "slug": "who-should-i-start-week-16-fantasy-playoffs-sunday-start-sit-rankings-last-minute-lineup-decisions-nfl-weather-inactives-breaking-news",
+    "title": "Who should I start Week 16? Fantasy playoffs Sunday start sit rankings, last-minute lineup decisions, NFL weather, inactives, breaking news",
+    "description": "Set your Week 16 fantasy football lineups for the playoffs in Round 2. Click to read start 'em, sit 'em advice, injury inactive news, and pregame reports that provide insider fantasy tips.",
     "pubDate": "2025-12-21",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/chicago-bears-caleb-williams-seek-023659968.html",
+    "link": "https://sports.yahoo.com/articles/start-week-16-fantasy-playoffs-011500868.html",
     "source": "Google News"
   },
   {
-    "slug": "takeaways-from-xavier-39-s-big-east-road-win-over-georgetown-hoyas",
-    "title": "Takeaways from Xavier&#39;s Big East road win over Georgetown Hoyas",
-    "description": "Xavier bounced back from its 41-point loss to Creighton in a big way by defeating Georgetown, 80-77, on the road Dec. 20.",
+    "slug": "why-d-c-united-selected-nikola-markovic-no-1-in-2026-mls-superdraft",
+    "title": "Why D.C. United selected Nikola Markovic No. 1 in 2026 MLS SuperDraft",
+    "description": "Following the signing of DP striker Tai Baribo, D.C. United took another significant step forward in their rebuilding process, selecting Nikola Markovic with the first pick of the 2026 MLS SuperDraft....",
     "pubDate": "2025-12-21",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/takeaways-xaviers-big-east-road-050644425.html",
+    "link": "https://sports.yahoo.com/articles/why-d-c-united-selected-062700371.html",
     "source": "Google News"
   },
   {
-    "slug": "takeaways-from-xavier-39-s-big-east-road-win-over-georgetown-hoyas",
-    "title": "Takeaways from Xavier&#39;s Big East road win over Georgetown Hoyas",
-    "description": "Xavier bounced back from its 41-point loss to Creighton in a big way by defeating Georgetown, 80-77, on the road Dec. 20.",
+    "slug": "backlund-scores-2-as-flames-beat-golden-knights-6-3",
+    "title": "Backlund scores 2 as Flames beat Golden Knights 6-3",
+    "description": "Mikael Backlund scored two goals and the Calgary Flames beat the Vegas Golden Knights 6-3 on Saturday night.  Joel Farabee, Ryan Lomberg, Adam Klapka and Jonathan Huberdeau also scored as the Flames won for the seventh time in their last nine games at home (7-1-1).  Connor Zary and MacKenzie Weegar",
     "pubDate": "2025-12-21",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/takeaways-xaviers-big-east-road-050644131.html",
+    "link": "https://sports.yahoo.com/articles/backlund-scores-2-flames-beat-062424376.html",
     "source": "Google News"
   },
   {
-    "slug": "luka-doncic-exits-lakers-game-with-leg-injury",
-    "title": "Luka Doncic exits Lakers game with leg injury",
-    "description": "Luka Doncic suffered an injury and didn't return after halftime of the Los Anglees Lakers' game against the Los Angeles Clippers on Saturday night.  The Lakers said the NBA's leading scorer sustained a left leg contusion.  Doncic leads the league at 35.2 points per game, just ahead of Oklahoma City'",
+    "slug": "durant-scores-31-sheppard-has-28-as-rockets-end-nuggets-39-6-game-win-streak",
+    "title": "Durant scores 31, Sheppard has 28 as Rockets end Nuggets&#39; 6-game win streak",
+    "description": "",
     "pubDate": "2025-12-21",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/luka-doncic-exits-lakers-game-050612049.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "lakers-star-luka-doncic-suffers-injury-vs-clippers-will-not-return-to-game",
-    "title": "Lakers star Luka Doncic suffers injury vs. Clippers, will not return to game",
-    "description": "Lakers star Luka Doncic sustained a left leg contusion against the Clippers and was ruled out for the remainder of the game.",
-    "pubDate": "2025-12-21",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/lakers-star-luka-doncic-suffers-050534722.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "jalen-hurts-and-the-eagles-win-their-second-nfc-east-title-in-a-row-by-beating-the-commanders",
-    "title": "Jalen Hurts and the Eagles win their second NFC East title in a row by beating the Commanders",
-    "description": "This was not a terrific performance by the Super Bowl champion Philadelphia Eagles, from a fumble on the opening kickoff to a pair of penalties on the tush push to three wide-left field-goal tries to a halftime deficit.  The game included a late brawl after Barkley tacked on a 2-point conversion to",
-    "pubDate": "2025-12-21",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/jalen-hurts-eagles-win-second-050436783.html",
+    "link": "https://sports.yahoo.com/articles/durant-scores-31-sheppard-28-062333445.html",
     "source": "The Associated Press"
   },
   {
-    "slug": "rock-creek-boy-s-basketball-takes-flurry-on-flush-tournament-title",
-    "title": "Rock Creek boy’s basketball takes “Flurry on Flush” tournament title",
-    "description": "ST. GEORGE (KSNT) – The Rock Creek boy’s basketball team defended its home court in the championship game of the “Flurry on Flush” tournament, defeating Hays 56-32. The Mustangs were hot from beyond the arch, as a flurry of three-pointers led to the 24-point win. Please report scores to KSNTSports@n",
+    "slug": "saturday-night-roundup-high-school-holiday-basketball-tournaments",
+    "title": "Saturday Night Roundup: High School Holiday Basketball Tournaments",
+    "description": "TRI-CITIES, Tenn. (WJHL) – Saturday evening delivered holiday tournament action, with semifinal victories setting up championship matchups and one team bringing home the hardware. At the Betsy Bash semifinals inside Elizabethton High School, Unicoi County’s boys’ basketball team earned a spot in the",
     "pubDate": "2025-12-21",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/rock-creek-boy-basketball-takes-050322945.html",
+    "link": "https://sports.yahoo.com/articles/saturday-night-roundup-high-school-062239334.html",
     "source": "Google News"
   },
   {
-    "slug": "k-state-women-s-basketball-falls-to-no-9-tcu-in-big-12-opener",
-    "title": "K-State women’s basketball falls to No. 9 TCU in Big 12 Opener",
-    "description": "FORT WORTH, Tx. (KSNT) – Kansas State women’s basketball drops its Big 12 opener to No. 9 TCU, 77-55. The Wildcats had two players hit double figures, with junior guard Taryn Sides and sophomore forward Jenessa Cotton each having 10 points. K-State would struggle from the arch going 4-23, and was he",
+    "slug": "packers-players-take-ownership-for-late-game-mistakes-vs-bears",
+    "title": "Packers players take ownership for late-game mistakes vs. Bears",
+    "description": "Green Bay Packers QB Malik Willis and WR Romeo Doubs take ownership for their mistakes on Saturday night.",
     "pubDate": "2025-12-21",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/k-state-women-basketball-falls-050317994.html",
+    "link": "https://sports.yahoo.com/articles/packers-players-ownership-game-mistakes-061716078.html",
     "source": "Google News"
   },
   {
-    "slug": "braves-news-offseason-rumors-player-reviews-more",
-    "title": "Braves News: Offseason rumors, player reviews, more",
-    "description": "Atlanta Braves news and notes from Saturday",
+    "slug": "manchester-united-xi-vs-aston-villa-predicted-lineup-and-team-news",
+    "title": "Manchester United XI vs Aston Villa – Predicted lineup and team news",
+    "description": "Manchester United travel to the West Midlands on Sunday, facing one of the league’s toughest tests. Currently, Ruben Amorim’s side remain unbeaten in four league games. However, they showed defens...",
     "pubDate": "2025-12-21",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/braves-news-offseason-rumors-player-050300711.html",
+    "link": "https://sports.yahoo.com/articles/manchester-united-xi-vs-aston-061600305.html",
     "source": "Google News"
   },
   {
-    "slug": "luka-doncic-ruled-out-for-second-half-of-saturday-39-s-game-vs-clippers",
-    "title": "Luka Doncic ruled out for second half of Saturday&#39;s game vs Clippers",
-    "description": "The Lakers struggled mightily in the first half of Saturday's game versus the Clippers, and they came into the third quarter even more short-handed.",
+    "slug": "playmakers-power-desoto-tx-in-55-27-win-against-houston-sheldon-king-tx-live-updates-score-of-texas-uil-6a-division-ii-title-contest",
+    "title": "Playmakers power DeSoto (TX) in 55-27 win against Houston Sheldon King (TX): Live updates, score of Texas UIL 6A Division II title contest",
+    "description": "Eagles dominant in all three phases as they claim third title in four seasons",
     "pubDate": "2025-12-21",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/luka-doncic-ruled-second-half-050257850.html",
+    "link": "https://sports.yahoo.com/articles/desoto-tx-vs-houston-sheldon-003554524.html",
     "source": "Google News"
   },
   {
-    "slug": "49ers-playoff-picture-what-the-eagles-and-bears-wins-means-for-nfc-standings",
-    "title": "49ers playoff picture: What the Eagles and Bears wins means for NFC standings",
-    "description": "The Seahawks opened the path for the 49ers to earn the No. 1 seed.",
+    "slug": "aston-villa-xi-vs-manchester-united-predicted-lineup-and-team-news",
+    "title": "Aston Villa XI vs Manchester United – Predicted lineup and team news",
+    "description": "Aston Villa welcome Manchester United to Villa Park on Sunday, looking to make history. Unai Emery’s side are chasing a seventh straight Premier League win, a milestone they haven’t reached since ...",
     "pubDate": "2025-12-21",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/49ers-playoff-picture-seahawks-win-050630213.html",
+    "link": "https://sports.yahoo.com/articles/aston-villa-xi-vs-manchester-061200868.html",
     "source": "Google News"
   },
   {
-    "slug": "silver-lake-girl-s-basketball-wins-flurry-on-flush-tournament",
-    "title": "Silver Lake girl’s basketball wins “Flurry on Flush” tournament",
-    "description": "ST. GEORGE (KSNT) – The Silver Lake Eagles faced off against the Eudora Cardinals in the championship of the “Flurry on Flush” varsity basketball tournament Saturday afternoon. The Eagles took an early lead and never looked back, defeating the Cardinals 72-44. Senior Kailyn Hanni hit 1,000 career po",
+    "slug": "kawhi-leonard-has-season-high-32-points-as-clippers-beat-lakers-103-88-to-snap-5-game-skid",
+    "title": "Kawhi Leonard has season-high 32 points as Clippers beat Lakers 103-88 to snap 5-game skid",
+    "description": "Kawhi Leonard scored a season-high 32 points and the slumping Los Angeles Clippers rode their 3-point shooting to a 103-88 victory over LeBron James and the short-handed Los Angeles Lakers on Saturday night, snapping a five-game skid.  James, who turns 41 on Dec. 30, led the Lakers with a season-hig",
     "pubDate": "2025-12-21",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/silver-lake-girl-basketball-wins-050224815.html",
+    "link": "https://sports.yahoo.com/articles/kawhi-leonard-season-high-32-061139932.html",
+    "source": "BETH HARRIS"
+  },
+  {
+    "slug": "7-observations-self-inflicted-wounds-snap-golden-knights-point-streak",
+    "title": "7 Observations: Self-Inflicted Wounds Snap Golden Knights’ Point Streak",
+    "description": "On Saturday, the Vegas Golden Knights (16-7-10) played the first of a road back-to-back against the Calgary Flames (15-17-4). The […]",
+    "pubDate": "2025-12-21",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/7-observations-self-inflicted-wounds-061129137.html",
     "source": "Google News"
   },
   {
-    "slug": "malik-benson-wins-ducks-wire-player-of-the-game-vs-james-madison",
-    "title": "Malik Benson wins Ducks Wire Player of the Game vs. James Madison",
-    "description": "Oregon Ducks wide receiver Malik benson is the Ducks Wire Player of the Game for his performance vs. the James Madison Dukes in the CFP.",
+    "slug": "right-hander-paul-blackburn-stays-with-yankees-for-2-million-1-year-contract-ap-source-says",
+    "title": "Right-hander Paul Blackburn stays with Yankees for $2 million, 1-year contract, AP source says",
+    "description": "Right-hander Paul Blackburn is remaining with the New York Yankees, agreeing Saturday to a $2 million, one-year contract, a person familiar with the negotiations told The Associated Press.  A former All-Star, Blackburn can earn an additional $500,000 in performance bonuses for innings: $100,000 each",
     "pubDate": "2025-12-21",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/malik-benson-wins-ducks-wire-050132605.html",
+    "link": "https://sports.yahoo.com/articles/hander-paul-blackburn-stays-yankees-060955555.html",
+    "source": "RONALD BLUM"
+  },
+  {
+    "slug": "kevin-garnett-says-fans-shouldn-39-t-give-all-star-votes-to-lebron",
+    "title": "Kevin Garnett says fans shouldn&#39;t give All-Star votes to LeBron",
+    "description": "The Big Ticket believes fans should use their votes wisely.",
+    "pubDate": "2025-12-21",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/kevin-garnett-says-fans-shouldnt-060846293.html",
     "source": "Google News"
   },
   {
-    "slug": "hawaii-commits-29-turnovers-in-loss-to-montana-state",
-    "title": "Hawaii commits 29 turnovers in loss to Montana State",
-    "description": "Taylee Chirrick scored a game-high 26 points and Montana State forced 29 turnovers in a 72-56 win over Hawaii today in the Maui Classic at Seabury Hall Gym in Makawao, Maui. Addison Harris made her last five shots to add 20 points for the Bobcats (7-4 ), who are ranked No. 17 in the CollegeInsider.c",
+    "slug": "inside-the-bears-39-locker-room-after-their-improbable-win-vs-packers",
+    "title": "Inside the Bears&#39; locker room after their improbable win vs. Packers",
+    "description": "Take a look inside an energetic Bears locker room following their improbable comeback win over the Packers on Saturday night.",
     "pubDate": "2025-12-21",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/hawaii-commits-29-turnovers-loss-050100953.html",
+    "link": "https://sports.yahoo.com/articles/inside-bears-locker-room-improbable-060601629.html",
     "source": "Google News"
   },
   {
-    "slug": "stop-the-nonsense-alabama-football-39-s-kalen-deboer-isn-t-leaving-alabama",
-    "title": "Stop the Nonsense: Alabama Football&#39;s Kalen DeBoer Isn’t Leaving Alabama",
-    "description": "Rumors fly, but Kalen DeBoer is firmly rooted in Tuscaloosa. Alabama's championship DNA and DeBoer's commitment silence the noise.",
+    "slug": "broncos-sean-payton-could-tie-bill-belichick-s-milestone-with-win-over-jaguars",
+    "title": "Broncos’ Sean Payton Could Tie Bill Belichick’s Milestone With Win Over Jaguars",
+    "description": "Broncos head coach Sean Payton has done an incredible job leading Denver this season, and as a result, it is currently holding the No. 1 seed in the AFC. Payton is not only aiming to secure the AFC’s No. 1 seed, but he’s also working to match former New England Patriots head coach Bill Belichick […]",
     "pubDate": "2025-12-21",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/stop-nonsense-alabama-footballs-kalen-050003671.html",
+    "link": "https://sports.yahoo.com/articles/broncos-sean-payton-could-tie-060526200.html",
     "source": "Google News"
   },
   {
-    "slug": "commanders-lose-two-starting-offensive-linemen-to-injury-in-week-16",
-    "title": "Commanders lose two starting offensive linemen to injury in Week 16",
-    "description": "The Washington Commanders lost two starting offensive linemen late during a Week 16 loss to the Eagles.",
+    "slug": "no-19-texas-tech-overcomes-foul-trouble-in-stunning-comeback-from-17-down-against-3rd-ranked-duke",
+    "title": "No. 19 Texas Tech overcomes foul trouble in stunning comeback from 17 down against 3rd-ranked Duke",
+    "description": "Every number on the scoreboard and every line on the stat sheet indicated No. 19 Texas Tech was in serious trouble.  LeJuan Watts had already fouled out, JT Toppin was one whistle away and the Red Raiders were trying to climb all the way out of a 17-point hole against undefeated Duke, the third-rank",
     "pubDate": "2025-12-21",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/commanders-lose-two-starting-offensive-050002023.html",
+    "link": "https://sports.yahoo.com/articles/no-19-texas-tech-overcomes-060449424.html",
+    "source": "LARRY FLEISHER"
+  },
+  {
+    "slug": "pep-guardiola-has-laid-down-the-challenge-for-his-players-as-city-enters-familiar-territory",
+    "title": "Pep Guardiola has laid down the challenge for his players as City enters familiar territory",
+    "description": "Manchester City picked up a comfortable 3-nil win over West Ham at the Etihad Stadium yesterday to maintain the pressure on Premier League leaders Arsenal. A brace from Erling Haaland and a first-half...",
+    "pubDate": "2025-12-21",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/pep-guardiola-laid-down-challenge-060300202.html",
     "source": "Google News"
   },
   {
-    "slug": "who-will-oregon-play-next-explaining-the-2025-cfp-bracket-opponent-for-round-2",
-    "title": "Who will Oregon play next? Explaining the 2025 CFP bracket opponent for Round 2",
-    "description": "Who will Oregon find itself lined up against in the quarterfinals?",
+    "slug": "pavel-mintyukov-scores-with-3-29-left-to-lift-ducks-past-blue-jackets-4-3",
+    "title": "Pavel Mintyukov scores with 3:29 left to lift Ducks past Blue Jackets, 4-3",
+    "description": "Pavel Mintyukov slid a shot from the slot past Elvis Merzlikins with 3:29 left and the Anaheim Ducks beat the Columbus Blue Jackets 4-3 on Saturday night.  Mikael Granlund threaded a pass from the right circle to set up Merzlikins, and also scored.  Jacob Trouba and Mason McTavish added goals to hel",
     "pubDate": "2025-12-21",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/oregon-james-madison-play-next-100002056.html",
+    "link": "https://sports.yahoo.com/articles/pavel-mintyukov-scores-3-29-060219848.html",
+    "source": "MIKE DiGIOVANNA"
+  },
+  {
+    "slug": "pleasant-earns-a-going-away-present-before-heading-to-ky-tourney",
+    "title": "Pleasant earns a going away present before heading to Ky. tourney",
+    "description": "Pleasant rallied at Marion Harding Dec. 20 before it heads to Kentucky for a three-day in-season girls basketball tournament.",
+    "pubDate": "2025-12-21",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/pleasant-earns-going-away-present-060031591.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "where-to-watch-hearts-vs-rangers-live-stream-tv-channel-start-time-for-scottish-premiership-match",
+    "title": "Where to watch Hearts vs. Rangers live stream, TV channel, start time for Scottish Premiership match",
+    "description": "Hearts vs. Rangers kickoff time: Here’s how to watch the Scottish Premiership match on TV and live stream. The Sporting News takes you through all the information you need to follow the game.",
+    "pubDate": "2025-12-21",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/where-watch-hearts-vs-rangers-060002918.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "what-time-is-the-ncaa-volleyball-championship-channel-schedule-live-stream-to-watch-kentucky-vs-texas-a-m",
+    "title": "What time is the NCAA volleyball championship? Channel, schedule, live stream to watch Kentucky vs. Texas A&M",
+    "description": "Here's everything you need to know to watch Wildcats vs. Aggies for the volleyball title.",
+    "pubDate": "2025-12-21",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/time-ncaa-volleyball-championship-channel-060002340.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "benjamin-sesko-reveals-united-know-villa-8217-s-8220-weak-spots-8221",
+    "title": "Benjamin Sesko reveals United know Villa&#8217;s &#8220;weak spots&#8221;",
+    "description": "Manchester United could be without as many as six key first-team stars when they take on Aston Villa away from home on Sunday.Matthijs de Ligt and Harry Maguire remain sidelined, while Casemiro is set...",
+    "pubDate": "2025-12-21",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/benjamin-sesko-reveals-united-know-060000580.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "aston-villa-vs-manchester-united-match-preview-and-team-news",
+    "title": "Aston Villa vs Manchester United – Match Preview and Team News",
+    "description": "A blockbuster clash awaits at Villa Park on Sunday afternoon as title contenders Aston Villa host Manchester United in the Premier League. Unai Emery’s side are the form team of the division, aiming...",
+    "pubDate": "2025-12-21",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/aston-villa-vs-manchester-united-060000558.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "talking-points-sunderland-remain-solid-to-earn-a-point-at-brighton",
+    "title": "Talking Points: Sunderland Remain Solid To Earn A Point At Brighton",
+    "description": "Lee Morrison looks at the main talking points after another determined Sunderland performance!",
+    "pubDate": "2025-12-21",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/talking-points-sunderland-remain-solid-060000930.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "matchday-musings-sunderland-s-progress-continues-at-the-amex",
+    "title": "Matchday Musings: Sunderland’s Progress Continues At The Amex!",
+    "description": "“Given that December’s fixtures looked tricky at first glance, we’re doing just fine”, writes Phil West",
+    "pubDate": "2025-12-21",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/matchday-musings-sunderland-progress-continues-060000152.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "2-up-2-down-honours-even-as-the-lads-are-held-by-brighton",
+    "title": "2 Up, 2 Down: Honours Even As The Lads Are Held By Brighton",
+    "description": "A rejigged Sunderland ground out a point at the Amex on Saturday. What did our writers make of the game?",
+    "pubDate": "2025-12-21",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/2-2-down-honours-even-060000941.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "on-this-day-21st-dec-1946-steady-away-as-sunderland-earn-the-points",
+    "title": "On This Day (21st Dec 1946): “Steady Away” As Sunderland Earn The Points!",
+    "description": "A trip to Bolton gave the Lads a well-deserved victory as Johnny Cochrane’s men kept pace!",
+    "pubDate": "2025-12-21",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/day-21st-dec-1946-steady-060000695.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "lasses-preview-ipswich-h-a-crucial-pre-christmas-clash",
+    "title": "Lasses Preview: Ipswich (H) — A Crucial Pre- Christmas Clash!",
+    "description": "Will it be a winter warmer at Eppleton as the Lasses take on Ipswich? Charlotte Patterson previews today’s game!",
+    "pubDate": "2025-12-21",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/lasses-preview-ipswich-h-crucial-060000849.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "mccarthy-notches-first-mw-win-with-fresno-st-in-53-36-win-over-wyoming",
+    "title": "McCarthy notches first MW win with Fresno St. in 53-36 win over Wyoming",
+    "description": "FRESNO, CA (KSEE/KGPE) – It’s another milestone win for Ryan McCarthy in his first season with Fresno State Women’s Basketball. Bulldogs blow by Wyoming 53-36 for their initial Mountain West win of the season. Dominating on both ends after a slow start in the first quarter. Fresno State forces 24 Co",
+    "pubDate": "2025-12-21",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/mccarthy-notches-first-mw-win-055954126.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "beede-s-breakdown-magic-outlast-jazz-in-overtime-thanks-to-bane-s-winner",
+    "title": "Beede’s Breakdown: Magic outlast Jazz in overtime thanks to Bane’s winner",
+    "description": "The Magic led the Jazz by as many as 19 points in the second half of Saturday’s contest at Delta Center, but that didn’t bother Utah. The young Western Conference squad that entered the game with just 10 wins stormed back late to force overtime against Orlando, but Desmond Bane saved the night for h",
+    "pubDate": "2025-12-21",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/beede-breakdown-magic-outlast-jazz-055900729.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "ivica-zubac-injury-update-clippers-center-ruled-out-vs-lakers",
+    "title": "Ivica Zubac injury update: Clippers center ruled out vs. Lakers",
+    "description": "L.A. Clippers center Ivica Zubac was ruled out for the rest of Saturday's game against the Lakers.",
+    "pubDate": "2025-12-21",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/ivica-zubac-injury-clippers-center-055546620.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "watch-the-final-sequence-of-the-miraculous-bears-win-over-the-packers",
+    "title": "Watch the Final Sequence of the Miraculous Bears Win Over the Packers",
+    "description": "The final sequece of the Bears win was beautiful and you can watch it right here.",
+    "pubDate": "2025-12-21",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/watch-final-sequence-miraculous-bears-055529649.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "nevada-gets-past-the-whistle-fest-in-81-66-win-over-boise-state",
+    "title": "Nevada Gets Past the Whistle Fest in 81-66 Win Over Boise State",
+    "description": "Always good to start conference play 1-0",
+    "pubDate": "2025-12-21",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/nevada-gets-past-whistle-fest-055428910.html",
     "source": "Google News"
   },
   {
@@ -990,30 +1026,12 @@
     "source": "BBC Sport"
   },
   {
-    "slug": "semenyo-prefers-liverpool-move-sunday-s-gossip",
-    "title": "Semenyo prefers Liverpool move - Sunday's gossip",
-    "description": "Antoine Semenyo favours move to Liverpool, Bayern Munich ready with offer for Bruno Fernandes, Chelsea looking for buyers for Nicolas Jackson, plus more.",
-    "pubDate": "2025-12-20",
-    "image": "",
-    "link": "https://www.bbc.com/sport/football/articles/c075yknl3kdo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport"
-  },
-  {
     "slug": "exeter-go-top-with-dramatic-late-win-at-saracens",
     "title": "Exeter go top with dramatic late win at Saracens ",
     "description": "Exeter score three late tries in a fightback to beat Saracens at StoneX Stadium and go top of the Prem table.",
     "pubDate": "2025-12-20",
     "image": "",
     "link": "https://www.bbc.com/sport/rugby-union/articles/ce86jrypxlgo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport"
-  },
-  {
-    "slug": "do-we-want-to-be-remembered-for-fighting-or-being-cowards",
-    "title": "'Do we want to be remembered for fighting or being cowards?'",
-    "description": "Relegation from the Premier League looks inevitable for Wolves after a 15th defeat in 17 games - but will they avoid setting more unwanted records?",
-    "pubDate": "2025-12-20",
-    "image": "",
-    "link": "https://www.bbc.com/sport/football/articles/c9qe27vx781o?at_medium=RSS&at_campaign=rss",
     "source": "BBC Sport"
   },
   {
@@ -1026,21 +1044,30 @@
     "source": "BBC Sport"
   },
   {
-    "slug": "watch-joshua-knocks-out-paul-in-one-sided-fight",
-    "title": "Watch: Joshua knocks out Paul in one-sided fight",
-    "description": "Anthony Joshua defeats YouTuber-turned-boxer Jake Paul as he secures a comfortable win via a sixth-round stoppage in Miami.",
-    "pubDate": "2025-12-20",
-    "image": "",
-    "link": "https://www.bbc.com/sport/boxing/videos/c93w252en9vo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport"
-  },
-  {
     "slug": "joshua-and-paul-earn-riches-but-deliver-budget-sporting-spectacle",
     "title": "Joshua and Paul earn riches but deliver budget sporting spectacle",
     "description": "Anthony Joshua earns one of the biggest paydays of his career - but where does his victory over Jake Paul leave both fighters and boxing?",
     "pubDate": "2025-12-20",
     "image": "",
     "link": "https://www.bbc.com/sport/boxing/articles/cde6jyl1gneo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport"
+  },
+  {
+    "slug": "semenyo-prefers-liverpool-move-sunday-s-gossip",
+    "title": "Semenyo prefers Liverpool move - Sunday's gossip",
+    "description": "Antoine Semenyo favours move to Liverpool, Bayern Munich ready with offer for Bruno Fernandes, Chelsea looking for buyers for Nicolas Jackson, plus more.",
+    "pubDate": "2025-12-20",
+    "image": "",
+    "link": "https://www.bbc.com/sport/football/articles/c075yknl3kdo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport"
+  },
+  {
+    "slug": "do-we-want-to-be-remembered-for-fighting-or-being-cowards",
+    "title": "'Do we want to be remembered for fighting or being cowards?'",
+    "description": "Relegation from the Premier League looks inevitable for Wolves after a 15th defeat in 17 games - but will they avoid setting more unwanted records?",
+    "pubDate": "2025-12-20",
+    "image": "",
+    "link": "https://www.bbc.com/sport/football/articles/c9qe27vx781o?at_medium=RSS&at_campaign=rss",
     "source": "BBC Sport"
   },
   {
@@ -1059,24 +1086,6 @@
     "pubDate": "2025-12-20",
     "image": "",
     "link": "https://www.bbc.com/sport/rugby-union/articles/c9w725k7q2wo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport"
-  },
-  {
-    "slug": "crawley-not-aware-of-stokes-weak-men-comments",
-    "title": "Crawley not aware of Stokes' 'weak men' comments",
-    "description": "Opener Zak Crawley suggests he was not aware of comments made by Ben Stokes when the England captain said his dressing room is \"not a place for weak men\".",
-    "pubDate": "2025-12-20",
-    "image": "",
-    "link": "https://www.bbc.com/sport/cricket/articles/c8982w3zy7ko?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport"
-  },
-  {
-    "slug": "wyatt-beats-gb-team-mate-weston-to-world-cup-gold",
-    "title": "Wyatt beats GB team-mate Weston to World Cup gold",
-    "description": "Great Britain's Marcus Wyatt beats team-mate Matt Weston to World Cup gold in the men's skeleton in Sigulda, Latvia, while Zoe Atkin claims halfpipe gold in Colorado.",
-    "pubDate": "2025-12-20",
-    "image": "",
-    "link": "https://www.bbc.com/sport/articles/clydpdypp1yo?at_medium=RSS&at_campaign=rss",
     "source": "BBC Sport"
   },
   {
@@ -1107,21 +1116,12 @@
     "source": "BBC Sport"
   },
   {
-    "slug": "give-him-24-hours-to-sign-a-contract-joshua-calls-out-fury",
-    "title": "'Give him 24 hours to sign a contract' - Joshua calls out Fury",
-    "description": "Anthony Joshua says he is ready to take on fellow Briton Tyson Fury in his next fight, after beating Jake Paul.",
+    "slug": "watch-joshua-knocks-out-paul-in-one-sided-fight",
+    "title": "Watch: Joshua knocks out Paul in one-sided fight",
+    "description": "Anthony Joshua defeats YouTuber-turned-boxer Jake Paul as he secures a comfortable win via a sixth-round stoppage in Miami.",
     "pubDate": "2025-12-20",
     "image": "",
-    "link": "https://www.bbc.com/sport/boxing/videos/c9qe3q31vw3o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport"
-  },
-  {
-    "slug": "lyon-and-cummins-put-australia-on-verge-of-ashes-victory",
-    "title": "Lyon and Cummins put Australia on verge of Ashes victory",
-    "description": "England are on the brink of an Ashes series defeat after Australia's Nathan Lyon breaks their resistance late on the fourth day of the third Test in Adelaide.",
-    "pubDate": "2025-12-20",
-    "image": "",
-    "link": "https://www.bbc.com/sport/cricket/videos/cjrjprr4vywo?at_medium=RSS&at_campaign=rss",
+    "link": "https://www.bbc.com/sport/boxing/videos/c93w252en9vo?at_medium=RSS&at_campaign=rss",
     "source": "BBC Sport"
   },
   {
@@ -1134,21 +1134,12 @@
     "source": "BBC Sport"
   },
   {
-    "slug": "late-lyon-wickets-put-australia-on-cusp-of-ashes-win",
-    "title": "Late Lyon wickets put Australia on cusp of Ashes win",
-    "description": "England are on the brink of an Ashes series defeat after Australia's Nathan Lyon broke their resistance late on the fourth day of the third Test in Adelaide.",
+    "slug": "wyatt-beats-gb-team-mate-weston-to-world-cup-gold",
+    "title": "Wyatt beats GB team-mate Weston to World Cup gold",
+    "description": "Great Britain's Marcus Wyatt beats team-mate Matt Weston to World Cup gold in the men's skeleton in Sigulda, Latvia, while Zoe Atkin claims halfpipe gold in Colorado.",
     "pubDate": "2025-12-20",
     "image": "",
-    "link": "https://www.bbc.com/sport/cricket/articles/c04v249z7q1o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport"
-  },
-  {
-    "slug": "stupid-or-valid-did-brook-s-shot-put-australia-on-the-brink",
-    "title": "Stupid or valid? Did Brook's shot put Australia on the brink?",
-    "description": "Harry Brook's dismissal put England on the brink of Ashes defeat but was his reverse sweep stupid or valid?",
-    "pubDate": "2025-12-20",
-    "image": "",
-    "link": "https://www.bbc.com/sport/cricket/articles/cg5m38j68d6o?at_medium=RSS&at_campaign=rss",
+    "link": "https://www.bbc.com/sport/articles/clydpdypp1yo?at_medium=RSS&at_campaign=rss",
     "source": "BBC Sport"
   },
   {
@@ -1185,6 +1176,33 @@
     "pubDate": "2025-12-20",
     "image": "",
     "link": "https://www.bbc.com/sport/darts/articles/ckgdp8722pjo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport"
+  },
+  {
+    "slug": "paul-was-sitting-there-waiting-to-get-hit-lewis-leads-big-name-reaction",
+    "title": "'Paul was sitting there waiting to get hit' - Lewis leads big-name reaction",
+    "description": "Former heavyweight champion Lennox Lewis believes Jake Paul 's fitness played a role in his sixth-round stoppage defeat against Anthony Joshua.",
+    "pubDate": "2025-12-20",
+    "image": "",
+    "link": "https://www.bbc.com/sport/boxing/articles/c5yd0ypv27no?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport"
+  },
+  {
+    "slug": "give-him-24-hours-to-sign-a-contract-joshua-calls-out-fury",
+    "title": "'Give him 24 hours to sign a contract' - Joshua calls out Fury",
+    "description": "Anthony Joshua says he is ready to take on fellow Briton Tyson Fury in his next fight, after beating Jake Paul.",
+    "pubDate": "2025-12-20",
+    "image": "",
+    "link": "https://www.bbc.com/sport/boxing/videos/c9qe3q31vw3o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport"
+  },
+  {
+    "slug": "lyon-and-cummins-put-australia-on-verge-of-ashes-victory",
+    "title": "Lyon and Cummins put Australia on verge of Ashes victory",
+    "description": "England are on the brink of an Ashes series defeat after Australia's Nathan Lyon breaks their resistance late on the fourth day of the third Test in Adelaide.",
+    "pubDate": "2025-12-20",
+    "image": "",
+    "link": "https://www.bbc.com/sport/cricket/videos/cjrjprr4vywo?at_medium=RSS&at_campaign=rss",
     "source": "BBC Sport"
   },
   {
@@ -1233,39 +1251,12 @@
     "source": "BBC Sport"
   },
   {
-    "slug": "england-make-breakthrough-as-head-falls-for-170",
-    "title": "England make breakthrough as Head falls for 170",
-    "description": "Zak Crawley does well to take a catch in the sun to end Travis Head's brilliant 170-run innings, to leave Australia on 311-5 on day four of the third Ashes Test in Adelaide.",
-    "pubDate": "2025-12-20",
-    "image": "",
-    "link": "https://www.bbc.com/sport/cricket/videos/c9qe3rgjlp1o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport"
-  },
-  {
-    "slug": "toure-delighted-to-prove-doubters-wrong",
-    "title": "Toure 'delighted' to prove doubters wrong",
-    "description": "Yaya Toure says his motives were scrutinised when he joined Man City, leaving him determined to prove the sceptics wrong.",
-    "pubDate": "2025-12-20",
-    "image": "",
-    "link": "https://www.bbc.com/sport/football/videos/c0je2ed1pqvo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport"
-  },
-  {
     "slug": "afcon-quiz-name-every-africa-cup-of-nations-winner",
     "title": "Afcon quiz: Name every Africa Cup of Nations winner",
     "description": "With the Africa Cup of Nations kicking off on Sunday, 21 December, can you name every tournament winner?",
     "pubDate": "2025-12-20",
     "image": "",
     "link": "https://www.bbc.com/sport/football/articles/c5yql3n8v5qo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport"
-  },
-  {
-    "slug": "paul-was-sitting-there-waiting-to-get-hit-lewis-leads-big-name-reaction",
-    "title": "'Paul was sitting there waiting to get hit' - Lewis leads big-name reaction",
-    "description": "Former heavyweight champion Lennox Lewis believes Jake Paul 's fitness played a role in his sixth-round stoppage defeat against Anthony Joshua.",
-    "pubDate": "2025-12-20",
-    "image": "",
-    "link": "https://www.bbc.com/sport/boxing/articles/c5yd0ypv27no?at_medium=RSS&at_campaign=rss",
     "source": "BBC Sport"
   },
   {
@@ -1293,6 +1284,24 @@
     "pubDate": "2025-12-20",
     "image": "",
     "link": "https://www.bbc.com/sport/football/articles/cvg8j5nv543o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport"
+  },
+  {
+    "slug": "it-was-hard-to-recover-in-leinster-defeat-murphy",
+    "title": "It was hard to recover in Leinster defeat - Murphy",
+    "description": "Ulster head coach Richie Murphy says there is no time for \"wallowing\" after losing 24-20 to Leinster in the United Rugby Championship.",
+    "pubDate": "2025-12-20",
+    "image": "",
+    "link": "https://www.bbc.com/sport/rugby-union/articles/c78vky34yzro?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport"
+  },
+  {
+    "slug": "mancini-sibling-rivalry-and-wanting-to-excite-fans-the-yaya-toure-story",
+    "title": "Mancini, sibling rivalry and wanting to excite fans - the Yaya Toure story",
+    "description": "Yaya Toure reflects on a glittering career at clubs such as Barcelona and Manchester City as well as with his country, Ivory Coast.",
+    "pubDate": "2025-12-20",
+    "image": "",
+    "link": "https://www.bbc.com/sport/football/articles/cgqzg33jwn4o?at_medium=RSS&at_campaign=rss",
     "source": "BBC Sport"
   },
   {
@@ -1347,15 +1356,6 @@
     "pubDate": "2025-12-19",
     "image": "",
     "link": "https://www.bbc.com/sport/darts/articles/cwyv28xyl4po?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport"
-  },
-  {
-    "slug": "fifa-owes-fans-thousands-for-resold-world-cup-tickets",
-    "title": "Fifa owes fans thousands for resold World Cup tickets",
-    "description": "Customers who resold World Cup tickets on Fifa’s official platform say they are still waiting for thousands of pounds in payments.",
-    "pubDate": "2025-12-19",
-    "image": "",
-    "link": "https://www.bbc.com/sport/football/articles/cd0krvpmpzlo?at_medium=RSS&at_campaign=rss",
     "source": "BBC Sport"
   },
   {
