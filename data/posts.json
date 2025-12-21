@@ -27,9 +27,18 @@
     "source": "John Keim and Tim McManus"
   },
   {
+    "slug": "lindsey-leaves-michigan-to-become-missouri-oc",
+    "title": "Lindsey leaves Michigan to become Missouri OC",
+    "description": "Missouri has hired Michigan's Chip Lindsey as offensive coordinator.",
+    "pubDate": "2025-12-21",
+    "image": "",
+    "link": "https://www.espn.com/college-football/story/_/id/47379892/chip-lindsey-leaves-michigan-missouri-offensive-coordinator-job",
+    "source": "Jake Trotter"
+  },
+  {
     "slug": "bengals-wr-higgins-to-play-against-dolphins",
     "title": "Bengals WR Higgins to play against Dolphins",
-    "description": "Bengals wide receiver Tee Higgins will play against the Dolphins.",
+    "description": "Bengals wide receiver Tee Higgins will play against the Dolphins after clearing the concussion protocol.",
     "pubDate": "2025-12-21",
     "image": "",
     "link": "https://www.espn.com/nfl/story/_/id/47379299/source-bengals-wr-tee-higgins-play-dolphins",
@@ -54,15 +63,6 @@
     "source": "Jeff Passan"
   },
   {
-    "slug": "williams-ot-magic-caps-bears-latest-comeback",
-    "title": "Williams' OT magic caps Bears' latest comeback",
-    "description": "Caleb Williams capped his NFL-leading sixth comeback win from a fourth-quarter deficit with a thrilling 46-yard touchdown pass to DJ Moore to stun the Packers 22-16 in overtime.",
-    "pubDate": "2025-12-21",
-    "image": "",
-    "link": "https://www.espn.com/nfl/story/_/id/47377003/caleb-williams-ot-magic-caps-bears-latest-comeback-win",
-    "source": "Courtney Cronin"
-  },
-  {
     "slug": "short-handed-texas-tech-jolts-unbeaten-duke-late",
     "title": "Short-handed Texas Tech jolts unbeaten Duke late",
     "description": "No. 19 Texas Tech, beset by injuries, rallied from 17 down to stun third-ranked Duke 82-81 at Madison Square Garden.",
@@ -74,7 +74,7 @@
   {
     "slug": "pack-lose-love-to-concussion-unravel-in-ot-loss",
     "title": "Pack lose Love to concussion, unravel in OT loss",
-    "description": "Packers quarterback Jordan Love suffered a concussion on a helmet-to-helmet hit, and Green Bay blew a 10-point lead late in the fourth quarter of Saturday's crucial overtime loss to the Bears.",
+    "description": "Packers quarterback Jordan Love suffered a concussion on a helmet-to-helmet hit, and Green Bay blew a 10-point lead late in the fourth quarter of a crucial overtime loss to the Bears.",
     "pubDate": "2025-12-21",
     "image": "",
     "link": "https://www.espn.com/nfl/story/_/id/47374679/packers-jordan-love-exits-concussion-taking-helmet-helmet-hit",
@@ -83,19 +83,19 @@
   {
     "slug": "humphries-armbruster-slides-to-1st-win-as-mom",
     "title": "Humphries Armbruster slides to 1st win as mom",
-    "description": "Kaillie Humphries Armbruster has won dozens of races in her bobsled career. The victory she got Sunday was like none of the others -- her first since becoming a mother.",
+    "description": "Kaillie Humphries Armbruster has won dozens of races in her bobsled career. The victory she got Sunday was like none of the others: her first since becoming a mother.",
     "pubDate": "2025-12-21",
     "image": "",
     "link": "https://www.espn.com/olympics/story/_/id/47379411/humphries-armbruster-gets-1st-world-cup-bobsled-win-mom",
     "source": "www.espn.com - TOP"
   },
   {
-    "slug": "nfl-playoff-clinching-scenarios-for-week-16",
-    "title": "🏈 NFL playoff-clinching scenarios for Week 16",
-    "description": "In Week 16, nine NFL teams have the chance to clinch a playoff berth. The Broncos can also lock up the AFC's No. 1 seed.",
+    "slug": "nfl-playoffs-projections-postseason-chances",
+    "title": "🏈 NFL playoffs: Projections, postseason chances",
+    "description": "We're looking ahead to how the 14-team playoff picture could line up -- and who will win divisions -- en route to Super Bowl LX.",
     "pubDate": "2025-12-21",
     "image": "",
-    "link": "https://www.espn.com/nfl/story/_/id/47324099/nfl-playoff-picture-2025-clinching-scenarios-division-races-week-16",
+    "link": "https://www.espn.com/nfl/story/_/id/46139564/2025-nfl-playoff-picture-afc-nfc-seed-predictions-odds-super-bowl",
     "source": "ESPN staff"
   },
   {
@@ -117,13 +117,13 @@
     "source": "ESPN Fantasy"
   },
   {
-    "slug": "the-playbook-shadow-reports-lineup-locks-for-week-16",
-    "title": "The Playbook: Shadow Reports, lineup locks for Week 16",
-    "description": "An all-encompassing look at the matchups to exploit or avoid and lineup locks in fantasy.",
+    "slug": "fantasy-football-live-week-16-q-a-with-our-expert-noon-et",
+    "title": "Fantasy football: Live Week 16 Q&A with our expert, noon ET",
+    "description": "ESPN fantasy football expert Eric Moody is here to answer your pressing questions in a live Q&A.",
     "pubDate": "2025-12-21",
     "image": "",
-    "link": "https://www.espn.com/fantasy/football/story/_/id/47323808/nfl-fantasy-football-2025-ultimate-playbook-projections-win-probabilities-week-16-shadow-reports-mike-clay",
-    "source": "Mike Clay"
+    "link": "https://www.espn.com/fantasy/football/story/_/id/47358216/2025-fantasy-football-nfl-advice-questions-answers-espn-expert-arena-week-16",
+    "source": "ESPN Fantasy"
   },
   {
     "slug": "inside-the-bears-wild-comeback-win-over-the-packers-in-ot",
@@ -144,6 +144,15 @@
     "source": "ESPN"
   },
   {
+    "slug": "volleyball-title-game-primer-keys-to-an-sec-exclusive",
+    "title": "Volleyball title game primer: Keys to an SEC exclusive",
+    "description": "The all-SEC showdown features big hitters who have beome quite comfortable on the biggest stage. So what are the X factors?",
+    "pubDate": "2025-12-21",
+    "image": "",
+    "link": "https://www.espn.com/college-sports/story/_/id/47371434/2025-ncaa-volleyball-tournament-championship-game-preview-kentucky-wildcats-texas-aggies",
+    "source": "Elizabeth Merrill and Charlotte Gibson"
+  },
+  {
     "slug": "mlb-offseason-grades-white-sox-hit-home-run-land-japan-s-murakami",
     "title": "MLB offseason grades: White Sox hit home run, land Japan's Murakami",
     "description": "We've got you covered with grades and analysis on every winter signing and big offseason trade.",
@@ -153,13 +162,13 @@
     "source": "Bradford Doolittle and David Schoenfield"
   },
   {
-    "slug": "volleyball-title-game-primer-keys-to-an-sec-exclusive",
-    "title": "Volleyball title game primer: Keys to an SEC exclusive",
-    "description": "The all-SEC showdown features big hitters who have beome quite comfortable on the biggest stage. So what are the X factors?",
+    "slug": "most-fashionable-arrivals-of-nfl-week-16-featuring-jaxson-dart",
+    "title": "Most fashionable arrivals of NFL Week 16, featuring Jaxson Dart",
+    "description": "Before the NFL's Saturday slate kicked off, players made sure to put their most fashionable foot forward.",
     "pubDate": "2025-12-21",
     "image": "",
-    "link": "https://www.espn.com/college-sports/story/_/id/47371434/2025-ncaa-volleyball-tournament-championship-game-preview-kentucky-wildcats-texas-aggies",
-    "source": "Elizabeth Merrill and Charlotte Gibson"
+    "link": "https://www.espn.com/nfl/story/_/id/47349903/nfl-week-16-fashionable-best-arrivals",
+    "source": "ESPN staff"
   },
   {
     "slug": "week-16-betting-guide-backing-maye-to-throw-patriots-to-a-w-achane-to-run-wild",
@@ -180,15 +189,6 @@
     "source": "ESPN"
   },
   {
-    "slug": "the-jake-paul-show-is-far-from-over-but-where-does-it-go-from-here",
-    "title": "The Jake Paul show is far from over, but where does it go from here?",
-    "description": "Even in defeat, Jake Paul's boxing career is far from over, but his next move could be one of the most important yet.",
-    "pubDate": "2025-12-21",
-    "image": "",
-    "link": "https://www.espn.com/boxing/story/_/id/47365219/the-jake-paul-show-far-where-does-go-here",
-    "source": "Andreas Hale"
-  },
-  {
     "slug": "liverpool-s-win-marred-by-isak-injury-as-pressure-mounts-on-spurs-frank",
     "title": "Liverpool's win marred by Isak injury as pressure mounts on Spurs' Frank",
     "description": "Liverpool's third straight win in all competitions came at a cost while furthering Spurs fans' frustration with Thomas Frank.",
@@ -205,6 +205,15 @@
     "image": "",
     "link": "https://www.espn.com/soccer/story/_/id/47371827/arsenal-christmas-champions-count-nothing",
     "source": "Mark Ogden"
+  },
+  {
+    "slug": "the-jake-paul-show-is-far-from-over-but-where-does-it-go-from-here",
+    "title": "The Jake Paul show is far from over, but where does it go from here?",
+    "description": "Even in defeat, Jake Paul's boxing career is far from over, but his next move could be one of the most important yet.",
+    "pubDate": "2025-12-21",
+    "image": "",
+    "link": "https://www.espn.com/boxing/story/_/id/47365219/the-jake-paul-show-far-where-does-go-here",
+    "source": "Andreas Hale"
   },
   {
     "slug": "transfer-portal-tracking-who-intends-to-move",
@@ -252,15 +261,6 @@
     "source": "BBC Sport"
   },
   {
-    "slug": "test-career-over-for-now-ashes-player-ratings",
-    "title": "'Test career over for now?' - Ashes player ratings",
-    "description": "Chief cricket reporter Stephan Shemilt marks the performances of the Australia and England teams after the third Test in Adelaide.",
-    "pubDate": "2025-12-21",
-    "image": "",
-    "link": "https://www.bbc.com/sport/cricket/articles/cp34p04dzd3o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport"
-  },
-  {
     "slug": "england-unable-to-hold-out-as-australia-retain-the-ashes",
     "title": "England unable to hold out as Australia retain the Ashes",
     "description": "Australia beat England by 82 runs to take a 3-0 series lead and retain the Ashes urn on day five of the third Test in Adelaide.",
@@ -270,12 +270,30 @@
     "source": "BBC Sport"
   },
   {
-    "slug": "concerns-over-winter-olympics-skiing-snow-levels",
-    "title": "Concerns over Winter Olympics skiing snow levels",
-    "description": "The president of the International Ski Federation raises concerns over snow levels for the skiing and snowboarding events at the 2026 Winter Olympics in Italy.",
+    "slug": "suljovic-denies-slow-play-cheating-claim-from-cullen",
+    "title": "Suljovic denies slow play 'cheating' claim from Cullen",
+    "description": "Joe Cullen says opponent Mensur Suljovic's slow style of play is akin to cheating after the 32nd seed was knocked out of the world championship.",
     "pubDate": "2025-12-21",
     "image": "",
-    "link": "https://www.bbc.com/sport/articles/c0mpyg3jwnlo?at_medium=RSS&at_campaign=rss",
+    "link": "https://www.bbc.com/sport/darts/articles/cgmndd0xy0po?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport"
+  },
+  {
+    "slug": "london-city-lionesses-sack-manager-precheur",
+    "title": "London City Lionesses sack manager Precheur",
+    "description": "London City Lionesses sack manager Jocelyn Precheur midway through their debut season in the Women's Super League.",
+    "pubDate": "2025-12-21",
+    "image": "",
+    "link": "https://www.bbc.com/sport/football/articles/c4gpy4x1k17o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport"
+  },
+  {
+    "slug": "test-career-over-for-now-ashes-player-ratings",
+    "title": "'Test career over for now?' - Ashes player ratings",
+    "description": "Chief cricket reporter Stephan Shemilt marks the performances of the Australia and England teams after the third Test in Adelaide.",
+    "pubDate": "2025-12-21",
+    "image": "",
+    "link": "https://www.bbc.com/sport/cricket/articles/cp34p04dzd3o?at_medium=RSS&at_campaign=rss",
     "source": "BBC Sport"
   },
   {
@@ -288,12 +306,21 @@
     "source": "BBC Sport"
   },
   {
-    "slug": "taylor-sincerely-sorry-after-failed-drugs-test",
-    "title": "Taylor 'sincerely sorry' after failed drugs test",
-    "description": "Dom Taylor says he is \"sincerely sorry\" after an \"adverse\" drug test meant he was excluded from the PDC World Darts Championship.",
+    "slug": "concerns-over-winter-olympics-skiing-snow-levels",
+    "title": "Concerns over Winter Olympics skiing snow levels",
+    "description": "The president of the International Ski Federation raises concerns over snow levels for the skiing and snowboarding events at the 2026 Winter Olympics in Italy.",
     "pubDate": "2025-12-21",
     "image": "",
-    "link": "https://www.bbc.com/sport/darts/articles/c79xy4p3rlgo?at_medium=RSS&at_campaign=rss",
+    "link": "https://www.bbc.com/sport/articles/c0mpyg3jwnlo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport"
+  },
+  {
+    "slug": "bath-ease-past-newcastle-to-go-top-for-christmas",
+    "title": "Bath ease past Newcastle to go top for Christmas",
+    "description": "Bath overcome a disjointed start to beat winless Newcastle Red Bulls at Kingston Park.",
+    "pubDate": "2025-12-21",
+    "image": "",
+    "link": "https://www.bbc.com/sport/rugby-union/articles/cwyvdr080kwo?at_medium=RSS&at_campaign=rss",
     "source": "BBC Sport"
   },
   {
@@ -306,21 +333,12 @@
     "source": "BBC Sport"
   },
   {
-    "slug": "bazball-as-we-knew-it-is-in-the-skip-but-mccullum-has-england-future",
-    "title": "'Bazball as we knew it is in the skip - but McCullum has England future'",
-    "description": "England must enact change following their Ashes defeat but Brendon McCullum's reaction suggests he can be part of the future, writes Jonathan Agnew.",
+    "slug": "taylor-sincerely-sorry-after-failed-drugs-test",
+    "title": "Taylor 'sincerely sorry' after failed drugs test",
+    "description": "Dom Taylor says he is \"sincerely sorry\" after an \"adverse\" drug test meant he was excluded from the PDC World Darts Championship.",
     "pubDate": "2025-12-21",
     "image": "",
-    "link": "https://www.bbc.com/sport/cricket/articles/c0edyzwv5pwo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport"
-  },
-  {
-    "slug": "10-moments-that-decided-the-ashes",
-    "title": "10 moments that decided the Ashes",
-    "description": "Australia have regained the Ashes after winning the first three Tests against England down under once again - here are the 10 moments that decided the destination of the urn.",
-    "pubDate": "2025-12-21",
-    "image": "",
-    "link": "https://www.bbc.com/sport/cricket/articles/cx25jx75lpxo?at_medium=RSS&at_campaign=rss",
+    "link": "https://www.bbc.com/sport/darts/articles/c79xy4p3rlgo?at_medium=RSS&at_campaign=rss",
     "source": "BBC Sport"
   },
   {
@@ -387,12 +405,12 @@
     "source": "BBC Sport"
   },
   {
-    "slug": "stokes-wants-to-remain-captain-despite-ashes-defeat",
-    "title": "Stokes wants to remain captain despite Ashes defeat",
-    "description": "England captain Ben Stokes says he \"absolutely\" has the energy to still lead the side after defeat by Australia in the third Test in Adelaide meant they lost the Ashes at the earliest opportunity.",
+    "slug": "bazball-as-we-knew-it-is-in-the-skip-but-mccullum-has-england-future",
+    "title": "'Bazball as we knew it is in the skip - but McCullum has England future'",
+    "description": "England must enact change following their Ashes defeat but Brendon McCullum's reaction suggests he can be part of the future, writes Jonathan Agnew.",
     "pubDate": "2025-12-21",
     "image": "",
-    "link": "https://www.bbc.com/sport/cricket/articles/cpwkekjy8wgo?at_medium=RSS&at_campaign=rss",
+    "link": "https://www.bbc.com/sport/cricket/articles/c0edyzwv5pwo?at_medium=RSS&at_campaign=rss",
     "source": "BBC Sport"
   },
   {
@@ -405,21 +423,30 @@
     "source": "BBC Sport"
   },
   {
-    "slug": "i-put-my-hands-up-mccullum-admits-ashes-mistakes",
-    "title": "'I put my hands up' - McCullum admits Ashes mistakes",
-    "description": "Coach Brendon McCullum accepts England may have made mistakes with their Ashes preparation after their series defeat was confirmed in Adelaide.",
+    "slug": "stokes-wants-to-remain-captain-despite-ashes-defeat",
+    "title": "Stokes wants to remain captain despite Ashes defeat",
+    "description": "England captain Ben Stokes says he \"absolutely\" has the energy to still lead the side after defeat by Australia in the third Test in Adelaide meant they lost the Ashes at the earliest opportunity.",
     "pubDate": "2025-12-21",
     "image": "",
-    "link": "https://www.bbc.com/sport/cricket/articles/cm20d0nle64o?at_medium=RSS&at_campaign=rss",
+    "link": "https://www.bbc.com/sport/cricket/articles/cpwkekjy8wgo?at_medium=RSS&at_campaign=rss",
     "source": "BBC Sport"
   },
   {
-    "slug": "england-beaten-to-lose-another-ashes-in-australia",
-    "title": "England beaten to lose another Ashes in Australia",
-    "description": "England's Bazball regime is in tatters as yet another Ashes series in Australia is lost at the earliest possible opportunity.",
+    "slug": "kildunne-scores-superb-solo-try-as-quins-beat-bristol",
+    "title": "Kildunne scores superb solo try as Quins beat Bristol",
+    "description": "England star - and BBC Sports Personality of the Year 2025 runner-up - Ellie Kildunne scores a sensational solo try as Harlequins beat Bristol Bears at Allianz Stadium.",
     "pubDate": "2025-12-21",
     "image": "",
-    "link": "https://www.bbc.com/sport/cricket/articles/c4g4yznemkxo?at_medium=RSS&at_campaign=rss",
+    "link": "https://www.bbc.com/sport/rugby-union/articles/c9w725k7q2wo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport"
+  },
+  {
+    "slug": "10-moments-that-decided-the-ashes",
+    "title": "10 moments that decided the Ashes",
+    "description": "Australia have regained the Ashes after winning the first three Tests against England down under once again - here are the 10 moments that decided the destination of the urn.",
+    "pubDate": "2025-12-21",
+    "image": "",
+    "link": "https://www.bbc.com/sport/cricket/articles/cx25jx75lpxo?at_medium=RSS&at_campaign=rss",
     "source": "BBC Sport"
   },
   {
@@ -477,6 +504,15 @@
     "source": "BBC Sport"
   },
   {
+    "slug": "i-put-my-hands-up-mccullum-admits-ashes-mistakes",
+    "title": "'I put my hands up' - McCullum admits Ashes mistakes",
+    "description": "Coach Brendon McCullum accepts England may have made mistakes with their Ashes preparation after their series defeat was confirmed in Adelaide.",
+    "pubDate": "2025-12-21",
+    "image": "",
+    "link": "https://www.bbc.com/sport/cricket/articles/cm20d0nle64o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport"
+  },
+  {
     "slug": "why-is-afcon-taking-place-in-december",
     "title": "Why is Afcon taking place in December?",
     "description": "Our Ask Me Anything team explore why Afcon 2025 is in December and why it is held biannually.",
@@ -486,12 +522,12 @@
     "source": "BBC Sport"
   },
   {
-    "slug": "test-match-special-podcast",
-    "title": "Test Match Special Podcast",
-    "description": "The Ashes: England's belated resistance ends as Australia retain the Ashes.",
+    "slug": "england-beaten-to-lose-another-ashes-in-australia",
+    "title": "England beaten to lose another Ashes in Australia",
+    "description": "England's Bazball regime is in tatters as yet another Ashes series in Australia is lost at the earliest possible opportunity.",
     "pubDate": "2025-12-21",
     "image": "",
-    "link": "https://www.bbc.co.uk/sounds/play/p0mpyhgq?at_medium=RSS&at_campaign=rss",
+    "link": "https://www.bbc.com/sport/cricket/articles/c4g4yznemkxo?at_medium=RSS&at_campaign=rss",
     "source": "BBC Sport"
   },
   {
@@ -522,12 +558,12 @@
     "source": "BBC Sport"
   },
   {
-    "slug": "booze-beach-beaten-how-england-lost-the-ashes",
-    "title": "Booze, beach, beaten – how England lost the Ashes",
-    "description": "BBC Sport chief cricket reporter Stephan Shemilt reveals the inside story of England's Ashes defeat in Australia on and off the pitch.",
+    "slug": "test-match-special-podcast",
+    "title": "Test Match Special Podcast",
+    "description": "The Ashes: England's belated resistance ends as Australia retain the Ashes.",
     "pubDate": "2025-12-21",
     "image": "",
-    "link": "https://www.bbc.com/sport/cricket/articles/c79xynw7e39o?at_medium=RSS&at_campaign=rss",
+    "link": "https://www.bbc.co.uk/sounds/play/p0mpyhgq?at_medium=RSS&at_campaign=rss",
     "source": "BBC Sport"
   },
   {
@@ -540,18 +576,108 @@
     "source": "BBC Sport"
   },
   {
-    "slug": "slaughtneil-woes-continue-as-loughrea-ease-into-all-ireland-final",
-    "title": "Slaughtneil woes continue as Loughrea ease into All-Ireland final",
-    "description": "Slaughtneil fall short in their attempt to reach a first All-Ireland Club Hurling final at the sixth attempt as Loughrea run out comfortable 2-22 to 0-15 winners in Sunday's semi-final.",
+    "slug": "slaughtneil-performance-nowhere-near-the-levels-we-expected",
+    "title": "Slaughtneil performance 'nowhere near the levels we expected' ",
+    "description": "Slaughtneil boss Paul McCormack admits his side's performance in Sunday's All-Ireland Club Hurling semi-final loss to Loughrea was \"nowhere near\" what was required.",
     "pubDate": "2025-12-21",
     "image": "",
-    "link": "https://www.bbc.com/sport/articles/cwyvedjy83jo?at_medium=RSS&at_campaign=rss",
+    "link": "https://www.bbc.com/sport/articles/ce3we4vp5zno?at_medium=RSS&at_campaign=rss",
     "source": "BBC Sport"
+  },
+  {
+    "slug": "woody-marks-injury-what-status-means-for-week-16-vs-raiders",
+    "title": "Woody Marks injury: What status means for Week 16 vs. Raiders",
+    "description": "Woody Marks is dealing with an ankle injury for Week 16. We break down what it means for fantasy football decisions.",
+    "pubDate": "2025-12-21",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/woody-marks-injury-status-means-110200048.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "bkfc-fighter-suffers-shredded-eyelid-thanks-to-39-tuf-39-alum",
+    "title": "BKFC fighter suffers shredded eyelid thanks to &#39;TUF&#39; alum",
+    "description": "A grotesque injury occurred Saturday at Mohegan Sun.",
+    "pubDate": "2025-12-21",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/bkfc-fighter-suffers-shredded-eyelid-174524423.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "woody-marks-start-or-sit-week-16-fantasy-football-advice",
+    "title": "Woody Marks start or sit: Week 16 fantasy football advice",
+    "description": "We break down the fantasy football outlook of Woody Marks ahead of the Texans’ Week 16 matchup vs. the Raiders.",
+    "pubDate": "2025-12-21",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/woody-marks-start-sit-week-122000238.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "cowboys-vs-chargers-2025-week-16-game-day-live-discussion",
+    "title": "Cowboys vs Chargers: 2025 Week 16 game day live discussion",
+    "description": "Here is our first open thread for the Cowboys/Chargers game.",
+    "pubDate": "2025-12-21",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/cowboys-vs-chargers-2025-week-174500086.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "nfl-week-16-early-games-live-discussion",
+    "title": "NFL Week 16 early games live discussion",
+    "description": "Join our live discussion for the 1 p.m. ET games of NFL Week 16.",
+    "pubDate": "2025-12-21",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/nfl-week-16-early-games-174500418.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "bruno-fernandes-injury-news-manchester-united-captain-exits-at-halftime",
+    "title": "Bruno Fernandes injury news — Manchester United captain exits at halftime",
+    "description": "Bruno Fernandes has been having a Premier League Player of the Season caliber season, but that show has hit an intermission thanks to a Sunday injury.",
+    "pubDate": "2025-12-21",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/bruno-fernandes-injury-news-manchester-174317317.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "heidenheim-0-2-bayern-munich-bayern-inches-away-from-a-third",
+    "title": "Heidenheim 0-2 Bayern Munich: Bayern inches away from a third",
+    "description": "One last time for FC Bayern in 2025",
+    "pubDate": "2025-12-21",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/heidenheim-vs-bayern-munich-match-133000521.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "bath-ease-past-newcastle-to-go-top-for-christmas",
+    "title": "Bath ease past Newcastle to go top for Christmas",
+    "description": "Bath overcome a disjointed start to beat winless Newcastle Red Bulls at Kingston Park.",
+    "pubDate": "2025-12-21",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/bath-ease-past-newcastle-top-165731753.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "eagles-news-what-should-the-eagles-do-about-jake-elliott",
+    "title": "Eagles News: What should the Eagles do about Jake Elliott?",
+    "description": "Philadelphia Eagles news and links for 12/21/25.",
+    "pubDate": "2025-12-21",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/eagles-news-eagles-jake-elliott-174053054.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "real-madrid-and-barcelona-show-interest-in-wesley",
+    "title": "Real Madrid and Barcelona show interest in Wesley",
+    "description": "Wesley is undoubtedly one of the poster boys for Gian Piero Gasperini’s Roma side. Even in the defeat against Juventus, the Brazilian winger was one of the few players to get a passing grade. His ar...",
+    "pubDate": "2025-12-21",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/real-madrid-barcelona-show-interest-174000253.html",
+    "source": "Google News"
   },
   {
     "slug": "auburn-cb-kayin-lee-plans-to-enter-ncaa-transfer-portal",
     "title": "Auburn CB Kayin Lee plans to enter NCAA Transfer Portal",
-    "description": "Auburn junior cornerback Kayin Lee plans to enter the NCAA Transfer Portal, according to On3’s Pete Nakos. He’ll have one year of eligibility remaining. Lee enters the portal after starting 11 of his 12 game this past season at corner, where he finished with 31 tackles and was tied for the team lead",
+    "description": "Auburn junior cornerback Kayin Lee plans to enter the NCAA Transfer Portal, according to On3’s Pete Nakos. He’ll have one year of eligibility remaining. Lee enters the portal after starting 11 of his 12 games this past season at corner, where he finished with 31 tackles and was tied for the team lea",
     "pubDate": "2025-12-21",
     "image": "",
     "link": "https://sports.yahoo.com/articles/auburn-cb-kayin-lee-plans-173704132.html",
@@ -585,6 +711,15 @@
     "source": "Google News"
   },
   {
+    "slug": "manager-39-s-post-match-reaction-after-victory-over-aberdeen",
+    "title": "Manager&#39;s post-match reaction after victory over Aberdeen",
+    "description": "Celtic delivered a first victory under Wilfried Nancy today (Sunday) with a 3-1 home win over Aberdeen, thanks to goals from Benjamin Nygren, Kieran Tierney and James Forrest.It was no more than Celti...",
+    "pubDate": "2025-12-21",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/managers-post-match-reaction-victory-173600009.html",
+    "source": "Google News"
+  },
+  {
     "slug": "two-vols-projected-as-2026-nfl-draft-first-round-picks-in-week-16",
     "title": "Two Vols projected as 2026 NFL draft first-round picks in Week 16",
     "description": "Tennessee defensive backs are projected as NFL draft first-round picks in Week 16 of the 2025 season.",
@@ -600,15 +735,6 @@
     "pubDate": "2025-12-21",
     "image": "",
     "link": "https://sports.yahoo.com/articles/fc-bayern-women-finish-leverkusen-173500276.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "heidenheim-0-2-bayern-munich-it-s-second-half-time",
-    "title": "Heidenheim 0-2 Bayern Munich: It’s second half time!",
-    "description": "One last time for FC Bayern in 2025",
-    "pubDate": "2025-12-21",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/heidenheim-vs-bayern-munich-match-133000521.html",
     "source": "Google News"
   },
   {
@@ -729,6 +855,15 @@
     "source": "Google News"
   },
   {
+    "slug": "did-myles-garrett-break-the-nfl-sack-record-today-tracking-his-totals-vs-bills",
+    "title": "Did Myles Garrett break the NFL sack record today? Tracking his totals vs. Bills",
+    "description": "Myles Garrett entered Sunday's game against the Bills within reach of breaking the NFL's single-season sack record.",
+    "pubDate": "2025-12-21",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/did-myles-garrett-break-nfl-173028335.html",
+    "source": "Google News"
+  },
+  {
     "slug": "barcelona-lose-jules-kounde-to-injury-in-villarreal-win",
     "title": "Barcelona lose Jules Kounde to injury in Villarreal win",
     "description": "The Frenchman has picked up a problem.",
@@ -747,21 +882,21 @@
     "source": "Google News"
   },
   {
+    "slug": "minnesota-vikings-at-new-york-giants-key-information-and-first-quarter-discussion",
+    "title": "Minnesota Vikings at New York Giants: Key Information and First Quarter Discussion",
+    "description": "Let’s do this!",
+    "pubDate": "2025-12-21",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/minnesota-vikings-york-giants-key-173000622.html",
+    "source": "Google News"
+  },
+  {
     "slug": "nfl-week-16-early-afternoon-games-open-thread",
     "title": "NFL Week 16: Early afternoon games open thread",
     "description": "Let’s watch some football!",
     "pubDate": "2025-12-21",
     "image": "",
     "link": "https://sports.yahoo.com/articles/nfl-week-16-early-afternoon-173000018.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "game-12-vanderbilt-commodores-at-wake-forest-demon-deacons",
-    "title": "Game 12: Vanderbilt Commodores at Wake Forest Demon Deacons",
-    "description": "why is this on The CW",
-    "pubDate": "2025-12-21",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/game-12-vanderbilt-commodores-wake-173000392.html",
     "source": "Google News"
   },
   {
@@ -774,21 +909,21 @@
     "source": "Google News"
   },
   {
+    "slug": "game-12-vanderbilt-commodores-at-wake-forest-demon-deacons",
+    "title": "Game 12: Vanderbilt Commodores at Wake Forest Demon Deacons",
+    "description": "why is this on The CW",
+    "pubDate": "2025-12-21",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/game-12-vanderbilt-commodores-wake-173000392.html",
+    "source": "Google News"
+  },
+  {
     "slug": "hugo-ekitike-i-try-to-help-the-team-the-best-as-i-can",
     "title": "Hugo Ekitike: “I Try To Help The Team The Best As I Can”",
     "description": "The French striker found the net again in Liverpool’s win over Spurs. It is his 5th goal in the last 4 matches.",
     "pubDate": "2025-12-21",
     "image": "",
     "link": "https://sports.yahoo.com/articles/hugo-ekitike-try-help-team-173000330.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "nfl-week-16-early-games",
-    "title": "NFL Week 16 Early Games",
-    "description": "Let’s watch some football together!",
-    "pubDate": "2025-12-21",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/nfl-week-16-early-games-173000542.html",
     "source": "Google News"
   },
   {
@@ -810,12 +945,12 @@
     "source": "Google News"
   },
   {
-    "slug": "minnesota-vikings-at-new-york-giants-key-information-and-first-quarter-discussion",
-    "title": "Minnesota Vikings at New York Giants: Key Information and First Quarter Discussion",
-    "description": "Let’s do this!",
+    "slug": "nfl-week-16-early-games",
+    "title": "NFL Week 16 Early Games",
+    "description": "Let’s watch some football together!",
     "pubDate": "2025-12-21",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/minnesota-vikings-york-giants-key-173000622.html",
+    "link": "https://sports.yahoo.com/articles/nfl-week-16-early-games-173000542.html",
     "source": "Google News"
   },
   {
@@ -897,105 +1032,6 @@
     "pubDate": "2025-12-21",
     "image": "",
     "link": "https://sports.yahoo.com/articles/manchester-city-beat-west-ham-172509264.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "2025-athletics-season-in-review-brady-basso",
-    "title": "2025 Athletics Season In Review: Brady Basso",
-    "description": "Left-hander lost most of the season to injury",
-    "pubDate": "2025-12-21",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/2025-athletics-season-review-brady-172450009.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "is-marvin-harrison-jr-playing-today-the-latest-on-the-cardinals-wr",
-    "title": "Is Marvin Harrison Jr. playing today? The latest on the Cardinals WR",
-    "description": "Cardinals WR Marvin Harrison Jr. is officially questionable with a heel injury. Is he playing against the Falcons?",
-    "pubDate": "2025-12-21",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/marvin-harrison-jr-playing-today-172352413.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "lamine-yamal-hits-new-milestone-as-barcelona-beat-villarreal-in-la-liga",
-    "title": "Lamine Yamal hits new milestone as Barcelona beat Villarreal in La Liga",
-    "description": "Barcelona claimed a 2-0 victory at Villarreal in La Liga on Sunday afternoon, extending their unbeaten league run to eight matches and ending the Yellow Submarine’s six-match winning streak.Villarre...",
-    "pubDate": "2025-12-21",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/lamine-yamal-hits-milestone-barcelona-172200671.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "rangers-captain-j-t-miller-won-39-t-play-at-the-predators-because-of-injury",
-    "title": "Rangers captain J.T. Miller won&#39;t play at the Predators because of injury",
-    "description": "New York Rangers captain J.T. Miller will miss at least one game after getting injured Saturday and not traveling with the team to Nashville.  Coach Mike Sullivan said Miller was still being evaluated back home and would not play Sunday night at the Predators.  Sullivan called it only an upper-body",
-    "pubDate": "2025-12-21",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/rangers-captain-j-t-miller-172117670.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "red-sox-should-sign-rival-infielder-despite-positional-fit",
-    "title": "Red Sox Should Sign Rival Infielder Despite Positional Fit",
-    "description": "The Boston Red Sox have not made any big offensive additions to their team this winter, but they could benefit from signing Bo Bichette. According to MassLive’s Chris Cotillo on Dec. 12, the Red Sox are interested in signing Bichette, but he may not be the best positional fit. With the Red Sox still",
-    "pubDate": "2025-12-21",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/red-sox-sign-rival-infielder-171943648.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "dolphins-39-tua-tagovailoa-facing-39-alarming-39-situation-amid-benching",
-    "title": "Dolphins&#39; Tua Tagovailoa facing &#39;alarming&#39; situation amid benching",
-    "description": "Tua Tagovailoa is facing an alarming situation in Miami.",
-    "pubDate": "2025-12-21",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/dolphins-tua-tagovailoa-facing-alarming-171941210.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "mike-mcdaniel-s-long-wiew-on-quinn-ewers-signals-how-miami-evaluates-quarterbacks",
-    "title": "Mike McDaniel’s long wiew on Quinn Ewers signals how Miami evaluates quarterbacks",
-    "description": "Mike McDaniel’s move to elevate quarterback Quinn Ewers shows how the Miami Dolphins are rethinking evaluation, conviction, and direction at the position.",
-    "pubDate": "2025-12-21",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/mike-mcdaniel-long-wiew-quinn-171927602.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "murakami-joins-south-siders-in-surprise-deal",
-    "title": "Murakami joins South Siders in surprise deal",
-    "description": "The White Sox strengthened their lineup with a slugger whose price tag was cheaper than most anticipated",
-    "pubDate": "2025-12-21",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/murakami-joins-south-siders-surprise-171740159.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "premier-league-cunha-pulls-man-utd-level-after-rogers-stunner-for-villa",
-    "title": "Premier League: Cunha pulls Man Utd level after Rogers stunner for Villa",
-    "description": "Follow live text coverage and radio commentary as in-form Aston Villa host Manchester United in the Premier League.",
-    "pubDate": "2025-12-21",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/premier-league-build-aston-villa-150036376.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "michael-olise-adds-to-incredible-bundesliga-record-with-heidenheim-goal",
-    "title": "🔢 Michael Olise adds to incredible Bundesliga record with Heidenheim goal",
-    "description": "Michael Olise is enjoying an excellent second season with Bayern Munich. The French winger has been a key figure for the Bavarian outfit this season, making 25 appearances in all competitions.Olise ha...",
-    "pubDate": "2025-12-21",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/michael-olise-adds-incredible-bundesliga-171700557.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "barcelona-star-forced-off-with-injury-vs-villarreal",
-    "title": "Barcelona star forced off with injury vs Villarreal",
-    "description": "La Liga giants Barcelona have on Sunday been dealt a fresh blow on the personnel front.This comes after Jules Koundé was forced into a premature departure from the club’s most recent outing.Barcelo...",
-    "pubDate": "2025-12-21",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/barcelona-star-forced-off-injury-171700183.html",
     "source": "Google News"
   },
   {
@@ -1107,15 +1143,6 @@
     "source": "BBC Sport"
   },
   {
-    "slug": "romero-wouldn-t-have-seen-red-if-referee-did-his-job-frank",
-    "title": "Romero wouldn't have seen red if referee 'did his job' - Frank",
-    "description": "Cristian Romero would not have been sent off in Tottenham's loss to Liverpool if referee John Brooks \"did his job\" properly, says Spurs boss Thomas Frank.",
-    "pubDate": "2025-12-20",
-    "image": "",
-    "link": "https://www.bbc.com/sport/football/articles/c0l9yng296xo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport"
-  },
-  {
     "slug": "guardiola-happy-man-city-challenging-on-all-fronts",
     "title": "Guardiola happy Man City challenging on all fronts",
     "description": "Man City boss Pep Guardiola is pleased with the intensity of the pressing of his forward players and his defence as well after his side comfortably beat West Ham 3-0 at the Etihad Stadium.",
@@ -1188,12 +1215,12 @@
     "source": "BBC Sport"
   },
   {
-    "slug": "man-utd-could-make-january-signing-amid-neves-link",
-    "title": "Man Utd 'could make January signing' amid Neves link",
-    "description": "Manchester United head coach Ruben Amorim says it is possible the club could make a January transfer window signing.",
+    "slug": "romero-wouldn-t-have-seen-red-if-referee-did-his-job-frank",
+    "title": "Romero wouldn't have seen red if referee 'did his job' - Frank",
+    "description": "Cristian Romero would not have been sent off in Tottenham's loss to Liverpool if referee John Brooks \"did his job\" properly, says Spurs boss Thomas Frank.",
     "pubDate": "2025-12-20",
     "image": "",
-    "link": "https://www.bbc.com/sport/football/articles/c5yjzg0xd5do?at_medium=RSS&at_campaign=rss",
+    "link": "https://www.bbc.com/sport/football/articles/c0l9yng296xo?at_medium=RSS&at_campaign=rss",
     "source": "BBC Sport"
   },
   {
@@ -1203,24 +1230,6 @@
     "pubDate": "2025-12-20",
     "image": "",
     "link": "https://www.bbc.com/sport/boxing/articles/c2k4y1nv31zo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport"
-  },
-  {
-    "slug": "most-attacking-keeper-in-league-why-raya-is-key-for-arsenal",
-    "title": "'Most attacking keeper in league' - why Raya is key for Arsenal",
-    "description": "David Raya has been described as the most attacking goalkeeper in the league by Arsenal boss Mikel Arteta. BBC Sport analyse the importance of the Spaniard.",
-    "pubDate": "2025-12-20",
-    "image": "",
-    "link": "https://www.bbc.com/sport/articles/cx231l7z32do?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport"
-  },
-  {
-    "slug": "do-we-want-to-be-remembered-for-fighting-or-being-cowards",
-    "title": "'Do we want to be remembered for fighting or being cowards?'",
-    "description": "Relegation from the Premier League looks inevitable for Wolves after a 15th defeat in 17 games - but will they avoid setting more unwanted records?",
-    "pubDate": "2025-12-20",
-    "image": "",
-    "link": "https://www.bbc.com/sport/football/articles/c9qe27vx781o?at_medium=RSS&at_campaign=rss",
     "source": "BBC Sport"
   },
   {
