@@ -1,5 +1,23 @@
 [
   {
+    "slug": "chiefs-down-to-qb3-after-minshew-injured-exits",
+    "title": "Chiefs down to QB3 after Minshew injured, exits",
+    "description": "Chiefs quarterback Gardner Minshew sustained a left knee injury in the opening minute against the Titans, left the game before halftime and was ruled out.",
+    "pubDate": "2025-12-21",
+    "image": "",
+    "link": "https://www.espn.com/nfl/story/_/id/47381084/chiefs-gardner-minshew-suffers-knee-injury-ruled-vs-titans",
+    "source": "Nate Taylor"
+  },
+  {
+    "slug": "vikings-qb-mccarthy-ruled-out-with-hand-injury",
+    "title": "Vikings QB McCarthy ruled out with hand injury",
+    "description": "Vikings quarterback J.J. McCarthy suffered a hand injury in Sunday's game against the Giants.",
+    "pubDate": "2025-12-21",
+    "image": "",
+    "link": "https://www.espn.com/nfl/story/_/id/47381154/vikings-jj-mccarthy-ryan-kelly-jordan-mason-leave-injured",
+    "source": "Kevin Seifert"
+  },
+  {
     "slug": "browns-standout-rookie-rb-judkins-carted-off",
     "title": "Browns standout rookie RB Judkins carted off",
     "description": "Browns rookie running back Quinshon Judkins left Sunday's game against the Buffalo Bills on a cart after suffering a right leg injury.",
@@ -27,15 +45,6 @@
     "source": "Jeff Borzello"
   },
   {
-    "slug": "eagles-go-for-2-igniting-brawl-sirianni-backs-play",
-    "title": "Eagles go for 2, igniting brawl; Sirianni backs play",
-    "description": "An on-field fight resulted in three players being ejected from Saturday's Eagles-Commanders game after Philadelphia, up by 17 late in the fourth quarter, decided to go for a 2-point conversion.",
-    "pubDate": "2025-12-21",
-    "image": "",
-    "link": "https://www.espn.com/nfl/story/_/id/47375448/eagles-2-point-conversion-ignites-brawl-sirianni-defends-play",
-    "source": "John Keim and Tim McManus"
-  },
-  {
     "slug": "devils-jack-hughes-returns-after-freak-injury",
     "title": "Devils' Jack Hughes returns after 'freak' injury",
     "description": "Devils star Jack Hughes, who injured his hand during a team dinner in Chicago on Nov. 13, will return to the lineup against the Sabres.",
@@ -43,15 +52,6 @@
     "image": "",
     "link": "https://www.espn.com/nhl/story/_/id/47380001/devils-jack-hughes-returns-lineup-freak-hand-injury",
     "source": "Greg Wyshynski"
-  },
-  {
-    "slug": "lanning-ducks-fell-short-of-standard-in-cfp-win",
-    "title": "Lanning: Ducks fell short of 'standard' in CFP win",
-    "description": "Dan Lanning expressed disappointment with how Oregon performed in the second half versus James Madison, despite advancing in the College Football Playoff for the first time since 2014.",
-    "pubDate": "2025-12-21",
-    "image": "",
-    "link": "https://www.espn.com/college-football/story/_/id/47375831/oregon-beats-james-madison-college-football-playoff-opener",
-    "source": "Kyle Bonagura"
   },
   {
     "slug": "japan-hr-record-setter-murakami-picks-chisox",
@@ -117,15 +117,6 @@
     "source": "ESPN"
   },
   {
-    "slug": "volleyball-title-game-primer-keys-to-an-sec-exclusive",
-    "title": "Volleyball title game primer: Keys to an SEC exclusive",
-    "description": "The all-SEC showdown features big hitters who have beome quite comfortable on the biggest stage. So what are the X factors?",
-    "pubDate": "2025-12-21",
-    "image": "",
-    "link": "https://www.espn.com/college-sports/story/_/id/47371434/2025-ncaa-volleyball-tournament-championship-game-preview-kentucky-wildcats-texas-aggies",
-    "source": "Elizabeth Merrill and Charlotte Gibson"
-  },
-  {
     "slug": "mlb-offseason-grades-white-sox-hit-home-run-land-japan-s-murakami",
     "title": "MLB offseason grades: White Sox hit home run, land Japan's Murakami",
     "description": "We've got you covered with grades and analysis on every winter signing and big offseason trade.",
@@ -135,8 +126,8 @@
     "source": "Bradford Doolittle and David Schoenfield"
   },
   {
-    "slug": "week-16-inactives-status-of-marvin-harrison-jr-woody-marks-and-others",
-    "title": "Week 16 inactives: Status of Marvin Harrison Jr., Woody Marks and others",
+    "slug": "week-16-inactives-marvin-harrison-jr-active-woody-marks-out",
+    "title": "Week 16 inactives: Marvin Harrison Jr. active, Woody Marks out",
     "description": "Updated inactives and analysis based on the latest reports and official announcements leading up to kickoff.",
     "pubDate": "2025-12-21",
     "image": "",
@@ -180,22 +171,13 @@
     "source": "ESPN"
   },
   {
-    "slug": "liverpool-s-win-marred-by-isak-injury-as-pressure-mounts-on-spurs-frank",
-    "title": "Liverpool's win marred by Isak injury as pressure mounts on Spurs' Frank",
-    "description": "Liverpool's third straight win in all competitions came at a cost while furthering Spurs fans' frustration with Thomas Frank.",
+    "slug": "man-united-s-issues-laid-bare-while-aston-villa-enter-title-race-with-gritty-win",
+    "title": "Man United's issues laid bare while Aston Villa enter title race with gritty win",
+    "description": "Problems are mounting for Man United after Sunday's defeat, a result that vaulted Aston Villa into the title race. Can Amorim & Co. turn this around with a thin squad and crowded fixture list?",
     "pubDate": "2025-12-21",
     "image": "",
-    "link": "https://www.espn.com/soccer/story/_/id/47370514/liverpool-win-marred-isak-injury-frank-pressure-builds",
-    "source": "Beth Lindop and James Olley"
-  },
-  {
-    "slug": "arsenal-are-christmas-champions-but-that-ll-count-for-nothing-if-gunners-can-t-hold",
-    "title": "Arsenal are 'Christmas champions,' but that'll count for nothing if Gunners can't hold",
-    "description": "Arsenal may be top of the Premier League at Christmas again.",
-    "pubDate": "2025-12-21",
-    "image": "",
-    "link": "https://www.espn.com/soccer/story/_/id/47371827/arsenal-christmas-champions-count-nothing",
-    "source": "Mark Ogden"
+    "link": "https://www.espn.com/soccer/story/_/id/47379624/manchester-united-aston-villa-ruben-amorim-premier-league-analysis-reaction",
+    "source": "Rob Dawson"
   },
   {
     "slug": "the-jake-paul-show-is-far-from-over-but-where-does-it-go-from-here",
@@ -214,15 +196,6 @@
     "image": "",
     "link": "https://www.espn.com/college-football/story/_/id/47352662/college-football-transfer-portal-2026-live-news-updates-rankings-more",
     "source": "ESPN Staff"
-  },
-  {
-    "slug": "tag-team-title-match-leaves-something-to-be-desired",
-    "title": "Tag team title match leaves something to be desired",
-    "description": "A disappointing end to the men's tag team championship, was emblematic of a building-block 'SmackDown.'",
-    "pubDate": "2025-12-21",
-    "image": "",
-    "link": "https://www.espn.com/wwe/story/_/id/47363840/wwe-smackdown-takeaways-tag-team-title-match-leaves-desired",
-    "source": "Arda Ocal"
   },
   {
     "slug": "transfer-rumors-news-real-madrid-man-city-liverpool-eye-bayern-star-olise",
@@ -261,12 +234,12 @@
     "source": "BBC Sport"
   },
   {
-    "slug": "england-unable-to-hold-out-as-australia-retain-the-ashes",
-    "title": "England unable to hold out as Australia retain the Ashes",
-    "description": "Australia beat England by 82 runs to take a 3-0 series lead and retain the Ashes urn on day five of the third Test in Adelaide.",
+    "slug": "stunning-rogers-double-secures-villa-win-over-man-utd",
+    "title": "Stunning Rogers double secures Villa win over Man Utd",
+    "description": "Morgan Rogers scores twice for Aston Villa in their 2-1 win against Manchester United, extending Villa's unbeaten run to 10 matches in all competitions.",
     "pubDate": "2025-12-21",
     "image": "",
-    "link": "https://www.bbc.com/sport/cricket/videos/c1w9yl5xg1po?at_medium=RSS&at_campaign=rss",
+    "link": "https://www.bbc.com/sport/football/videos/cvgr3nez9x9o?at_medium=RSS&at_campaign=rss",
     "source": "BBC Sport"
   },
   {
@@ -294,6 +267,15 @@
     "pubDate": "2025-12-21",
     "image": "",
     "link": "https://www.bbc.com/sport/cricket/articles/cp34p04dzd3o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport"
+  },
+  {
+    "slug": "not-at-end-of-storm-but-light-amid-darkness-for-nancy-at-celtic",
+    "title": "'Not at end of storm, but light amid darkness for Nancy at Celtic'",
+    "description": "On the winter solstice, some light finally illuminated the darkness of Wilfried Nancy's opening 17 days as Celtic manager.",
+    "pubDate": "2025-12-21",
+    "image": "",
+    "link": "https://www.bbc.com/sport/football/articles/ce86kxkj309o?at_medium=RSS&at_campaign=rss",
     "source": "BBC Sport"
   },
   {
@@ -351,6 +333,42 @@
     "source": "BBC Sport"
   },
   {
+    "slug": "stunning-rogers-double-secures-villa-win-over-man-utd",
+    "title": "Stunning Rogers double secures Villa win over Man Utd",
+    "description": "Morgan Rogers scores twice for Aston Villa in their 2-1 win against Manchester United, extending Villa's unbeaten run to 10 matches in all competitions.",
+    "pubDate": "2025-12-21",
+    "image": "",
+    "link": "https://www.bbc.com/sport/football/videos/cvgr3nez9x9o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport"
+  },
+  {
+    "slug": "the-best-team-today-lost-amorim",
+    "title": "The best team today lost - Amorim",
+    "description": "Manchester United Manager Ruben Amorim says that Manchester United performed better despite losing 2-1 to Aston Villa.",
+    "pubDate": "2025-12-21",
+    "image": "",
+    "link": "https://www.bbc.com/sport/football/videos/clydjrnz4xdo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport"
+  },
+  {
+    "slug": "emery-elated-with-fantastic-aston-villa-win",
+    "title": "Emery elated with 'fantastic' Aston Villa win",
+    "description": "Aston Villa manager Unai Emery praises his \"fantastic\" players in a hard-fought 2-1 win against Manchester United.",
+    "pubDate": "2025-12-21",
+    "image": "",
+    "link": "https://www.bbc.com/sport/football/videos/c04vxrz9qz7o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport"
+  },
+  {
+    "slug": "england-unable-to-hold-out-as-australia-retain-the-ashes",
+    "title": "England unable to hold out as Australia retain the Ashes",
+    "description": "Australia beat England by 82 runs to take a 3-0 series lead and retain the Ashes urn on day five of the third Test in Adelaide.",
+    "pubDate": "2025-12-21",
+    "image": "",
+    "link": "https://www.bbc.com/sport/cricket/videos/c1w9yl5xg1po?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport"
+  },
+  {
     "slug": "unbelievable-bears-dramatic-late-touchdown-stuns-packers",
     "title": "'Unbelievable!' - Bears' dramatic late touchdown stuns Packers",
     "description": "Chicago Bears move to the brink of the play-offs with a dramatic 22-16 overtime win at home to the Green Bay Packers.",
@@ -369,30 +387,12 @@
     "source": "BBC Sport"
   },
   {
-    "slug": "the-moment-that-australia-retained-the-ashes",
-    "title": "The moment that Australia retained the Ashes",
-    "description": "Marnus Labuschagne takes the catch from Josh Tongue as England are bowled out for 352, giving Australia an 82 run win and a 3-0 series lead to retain The Ashes on day five in Adelaide.",
+    "slug": "christmas-cheers-and-jeers-for-welsh-sides",
+    "title": "Christmas cheers and jeers for Welsh sides",
+    "description": "The weekend before Christmas provided contrasting fortunes for Wales' four professional sides as they returned to URC action.",
     "pubDate": "2025-12-21",
     "image": "",
-    "link": "https://www.bbc.com/sport/cricket/videos/ce8njz672yyo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport"
-  },
-  {
-    "slug": "england-execution-not-good-enough-for-long-enough-stokes",
-    "title": "England execution not good enough for long enough - Stokes",
-    "description": "England captain Ben Stokes expresses pride in his side's \"character and fight\" in the third Test but admits they were not good enough for long enough to claim a victory.",
-    "pubDate": "2025-12-21",
-    "image": "",
-    "link": "https://www.bbc.com/sport/cricket/videos/cm2vrvep318o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport"
-  },
-  {
-    "slug": "it-s-frustrating-smith-out-for-60-after-poor-shot",
-    "title": "'It's frustrating' - Smith out for 60 after poor shot",
-    "description": "Australia make the breakthrough as Jamie Smith is caught for 60 to leave England on 285-7, needing 150 runs to win the third Test on day five in Adelaide.",
-    "pubDate": "2025-12-21",
-    "image": "",
-    "link": "https://www.bbc.com/sport/cricket/videos/c1dzyq403gzo?at_medium=RSS&at_campaign=rss",
+    "link": "https://www.bbc.com/sport/rugby-union/articles/clydw71m820o?at_medium=RSS&at_campaign=rss",
     "source": "BBC Sport"
   },
   {
@@ -432,12 +432,30 @@
     "source": "BBC Sport"
   },
   {
-    "slug": "10-moments-that-decided-the-ashes",
-    "title": "10 moments that decided the Ashes",
-    "description": "Australia have regained the Ashes after winning the first three Tests against England down under once again - here are the 10 moments that decided the destination of the urn.",
+    "slug": "the-moment-that-australia-retained-the-ashes",
+    "title": "The moment that Australia retained the Ashes",
+    "description": "Marnus Labuschagne takes the catch from Josh Tongue as England are bowled out for 352, giving Australia an 82 run win and a 3-0 series lead to retain The Ashes on day five in Adelaide.",
     "pubDate": "2025-12-21",
     "image": "",
-    "link": "https://www.bbc.com/sport/cricket/articles/cx25jx75lpxo?at_medium=RSS&at_campaign=rss",
+    "link": "https://www.bbc.com/sport/cricket/videos/ce8njz672yyo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport"
+  },
+  {
+    "slug": "england-execution-not-good-enough-for-long-enough-stokes",
+    "title": "England execution not good enough for long enough - Stokes",
+    "description": "England captain Ben Stokes expresses pride in his side's \"character and fight\" in the third Test but admits they were not good enough for long enough to claim a victory.",
+    "pubDate": "2025-12-21",
+    "image": "",
+    "link": "https://www.bbc.com/sport/cricket/videos/cm2vrvep318o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport"
+  },
+  {
+    "slug": "it-s-frustrating-smith-out-for-60-after-poor-shot",
+    "title": "'It's frustrating' - Smith out for 60 after poor shot",
+    "description": "Australia make the breakthrough as Jamie Smith is caught for 60 to leave England on 285-7, needing 150 runs to win the third Test on day five in Adelaide.",
+    "pubDate": "2025-12-21",
+    "image": "",
+    "link": "https://www.bbc.com/sport/cricket/videos/c1dzyq403gzo?at_medium=RSS&at_campaign=rss",
     "source": "BBC Sport"
   },
   {
@@ -459,39 +477,12 @@
     "source": "BBC Sport"
   },
   {
-    "slug": "given-shares-howe-s-frustrations-on-trio-of-decisions",
-    "title": "Given shares Howe's frustrations on trio of decisions",
-    "description": "Match of the Day's Shay Given shares Newcastle manager Eddie Howe's frustrations after a trio of decisions went against the Magpies in their 2-2 draw with Chelsea.",
+    "slug": "10-moments-that-decided-the-ashes",
+    "title": "10 moments that decided the Ashes",
+    "description": "Australia have regained the Ashes after winning the first three Tests against England down under once again - here are the 10 moments that decided the destination of the urn.",
     "pubDate": "2025-12-21",
     "image": "",
-    "link": "https://www.bbc.com/sport/football/videos/czj08kjpev3o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport"
-  },
-  {
-    "slug": "spurs-lost-control-in-defeat-to-liverpool-hart",
-    "title": "Spurs 'lost control' in defeat to Liverpool - Hart",
-    "description": "MOTD Analysis: Ill-discipline cost Tottenham against Liverpool - Joe Hart",
-    "pubDate": "2025-12-21",
-    "image": "",
-    "link": "https://www.bbc.com/sport/football/videos/cpvd3jv9xj1o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport"
-  },
-  {
-    "slug": "who-are-the-contenders-to-win-afcon",
-    "title": "Who are the contenders to win Afcon?",
-    "description": "BBC Sport's John Bennett gives Football Focus the lowdown on which nations are contenders to win the Africa Cup of Nations, which begins in Morocco on Sunday.",
-    "pubDate": "2025-12-21",
-    "image": "",
-    "link": "https://www.bbc.com/sport/football/videos/clyde53vkjro?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport"
-  },
-  {
-    "slug": "i-put-my-hands-up-mccullum-admits-ashes-mistakes",
-    "title": "'I put my hands up' - McCullum admits Ashes mistakes",
-    "description": "Coach Brendon McCullum accepts England may have made mistakes with their Ashes preparation after their series defeat was confirmed in Adelaide.",
-    "pubDate": "2025-12-21",
-    "image": "",
-    "link": "https://www.bbc.com/sport/cricket/articles/cm20d0nle64o?at_medium=RSS&at_campaign=rss",
+    "link": "https://www.bbc.com/sport/cricket/articles/cx25jx75lpxo?at_medium=RSS&at_campaign=rss",
     "source": "BBC Sport"
   },
   {
@@ -522,12 +513,48 @@
     "source": "BBC Sport"
   },
   {
+    "slug": "i-put-my-hands-up-mccullum-admits-ashes-mistakes",
+    "title": "'I put my hands up' - McCullum admits Ashes mistakes",
+    "description": "Coach Brendon McCullum accepts England may have made mistakes with their Ashes preparation after their series defeat was confirmed in Adelaide.",
+    "pubDate": "2025-12-21",
+    "image": "",
+    "link": "https://www.bbc.com/sport/cricket/articles/cm20d0nle64o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport"
+  },
+  {
     "slug": "england-beaten-to-lose-another-ashes-in-australia",
     "title": "England beaten to lose another Ashes in Australia",
     "description": "England's Bazball regime is in tatters as yet another Ashes series in Australia is lost at the earliest possible opportunity.",
     "pubDate": "2025-12-21",
     "image": "",
     "link": "https://www.bbc.com/sport/cricket/articles/c4g4yznemkxo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport"
+  },
+  {
+    "slug": "given-shares-howe-s-frustrations-on-trio-of-decisions",
+    "title": "Given shares Howe's frustrations on trio of decisions",
+    "description": "Match of the Day's Shay Given shares Newcastle manager Eddie Howe's frustrations after a trio of decisions went against the Magpies in their 2-2 draw with Chelsea.",
+    "pubDate": "2025-12-21",
+    "image": "",
+    "link": "https://www.bbc.com/sport/football/videos/czj08kjpev3o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport"
+  },
+  {
+    "slug": "spurs-lost-control-in-defeat-to-liverpool-hart",
+    "title": "Spurs 'lost control' in defeat to Liverpool - Hart",
+    "description": "MOTD Analysis: Ill-discipline cost Tottenham against Liverpool - Joe Hart",
+    "pubDate": "2025-12-21",
+    "image": "",
+    "link": "https://www.bbc.com/sport/football/videos/cpvd3jv9xj1o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport"
+  },
+  {
+    "slug": "who-are-the-contenders-to-win-afcon",
+    "title": "Who are the contenders to win Afcon?",
+    "description": "BBC Sport's John Bennett gives Football Focus the lowdown on which nations are contenders to win the Africa Cup of Nations, which begins in Morocco on Sunday.",
+    "pubDate": "2025-12-21",
+    "image": "",
+    "link": "https://www.bbc.com/sport/football/videos/clyde53vkjro?at_medium=RSS&at_campaign=rss",
     "source": "BBC Sport"
   },
   {
@@ -558,174 +585,336 @@
     "source": "BBC Sport"
   },
   {
-    "slug": "test-match-special-podcast",
-    "title": "Test Match Special Podcast",
-    "description": "The Ashes: England's belated resistance ends as Australia retain the Ashes.",
+    "slug": "not-at-end-of-storm-but-light-amid-darkness-for-nancy-at-celtic",
+    "title": "'Not at end of storm, but light amid darkness for Nancy at Celtic'",
+    "description": "On the winter solstice, some light finally illuminated the darkness of Wilfried Nancy's opening 17 days as Celtic manager.",
     "pubDate": "2025-12-21",
     "image": "",
-    "link": "https://www.bbc.co.uk/sounds/play/p0mpyhgq?at_medium=RSS&at_campaign=rss",
+    "link": "https://www.bbc.com/sport/football/articles/ce86kxkj309o?at_medium=RSS&at_campaign=rss",
     "source": "BBC Sport"
   },
   {
-    "slug": "watch-sportscene-highlights",
-    "title": "Watch Sportscene highlights",
-    "description": "Highlights from the afternoon’s fixtures in the Scottish Premiership.",
+    "slug": "georgetown-coach-ed-cooley-39-s-water-bottle-throw-earns-him-a-one-game-suspension",
+    "title": "Georgetown coach Ed Cooley&#39;s water bottle throw earns him a one-game suspension",
+    "description": "Georgetown men's basketball coach Ed Cooley was suspended by the school on Sunday for one game after throwing a water bottle into the stands at the end of a loss to Xavier the night before.  The Hoyas fell to 8-4 and 1-1 in Big East Conference play with their 80-77 loss against visiting Xavier on Sa",
     "pubDate": "2025-12-21",
     "image": "",
-    "link": "https://www.bbc.co.uk/iplayer/live/bbcscotland?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport"
+    "link": "https://sports.yahoo.com/articles/georgetown-coach-ed-cooleys-water-204408187.html",
+    "source": "HOWARD FENDRICH"
   },
   {
-    "slug": "broncos-inactives-7-players-won-39-t-play-vs-jaguars",
-    "title": "Broncos inactives: 7 players won&#39;t play vs. Jaguars",
-    "description": "The Broncos have announced seven inactive players for today's game.",
+    "slug": "missouri-hires-chip-lindsey-as-offensive-coordinator-amid-michigan-turmoil",
+    "title": "Missouri hires Chip Lindsey as offensive coordinator amid Michigan turmoil",
+    "description": "The 51-year-old Lindsey replaces Kirby Moore, who left to become the head coach at Washington State. Moore had just one season with the Wolverines.",
     "pubDate": "2025-12-21",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/broncos-inactives-7-players-wont-193434028.html",
+    "link": "https://sports.yahoo.com/articles/missouri-hires-chip-lindsey-offensive-204349066.html",
     "source": "Google News"
   },
   {
-    "slug": "was-taylor-swift-at-the-chiefs-titans-game-in-week-16",
-    "title": "Was Taylor Swift at the Chiefs-Titans game in Week 16?",
-    "description": "Did the pop singer make the trip to Tennessee on Sunday?",
+    "slug": "jake-paul-suffers-broken-jaw-in-2-places-loses-teeth-in-aftermath-of-vicious-netflix-knockout-by-anthony-joshua",
+    "title": "Jake Paul Suffers Broken Jaw in 2 Places, Loses Teeth in Aftermath of Vicious Netflix Knockout by Anthony Joshua",
+    "description": "Jake Paul suffered a double broken jaw in the YouTuber-turned-boxer's knockout loss to former heavyweight champion Anthony Joshua, sharing a stark medical update after undergoing surgery that could put an end to his fighting career – though he insists it won't.",
     "pubDate": "2025-12-21",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/taylor-swift-chiefs-titans-game-193408669.html",
+    "link": "https://sports.yahoo.com/articles/jake-paul-suffers-broken-jaw-204215150.html",
     "source": "Google News"
   },
   {
-    "slug": "bengals-lead-dolphins-17-14-at-halftime",
-    "title": "Bengals lead Dolphins 17-14 at halftime",
-    "description": "Quinn Ewers has not thrown his first touchdown pass yet, but he has the Dolphins competitive with the Bengals.",
+    "slug": "nfl-week-16-late-games",
+    "title": "NFL Week 16 Late Games",
+    "description": "For your late-afternoon and early-evening watching.",
     "pubDate": "2025-12-21",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/bengals-lead-dolphins-17-14-193326161.html",
+    "link": "https://sports.yahoo.com/articles/nfl-week-16-games-204200094.html",
     "source": "Google News"
   },
   {
-    "slug": "fiorentina-gets-what-it-wanted-for-christmas-its-first-serie-a-win-of-the-season",
-    "title": "Fiorentina gets what it wanted for Christmas. Its first Serie A win of the season",
-    "description": "Beleaguered Fiorentina finally got its first Serie A win of the season after its opponent played nearly the entire match with 10 men.  Fiorentina eased to a 5-1 victory at home to Udinese, which had goalkeeper Maduka Okoye sent off with less than eight minutes on the clock.  It was Fiorentina’s firs",
+    "slug": "commanders-vs-eagles-game-one-studs-and-duds",
+    "title": "Commanders Vs Eagles (Game One) – Studs and Duds",
+    "description": "No one expected the Commanders to beat the Eagles on Saturday night, but with that said, there were times in this game where our second and third teamers held their own against a far superior football team. The Refs were on the Eagles side and made their job a bit easier, but despite that, Quinn’s [",
     "pubDate": "2025-12-21",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/fiorentina-gets-wanted-christmas-first-193245220.html",
-    "source": "DANIELLA MATAR"
-  },
-  {
-    "slug": "panthers-take-13-10-lead-just-before-halftime",
-    "title": "Panthers take 13-10 lead just before halftime",
-    "description": "The Panthers needed most of the first half to find their way to the end zone, but getting there was enough to send them into halftime with a lead over the Buccaneers.",
-    "pubDate": "2025-12-21",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/panthers-13-10-lead-just-193118187.html",
+    "link": "https://sports.yahoo.com/articles/commanders-vs-eagles-game-one-204158094.html",
     "source": "Google News"
   },
   {
-    "slug": "jets-vs-saints-second-half-thread",
-    "title": "Jets vs Saints Second Half Thread",
-    "description": "Jets go into the second half trailing the New Orleans Saints",
+    "slug": "report-rangers-captain-j-t-miller-week-to-week-with-upper-body-injury",
+    "title": "Report: Rangers captain J.T. Miller week to week with upper-body injury",
+    "description": "Miller left the Rangers’ game against Philadelphia on Saturday with about eight minutes left after taking a big hit from Flyers defenseman Nick Seeler and landing awkwardly.",
     "pubDate": "2025-12-21",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/jets-vs-saints-second-half-193108974.html",
+    "link": "https://sports.yahoo.com/articles/report-rangers-captain-j-t-204038809.html",
     "source": "Google News"
   },
   {
-    "slug": "j-j-mccarthy-injury-update-latest-news-on-vikings-qb-39-s-status-in-week-16-game",
-    "title": "J.J. McCarthy injury update: Latest news on Vikings QB&#39;s status in Week 16 game",
-    "description": "Minnesota Vikings quarterback J.J. McCarthy is dealing with an injury in the second half of the Week 16 game against the New York Giants.",
+    "slug": "juventus-identify-inter-milan-midfielder-alongside-marseille-newcastle-united-stars-for-reinforcements",
+    "title": "Juventus Identify Inter Milan Midfielder Alongside Marseille & Newcastle United Stars For Reinforcements",
+    "description": "Juventus are stepping up their January planning and have identified Inter midfielder Davide Frattesi as part of a broader shortlist aimed at strengthening the centre of the pitch.According to Gazzetta...",
     "pubDate": "2025-12-21",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/j-j-mccarthy-injury-latest-193043152.html",
+    "link": "https://sports.yahoo.com/articles/juventus-identify-inter-milan-midfielder-204000330.html",
     "source": "Google News"
   },
   {
-    "slug": "minnesota-vikings-at-new-york-giants-second-quarter-recap-and-third-quarter-discussion",
-    "title": "Minnesota Vikings at New York Giants: Second Quarter Recap and Third Quarter Discussion",
-    "description": "The good guys lead, but there may be trouble ahead",
+    "slug": "alexander-isak-injury-opens-door-for-super-talent-to-join-liverpool-first-team",
+    "title": "Alexander Isak injury opens door for super talent to join Liverpool first-team",
+    "description": "Alexander Isak's injury has opened the door for Liverpool to bring in a super talent to the first-team. Nobody wants to see a player get injured. It's a terrible situation for everyone involved. A foo...",
     "pubDate": "2025-12-21",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/minnesota-vikings-york-giants-second-193037244.html",
+    "link": "https://sports.yahoo.com/articles/alexander-isak-injury-opens-door-204000837.html",
     "source": "Google News"
   },
   {
-    "slug": "where-auburn-basketball-ranks-in-kenpom-after-purdue-loss",
-    "title": "Where Auburn basketball ranks in KenPom after Purdue loss",
-    "description": "Where does Auburn basketball rank in KenPom after Purdue loss?",
+    "slug": "atlanta-falcons-inactives-drake-london-returns",
+    "title": "Atlanta Falcons inactives: Drake London returns",
+    "description": "A look at who is in and who is out for the Falcons in Week 16 against the Cardinals.",
     "pubDate": "2025-12-21",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/where-auburn-basketball-ranks-kenpom-193032458.html",
+    "link": "https://sports.yahoo.com/articles/atlanta-falcons-inactives-drake-london-203838326.html",
     "source": "Google News"
   },
   {
-    "slug": "texas-a-m-vs-kentucky-ncaa-title-live-updates-score-highlights",
-    "title": "Texas A&M vs. Kentucky: NCAA title live updates, score, highlights",
-    "description": "Follow here for the Texas A&M vs. Kentucky live updates, score, and highlights of the 2025 NCAA Volleyball Championship.",
+    "slug": "arvid-lindblad-to-drive-red-bull-f1-car-on-delhi-streets-in-2026-showrun",
+    "title": "Arvid Lindblad to drive Red Bull F1 car on Delhi streets in 2026 showrun",
+    "description": "Arvid Lindblad will make his first Formula 1 showrun as a Racing Bulls driver by taking a Red Bull F1 car onto the streets of Delhi for the Red Bull Moto Jam 2026",
     "pubDate": "2025-12-21",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/texas-m-vs-kentucky-ncaa-193015666.html",
+    "link": "https://sports.yahoo.com/articles/arvid-lindblad-drive-red-bull-203754344.html",
     "source": "Google News"
   },
   {
-    "slug": "nfl-playoff-picture-what-does-jaguars-broncos-mean-for-afc-standings-in-week-16",
-    "title": "NFL playoff picture: What does Jaguars-Broncos mean for AFC standings in Week 16",
-    "description": "The Jaguars face the Broncos in Denver on Sunday. We break down what the game means for the NFL playoff picture in Week 16.",
+    "slug": "bengals-tight-end-cam-grandy-injures-collarbone-vs-dolphins-ruled-out",
+    "title": "Bengals tight end Cam Grandy injures collarbone vs Dolphins, ruled out",
+    "description": "Tight end Cam Grandy had five catches for 28 yards over eight games as a rookie for the Bengals.",
     "pubDate": "2025-12-21",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/nfl-playoff-picture-does-jaguars-193000631.html",
+    "link": "https://sports.yahoo.com/articles/bengals-tight-end-cam-grandy-203730506.html",
     "source": "Google News"
   },
   {
-    "slug": "josh-allen-sent-to-locker-room-with-injury-vs-browns",
-    "title": "Josh Allen sent to locker room with injury vs. Browns",
-    "description": "The Buffalo Bills quarterback was injured late in the first half.",
+    "slug": "georgetown-coach-suspended-after-hitting-child-with-water-bottle",
+    "title": "Georgetown coach suspended after hitting child with water bottle",
+    "description": "Georgetown coach apologizes for hitting child with water bottle",
     "pubDate": "2025-12-21",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/josh-allen-sent-locker-room-192922338.html",
+    "link": "https://sports.yahoo.com/articles/georgetown-coach-apologizes-hitting-child-150438880.html",
     "source": "Google News"
   },
   {
-    "slug": "jordan-mason-injury-vs-new-york-giants-latest-news-on-vikings-39-rb",
-    "title": "Jordan Mason injury vs. New York Giants: Latest News on Vikings&#39; RB",
-    "description": "Minnesota Vikings running back Jordan Mason was hurt in the first quarter against the New York Giants and is out with an ankle injury.",
+    "slug": "eagles-eye-bigger-goals-after-becoming-first-nfc-east-team-in-20-years-to-clinch-consecutive-titles",
+    "title": "Eagles eye bigger goals after becoming first NFC East team in 20 years to clinch consecutive titles",
+    "description": "The Philadelphia Eagles have their sights on something bigger after becoming the first repeat NFC East champion in 20 years with their win over Washington.  The defending Super Bowl champs played one of their most complete games of the season offensively and defensively against the Commanders to cli",
     "pubDate": "2025-12-21",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/jordan-mason-injury-vs-york-192849374.html",
+    "link": "https://sports.yahoo.com/articles/eagles-eye-bigger-goals-becoming-203251406.html",
+    "source": "AARON BRACY"
+  },
+  {
+    "slug": "bills-39-james-cook-makes-buffalo-football-history-not-achieved-since-1975",
+    "title": "Bills&#39; James Cook makes Buffalo football history not achieved since 1975",
+    "description": "Cook just kept on cooking.",
+    "pubDate": "2025-12-21",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/bills-james-cook-makes-buffalo-203241291.html",
     "source": "Google News"
   },
   {
-    "slug": "is-raheim-39-rocket-39-sanders-related-to-shedeur-browns-39-rookie-rb-seeing-more-playing-time-vs-bills",
-    "title": "Is Raheim &#39;Rocket&#39; Sanders related to Shedeur? Browns&#39; rookie RB seeing more playing time vs. Bills",
-    "description": "Quinshon Judkins is out.",
+    "slug": "bengals-quarterback-joe-flacco-replaces-joe-burrow-vs-dolphins",
+    "title": "Bengals quarterback Joe Flacco replaces Joe Burrow vs Dolphins",
+    "description": "Bengals quarterback Joe Flacco last played against New England in Week 12.",
     "pubDate": "2025-12-21",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/raheim-rocket-sanders-related-shedeur-192753382.html",
+    "link": "https://sports.yahoo.com/articles/bengals-quarterback-joe-flacco-replaces-203229633.html",
     "source": "Google News"
   },
   {
-    "slug": "quinshon-judkins-carted-off-with-serious-leg-injury-bills-lead-20-10-at-halftime",
-    "title": "Quinshon Judkins carted off with serious leg injury, Bills lead 20-10 at halftime",
-    "description": "It appears one of the brightest spots of Cleveland’s 2025 rookie class has suffered a significant injury, as the bias lead the Browns 20-10 at halftime.",
+    "slug": "scions-e295-changes-come",
+    "title": "Scions E295: Changes Come",
+    "description": "We can’t keep everybody, but too much good is still happening",
     "pubDate": "2025-12-21",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/quinshon-judkins-carted-off-serious-192657303.html",
+    "link": "https://sports.yahoo.com/articles/scions-e295-changes-come-203203526.html",
     "source": "Google News"
   },
   {
-    "slug": "match-awards-from-bayern-munich-s-4-0-win-over-fc-heidenheim",
-    "title": "Match awards from Bayern Munich’s 4-0 win over FC Heidenheim",
-    "description": "What a way to wrap up the final game of the year for FC Bayern!",
+    "slug": "milan-already-considering-christopher-nkunku-8217-s-future",
+    "title": "Milan already considering Christopher Nkunku&#8217;s future",
+    "description": "Christopher Nkunku’s time in Italy could be reaching a premature conclusion as uncertainty grows over his future with AC Milan. According to a tweet from Daniele Longo, the French international’s ...",
     "pubDate": "2025-12-21",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/match-awards-bayern-munich-4-192649359.html",
+    "link": "https://sports.yahoo.com/articles/milan-already-considering-christopher-nkunku-203200082.html",
     "source": "Google News"
   },
   {
-    "slug": "texas-a-m-hc-mike-elko-needs-to-address-the-los-issues-this-offseason",
-    "title": "Texas A&M HC Mike Elko needs to address the LOS issues this offseason",
-    "description": "After blaming Texas A&M's 10-3 loss to Miami on line of scrimmage issues, better coaching and transfer additions are the only way forward.",
+    "slug": "paul-mcneil-jr-scores-19-to-lead-n-c-state-over-mississippi-76-62",
+    "title": "Paul McNeil Jr. scores 19 to lead N.C. State over Mississippi 76-62",
+    "description": "",
     "pubDate": "2025-12-21",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/texas-m-hc-mike-elko-192648778.html",
+    "link": "https://sports.yahoo.com/articles/paul-mcneil-jr-scores-19-203121405.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "baylor-scores-71-points-in-second-half-to-beat-southern-111-67",
+    "title": "Baylor scores 71 points in second half to beat Southern 111-67",
+    "description": "",
+    "pubDate": "2025-12-21",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/baylor-scores-71-points-second-203109386.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "quot-it-felt-like-a-week-during-the-corona-phase-quot-kompany-proud-of-injury-hit-bayern-after-win-in-heidenheim",
+    "title": "&quot;It felt like a week during the Corona phase&quot; – Kompany proud of injury-hit Bayern after win in Heidenheim",
+    "description": "Manuel Neuer, Joshua Kimmich and Aleksandar Pavlovic were just some of the many players Bayern Munich had to manage without for their trip to Heidenheim on Sunday.Despite the absences, Bayern won comf...",
+    "pubDate": "2025-12-21",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/felt-week-during-corona-phase-203100846.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "play-of-the-game-miami-s-mark-fletcher-does-numbers-against-texas-a-m",
+    "title": "Play of the Game: Miami’s Mark Fletcher does numbers against Texas A&M",
+    "description": "The Buckeyes will take on the Hurricanes in the Cotton Bowl on New Year’s Eve.",
+    "pubDate": "2025-12-21",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/play-game-miami-mark-fletcher-203100074.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "arizona-cardinals-atlanta-falcons-first-half-game-discussion",
+    "title": "Arizona Cardinals-Atlanta Falcons first half game discussion",
+    "description": "Talk about the game between the Arizona Cardinals and Atlanta Falcons.",
+    "pubDate": "2025-12-21",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/arizona-cardinals-atlanta-falcons-first-203000069.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "detroit-lions-vs-pittsburgh-steelers-first-half-live-discussion",
+    "title": "Detroit Lions vs. Pittsburgh Steelers first half live discussion",
+    "description": "Join our Detroit Lions live discussion as they take on the Pittsburgh Steelers in Week 16.",
+    "pubDate": "2025-12-21",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/detroit-lions-vs-pittsburgh-steelers-203000767.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "seth-rollins-offers-origin-for-wwe-ring-name",
+    "title": "Seth Rollins Offers Origin For WWE Ring Name",
+    "description": "Former WWE Champion Seth Rollins has revealed how he came up with his ring name, and the wrestling legend who ultimately chose it for him.",
+    "pubDate": "2025-12-21",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/seth-rollins-offers-origin-wwe-203000534.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "lions-39-top-two-centers-inactive-in-week-16-vs-steelers",
+    "title": "Lions&#39; top two centers inactive in Week 16 vs. Steelers",
+    "description": "The Detroit Lions are without two of their top centers in their Week 16 matchup against the Pittsburgh Steelers.",
+    "pubDate": "2025-12-21",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/lions-top-two-centers-inactive-202848636.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "no-jacket-required-for-emery-as-villa-dream-of-title-glory",
+    "title": "No jacket required for Emery as Villa dream of title glory",
+    "description": "Unai Emery insists Aston Villa will not win the Premier League, but the Spaniard's ecstatic celebration of Morgan Rogers' decisive strike against Manchester United revealed his true feelings about their surprise title charge.Villa sit third in the Premier League, just three points adrift of leaders",
+    "pubDate": "2025-12-21",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/no-jacket-required-emery-villa-202832301.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "tyler-shough-breaks-archie-manning-39-s-rookie-touchdown-passes-record",
+    "title": "Tyler Shough breaks Archie Manning&#39;s rookie touchdown passes record",
+    "description": "It wasn't enough for Tyler Shough to lead a 97-yard scoring drive. He capped it by breaking Archie Manning's rookie-season touchdown passes record.",
+    "pubDate": "2025-12-21",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/tyler-shough-breaks-archie-mannings-202717604.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "we-regret-to-inform-you-tom-brady-is-a-decent-announcer-now",
+    "title": "We regret to inform you Tom Brady is a decent announcer now",
+    "description": "Tom Brady finally knows how to announce football games. Who would have thought?",
+    "pubDate": "2025-12-21",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/regret-inform-tom-brady-decent-202650602.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "neugebauer-and-preuss-named-german-sportspeople-of-the-year",
+    "title": "Neugebauer and Preuss named German Sportspeople of the Year",
+    "description": "World decathlon champion Leo Neugebauer and World Cup biathlon winner Franziska Preuss won the German Sportspeople of the Year awards on Sunday. The 25-year-old Neugebauer prevailed in the sports journalists' vote ahead of swimmer Florian Wellbrock and cyclist Florian Lipowitz.",
+    "pubDate": "2025-12-21",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/decathlon-world-champion-neugebauer-named-202521789.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "everton-are-interested-in-25-year-old-premier-league-right-back-why-will-it-be-a-smart-signing",
+    "title": "Everton Are Interested In 25-Year-Old Premier League Right-Back: Why Will It Be A Smart Signing?",
+    "description": "Everton scouts are keeping a close watch on Leeds United standout Jayden Bogle as the January transfer window draws near. Journalist Wayne Veysey suggests the Merseyside club wants a fresh right-back ...",
+    "pubDate": "2025-12-21",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/everton-interested-25-old-premier-202500789.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "anytime-touchdown-scorer-49ers-vs-colts-prediction-td-picks-for-monday-night-football-week-16",
+    "title": "Anytime Touchdown Scorer 49ers vs Colts Prediction: TD Picks for Monday Night Football Week 16",
+    "description": "Find out why Ryan Gilbert is backing Jauan Jennings to break the plane on MNF. Free 49ers vs. Colts anytime touchdown picks for Monday, December 22.",
+    "pubDate": "2025-12-21",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/anytime-touchdown-scorer-49ers-vs-202400269.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "kimani-vidal-injury-update-is-bad-news-for-chargers",
+    "title": "Kimani Vidal injury update is bad news for Chargers",
+    "description": "Not ideal in L.A.",
+    "pubDate": "2025-12-21",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/kimani-vidal-injury-bad-news-202336213.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "c-graham-glasgow-inactive-for-lions-steelers",
+    "title": "C Graham Glasgow inactive for Lions-Steelers",
+    "description": "The Lions will not have their starting center as they play the Steelers on Sunday.",
+    "pubDate": "2025-12-21",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/c-graham-glasgow-inactive-lions-202308117.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "cardinals-inactive-list-marvin-harrison-jr-xavier-weaver-return",
+    "title": "Cardinals inactive list: Marvin Harrison Jr., Xavier Weaver return",
+    "description": "Check out which Cardinals were inactive against the Falcons and which players returned from injury.",
+    "pubDate": "2025-12-21",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/cardinals-inactive-list-marvin-harrison-202240561.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "packers-week-16-winners-and-losers-vs-the-bears",
+    "title": "Packers Week 16 Winners and Losers vs. the Bears",
+    "description": "All of the Green Bay Packers’ highs and lows from a disappointing matchup in Chicago.",
+    "pubDate": "2025-12-21",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/packers-week-16-winners-losers-202235979.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "derek-stingley-jr-christian-kirk-nick-chubb-are-active-for-texans-vs-raiders",
+    "title": "Derek Stingley Jr., Christian Kirk, Nick Chubb are active for Texans vs. Raiders",
+    "description": "The Texans' inactive list offers mostly good news.",
+    "pubDate": "2025-12-21",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/derek-stingley-jr-christian-kirk-202228045.html",
     "source": "Google News"
   },
   {
@@ -738,291 +927,120 @@
     "source": "Google News"
   },
   {
-    "slug": "chargers-lead-cowboys-21-17-at-halftime",
-    "title": "Chargers lead Cowboys 21-17 at halftime",
-    "description": "The Chargers and Cowboys are playing one of the more entertaining games of the season despite Dallas being eliminated from playoff contention on Saturday night.",
+    "slug": "2026-pdc-darts-world-championship-day-11-live-results-scores-schedule-and-bracket-suljovic-wins-controversial-game-over-cullen",
+    "title": "2026 PDC Darts World Championship Day 11 live results, scores, schedule and bracket: Suljovic wins controversial game over Cullen",
+    "description": "Luke Littler is among the players taking the stage on Day 11.",
     "pubDate": "2025-12-21",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/chargers-lead-cowboys-21-17-192557149.html",
+    "link": "https://sports.yahoo.com/articles/2026-pdc-darts-world-championship-113004694.html",
     "source": "Google News"
   },
   {
-    "slug": "new-york-giants-could-be-heavily-interested-in-college-football-coach",
-    "title": "New York Giants Could Be Heavily Interested in College Football Coach",
-    "description": "Mike Kafka is doing his best to motivate the New York Giants and prove he’s capable of changing his title […]",
+    "slug": "yankees-predicted-to-land-157-million-npb-superstar-ace-due-to-munetaka-murakami-signing",
+    "title": "Yankees predicted to land $157 million NPB superstar ace due to Munetaka Murakami signing",
+    "description": "This would be huge for the Yanks.",
     "pubDate": "2025-12-21",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/york-giants-could-heavily-interested-192516310.html",
+    "link": "https://sports.yahoo.com/articles/yankees-predicted-land-157-million-202028395.html",
     "source": "Google News"
   },
   {
-    "slug": "toronto-raptors-big-sandro-mamukelashvili-on-how-boston-celtics-won-battle-of-the-boards",
-    "title": "Toronto Raptors big Sandro Mamukelashvili on how Boston Celtics won battle of the boards",
-    "description": "\"I hate getting out-rebounded,\" he said postgame.",
+    "slug": "patriots-vs-ravens-predictions-best-bets-props-odds-for-sunday-night-football",
+    "title": "Patriots vs Ravens Predictions, Best Bets, Props & Odds for Sunday Night Football",
+    "description": "Our Patriots vs. Ravens predictions expect Baltimore to pick up the big win on SNF.",
     "pubDate": "2025-12-21",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/toronto-raptors-big-sandro-mamukelashvili-192511218.html",
+    "link": "https://sports.yahoo.com/articles/patriots-vs-ravens-predictions-best-202000384.html",
     "source": "Google News"
   },
   {
-    "slug": "cleveland-browns-vs-buffalo-bills-3rd-quarter-discussion",
-    "title": "Cleveland Browns vs. Buffalo Bills – 3rd Quarter discussion",
-    "description": "Discuss the third quarter of the Browns vs. Bills game with other fans live, as the action unfolds.",
+    "slug": "myles-garrett-sacks-tracker-updated-2025-total-for-browns-star-amid-chase-for-nfl-single-season-record",
+    "title": "Myles Garrett sacks tracker: Updated 2025 total for Browns star amid chase for NFL single-season record",
+    "description": "The Sporting News is tracking Myles Garrett's pursuit of the NFL's single-season sack record. Follow along for Garrett's updated total pace.",
     "pubDate": "2025-12-21",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/cleveland-browns-vs-buffalo-bills-192507405.html",
+    "link": "https://sports.yahoo.com/articles/myles-garrett-sacks-tracker-updated-101002036.html",
     "source": "Google News"
   },
   {
-    "slug": "arsenal-are-keeping-a-keen-eye-on-this-bundesliga-keeper-good-choice-for-arteta",
-    "title": "Arsenal Are Keeping A Keen Eye On This Bundesliga Keeper: Good Choice For Arteta?",
-    "description": "In a recent interview with Bild, journalist Christian Falk revealed that Arsenal are keeping a keen eye on Heidenheim keeper Diant Ramaj, who is currently playing on loan from Borussia Dortmund. Falk ...",
+    "slug": "jonathan-tah-professes-how-comfortable-he-is-at-bayern-munich-after-brilliant-start",
+    "title": "Jonathan Tah professes how ‘comfortable’ he is at Bayern Munich after brilliant start",
+    "description": "The German international has settled extremely well.",
     "pubDate": "2025-12-21",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/arsenal-keeping-keen-eye-bundesliga-192500661.html",
+    "link": "https://sports.yahoo.com/articles/jonathan-tah-professes-comfortable-bayern-201944969.html",
     "source": "Google News"
   },
   {
-    "slug": "josh-allen-injury-update-latest-news-on-bills-qb-39-s-status-in-week-16-game",
-    "title": "Josh Allen injury update: Latest news on Bills QB&#39;s status in Week 16 game",
-    "description": "Buffalo Bills quarterback Josh Allen is dealing with an injury in the first half of the Week 16 game against the Cleveland Browns.",
+    "slug": "minnesota-vikings-at-new-york-giants-third-quarter-recap-and-fourth-quarter-discussion",
+    "title": "Minnesota Vikings at New York Giants: Third Quarter Recap and Fourth Quarter Discussion",
+    "description": "The good guys lead",
     "pubDate": "2025-12-21",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/josh-allen-injury-latest-news-192442907.html",
+    "link": "https://sports.yahoo.com/articles/minnesota-vikings-york-giants-third-201906859.html",
     "source": "Google News"
   },
   {
-    "slug": "chiefs-qb-minshew-questionable-to-return-after-knee-injury-replaced-by-oladokun",
-    "title": "Chiefs QB Minshew questionable to return after knee injury, replaced by Oladokun",
-    "description": "Kansas City Chiefs quarterback Gardner Minshew is questionable to return Sunday after hurting a knee early in the second quarter against the Tennessee Titans.  Chris Oladokun replaced Minshew, who was making his first start this season for the Chiefs with Patrick Mahomes on injured reserve after tea",
+    "slug": "corinthians-fans-take-over-vasco-section-at-the-maracan",
+    "title": "Corinthians fans take over Vasco section at the Maracanã",
+    "description": "A group of Corinthians fans \"invaded\" a section of the Maracanã stadium designated for Vasco fans for the Brazilian Cup final this Sunday (21).According to information from the newspaper O Globo, the...",
     "pubDate": "2025-12-21",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/chiefs-qb-minshew-questionable-return-192438798.html",
+    "link": "https://sports.yahoo.com/articles/corinthians-fans-over-vasco-section-201900277.html",
     "source": "Google News"
   },
   {
-    "slug": "josh-allen-injury-update-is-concerning-news-for-bills-at-end-of-1st-half-with-limp",
-    "title": "Josh Allen injury update is concerning news for Bills at end of 1st half with limp",
-    "description": "The Bills can't afford this.",
+    "slug": "amorim-fears-united-captain-fernandes-will-be-out-39-a-while-39",
+    "title": "Amorim fears United captain Fernandes will be out &#39;a while&#39;",
+    "description": "Ruben Amorim fears Bruno Fernandes will be out for \"a while\" after the Manchester United captain was injured during Sunday's 2-1 defeat against Aston Villa.\"I think Kobbie Mainoo is out, Bruno is out, so we will see.",
     "pubDate": "2025-12-21",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/josh-allen-injury-concerning-news-192419030.html",
+    "link": "https://sports.yahoo.com/articles/amorim-fears-united-captain-fernandes-201900938.html",
     "source": "Google News"
   },
   {
-    "slug": "bucks-telling-teams-they-want-to-add-to-their-roster-in-wake-of-giannis-antetokounmpo-trade-noise",
-    "title": "Bucks telling teams they want to add to their roster in wake of Giannis Antetokounmpo trade noise",
-    "description": "Bucks telling teams they want to add to their roster in wake of Giannis Antetokounmpo trade noise",
+    "slug": "premier-league-top-goal-scorers-2025-2026-updated-golden-boot-rankings-as-haaland-extends-lead",
+    "title": "Premier League top goal scorers 2025/2026: Updated Golden Boot rankings as Haaland extends lead",
+    "description": "Igor Thiago is the closest challenger right now to Erling Haaland in the EPL Golden Boot race.",
     "pubDate": "2025-12-21",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/bucks-telling-teams-want-add-192359850.html",
+    "link": "https://sports.yahoo.com/articles/premier-league-top-goal-scorers-143500924.html",
     "source": "Google News"
   },
   {
-    "slug": "bulls-more-open-to-trading-coby-white-than-ever-before",
-    "title": "Bulls more open to trading Coby White than ever before",
-    "description": "Bulls more open to trading Coby White than ever before",
+    "slug": "islanders-matthew-barzal-39-s-bar-39-that-s-the-leadership-we-need-from-him-39",
+    "title": "Islanders Matthew Barzal&#39;s Bar:  &#39;That’s The Leadership We Need From Him&#39;",
+    "description": "Barzal ignited the Islanders' offense, extending his point streak and delivering crucial goals and assists in a tight contest.",
     "pubDate": "2025-12-21",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/bulls-more-open-trading-coby-192358498.html",
+    "link": "https://sports.yahoo.com/articles/islanders-matthew-barzals-bar-leadership-201855009.html",
     "source": "Google News"
   },
   {
-    "slug": "james-harden-39-s-name-could-end-up-in-trade-talks-this-winter",
-    "title": "James Harden&#39;s name could end up in trade talks this winter",
-    "description": "James Harden's name could end up in trade talks this winter",
+    "slug": "canadiens-montembeault-stays-with-the-rocket",
+    "title": "Canadiens: Montembeault Stays With The Rocket",
+    "description": "The plan has once again changed, with the Montreal Canadiens' goaltender. Samuel Montembeault is not expected to be back with the team before the Christmas break.",
     "pubDate": "2025-12-21",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/james-hardens-name-could-end-192357539.html",
+    "link": "https://sports.yahoo.com/articles/canadiens-montembeault-stays-rocket-201751233.html",
     "source": "Google News"
   },
   {
-    "slug": "billy-donovan-asked-if-patrick-williams-spot-as-11th",
-    "title": "Billy Donovan, asked if Patrick Williams’ spot as 11th …",
-    "description": "Billy Donovan, asked if Patrick Williams’ spot as 11th …",
+    "slug": "steelers-lions-inactives-rb-kaleb-johnson-is-a-healthy-scratch",
+    "title": "Steelers-Lions inactives: RB Kaleb Johnson is a healthy scratch",
+    "description": "Pittsburgh’s last two third-round picks are healthy scratches against the Lions.",
     "pubDate": "2025-12-21",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/billy-donovan-asked-patrick-williams-192356750.html",
+    "link": "https://sports.yahoo.com/articles/steelers-lions-inactives-rb-kaleb-201751672.html",
     "source": "Google News"
   },
   {
-    "slug": "tennessee-running-back-peyton-lewis-plans-to-enter-ncaa-transfer-portal",
-    "title": "Tennessee running back Peyton Lewis plans to enter NCAA transfer portal",
-    "description": "According to On3’s Hayes Fawcett, Tennessee running back Peyton Lewis plans to enter the NCAA transfer portal. Lewis just completed his second year with the program after being a big-time recruiting win coming out of high school. Now, he intends to continue his college football journey elsewhere. Le",
+    "slug": "analysis-rogers-driving-villa-39-s-unexpected-title-push",
+    "title": "Analysis: Rogers driving Villa&#39;s unexpected title push",
+    "description": "Morgan Rogers is spearheading Aston Villa's title challenge.  Another spectacular double saw Uani Emery lose his usual cool to celebrate on the sidelines but he will not be the only one ready to realise Villa's potential this season.  Emery has nurtured Rogers and taken him to another level and he i",
     "pubDate": "2025-12-21",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/tennessee-running-back-peyton-lewis-192153631.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "cowboys-vs-chargers-first-half-recap-dallas-trails-21-17",
-    "title": "Cowboys vs. Chargers first half recap: Dallas trails 21-17",
-    "description": "Here is what happened in the first half of Sunday’s Dallas Cowboys game.",
-    "pubDate": "2025-12-21",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/cowboys-vs-chargers-first-quarter-183444644.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "browns-rb-quinshon-judkins-leaves-field-on-cart-vs-bills-quickly-ruled-out-with-lower-leg-injury",
-    "title": "Browns RB Quinshon Judkins leaves field on cart vs. Bills, quickly ruled out with lower-leg injury",
-    "description": "Judkins got tackled on a screen pass in the open field and his lower left leg twisted in the wrong direction.",
-    "pubDate": "2025-12-21",
-    "image": "",
-    "link": "https://sports.yahoo.com/nfl/breaking-news/article/browns-rb-quinshon-judkins-leaves-field-on-cart-vs-bills-quickly-ruled-out-with-lower-leg-injury-192112120.html",
-    "source": "Jason Owens"
-  },
-  {
-    "slug": "xaivian-lee-thomas-haugh-lead-no-23-florida-to-a-90-60-victory-over-colgate",
-    "title": "Xaivian Lee, Thomas Haugh lead No. 23 Florida to a 90-60 victory over Colgate",
-    "description": "Colgate made 11 of 17 from behind the arc while losing for the third time in as many games against a ranked team.",
-    "pubDate": "2025-12-21",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/xaivian-lee-thomas-haugh-lead-192053316.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "quinshon-judkins-injury-update-browns-rb-carted-off-vs-bills",
-    "title": "Quinshon Judkins injury update: Browns RB carted off vs. Bills",
-    "description": "The standout rookie running back was carted off with his leg in a brace vs. Buffalo in Week 16.",
-    "pubDate": "2025-12-21",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/quinshon-judkins-injury-browns-rb-192050601.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "cowboys-vs-chargers-2025-week-16-game-day-live-discussion-ii",
-    "title": "Cowboys vs Chargers: 2025 Week 16 game day live discussion II",
-    "description": "Here is our second open thread for the Cowboys/Chargers game.",
-    "pubDate": "2025-12-21",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/cowboys-vs-chargers-2025-week-192048886.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "freiburg-8217-s-vincenzo-grifo-32-pays-tribute-to-nils-petersen-on-occasion-of-breaking-club-8217-s-bundesliga-scoring-record",
-    "title": "Freiburg&#8217;s Vincenzo Grifo (32) pays tribute to Nils Petersen on occasion of breaking club&#8217;s Bundesliga scoring record",
-    "description": "Vincenzo Grifo’s conversion from the penalty spot in Saturday’s goal-laden Bundesliga victory over Wolfsburg enabled the 32-year-old to make history. Grifo’s 70th Bundesliga goal for Freiburg no...",
-    "pubDate": "2025-12-21",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/freiburg-vincenzo-grifo-32-pays-192000676.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "olivia-olson-leads-no-6-michigan-past-oakland-97-54",
-    "title": "Olivia Olson leads No. 6 Michigan past Oakland 97-54",
-    "description": "",
-    "pubDate": "2025-12-21",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/olivia-olson-leads-no-6-191912423.html",
-    "source": "DANA GAURUDER"
-  },
-  {
-    "slug": "captain-kane-helps-undermanned-bayern-go-nine-clear-in-bundesliga",
-    "title": "Captain Kane helps undermanned Bayern go nine clear in Bundesliga",
-    "description": "An understrength Bayern Munich coasted to a 4-0 away win over lowly Heidenheim on Sunday, restoring their nine-point lead atop the table in Harry Kane's first match as captain.Borussia Dortmund had closed the gap to the leaders to six points on Friday but Bayern were in complete control in the last",
-    "pubDate": "2025-12-21",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/captain-kane-helps-undermanned-bayern-183450783.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "girona-fc-0-3-atl-tico-de-madrid-takeaways",
-    "title": "Girona FC 0-3 Atlético de Madrid: Takeaways",
-    "description": "Atleti end the year on a high note.",
-    "pubDate": "2025-12-21",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/girona-fc-0-3-atl-191829096.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "who-is-chris-oladokun-meet-the-chiefs-qb-replacing-gardner-minshew",
-    "title": "Who is Chris Oladokun? Meet the Chiefs QB replacing Gardner Minshew",
-    "description": "Who is Chris Oladokun? Meet the Kansas City Chiefs quarterback replacing Gardner Minshew in the team's Week 16 contest versus the Tennessee Titans.",
-    "pubDate": "2025-12-21",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/chris-oladokun-meet-chiefs-qb-191827413.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "browns-qb-shedeur-sanders-exits-with-cut-finger-returns-vs-bills",
-    "title": "Browns QB Shedeur Sanders exits with cut finger; returns vs. Bills",
-    "description": "Briefly leaving the game with a lacerated finger, the Browns escaped any real danger of losing quarterback Shedeur Sanders against the Bills.",
-    "pubDate": "2025-12-21",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/browns-qb-shedeur-sanders-exits-191806248.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "browns-rb-quinshon-judkins-injured-week-16-vs-bills",
-    "title": "Browns RB Quinshon Judkins injured Week 16 vs Bills",
-    "description": "Cleveland Browns star RB Quinshon Judkins was injured, right leg, versus the Buffalo Bills: Carted off the field, ruled out",
-    "pubDate": "2025-12-21",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/browns-rb-quinshon-judkins-injured-191804299.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "uconn-s-azzi-fudd-comes-full-circle-from-2024-injury-with-big-performance-in-women-s-champions-classic",
-    "title": "UConn’s Azzi Fudd comes full circle from 2024 injury with big performance in Women’s Champions Classic",
-    "description": "NEW YORK — As the UConn women’s basketball team went through its shootaround at Barclays Center on Friday ahead of its game in the Women’s Champions Classic, Azzi Fudd felt a flash of deja vu. The Huskies were practicing a simple action, Fudd navigating over a post player’s screen as her defensive a",
-    "pubDate": "2025-12-21",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/uconn-azzi-fudd-comes-full-191800600.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "gardner-minshew-injury-update-chiefs-backup-qb-suffers-knee-injury",
-    "title": "Gardner Minshew injury update: Chiefs backup QB suffers knee injury",
-    "description": "The Chiefs backup quarterback suffered a knee injury vs. the Titans on Sunday in Week 16. Here's the latest.",
-    "pubDate": "2025-12-21",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/gardner-minshew-injury-chiefs-backup-191750046.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "browns-rb-quinshon-judkins-suffers-serious-injury-vs-bills",
-    "title": "Browns RB Quinshon Judkins suffers serious injury vs. Bills",
-    "description": "The Browns running back was carted off the field.",
-    "pubDate": "2025-12-21",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/browns-rb-quinshon-judkins-suffers-191734771.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "quinshon-judkins-injury-browns-rb-carted-off-field-in-week-16-vs-bills",
-    "title": "Quinshon Judkins injury: Browns RB carted off field in Week 16 vs. Bills",
-    "description": "The Browns RB had to be carted off the field after suffering a leg injury in Week 16 vs. the Bills.",
-    "pubDate": "2025-12-21",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/quinshon-judkins-injury-browns-rb-191730359.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "why-chris-oladokun-is-playing-qb-for-chiefs-and-who-emergency-quarterback-might-be",
-    "title": "Why Chris Oladokun is playing QB for Chiefs, and who emergency quarterback might be",
-    "description": "This could be interesting.",
-    "pubDate": "2025-12-21",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/why-chris-oladokun-playing-qb-191658457.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "week-16-injury-update-cowboys-wr-ryan-flournoy",
-    "title": "Week 16 Injury Update: Cowboys WR Ryan Flournoy",
-    "description": "WR3, the Cowboys secret weapon has suffered an injury that threatens his promising day.",
-    "pubDate": "2025-12-21",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/week-16-injury-cowboys-wr-191658086.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "jack-hughes-is-returning-for-the-devils-just-over-five-weeks-since-finger-surgery",
-    "title": "Jack Hughes is returning for the Devils just over five weeks since finger surgery",
-    "description": "Coach Sheldon Keefe said Hughes would be back Sunday night against the Buffalo Sabres. Hughes was expected to miss two months after his Nov. 15 operation at the Hospital for Special Surgery in New York.",
-    "pubDate": "2025-12-21",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/jack-hughes-returning-devils-just-191638069.html",
+    "link": "https://sports.yahoo.com/articles/analysis-rogers-driving-villas-unexpected-201744832.html",
     "source": "Google News"
   },
   {
@@ -1098,30 +1116,12 @@
     "source": "BBC Sport"
   },
   {
-    "slug": "brighton-sunderland-s-first-ever-pl-match-ends-in-0-0-draw",
-    "title": "Brighton & Sunderland's first ever PL match ends in 0-0 draw",
-    "description": "Brighton's disappointing December run continues as they played out a goalless draw against Sunderland in the Premier League.",
-    "pubDate": "2025-12-20",
-    "image": "",
-    "link": "https://www.bbc.com/sport/football/videos/cdxed5p8xlko?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport"
-  },
-  {
     "slug": "top-and-bottom-at-christmas-what-does-it-mean",
     "title": "Top and bottom at Christmas - what does it mean?",
     "description": "As we approach the halfway point of the season, what do the ghosts of Christmas past tell us about the Premier League title race and relegation battle?",
     "pubDate": "2025-12-20",
     "image": "",
     "link": "https://www.bbc.com/sport/football/articles/c87lqlw9ej2o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport"
-  },
-  {
-    "slug": "paul-has-titanium-plates-fitted-after-joshua-breaks-his-jaw",
-    "title": "Paul has titanium plates fitted after Joshua breaks his jaw",
-    "description": "Jake Paul's jaw is broken in two places by Anthony Joshua during their heavyweight fight in Miami.",
-    "pubDate": "2025-12-20",
-    "image": "",
-    "link": "https://www.bbc.com/sport/boxing/articles/cj9yp9erg23o?at_medium=RSS&at_campaign=rss",
     "source": "BBC Sport"
   },
   {
@@ -1152,33 +1152,6 @@
     "source": "BBC Sport"
   },
   {
-    "slug": "lyon-and-cummins-put-australia-on-verge-of-ashes-victory",
-    "title": "Lyon and Cummins put Australia on verge of Ashes victory",
-    "description": "England are on the brink of an Ashes series defeat after Australia's Nathan Lyon breaks their resistance late on the fourth day of the third Test in Adelaide.",
-    "pubDate": "2025-12-20",
-    "image": "",
-    "link": "https://www.bbc.com/sport/cricket/videos/cjrjprr4vywo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport"
-  },
-  {
-    "slug": "oh-no-what-s-he-done-brook-bowled-after-reverse-sweep-attempt",
-    "title": "'Oh no, what's he done?' - Brook bowled after reverse-sweep attempt",
-    "description": "Nathan Lyon bowls Harry Brook for 30 runs after the England batter's attempt at a reverse sweep is missed, leaving England on 177-4 on day four of the third Ashes Test in Adelaide.",
-    "pubDate": "2025-12-20",
-    "image": "",
-    "link": "https://www.bbc.com/sport/cricket/videos/c4g5vg26jpeo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport"
-  },
-  {
-    "slug": "absolutely-sensational-labuschagne-catch-removes-pope",
-    "title": "'Absolutely sensational' Labuschagne catch removes Pope",
-    "description": "Marnus Labuschagne reacts sharply to take a brilliant diving catch at second slip to dismiss Ollie Pope for 17, as England fall to 31-2 on day four of the third Ashes Test in Adelaide.",
-    "pubDate": "2025-12-20",
-    "image": "",
-    "link": "https://www.bbc.com/sport/cricket/videos/c7097p1647no?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport"
-  },
-  {
     "slug": "semenyo-prefers-liverpool-move-sunday-s-gossip",
     "title": "Semenyo prefers Liverpool move - Sunday's gossip",
     "description": "Antoine Semenyo favours move to Liverpool, Bayern Munich ready with offer for Bruno Fernandes, Chelsea looking for buyers for Nicolas Jackson, plus more.",
@@ -1194,6 +1167,15 @@
     "pubDate": "2025-12-20",
     "image": "",
     "link": "https://www.bbc.com/sport/boxing/articles/cde6jyl1gneo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport"
+  },
+  {
+    "slug": "paul-has-titanium-plates-fitted-after-joshua-breaks-his-jaw",
+    "title": "Paul has titanium plates fitted after Joshua breaks his jaw",
+    "description": "Jake Paul's jaw is broken in two places by Anthony Joshua during their heavyweight fight in Miami.",
+    "pubDate": "2025-12-20",
+    "image": "",
+    "link": "https://www.bbc.com/sport/boxing/articles/cj9yp9erg23o?at_medium=RSS&at_campaign=rss",
     "source": "BBC Sport"
   },
   {
