@@ -1,12 +1,21 @@
 [
   {
-    "slug": "metcalf-suspended-two-games-for-fan-altercation",
-    "title": "Metcalf suspended two games for fan altercation",
-    "description": "The NFL has suspended Steelers wide receiver DK Metcalf for two games without pay due to his altercation with a fan at Ford Field on Sunday.",
+    "slug": "inside-the-wildest-dadgum-comeback-in-nfl-history",
+    "title": "Inside the wildest dadgum comeback in NFL history",
+    "description": "Yes, Philip Rivers unretired and is now the starting QB for a team in the playoff race. No, this is not a movie.",
     "pubDate": "2025-12-22",
     "image": "",
-    "link": "https://www.espn.com/nfl/story/_/id/47393000/steelers-dk-metcalf-suspended-two-games-fan-altercation",
-    "source": "www.espn.com - TOP"
+    "link": "https://www.espn.com/nfl/story/_/id/47379625/inside-philip-rivers-startling-nfl-comeback",
+    "source": "Ryan Hockensmith"
+  },
+  {
+    "slug": "robert-saleh-wants-to-be-a-head-coach-again-but-isn-t-desperate-after-49ers-return",
+    "title": "Robert Saleh wants to be a head coach again -- but isn't desperate after 49ers return",
+    "description": "Saleh has the 49ers' defense staying afloat amid injuries and turnover. Could he leave this offseason?",
+    "pubDate": "2025-12-22",
+    "image": "",
+    "link": "https://www.espn.com/nfl/story/_/id/47384999/is-san-francisco-49ers-robert-saleh-open-being-head-coach-again-2026",
+    "source": "Nick Wagoner"
   },
   {
     "slug": "chiefs-agree-to-deal-to-move-to-kansas-in-2031",
@@ -63,8 +72,8 @@
     "source": "ESPN News Services"
   },
   {
-    "slug": "pereira-known-for-22-pga-collapse-retires-at-30",
-    "title": "Pereira, known for '22 PGA collapse, retires at 30",
+    "slug": "liv-s-pereira-who-fumbled-22-pga-lead-retires",
+    "title": "LIV's Pereira, who fumbled '22 PGA lead, retires",
     "description": "Mito Pereira, who joined the LIV Golf League in 2023 and earned just over $11.5 million in three seasons, has announced his retirement from professional golf.",
     "pubDate": "2025-12-22",
     "image": "",
@@ -90,22 +99,13 @@
     "source": "ESPN"
   },
   {
-    "slug": "inside-the-wildest-dadgum-comeback-in-nfl-history",
-    "title": "Inside the wildest dadgum comeback in NFL history",
-    "description": "Yes, Philip Rivers unretired and is now the starting QB for a team in the playoff race. No, this is not a movie.",
+    "slug": "mvps-for-every-bowl-game-wazzu-qb-zevi-eckhaus-has-3-td-potato-bowl",
+    "title": "MVPs for every bowl game: Wazzu QB Zevi Eckhaus has 3-TD Potato Bowl",
+    "description": "It's bowl season and our college football experts are picking an MVP from every game.",
     "pubDate": "2025-12-22",
     "image": "",
-    "link": "https://www.espn.com/nfl/story/_/id/47379625/inside-philip-rivers-startling-nfl-comeback",
-    "source": "Ryan Hockensmith"
-  },
-  {
-    "slug": "robert-saleh-wants-to-be-a-head-coach-again-but-isn-t-desperate-after-49ers-return",
-    "title": "Robert Saleh wants to be a head coach again -- but isn't desperate after 49ers return",
-    "description": "Saleh has the 49ers' defense staying afloat amid injuries and turnover. Could he leave this offseason?",
-    "pubDate": "2025-12-22",
-    "image": "",
-    "link": "https://www.espn.com/nfl/story/_/id/47384999/is-san-francisco-49ers-robert-saleh-open-being-head-coach-again-2026",
-    "source": "Nick Wagoner"
+    "link": "https://www.espn.com/college-football/story/_/id/47296811/2025-college-football-bowl-game-mvp-picks-36-matchups",
+    "source": "ESPN"
   },
   {
     "slug": "from-lane-kiffin-to-pat-fitzgerald-we-rank-every-fbs-coaching-hire",
@@ -351,6 +351,15 @@
     "source": "BBC Sport"
   },
   {
+    "slug": "penalty-king-jimenez-equals-record-who-are-the-premier-league-s-best",
+    "title": "Penalty king Jimenez equals record - who are the Premier League's best?",
+    "description": "Fulham's Raul Jimenez scored his 11th Premier League penalty from 11 attempts, but who are the best spot-kick takers?",
+    "pubDate": "2025-12-22",
+    "image": "",
+    "link": "https://www.bbc.com/sport/football/articles/cwyg4k0kl9wo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport"
+  },
+  {
     "slug": "how-could-man-utd-replace-injured-fernandes",
     "title": "How could Man Utd replace injured Fernandes?",
     "description": "Manchester United are still evaluating the extent of Bruno Fernandes' injury, but who are the contenders to replace him if he is ruled out?",
@@ -360,12 +369,12 @@
     "source": "BBC Sport"
   },
   {
-    "slug": "mccullum-wants-to-stay-as-england-coach",
-    "title": "McCullum wants to stay as England coach",
-    "description": "England head coach Brendon McCullum is contracted until the end of the 50-over World Cup in 2027, with a home Ashes series in that time.",
+    "slug": "humphries-dominates-lim-71-to-reach-round-three",
+    "title": "Humphries dominates Lim, 71, to reach round three",
+    "description": "Luke Humphries loses just one leg in a comfortable second-round win over 71-year-old Paul Lim at the PDC World Championship.",
     "pubDate": "2025-12-22",
     "image": "",
-    "link": "https://www.bbc.com/sport/cricket/articles/c1j91pj256jo?at_medium=RSS&at_campaign=rss",
+    "link": "https://www.bbc.com/sport/darts/articles/cdrnvgmgg46o?at_medium=RSS&at_campaign=rss",
     "source": "BBC Sport"
   },
   {
@@ -387,21 +396,21 @@
     "source": "BBC Sport"
   },
   {
+    "slug": "mccullum-wants-to-stay-as-england-coach",
+    "title": "McCullum wants to stay as England coach",
+    "description": "England head coach Brendon McCullum is contracted until the end of the 50-over World Cup in 2027, with a home Ashes series in that time.",
+    "pubDate": "2025-12-22",
+    "image": "",
+    "link": "https://www.bbc.com/sport/cricket/articles/c1j91pj256jo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport"
+  },
+  {
     "slug": "the-ginger-penaud-a-rivalry-renewed-genge-s-coffee-prem-talking-points",
     "title": "The 'ginger Penaud', a rivalry renewed & Genge's coffee - Prem talking points",
     "description": "Ellis Genge's long-range score, George Hendy's hot streak and Saracens and Exeter renewing their rivalry feature in our Gallagher Prem round-up.",
     "pubDate": "2025-12-22",
     "image": "",
     "link": "https://www.bbc.com/sport/rugby-union/articles/cn4dngmw8wmo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport"
-  },
-  {
-    "slug": "evans-beats-wade-in-thriller-while-munyua-exits",
-    "title": "Evans beats Wade in thriller while Munyua exits",
-    "description": "Seventh seed James Wade suffers a fourth successive second-round exit at the PDC World Championship, losing a deciding set to Ricky Evans.",
-    "pubDate": "2025-12-22",
-    "image": "",
-    "link": "https://www.bbc.com/sport/darts/articles/cdrnvgmgg46o?at_medium=RSS&at_campaign=rss",
     "source": "BBC Sport"
   },
   {
@@ -423,12 +432,30 @@
     "source": "BBC Sport"
   },
   {
+    "slug": "just-reach-out-man-utd-s-bennett-on-his-father-s-suicide",
+    "title": "'Just reach out' - Man Utd's Bennett on his father's suicide",
+    "description": "Manchester United defender Rhys Bennett discusses his father's death in October to help raise awareness of mental health issues.",
+    "pubDate": "2025-12-22",
+    "image": "",
+    "link": "https://www.bbc.com/sport/football/articles/cx2e5jn466go?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport"
+  },
+  {
     "slug": "is-this-the-catch-of-the-year-nfl-plays-of-the-week",
     "title": "Is this the catch of the year? - NFL plays of the week",
     "description": "Arizona Cardinals wide receiver Michael Wilson produces a potential catch of the year candidate in the best plays from week 16 of the NFL season.",
     "pubDate": "2025-12-22",
     "image": "",
     "link": "https://www.bbc.com/sport/american-football/videos/c8jwnewvjygo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport"
+  },
+  {
+    "slug": "forest-not-clear-headed-enough-against-fulham-dyche",
+    "title": "Forest not 'clear-headed enough' against Fulham - Dyche",
+    "description": "Nottingham Forest manager Sean Dyche says his team's \"basics\" were not quite what they should have been in their 1-0 defeat away to Fulham.",
+    "pubDate": "2025-12-22",
+    "image": "",
+    "link": "https://www.bbc.com/sport/football/videos/cpq4xv72dwyo?at_medium=RSS&at_campaign=rss",
     "source": "BBC Sport"
   },
   {
@@ -450,12 +477,12 @@
     "source": "BBC Sport"
   },
   {
-    "slug": "just-reach-out-man-utd-s-bennett-on-his-father-s-suicide",
-    "title": "'Just reach out' - Man Utd's Bennett on his father's suicide",
-    "description": "Manchester United defender Rhys Bennett discusses his father's death in October to help raise awareness of mental health issues.",
+    "slug": "sports-stars-fear-disappearance-of-playing-fields-amid-reforms",
+    "title": "Sports stars fear disappearance of playing fields amid reforms",
+    "description": "A host of top sports stars and governing bodies express fears that playing fields across England could be built on and disappear if proposed planning reforms come into force.",
     "pubDate": "2025-12-22",
     "image": "",
-    "link": "https://www.bbc.com/sport/football/articles/cx2e5jn466go?at_medium=RSS&at_campaign=rss",
+    "link": "https://www.bbc.com/sport/articles/crl9751l612o?at_medium=RSS&at_campaign=rss",
     "source": "BBC Sport"
   },
   {
@@ -495,6 +522,15 @@
     "source": "BBC Sport"
   },
   {
+    "slug": "steelers-metcalf-suspended-after-appearing-to-punch-fan",
+    "title": "Steelers' Metcalf suspended after appearing to punch fan",
+    "description": "Pittsburgh Steelers wide receiver DK Metcalf is suspended after being involved in an altercation with a Detroit Lions fan in the second quarter at Ford Field.",
+    "pubDate": "2025-12-22",
+    "image": "",
+    "link": "https://www.bbc.com/sport/american-football/articles/cjdr4n0vj0zo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport"
+  },
+  {
     "slug": "jaguars-make-statement-but-lions-ravens-on-brink-best-of-week-16",
     "title": "Jaguars make statement but Lions & Ravens on brink - best of week 16",
     "description": "Trevor Lawrence earns a statement win for the Jaguars in NFL week 16, but Detroit and Baltimore are in big trouble - and Caleb Williams has found his ideal coach in Chicago.",
@@ -504,21 +540,21 @@
     "source": "BBC Sport"
   },
   {
-    "slug": "still-excited-lim-71-the-oldest-flinger-in-town",
-    "title": "'Still excited' - Lim, 71, the oldest flinger in town",
-    "description": "PDC World Championship history-maker Paul Lim, 71, discusses his longevity in darts as he prepares to face Luke Humphries at Alexandra Palace.",
-    "pubDate": "2025-12-22",
-    "image": "",
-    "link": "https://www.bbc.com/sport/darts/articles/cwyl9pz0wp5o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport"
-  },
-  {
     "slug": "incredible-rice-is-future-captain-of-england-rooney",
     "title": "'Incredible' Rice is 'future captain of England' - Rooney",
     "description": "Former England forward Wayne Rooney hails Arsenal midfielder Declan Rice as a \"future captain of England\".",
     "pubDate": "2025-12-22",
     "image": "",
     "link": "https://www.bbc.com/sport/football/articles/cdxe7w9l722o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport"
+  },
+  {
+    "slug": "chiefs-to-leave-missouri-for-new-stadium-in-kansas",
+    "title": "Chiefs to leave Missouri for new stadium in Kansas",
+    "description": "The Kansas City Chiefs are set to leave their home in Missouri to play in a new $3 bn (£2.25bn) stadium in neighboring state Kansas.",
+    "pubDate": "2025-12-22",
+    "image": "",
+    "link": "https://www.bbc.com/sport/american-football/articles/c3v101le19ko?at_medium=RSS&at_campaign=rss",
     "source": "BBC Sport"
   },
   {
@@ -603,15 +639,6 @@
     "source": "BBC Sport"
   },
   {
-    "slug": "should-van-de-ven-have-been-sent-off-for-isak-tackle",
-    "title": "Should Van de Ven have been sent off for Isak tackle?",
-    "description": "Micky van de Ven faced no action for the challenge which led to Alexander Isak's injury in Liverpool's win at Tottenham - but did the officials make the right call?",
-    "pubDate": "2025-12-22",
-    "image": "",
-    "link": "https://www.bbc.com/sport/football/articles/cwyljp82q21o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport"
-  },
-  {
     "slug": "man-city-to-weigh-players-before-forest-game",
     "title": "Man City to weigh players before Forest game",
     "description": "Manchester City manager Pep Guardiola says his players will be weighed when they return to training to check they are fit enough to play against Nottingham Forest.",
@@ -636,15 +663,6 @@
     "pubDate": "2025-12-22",
     "image": "",
     "link": "https://www.bbc.com/sport/football/articles/c30j47le366o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport"
-  },
-  {
-    "slug": "steelers-metcalf-appears-to-punch-fan-during-game",
-    "title": "Steelers' Metcalf appears to punch fan during game",
-    "description": "Pittsburgh Steelers wide receiver DK Metcalf is involved in an altercation with a Detroit Lions fan in the second quarter at Ford Field.",
-    "pubDate": "2025-12-22",
-    "image": "",
-    "link": "https://www.bbc.com/sport/american-football/articles/cjdr4n0vj0zo?at_medium=RSS&at_campaign=rss",
     "source": "BBC Sport"
   },
   {
@@ -675,6 +693,15 @@
     "source": "BBC Sport"
   },
   {
+    "slug": "should-van-de-ven-have-been-sent-off-for-isak-tackle",
+    "title": "Should Van de Ven have been sent off for Isak tackle?",
+    "description": "Micky van de Ven faced no action for the challenge which led to Alexander Isak's injury in Liverpool's win at Tottenham - but did the officials make the right call?",
+    "pubDate": "2025-12-22",
+    "image": "",
+    "link": "https://www.bbc.com/sport/football/articles/cwyljp82q21o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport"
+  },
+  {
     "slug": "scott-honoured-to-replace-sadiku-as-celtic-head-coach",
     "title": "Scott 'honoured' to replace Sadiku as Celtic head coach",
     "description": "Former title-winning manager Elena Sadiku has left Celtic and has been replaced by Hibernian boss Grant Scott.",
@@ -702,399 +729,228 @@
     "source": "BBC Sport"
   },
   {
-    "slug": "can-pellegrino-matarazzo-thrive-in-la-liga-franklin-leonard-on-black-media-bias-in-england",
-    "title": "Can Pellegrino Matarazzo Thrive in La Liga? + Franklin Leonard on Black Media Bias in England",
-    "description": "Christian Polanco and Alexis Guerreros react to Pellegrino Matarazzo becoming the first American coach in La Liga and discuss what success at Real Sociedad could mean for both his career and U.S. Soccer. Then, they’re joined by American film producer and soccer fanatic Franklin Leonard to examine En",
+    "slug": "still-excited-lim-71-the-oldest-flinger-in-town",
+    "title": "'Still excited' - Lim, 71, the oldest flinger in town",
+    "description": "PDC World Championship history-maker Paul Lim, 71, discusses his longevity in darts as he prepares to face Luke Humphries at Alexandra Palace.",
     "pubDate": "2025-12-22",
     "image": "",
-    "link": "https://sports.yahoo.com/soccer/article/can-pellegrino-matarazzo-thrive-in-la-liga--franklin-leonard-on-black-media-bias-in-england-223947676.html",
-    "source": "Yahoo Sports Staff,Alexis Guerreros,Christian Polanco"
+    "link": "https://www.bbc.com/sport/darts/articles/cwyl9pz0wp5o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport"
   },
   {
-    "slug": "john-harbaugh-39-s-job-security-is-now-a-legitimate-topic-with-the-ravens-on-the-brink-of-elimination",
-    "title": "John Harbaugh&#39;s job security is now a legitimate topic with the Ravens on the brink of elimination",
-    "description": "Unless something wild happens in the next two weeks, Baltimore's 2025 season will be remembered as a colossal bust.  It's reached the point now where Ravens coach John Harbaugh is being asked about his job security.  If you missed the first 14 games of Baltimore's season, fear not.",
+    "slug": "dk-metcalf-suspended-2-games-for-physical-fan-altercation-during-steelers-vs-lions",
+    "title": "DK Metcalf suspended 2 games for physical fan altercation during Steelers vs. Lions",
+    "description": "The former Seahawks star is slated to miss the rest of the regular season after grabbing a Lions fan during Steelers vs. Lions.",
     "pubDate": "2025-12-22",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/john-harbaughs-job-security-now-223852427.html",
-    "source": "NOAH TRISTER"
-  },
-  {
-    "slug": "josh-allen-listed-day-to-day-with-sore-right-foot-but-expected-to-play-against-eagles",
-    "title": "Josh Allen listed day to day with sore right foot, but expected to play against Eagles",
-    "description": "Bills coach Sean McDermott on Monday listed Josh Allen as day to day because of a sore right foot, but expects the starter to play this weekend, when Buffalo hosts the defending Super Bowl champion Philadelphia Eagles.  McDermott said the quarterback’s foot is sore, while adding Allen didn’t experie",
-    "pubDate": "2025-12-22",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/josh-allen-listed-day-day-223651198.html",
-    "source": "JOHN WAWROW"
-  },
-  {
-    "slug": "jake-paul-pursuing-legal-action-against-critics-claiming-anthony-joshua-fight-was-rigged",
-    "title": "Jake Paul pursuing legal action against critics claiming Anthony Joshua fight was rigged",
-    "description": "Jake Paul continues to go after those who doubt his boxing career's legitimacy after a jaw-breaking knockout loss to Anthony Joshua.",
-    "pubDate": "2025-12-22",
-    "image": "",
-    "link": "https://sports.yahoo.com/boxing/article/jake-paul-pursuing-legal-action-against-critics-claiming-anthony-joshua-fight-was-rigged-223629984.html",
-    "source": "Drake Riggs"
-  },
-  {
-    "slug": "white-sox-expect-japanese-slugger-munetaka-murakami-to-make-quick-impact-and-put-up-big-numbers",
-    "title": "White Sox expect Japanese slugger Munetaka Murakami to make quick impact and put up big numbers",
-    "description": "Munetaka Murakami has a .270 career average with 246 homers and 647 RBIs in 892 games over eight seasons with the Yakult Swallows of Japan’s Central League.",
-    "pubDate": "2025-12-22",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/white-sox-expect-japanese-slugger-223548413.html",
+    "link": "https://sports.yahoo.com/articles/dk-metcalf-suspended-2-games-233000011.html",
     "source": "Google News"
   },
   {
-    "slug": "blockbuster-trade-scenario-who-says-no-to-burrow-to-detroit",
-    "title": "Blockbuster trade scenario: Who says no to Burrow-to-Detroit?",
-    "description": "This trade would involve two star QB's and two star WR's and some draft picks to make both teams better",
+    "slug": "nets-full-injury-report-for-tuesday-39-s-game-at-the-76ers",
+    "title": "Nets full injury report for Tuesday&#39;s game at the 76ers",
+    "description": "Here is the full injury report for the Brooklyn Nets heading into Tuesday's game at the Philadelphia 76ers.",
     "pubDate": "2025-12-22",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/blockbuster-trade-scenario-says-no-223545190.html",
+    "link": "https://sports.yahoo.com/articles/nets-full-injury-report-tuesdays-232626047.html",
     "source": "Google News"
   },
   {
-    "slug": "nfl-suspends-steelers-wr-dk-metcalf-2-games-for-altercation-with-lions-fan",
-    "title": "NFL suspends Steelers WR DK Metcalf 2 games for altercation with Lions fan",
-    "description": "The NFL went way overboard with their punishment of Steelers wide receiver DK Metcalf after an altercation with a Lions fan.",
+    "slug": "offers-for-anthony-joshua-s-next-fight-starting-quickly-rico-verhoeven-bout-possible-in-early-2026",
+    "title": "Offers for Anthony Joshua’s next fight starting ‘quickly,’ Rico Verhoeven bout possible in early 2026",
+    "description": "“AJ” isn’t resting long. Former Heavyweight boxing champion Anthony Joshua delivered a jaw-breaking sixth-round knockout of Jake Paul last weekend (Fri., Dec. 19, 2025) in the main event of Judgement Day inside the Kaseya Center in Miami, Florida (watch highlights), but the celebration may be short-",
     "pubDate": "2025-12-22",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/nfl-suspends-steelers-wr-dk-223524891.html",
+    "link": "https://sports.yahoo.com/articles/offers-anthony-joshua-next-fight-232526314.html",
     "source": "Google News"
   },
   {
-    "slug": "ap-top-25-poll-discussion-is-women-s-college-basketball-in-the-calm-before-the-storm-of-conference-chaos",
-    "title": "AP Top 25 poll discussion: Is women’s college basketball in the calm before the storm of conference chaos?",
-    "description": "The latest top 25 rankings reflect the pre-conference play calm of women’s college basketball.",
+    "slug": "exclusive-boudewijn-zenden-when-teams-play-sunderland-they-re-maybe-surprised-by-the-quality-they-face",
+    "title": "EXCLUSIVE | Boudewijn Zenden: ‘When teams play Sunderland, they’re maybe surprised by the quality they face.’",
+    "description": "Retired Sunderland and Olympique de Marseille winger Boudewijn ‘Bolo’ Zenden sat down with Get French Football News to discuss two of his former teams. Sunderland have been one of the most impr...",
     "pubDate": "2025-12-22",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/ap-top-25-poll-discussion-223500476.html",
+    "link": "https://sports.yahoo.com/articles/exclusive-boudewijn-zenden-teams-play-232500083.html",
     "source": "Google News"
   },
   {
-    "slug": "napoli-beat-bologna-to-lift-italian-super-cup",
-    "title": "Napoli beat Bologna to lift Italian Super Cup",
-    "description": "Napoli won the Italian Super Cup on Monday as David Neres scored twice to secure the reigning Serie A champions a 2-0 win over Bologna in the final in Jeddah.Neres finished with three goals in the Super Cup after also scoring in the 2-0 semi-final win over AC Milan last week.",
+    "slug": "early-week-17-fantasy-football-rankings-11-risers-and-sleepers",
+    "title": "Early Week 17 fantasy football rankings: 11 risers and sleepers",
+    "description": "Early Week 17 expert fantasy football rankings for PPR, half-PPR and standard leagues to help with lineup and waiver wire decisions.",
     "pubDate": "2025-12-22",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/napoli-beat-bologna-lift-italian-223455001.html",
+    "link": "https://sports.yahoo.com/articles/early-week-17-fantasy-football-232458352.html",
     "source": "Google News"
   },
   {
-    "slug": "kansas-state-football-collin-klein-hire-new-linebackers-coach",
-    "title": "Kansas State football, Collin Klein hire new linebackers coach",
-    "description": "Kansas State football coach Collin Klein added a veteran coach to his staff, bringing in Nick Toth as the program's new linebackers coach.",
+    "slug": "dk-metcalf-suspension-impacts-on-steelers-ravens-afc-north-playoff-race",
+    "title": "DK Metcalf suspension: Impacts on Steelers, Ravens, AFC North playoff race",
+    "description": "The NFL suspended DK Metcalf two games for shoving a fan in Week 16. What will be the impact on the Steelers' playoff hopes against the Ravens?",
     "pubDate": "2025-12-22",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/kansas-state-football-collin-klein-223429796.html",
+    "link": "https://sports.yahoo.com/articles/dk-metcalf-suspension-impacts-steelers-232455068.html",
     "source": "Google News"
   },
   {
-    "slug": "kansas-city-chiefs-chicago-bears-shake-down-fans-for-stadiums-opinion",
-    "title": "Kansas City Chiefs, Chicago Bears shake down fans for stadiums | Opinion",
-    "description": "KC Chiefs announce their move from Arrowhead for a publicly funded stadium while Chicago Bears threaten fans with move to Indiana. I say humbug.",
+    "slug": "39-it-39-s-a-waste-39-booker-has-a-lot-to-say-about-39-last-two-minute-report-39",
+    "title": "&#39;It&#39;s a waste.&#39; Booker has a lot to say about &#39;Last Two Minute Report&#39;",
+    "description": "Phoenix Suns star guard Devin Booker addresses NBA's 'Last Two Minute Report' following Saturday's 119-116 loss at Golden State.",
     "pubDate": "2025-12-22",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/kansas-city-chiefs-chicago-bears-223420119.html",
+    "link": "https://sports.yahoo.com/articles/waste-booker-lot-last-two-232443629.html",
     "source": "Google News"
   },
   {
-    "slug": "49ers-dc-robert-saleh-is-expected-to-be-a-strong-candidate-during-the-next-hiring-cycle",
-    "title": "49ers DC Robert Saleh is expected to be a ‘strong candidate’ during the next hiring cycle",
-    "description": "49ers DC Robert Saleh told ESPN he’s not desperate to be a head coach again, but the opportunities this offseason will be difficult to ignore",
+    "slug": "chiefs-wrs-rashee-rice-tyquan-thornton-remain-in-concussion-protocol",
+    "title": "Chiefs WRs Rashee Rice, Tyquan Thornton remain in concussion protocol",
+    "description": "The Chiefs listed four players as out of practice on Monday's estimated report.",
     "pubDate": "2025-12-22",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/49ers-dc-robert-saleh-expected-223415836.html",
+    "link": "https://sports.yahoo.com/articles/chiefs-wrs-rashee-rice-tyquan-232305244.html",
     "source": "Google News"
   },
   {
-    "slug": "anwar-stewart-officially-staying-as-kentucky-football-d-line-coach",
-    "title": "Anwar Stewart officially staying as Kentucky Football d-line coach",
-    "description": "\"His reputation as one of the top defensive line coaches in the country speaks for itself.”",
+    "slug": "john-harbaugh-addresses-job-security-amid-fading-ravens-playoff-hopes-39-i-try-to-do-the-job-not-try-to-keep-the-job-39",
+    "title": "John Harbaugh addresses job security amid fading Ravens playoff hopes: &#39;I try to do the job, not try to keep the job&#39;",
+    "description": "Baltimore's recent woes under Harbaugh extend beyond Sunday's loss to New England and the disappointment of this season.",
     "pubDate": "2025-12-22",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/anwar-stewart-officially-staying-kentucky-223325913.html",
+    "link": "https://sports.yahoo.com/nfl/breaking-news/article/john-harbaugh-addresses-job-security-amid-fading-ravens-playoff-hopes-i-try-to-do-the-job-not-try-to-keep-the-job-232138802.html",
+    "source": "Jason Owens"
+  },
+  {
+    "slug": "exclusive-frank-leboeuf-on-enzo-maresca-i-think-he-s-doing-some-good-work-at-chelsea-without-it-being-excellent",
+    "title": "Exclusive | Frank Leboeuf on Enzo Maresca: ‘I think he’s doing some good work at Chelsea without it being excellent.’",
+    "description": "This exclusive interview is from Get French Football News and can be found HEREFrank Leboeuf is as mystified as the rest of us! Speaking to Get French Football News about Enzo Maresca’s bizarre ou...",
+    "pubDate": "2025-12-22",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/exclusive-frank-leboeuf-enzo-maresca-232100746.html",
     "source": "Google News"
   },
   {
-    "slug": "nfl-suspends-dk-metcalf-two-games-for-interaction-with-fan",
-    "title": "NFL suspends DK Metcalf two games for interaction with fan",
-    "description": "Any appeal will be handled by the Commissioner or his designee, not a hearing officer.",
+    "slug": "cardinals-first-rounder-slowly-increasing-his-impact",
+    "title": "Cardinals First-Rounder Slowly Increasing his Impact",
+    "description": "The Arizona Cardinals are deep in the trenches of a lost season. Injuries have eaten away at what little hope there was of building any sort of positive momentum to...",
     "pubDate": "2025-12-22",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/nfl-suspends-dk-metcalf-two-223246538.html",
+    "link": "https://sports.yahoo.com/articles/cardinals-first-rounder-slowly-increasing-232048315.html",
     "source": "Google News"
   },
   {
-    "slug": "steelers-wide-receiver-dk-metcalf-has-been-suspended-without-pay-for-2-games-over-altercation-with-lions-fan",
-    "title": "Steelers wide receiver DK Metcalf has been suspended without pay for 2 games over altercation with Lions fan",
-    "description": "",
+    "slug": "penalty-king-jimenez-equals-record-who-are-the-premier-league-39-s-best",
+    "title": "Penalty king Jimenez equals record - who are the Premier League&#39;s best?",
+    "description": "Fulham's Raul Jimenez scored his 11th Premier League penalty from 11 attempts, but who are the best spot-kick takers?",
     "pubDate": "2025-12-22",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/steelers-wide-receiver-dk-metcalf-223144519.html",
+    "link": "https://sports.yahoo.com/articles/penalty-king-jimenez-equals-record-232029715.html",
     "source": "Google News"
   },
   {
-    "slug": "top-and-bottom-at-christmas-what-does-it-mean",
-    "title": "Top and bottom at Christmas - what does it mean?",
-    "description": "As we approach the halfway point of the season, what do the ghosts of Christmas past tell us about the Premier League title race and relegation battle?",
+    "slug": "football-tcu-rb-nate-palmer-declares-for-transfer-portal",
+    "title": "Football: TCU RB Nate Palmer declares for transfer portal",
+    "description": "The redshirt freshman departs after two years with the Horned Frogs.",
     "pubDate": "2025-12-22",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/top-bottom-christmas-does-mean-232123995.html",
+    "link": "https://sports.yahoo.com/articles/football-tcu-rb-nate-palmer-231947952.html",
     "source": "Google News"
   },
   {
-    "slug": "neres-scores-twice-as-napoli-beat-bologna-to-lift-italian-super-cup",
-    "title": "Neres scores twice as Napoli beat Bologna to lift Italian Super Cup",
-    "description": "David Neres scores twice as Napoli claim a deserved victory over Bologna to lift the Italian Super Cup in Riyadh.",
+    "slug": "how-to-spin-or-not-spin-your-wedges",
+    "title": "How to spin (or not spin) your wedges",
+    "description": "Michael Breed shows you how to manage backspin to get to any pin.",
     "pubDate": "2025-12-22",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/neres-scores-twice-napoli-beat-223138845.html",
+    "link": "https://sports.yahoo.com/articles/spin-not-spin-wedges-231824231.html",
     "source": "Google News"
   },
   {
-    "slug": "kevin-nash-on-gunther-39-s-wwe-raw-promo-39-i-was-really-disappointed-39",
-    "title": "Kevin Nash On GUNTHER&#39;s WWE Raw Promo: &#39;I Was Really Disappointed&#39;",
-    "description": "Kevin Nash said on an episode of \"Kliq This\" that he was \"really disappointed\" in GUNTHER's promo on \"WWE Raw\" after he tapped out and retired John Cena.",
+    "slug": "chargers-will-need-to-sustain-offensive-progress-from-win-over-cowboys-to-be-super-bowl-contenders",
+    "title": "Chargers will need to sustain offensive progress from win over Cowboys to be Super Bowl contenders",
+    "description": "Few would mistake the Los Angeles Chargers for an offensive juggernaut this season, so their 34-17 win over the Dallas Cowboys on Sunday represented a significant step forward.  Whether it marks a point of demarcation where the Chargers (11-4) can propel themselves into meaningful Super Bowl content",
     "pubDate": "2025-12-22",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/kevin-nash-gunthers-wwe-raw-223131270.html",
+    "link": "https://sports.yahoo.com/articles/chargers-sustain-offensive-progress-win-231823375.html",
+    "source": "DAN GREENSPAN"
+  },
+  {
+    "slug": "nets-receive-encouraging-cam-thomas-injury-update",
+    "title": "Nets receive encouraging Cam Thomas injury update",
+    "description": "Cam Thomas could be nearing a return.",
+    "pubDate": "2025-12-22",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/nets-receive-encouraging-cam-thomas-231806543.html",
     "source": "Google News"
   },
   {
-    "slug": "kraken-s-brandon-montour-placed-on-injured-reserve-expected-to-miss-4-weeks-following-hand-surgery",
-    "title": "Kraken’s Brandon Montour placed on injured reserve, expected to miss 4 weeks following hand surgery",
-    "description": "He is expected to be out of action until mid-to-late January.",
+    "slug": "no-5-petersburg-wins-tourney-moorefield-northern-split-fort-hill-rolls",
+    "title": "No. 5 Petersburg wins tourney; Moorefield, Northern split; Fort Hill rolls",
+    "description": "PETERSBURG, W.Va. — No. 5 Petersburg won its holiday tournament, routing Pendleton County, 80-34, on Saturday. The Vikings (4-2) received a bye to the final after Union didn’t make the trip Friday due to inclement weather. Pendleton beat Moorefield, 45-41, in the other semifinal Friday, and the Yell",
     "pubDate": "2025-12-22",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/kraken-brandon-montour-placed-injured-223101543.html",
+    "link": "https://sports.yahoo.com/articles/no-5-petersburg-wins-tourney-231800144.html",
     "source": "Google News"
   },
   {
-    "slug": "mccarthy-39-s-hand-injury-leaves-vikings-in-lurch-again-with-latest-setback-raising-long-term-questions",
-    "title": "McCarthy&#39;s hand injury leaves Vikings in lurch again with latest setback raising long-term questions",
-    "description": "The Minnesota Vikings must ask themselves this offseason how patient they can afford to be with quarterback J.J. McCarthy, who has shown his share of as-advertised winning traits and athletic talents but just as many alarming tendencies during this up-and-down debut.  How quickly the Vikings believe",
+    "slug": "frankfort-boys-split-northern-fort-hill-east-hardy-win-hampshire-bishop-walsh-paw-paw-union-lose",
+    "title": "Frankfort boys split; Northern, Fort Hill, East Hardy win; Hampshire Bishop Walsh, Paw Paw, Union lose",
+    "description": "WEST UNION, W.Va. — Frankfort held off South Harrison, 69-67, Saturday after falling to Sissonville, 61-60, Friday in the Dan McConnell Hoops Classic at Doddridge County. Frankfort (1-3) led South Harrison 23-16 after the first quarter, 42-30 at the half and 62-50 after three quarters. South Harriso",
     "pubDate": "2025-12-22",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/mccarthys-hand-injury-leaves-vikings-223036014.html",
-    "source": "DAVE CAMPBELL"
-  },
-  {
-    "slug": "aew-39-s-chuck-taylor-gives-post-surgery-update",
-    "title": "AEW&#39;s Chuck Taylor Gives Post-Surgery Update",
-    "description": "AEW producer, semi-retired pro wrestler, and former Best Friend Chuck Taylor gives a post-surgery update after he underwent neck surgery over the weekend",
-    "pubDate": "2025-12-22",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/aews-chuck-taylor-gives-post-223010170.html",
+    "link": "https://sports.yahoo.com/articles/frankfort-boys-split-northern-fort-231800007.html",
     "source": "Google News"
   },
   {
-    "slug": "disappointed-irish-ufc-fighter-released-for-the-second-time-silver-lining-is-coming",
-    "title": "‘Disappointed’ Irish UFC fighter released for the second time – ‘Silver lining is coming’",
-    "description": "Merry Cut-Mas! This past weekend, Ultimate Fighting Championship (UFC) Welterweight Rys McKee announced on his social media that he has been released from the promotion for the second time, ending another short-lived Octagon run in which he won just one of six appearances in total. “Disappointed to",
+    "slug": "ty-johnson-scores-3rd-touchdown-of-season",
+    "title": "Ty Johnson scores 3rd touchdown of season",
+    "description": "CLEVELAND — Fort Hill graduate Ty Johnson scored the 15th touchdown of his career to give the Buffalo Bills the lead Sunday in Cleveland. Johnson took a handoff and made a defender miss in the hole to find the goal line from two yards out, giving Buffalo a 13-7 lead with 12:54 left in the second qua",
     "pubDate": "2025-12-22",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/disappointed-irish-ufc-fighter-released-223000140.html",
+    "link": "https://sports.yahoo.com/articles/ty-johnson-scores-3rd-touchdown-231800895.html",
     "source": "Google News"
   },
   {
-    "slug": "vote-for-the-varsity-845-girls-track-and-field-athletes-of-the-week",
-    "title": "Vote for the Varsity 845 girls track and field athletes of the week",
-    "description": "There are 11 candidates for the Varsity 845 girls track and field athletes of the week for Dec. 15-21, 2025. Voting close on Sunday, Dec. 28.",
+    "slug": "myles-stute-mike-sharavjamts-guide-south-carolina-past-south-carolina-state-95-70",
+    "title": "Myles Stute, Mike Sharavjamts guide South Carolina past South Carolina State 95-70",
+    "description": "Myles Stute and Mike Sharavjamts both scored 15 points to propel South Carolina to a 95-70 victory over South Carolina State on Monday.  Stute made 4 of 7 shots with three 3-pointers, adding seven rebounds for the Gamecocks (8-4), who improve to 7-1 at home.  Sharavjamts sank 5 of 6 shots and all fi",
     "pubDate": "2025-12-22",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/vote-varsity-845-girls-track-222932268.html",
+    "link": "https://sports.yahoo.com/articles/myles-stute-mike-sharavjamts-guide-231758208.html",
     "source": "Google News"
   },
   {
-    "slug": "chris-paul-jr-looks-like-a-future-nba-player-in-29-point-performance-in-front-of-his-dad",
-    "title": "Chris Paul Jr. looks like a future NBA player in 29-point performance in front of his dad",
-    "description": "CP3 Jr.? Or how about CPJ3?",
+    "slug": "fort-hill-39-s-liam-hamilton-named-ebbie-finzel-player-of-the-year",
+    "title": "Fort Hill&#39;s Liam Hamilton named Ebbie Finzel Player of the Year",
+    "description": "CUMBERLAND — Zach Steckman knew he had something in Liam Hamilton when he coached the then 7-year-old’s JCP team. Fast forward to 2025, and Hamilton capped a brilliant four-year career by leading Steckman’s Fort Hill Sentinels in goals and assists and to a 12-3 record — the program’s first double-di",
     "pubDate": "2025-12-22",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/chris-paul-jr-looks-future-222920388.html",
+    "link": "https://sports.yahoo.com/articles/fort-hills-liam-hamilton-named-231700224.html",
     "source": "Google News"
   },
   {
-    "slug": "hornets-39-injury-report-updates-on-lamelo-ball-ryan-kalkbrenner-and-more",
-    "title": "Hornets&#39; injury report: Updates on LaMelo Ball, Ryan Kalkbrenner and more",
-    "description": "Charlotte will look to win their second straight game against the Cavaliers Monday night.",
+    "slug": "fsu-football-ends-season-ranked-in-both-national-polls",
+    "title": "FSU football ends season ranked in both national polls",
+    "description": "FROSTBURG — After reaching the quarterfinals of the Division II football playoffs, Frostburg State ended the season ranked in both national polls Monday. The Bobcats finished 14th in the coaches poll and 20th in the D2football poll. Frostburg went 11-3 and won a share of the Mountain East Conference",
     "pubDate": "2025-12-22",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/hornets-injury-report-updates-lamelo-222913649.html",
+    "link": "https://sports.yahoo.com/articles/fsu-football-ends-season-ranked-231600641.html",
     "source": "Google News"
   },
   {
-    "slug": "steelers-39-dk-metcalf-suspended-two-games-for-physical-altercation-with-fan",
-    "title": "Steelers&#39; DK Metcalf suspended two games for physical altercation with fan",
-    "description": "DK Metcalf will miss the rest of the regular season after the Steelers wide receiver was suspended for shoving a fan on Sunday in Week 16.",
+    "slug": "matthew-stafford-has-the-chance-to-accomplish-something-not-seen-since-2020-is-it-enough-for-mvp",
+    "title": "Matthew Stafford has the chance to accomplish something not seen since 2020. Is it enough for MVP?",
+    "description": "Accomplishing this would certainly bolster his case.",
     "pubDate": "2025-12-22",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/steelers-dk-metcalf-suspended-two-222851053.html",
+    "link": "https://sports.yahoo.com/articles/matthew-stafford-chance-accomplish-something-231548496.html",
     "source": "Google News"
   },
   {
-    "slug": "liverpool-striker-isak-has-surgery-on-broken-leg",
-    "title": "Liverpool striker Isak has surgery on broken leg",
-    "description": "Scans confirm Liverpool striker Alexander Isak's left leg was broken during the club's victory against Tottenham Hotspur on Saturday.",
+    "slug": "what-new-predators-minority-owner-nick-saban-said-about-role-with-team",
+    "title": "What new Predators minority owner Nick Saban said about role with team",
+    "description": "Nick Saban won 7 college football national titles, 6 with Alabama, and retired in 2024. Now he wants to bring a championship process to the Predators.",
     "pubDate": "2025-12-22",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/scans-confirm-liverpools-isak-broken-210859479.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "dk-metcalf-suspended-2-steelers-games-after-altercation-with-lions-fan",
-    "title": "DK Metcalf suspended 2 Steelers games after altercation with Lions fan",
-    "description": "Pittsburgh Steelers receiver DK Metcalf was suspended for 2 games after an incident with a Detroit Lions fan at Ford Field during Sunday's game.",
-    "pubDate": "2025-12-22",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/dk-metcalf-suspended-2-steelers-222732769.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "dk-metcalf-suspended-2-steelers-games-after-altercation-with-lions-fan",
-    "title": "DK Metcalf suspended 2 Steelers games after altercation with Lions fan",
-    "description": "Pittsburgh Steelers receiver DK Metcalf was suspended for 2 games after an incident with a Detroit Lions fan at Ford Field during Sunday's game.",
-    "pubDate": "2025-12-22",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/dk-metcalf-suspended-2-steelers-222732177.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "chiefs-39-move-to-kansas-leaves-missouri-fans-heartbroken-over-another-nfl-franchise-leaving",
-    "title": "Chiefs&#39; move to Kansas leaves Missouri fans heartbroken over another NFL franchise leaving",
-    "description": "The state of Missouri is losing its third NFL franchise and the second in the past decade, and the decision by the Chiefs on Monday to depart their longtime home at Arrowhead Stadium for a new domed facility in Kansas may hurt the most.  The Chiefs announced their intention to move after Kansas lawm",
-    "pubDate": "2025-12-22",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/chiefs-move-kansas-leaves-missouri-222724945.html",
-    "source": "DAVE SKRETTA"
-  },
-  {
-    "slug": "newly-acquired-pirates-2b-brandon-lowe-thinks-his-new-team-can-make-a-deep-push-in-2026",
-    "title": "Newly acquired Pirates 2B Brandon Lowe thinks his new team can make a ‘deep push’ in 2026",
-    "description": "A small-market team in a division dotted with big-market clubs. A pitching staff bursting with potential. A manager with a modest resume as a player but an innate feel for the vibes within a clubhouse. Brandon Lowe has been here before.",
-    "pubDate": "2025-12-22",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/newly-acquired-pirates-2b-brandon-222713198.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "why-did-the-nfl-suspend-dk-metcalf-steelers-wr-facing-discipline-for-punching-lions-fan",
-    "title": "Why did the NFL suspend DK Metcalf? Steelers WR facing discipline for punching Lions fan",
-    "description": "The NFL took action against the Steelers' star receiver on Monday after his incident with a Lions fan in Week 16.",
-    "pubDate": "2025-12-22",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/nfl-suspend-dk-metcalf-why-231344236.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "steelers-wr-dk-metcalf-suspended-two-games",
-    "title": "Steelers WR DK Metcalf suspended two games",
-    "description": "The Pittsburgh Steelers will be without their top receiver",
-    "pubDate": "2025-12-22",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/steelers-wr-dk-metcalf-suspended-222640299.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "salah-snatches-added-time-winner-for-egypt-after-zimbabwe-scare",
-    "title": "Salah snatches added-time winner for Egypt after Zimbabwe scare",
-    "description": "Mohamed Salah scored in added time to snatch a 2-1 victory for record seven-time champions Egypt over lowly ranked Zimbabwe in an Africa Cup of Nations Group B thriller in Agadir on Monday. Victory leaves Egypt level on three points after the first series of group maches with South Africa, who beat",
-    "pubDate": "2025-12-22",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/salah-snatches-added-time-winner-222614796.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "49ers-vs-colts-predictions-picks-best-bets-for-tonight-39-s-monday-night-football-game",
-    "title": "49ers vs Colts Predictions, Picks & Best Bets for Tonight&#39;s Monday Night Football Game",
-    "description": "Get the best 49ers vs. Colts predictions and odds ahead of Week 16 Monday Night Football on December 22, 2025. Take the Over.",
-    "pubDate": "2025-12-22",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/49ers-vs-colts-predictions-picks-110000031.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "who-is-the-lions-fan-that-dk-metcalf-punched-what-to-know-about-ryan-kennedy-and-his-history-with-steelers-wr",
-    "title": "Who is the Lions fan that DK Metcalf punched? What to know about Ryan Kennedy and his history with Steelers WR",
-    "description": "Here is more on the fan that Steelers WR DK Metcalf punched in Week 16 of the 2025 NFL season.",
-    "pubDate": "2025-12-22",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/lions-fan-dk-metcalf-punched-171526230.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "jersey-bulls-move-into-top-10-for-christmas",
-    "title": "Jersey Bulls move into top 10 for Christmas",
-    "description": "Jersey Bulls move into the top 10 in Isthmian League South East after a 3-0 win over Broadbridge Heath at Springfield.",
-    "pubDate": "2025-12-22",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/jersey-bulls-move-top-10-214036981.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "german-sporting-director-feels-newcastle-united-have-received-a-steal-deal-in-80m-has-he-improved-the-squad",
-    "title": "German Sporting Director Feels Newcastle United Have Received A Steal Deal In €80m: Has He Improved The Squad?",
-    "description": "Germany sporting director Rudi Völler reckons Newcastle United grabbed a total steal. The club signed Nick Woltemade over the summer break. Kicker put out the story, and Sky Deutschland later passed ...",
-    "pubDate": "2025-12-22",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/german-sporting-director-feels-newcastle-222500280.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "unc-basketball-moves-up-again-in-usa-today-sports-coaches-poll",
-    "title": "UNC basketball moves up again in USA TODAY Sports Coaches poll",
-    "description": "The UNC basketball program has moved up to No. 12 in latest coaches poll",
-    "pubDate": "2025-12-22",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/unc-basketball-moves-again-usa-222443691.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "longhorns-football-extend-offer-to-three-star-lb-kareem-palmer",
-    "title": "Longhorns football extend offer to three-star LB Kareem Palmer",
-    "description": "Longhorns football enters the recruiting battle for Kareem Palmer. UT has extended the three-star linebacker an offer.",
-    "pubDate": "2025-12-22",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/longhorns-football-extend-offer-three-222425054.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "john-harbaugh-on-future-with-ravens-i-39-m-focused-on-doing-the-best-job-i-can-today",
-    "title": "John Harbaugh on future with Ravens: I&#39;m focused on doing the best job I can today",
-    "description": "The Ravens are on the brink of being eliminated from playoff contention after Sunday night's loss to the Patriots and head coach John Harbaugh fielded questions about his job security at his Monday press conference.",
-    "pubDate": "2025-12-22",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/john-harbaugh-future-ravens-im-222412444.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "phillies-agree-to-deal-with-rhp-zach-pop",
-    "title": "Phillies agree to deal with RHP Zach Pop",
-    "description": "You said you wanted some more pop on the roster",
-    "pubDate": "2025-12-22",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/phillies-agree-deal-rhp-zach-222349687.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "notable-quotes-from-dan-lanning-39-s-presser-before-cfp-quarterfinals",
-    "title": "Notable quotes from Dan Lanning&#39;s presser before CFP Quarterfinals",
-    "description": "Oregon Ducks head coach Dan Lanning met with media members to break down his team's coming matchup against the Texas Tech Red Raiders in the CFP.",
-    "pubDate": "2025-12-22",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/notable-quotes-dan-lannings-presser-222338177.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "dk-metcalf-suspended-2-games-after-hitting-fan-during-steelers-lions-game",
-    "title": "DK Metcalf suspended 2 games after hitting fan during Steelers-Lions game",
-    "description": "The Steelers star has been suspended for 2 games.",
-    "pubDate": "2025-12-22",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/dk-metcalf-suspended-2-games-222329726.html",
+    "link": "https://sports.yahoo.com/articles/predators-minority-owner-nick-saban-231533656.html",
     "source": "Google News"
   },
   {
@@ -1107,48 +963,228 @@
     "source": "Google News"
   },
   {
-    "slug": "colts-vs-49ers-live-score-updates-highlights-from-week-16",
-    "title": "Colts vs. 49ers: Live score, updates, highlights from Week 16",
-    "description": "Stay up to date here with everything that takes place in the Colts vs. 49ers Monday Night Football matchup.",
+    "slug": "badgers-hold-wcha-lead-after-impressive-first-half-performance",
+    "title": "Badgers hold WCHA lead after impressive first half performance",
+    "description": "Wisconsin finished the first half of the season atop the polls, holding a comfortable lead in a stacked conference.",
     "pubDate": "2025-12-22",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/colts-vs-49ers-live-score-222314406.html",
+    "link": "https://sports.yahoo.com/articles/badgers-hold-wcha-lead-impressive-231500846.html",
     "source": "Google News"
   },
   {
-    "slug": "nfl-reveals-how-long-dk-metcalf-39-s-suspension-is-after-steelers-wr-shoved-lions-fan",
-    "title": "NFL reveals how long DK Metcalf&#39;s suspension is after Steelers WR shoved Lions fan",
-    "description": "Not ideal for Pittsburgh.",
+    "slug": "what-channel-is-colts-vs-49ers-on-today-schedule-time-live-stream-to-watch-39-monday-night-football-39-in-week-16",
+    "title": "What channel is Colts vs. 49ers on today? Schedule, time, live stream to watch &#39;Monday Night Football&#39; in Week 16",
+    "description": "A top-5 pick vs. Mr. Immaculate.",
     "pubDate": "2025-12-22",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/nfl-reveals-long-dk-metcalfs-222309654.html",
+    "link": "https://sports.yahoo.com/articles/channel-colts-vs-49ers-today-103001411.html",
     "source": "Google News"
   },
   {
-    "slug": "dk-metcalf-punches-fan-steelers-wr-loses-cool-and-takes-swipe-at-heckler-during-lions-game",
-    "title": "DK Metcalf punches fan: Steelers WR loses cool and takes swipe at heckler during Lions game",
-    "description": "Cameras caught Steelers WR DK Metcalf throwing a punch at a Lions fan during Sunday's game.",
+    "slug": "maple-leafs-fire-assistant-coach-marc-savard-as-toronto-39-s-power-play-continues-to-struggle",
+    "title": "Maple Leafs fire assistant coach Marc Savard as Toronto&#39;s power play continues to struggle",
+    "description": "The Toronto Maple Leafs fired assistant coach Marc Savard on Monday after losing three games in a row nearing the midway point of the NHL season.  Savard, a 48-year-old former player, was in charge of the power play, which ranked last in the league at 13.3% with four shorthanded goals allowed.  Ther",
     "pubDate": "2025-12-22",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/dk-metcalf-punches-fan-steelers-225436142.html",
+    "link": "https://sports.yahoo.com/articles/maple-leafs-fire-assistant-coach-231259698.html",
     "source": "Google News"
   },
   {
-    "slug": "jimenez-converts-another-penalty-to-give-fulham-win-over-nottingham-forest",
-    "title": "Jimenez converts another penalty to give Fulham win over Nottingham Forest",
-    "description": "A record-equalling first half penalty from Raul Jimenez gave Fulham a 1-0 win over lowly Nottingham Forest in the Premier League on Monday.  An uneventful first half came to life seconds before halftime when Fulham was awarded a spot kick following a foul by Douglas Luiz on his fellow Brazilian Kevi",
+    "slug": "who-plays-on-39-monday-night-football-39-tonight-time-tv-channel-schedule-live-stream-for-nfl-week-16-game",
+    "title": "Who plays on &#39;Monday Night Football&#39; tonight? Time, TV channel, schedule, live stream for NFL Week 16 game",
+    "description": "Here's your guide to this week's \"Monday Night Football\" matchup, including how to watch.",
     "pubDate": "2025-12-22",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/jimenez-converts-another-penalty-fulham-222256209.html",
+    "link": "https://sports.yahoo.com/articles/plays-monday-night-football-tonight-051001785.html",
     "source": "Google News"
   },
   {
-    "slug": "steelers-39-wr-dk-metcalf-suspended-two-games-for-altercation-with-lions-fan",
-    "title": "Steelers&#39; WR DK Metcalf suspended two games for altercation with Lions fan",
-    "description": "Steelers star wide receiver DK Metcalf will miss the season finale agains the Ravens after getting suspended two games for an altercation with a Lions fan",
+    "slug": "49ers-vs-colts-live-score-updates-highlights-from-nfl-39-monday-night-football-39-game",
+    "title": "49ers vs. Colts live score, updates, highlights from NFL &#39;Monday Night Football&#39; game",
+    "description": "The Sporting News is tracking live scoring updates and highlights for 49ers vs. Colts on \"Monday Night Football.\" Follow for complete results from the NFL Week 16 prime-time game.",
     "pubDate": "2025-12-22",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/steelers-wr-dk-metcalf-suspended-222250735.html",
+    "link": "https://sports.yahoo.com/articles/49ers-vs-colts-live-score-223001252.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "rookies-rise-fleet-rebound-boston-s-winning-formula",
+    "title": "Rookies Rise, Fleet Rebound: Boston’s Winning Formula",
+    "description": "All good things tend to come to an end. For the Boston Fleet, that occurred on December 19th when the team’s five-game win streak came to an abrupt end against the Minnesota Frost. ​",
+    "pubDate": "2025-12-22",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/rookies-rise-fleet-rebound-boston-231014955.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "reckless-penalty-gift-consigns-forest-to-defeat-at-stubborn-fulham",
+    "title": "Reckless penalty gift consigns Forest to defeat at stubborn Fulham",
+    "description": "Fulham returned to winning ways with a hard-fought 1-0 victory over Nottingham Forest at Craven Cottage, a result that eased their relegation concerns while slowing the visitors’ recent progress.Rau...",
+    "pubDate": "2025-12-22",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/reckless-penalty-gift-consigns-forest-231000302.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "dk-metcalf-suspended-2-games-everything-we-know-about-fan-altercation",
+    "title": "DK Metcalf suspended 2 games: Everything we know about fan altercation",
+    "description": "DK Metcalf has been suspended by the NFL for two games after punching a fan during the Lions game. Here’s everything we know about the altercation.",
+    "pubDate": "2025-12-22",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/dk-metcalf-suspended-2-games-230954927.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "unc-set-to-host-top-2027-prospect-cj-rosser-on-upcoming-visit",
+    "title": "UNC set to host top 2027 prospect CJ Rosser on upcoming visit",
+    "description": "North Carolina will host C.J. Rosser, the No. 1 player in the class of 2027, when he attends UNC’s game against East Carolina on Monday night.",
+    "pubDate": "2025-12-22",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/unc-set-host-top-2027-230735676.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "broncos-injury-report-4-players-estimated-non-participants-on-monday",
+    "title": "Broncos injury report: 4 players estimated non-participants on Monday",
+    "description": "The Broncos released an estimated injury report on Monday with four estimated non participants.",
+    "pubDate": "2025-12-22",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/broncos-injury-report-4-players-230722448.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "new-reports-claim-the-future-of-dolphins-39-hc-mike-mcdaniel-is-undecided",
+    "title": "New reports claim the future of Dolphins&#39; HC Mike McDaniel is undecided",
+    "description": "Who knows how this is going to end for both sides?",
+    "pubDate": "2025-12-22",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/reports-claim-future-dolphins-hc-230721159.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "5-star-rb-david-gabriel-georges-names-top-eight-schools",
+    "title": "5-star RB David Gabriel Georges names top eight schools",
+    "description": "One of the top running backs in the 2027 cycle is narrowing his list of top schools. Baylor School (Tenn.) five-star RB David Gabriel Georges told Rivals’ Hayes Fawcett on Monday evening that he’s down to eight programs: Alabama, Auburn, Georgia, Miami, Ohio State, Ole Miss, Tennessee and Texas. Gab",
+    "pubDate": "2025-12-22",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/5-star-rb-david-gabriel-230700458.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "davidson-at-kansas-quick-preview-and-ogt",
+    "title": "Davidson at Kansas: Quick Preview and OGT",
+    "description": "Tonight, Kansas hosts Davidson in a rematch of the 2008 Elite Eight game the Jayhawks barely won. The bad news is Darryn Peterson will, once again, not be available for KU. The good news is Steph Curry ain’t walking through that door. Time: 7pm Jayhawk Time TV/streaming: ESPN+ Line: Kansas -16.5 Dav",
+    "pubDate": "2025-12-22",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/davidson-kansas-quick-preview-ogt-230700565.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "analysis-what-went-right-what-went-wrong-during-bills-win-at-browns",
+    "title": "Analysis: What went right, what went wrong during Bills win at Browns",
+    "description": "Quick analysis of what went right and wrong for the Bills during their win over the Browns.",
+    "pubDate": "2025-12-22",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/analysis-went-went-wrong-during-230649145.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "why-the-maple-leafs-fired-assistant-coach-marc-savard",
+    "title": "Why The Maple Leafs Fired Assistant Coach Marc Savard",
+    "description": "Savard has been in charge of the Maple Leafs' power play since June 2024.",
+    "pubDate": "2025-12-22",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/why-maple-leafs-fired-assistant-230627716.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "how-patrick-mahomes-39-injury-handed-chiefs-brutal-39-wake-up-call-39",
+    "title": "How Patrick Mahomes&#39; injury handed Chiefs brutal &#39;wake-up call&#39;",
+    "description": "The Chiefs now know where their flaws are.",
+    "pubDate": "2025-12-22",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/patrick-mahomes-injury-handed-chiefs-230621556.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "2025-transfer-portal-retrospective-former-horned-frogs",
+    "title": "2025 Transfer Portal Retrospective: Former Horned Frogs",
+    "description": "A look back at the 2025 performance of players that departed the TCU Football program last offseason",
+    "pubDate": "2025-12-22",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/2025-transfer-portal-retrospective-former-230618822.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "top-50-world-juniors-moments-ever-nos-41-to-50",
+    "title": "Top 50 World Juniors Moments Ever: Nos. 41 to 50",
+    "description": "Connor McDavid's Canadians beating Jack Eichel's Americans for gold is part of the 41st-to-50th top moments in World Junior Championship history as it turns 50. Watch Ken Campbell's video columns this week for the full reveal.",
+    "pubDate": "2025-12-22",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/top-50-world-juniors-moments-230613619.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "sceptres-quick-takes-encouraging-signs-in-win-over-sirens",
+    "title": "Sceptres Quick Takes: Encouraging Signs In Win Over Sirens",
+    "description": "Sceptres grab a close win despite some defensive struggles, missing Renata Fast. Key goals from Compher and Maltais, plus Elaine Chuli's stellar saves, powered the team forward.",
+    "pubDate": "2025-12-22",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/sceptres-quick-takes-encouraging-signs-230607011.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "famous-idaho-potato-bowl-players-of-the-game",
+    "title": "Famous Idaho Potato Bowl Players of the Game",
+    "description": "Who were the top performers from the Famous Idaho Potato Bowl?",
+    "pubDate": "2025-12-22",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/famous-idaho-potato-bowl-players-230540329.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "sean-o-39-malley-inspired-by-jake-paul-39-s-performance-vs-anthony-joshua",
+    "title": "Sean O&#39;Malley inspired by Jake Paul&#39;s performance vs. Anthony Joshua",
+    "description": "Sean O'Malley is motivated by Jake Paul.",
+    "pubDate": "2025-12-22",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/sean-omalley-inspired-jake-pauls-230519797.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "seattle-mariners-supplement-lineup-sign-slugger-rob-refsnyder",
+    "title": "Seattle Mariners supplement lineup, sign slugger Rob Refsnyder",
+    "description": "After a few weeks of relative inactivity, the Seattle Mariners have again jumped back on to the hot stove and signed right handed slugger Rob Refsnyder to a one year, $6.25 Million dollar deal. Refsnyder has crushed left handed pitching his entire career, but he’s been especially good in recent year",
+    "pubDate": "2025-12-22",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/seattle-mariners-supplement-lineup-sign-230510167.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "39-the-drought-39-is-jerry-jones-admitting-cowboys-fault-after-30-year-failure",
+    "title": "&#39;The Drought&#39;: Is Jerry Jones Admitting Cowboys Fault After 30-Year Failure?",
+    "description": "FRISCO - A little over a year ago, Dallas Cowboys COO Stephen Jones sat at the dais here at The Star in Frisco to announce the hiring of Brian Schottenheimer as the head coach.",
+    "pubDate": "2025-12-22",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/drought-jerry-jones-admitting-cowboys-230400236.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "tst-images-san-diego-state-defeats-whittier-121-59-at-viejas-arena",
+    "title": "TST Images: San Diego State defeats Whittier, 121-59, at Viejas Arena",
+    "description": "SAN DIEGO – The San Diego State Aztecs defeated the Whittier Poets, 121-59, at Viejas Arena on December 22, 2025.",
+    "pubDate": "2025-12-22",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/tst-images-san-diego-state-230332672.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "st-john-s-is-unranked-for-the-first-time-this-season",
+    "title": "St. John’s is unranked for the first time this season",
+    "description": "NEW YORK — For the first time this season, St. John’s is unranked. The Red Storm fell out of the AP Top 25 two days after Saturday’s 78-66 loss to Kentucky dropped them to 7-4. St. John’s opened the season ranked No. 5 but has failed to live up to the lofty expectations thus far. The Johnnies are 0-",
+    "pubDate": "2025-12-22",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/st-john-unranked-first-time-230300266.html",
     "source": "Google News"
   },
   {
@@ -1278,15 +1314,6 @@
     "source": "BBC Sport"
   },
   {
-    "slug": "spurs-lost-control-in-defeat-to-liverpool-hart",
-    "title": "Spurs 'lost control' in defeat to Liverpool - Hart",
-    "description": "MOTD Analysis: Ill-discipline cost Tottenham against Liverpool - Joe Hart",
-    "pubDate": "2025-12-21",
-    "image": "",
-    "link": "https://www.bbc.com/sport/football/videos/cpvd3jv9xj1o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport"
-  },
-  {
     "slug": "hearts-have-arrived-but-mcinnes-warns-they-can-get-better",
     "title": "'Hearts have arrived'... but McInnes warns they can get better",
     "description": "Hearts \"have arrived\" as Scottish Premiership title contenders after beating Rangers for the second time this season, says Kris Boyd.",
@@ -1338,15 +1365,6 @@
     "pubDate": "2025-12-19",
     "image": "",
     "link": "https://www.bbc.com/sport/football/articles/cj9y4k8lykno?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport"
-  },
-  {
-    "slug": "from-helmand-to-milan-meenagh-s-quest-for-winter-paralympic-medal",
-    "title": "From Helmand to Milan - Meenagh's quest for Winter Paralympic medal",
-    "description": "Scotland's Scott Meenagh is targeting a first medal at his third and final Winter Paralympics, 14 years on from losing both his legs in Helmand Province",
-    "pubDate": "2025-12-19",
-    "image": "",
-    "link": "https://www.bbc.com/sport/articles/cm20p4n8gg9o?at_medium=RSS&at_campaign=rss",
     "source": "BBC Sport"
   },
   {
