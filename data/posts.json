@@ -1,14 +1,5 @@
 [
   {
-    "slug": "follow-live-patriots-look-to-clinch-playoff-berth-with-win-over-ravens",
-    "title": "Follow live: Patriots look to clinch playoff berth with win over Ravens",
-    "description": "null",
-    "pubDate": "2025-12-22",
-    "image": "",
-    "link": "https://www.espn.com/nfl/game/_/gameId/401772804/patriots-ravens",
-    "source": "www.espn.com - TOP"
-  },
-  {
     "slug": "steelers-metcalf-shoves-fan-during-game-in-detroit",
     "title": "Steelers' Metcalf shoves fan during game in Detroit",
     "description": "Steelers wide receiver DK Metcalf was involved in an altercation with a fan at Ford Field during the second quarter of Sunday's 29-24 win over the Detroit Lions.",
@@ -16,6 +7,24 @@
     "image": "",
     "link": "https://www.espn.com/nfl/story/_/id/47383437/steelers-dk-metcalf-throws-punch-fan-detroit",
     "source": "Brooke Pryor"
+  },
+  {
+    "slug": "back-injury-forces-ravens-jackson-from-snf-loss",
+    "title": "Back injury forces Ravens' Jackson from SNF loss",
+    "description": "Ravens quarterback Lamar Jackson left Sunday night's game against the Patriots late in the first half because of a back injury. He was replaced by Tyler Huntley.",
+    "pubDate": "2025-12-22",
+    "image": "",
+    "link": "https://www.espn.com/nfl/story/_/id/47386034/ravens-qb-lamar-jackson-exits-vs-patriots-back-injury",
+    "source": "Jamison Hensley"
+  },
+  {
+    "slug": "lions-own-loss-after-late-opi-calls-it-s-on-us",
+    "title": "Lions own loss after late OPI calls: 'It's on us'",
+    "description": "The Detroit Lions owned their big loss after late offensive pass interference calls, with coach Dan Campbell saying, \"It's on us.\"",
+    "pubDate": "2025-12-22",
+    "image": "",
+    "link": "https://www.espn.com/nfl/story/_/id/47386352/lions-blame-officials-own-loss-late-opi-calls",
+    "source": "Eric Woodyard and Brooke Pryor"
   },
   {
     "slug": "sources-red-sox-acquire-contreras-from-cards",
@@ -45,9 +54,9 @@
     "source": "Todd Archer"
   },
   {
-    "slug": "broncos-wr-bryant-in-hospital-has-movement",
-    "title": "Broncos WR Bryant in hospital, has movement",
-    "description": "Broncos wide receiver Pat Bryant was taken by ambulance to an area hospital Sunday night but had movement in his extremities following a big hit in the final minute of Sunday's 34-20 loss to the Jacksonville Jaguars.",
+    "slug": "sources-broncos-bryant-discharged-from-hospital",
+    "title": "Sources: Broncos' Bryant discharged from hospital",
+    "description": "Pat Bryant was discharged from an area hospital Sunday night after being diagnosed with a concussion, but cleared of other major injuries, following a big hit in the final minute of the team's 34-20 loss to the Jaguars, sources told ESPN.",
     "pubDate": "2025-12-22",
     "image": "",
     "link": "https://www.espn.com/nfl/story/_/id/47385829/broncos-pat-bryant-hospitalized-big-hit-vs-jaguars",
@@ -63,24 +72,6 @@
     "source": "www.espn.com - TOP"
   },
   {
-    "slug": "aggies-topple-final-1-seed-to-clinch-volleyball-title",
-    "title": "Aggies topple final 1-seed to clinch volleyball title",
-    "description": "Texas A&M won its first NCAA volleyball championship after sweeping Kentucky, one of three No. 1 seeds the Aggies beat in the tournament,.",
-    "pubDate": "2025-12-22",
-    "image": "",
-    "link": "https://www.espn.com/college-sports/story/_/id/47383619/texas-volleyball-wins-first-national-championship",
-    "source": "Charlotte Gibson"
-  },
-  {
-    "slug": "georgetown-suspends-coach-cooley-for-bottle-toss",
-    "title": "Georgetown suspends coach Cooley for bottle toss",
-    "description": "Georgetown suspended coach Ed Cooley for one game after he struck a child in the stands with a water bottle in a moment of frustration.",
-    "pubDate": "2025-12-22",
-    "image": "",
-    "link": "https://www.espn.com/mens-college-basketball/story/_/id/47381903/georgetown-suspends-coach-ed-cooley-bottle-toss",
-    "source": "Myron Medcalf"
-  },
-  {
     "slug": "we-ain-t-write-back-top-cfp-1st-round-quotes",
     "title": "📢 'We ain't write back!': Top CFP 1st-round quotes",
     "description": "Mario Cristobal and Joe Judge were among the notables to sound off with memorable lines after Round 1 of the College Football Playoff.",
@@ -90,17 +81,8 @@
     "source": "ESPN staff"
   },
   {
-    "slug": "chaos-aaron-rodgers-one-word-take-of-steelers-lions-tops-week-16-quotes",
-    "title": "'Chaos': Aaron Rodgers' one-word take of Steelers-Lions tops Week 16 quotes",
-    "description": "With the playoff race heating up, Week 16 gave fans highlight plays and headline-worthy quotes.",
-    "pubDate": "2025-12-22",
-    "image": "",
-    "link": "https://www.espn.com/nfl/story/_/id/47384800/nfl-week-16-quotes-steelers-lions-aaron-rodgers-joe-burrow-jaxson-dart",
-    "source": "ESPN staff"
-  },
-  {
-    "slug": "our-reporters-make-sense-of-week-16-statement-wins-for-the-jaguars-panthers-steelers-bears",
-    "title": "Our reporters make sense of Week 16: Statement wins for the Jaguars, Panthers, Steelers, Bears",
+    "slug": "our-reporters-make-sense-of-week-16-statement-wins-for-patriots-jaguars-panthers-steelers-bears",
+    "title": "Our reporters make sense of Week 16: Statement wins for Patriots, Jaguars, Panthers, Steelers, Bears",
     "description": "Our NFL Nation reporters answer big questions from each Week 16 game. Here's what you need to know.",
     "pubDate": "2025-12-22",
     "image": "",
@@ -115,6 +97,15 @@
     "image": "",
     "link": "https://www.espn.com/nfl/story/_/id/47380014/nfl-week-16-overreactions-fantasy-broncos-dk-metcalf-todd-bowles-bears-seahawks",
     "source": "Dan Graziano"
+  },
+  {
+    "slug": "chaos-aaron-rodgers-one-word-take-of-steelers-lions-tops-week-16-quotes",
+    "title": "'Chaos': Aaron Rodgers' one-word take of Steelers-Lions tops Week 16 quotes",
+    "description": "With the playoff race heating up, Week 16 gave fans highlight plays and headline-worthy quotes.",
+    "pubDate": "2025-12-22",
+    "image": "",
+    "link": "https://www.espn.com/nfl/story/_/id/47384800/nfl-week-16-quotes-steelers-lions-aaron-rodgers-joe-burrow-jaxson-dart",
+    "source": "ESPN staff"
   },
   {
     "slug": "quarterfinal-first-look-every-team-s-key-player-big-question-more",
@@ -135,6 +126,15 @@
     "source": "Courtney Cronin"
   },
   {
+    "slug": "mlb-offseason-grades-red-sox-deal-for-contreras-white-sox-land-murakami",
+    "title": "MLB offseason grades: Red Sox deal for Contreras, White Sox land Murakami",
+    "description": "We've got you covered with grades and analysis on every winter signing and big offseason trade.",
+    "pubDate": "2025-12-22",
+    "image": "",
+    "link": "https://www.espn.com/mlb/story/_/id/46994593/2025-26-mlb-offseason-grades-free-agency-trade-analysis",
+    "source": "Bradford Doolittle and David Schoenfield"
+  },
+  {
     "slug": "tis-the-szn-chargers-troll-cowboys-multiple-times-after-victory",
     "title": "'Tis the szn': Chargers troll Cowboys multiple times after victory",
     "description": "Even with the holidays coming up, NFL teams remained their petty selves in Week 16.",
@@ -151,6 +151,15 @@
     "image": "",
     "link": "https://www.espn.com/nfl/story/_/id/47349903/nfl-week-16-fashionable-best-arrivals",
     "source": "ESPN staff"
+  },
+  {
+    "slug": "week-16-winners-and-losers-brown-lawrence-nacua-lead-the-way-allen-jacobs-fizzle",
+    "title": "Week 16 winners and losers: Brown, Lawrence, Nacua lead the way; Allen, Jacobs fizzle",
+    "description": "Chase Brown, Trevor Lawrence and Puka Nakua led the way with big Week 16 performances, while Josh Allen, Josh Jacobs and Amon-Ra St. Brown were among the biggest disappointments.",
+    "pubDate": "2025-12-22",
+    "image": "",
+    "link": "https://www.espn.com/fantasy/football/story/_/page/FFSundayHighLows-47381667/nfl-week-16-fantasy-football-winners-losers-injuries-rankings-more",
+    "source": "Matt Bowen and Tristan H. Cockcroft"
   },
   {
     "slug": "women-s-ncaa-volleyball-way-too-early-top-10-for-2026",
@@ -180,35 +189,359 @@
     "source": "David Purdum"
   },
   {
-    "slug": "carolina-panthers-vs-seattle-seahawks-opening-odds",
-    "title": "Carolina Panthers vs Seattle Seahawks opening odds",
-    "description": "Check out the odds, courtesy of FanDuel.",
+    "slug": "detroit-lions-stoic-after-devastating-finish-vs-steelers-39-it-39-s-on-us-39",
+    "title": "Detroit Lions stoic after devastating finish vs Steelers: &#39;It&#39;s on us&#39;",
+    "description": "The Detroit Lions have a 8% chance to make the postseason, according to NFL Next Gen Stats. They need to win their final two games and get help.",
     "pubDate": "2025-12-22",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/carolina-panthers-vs-seattle-seahawks-035510154.html",
+    "link": "https://sports.yahoo.com/articles/detroit-lions-stoic-devastating-finish-045703928.html",
     "source": "Google News"
   },
   {
-    "slug": "nebraska-finally-finds-their-stroke-and-pulls-away-to-beat-north-dakota-78-55",
-    "title": "Nebraska Finally Finds Their Stroke and Pulls Away to Beat North Dakota 78-55",
-    "description": "A game like this was always a concern for this team. Boy can they score a lot of points but with their reliance on the three point shot there will be games like tonight where they will struggle. Luckily, they were playing North Dakota tonight and not Michigan State who they will see in the […]",
+    "slug": "jalen-brunson-scores-47-points-as-knicks-defeat-heat-132-125",
+    "title": "Jalen Brunson scores 47 points as Knicks defeat Heat 132-125",
+    "description": "Jalen Brunson scores 47 points as Knicks defeat Heat 132-125",
     "pubDate": "2025-12-22",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/nebraska-finally-finds-stroke-pulls-035205040.html",
+    "link": "https://sports.yahoo.com/articles/jalen-brunson-scores-47-points-045259833.html",
     "source": "Google News"
   },
   {
-    "slug": "derrick-henry-2-yard-td-run-gives-ravens-24-13-lead-in-fourth-quarter",
-    "title": "Derrick Henry 2-yard TD run gives Ravens 24-13 lead in fourth quarter",
-    "description": "The Ravens have expanded their lead early in the fourth quarter.",
+    "slug": "quot-he-does-great-things-on-both-sides-of-the-ball-i",
+    "title": "&quot;He does great things on both sides of the ball. I …",
+    "description": "\"He does great things on both sides of the ball. I …",
     "pubDate": "2025-12-22",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/derrick-henry-2-yard-td-035132649.html",
+    "link": "https://sports.yahoo.com/articles/does-great-things-both-sides-045258819.html",
     "source": "Google News"
   },
   {
-    "slug": "patriots-vs-ravens-baltimore-extends-lead-to-24-13-in-fourth-quarter",
-    "title": "Patriots vs. Ravens: Baltimore extends lead to 24-13 in fourth quarter",
+    "slug": "spurs-defeat-wizards-124-113-as-de-39-aaron-fox-drops-27",
+    "title": "Spurs defeat Wizards 124-113 as De&#39;Aaron Fox drops 27 …",
+    "description": "Spurs defeat Wizards 124-113 as De'Aaron Fox drops 27 …",
+    "pubDate": "2025-12-22",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/spurs-defeat-wizards-124-113-045257283.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "the-bucks-are-now-11-18-they-play-next-in-indiana-on",
+    "title": "The Bucks are now 11-18. They play next in Indiana on …",
+    "description": "The Bucks are now 11-18. They play next in Indiana on …",
+    "pubDate": "2025-12-22",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/bucks-now-11-18-play-045256705.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "kuzma-on-committing-that-foul",
+    "title": "Kuzma, on committing that foul:",
+    "description": "Kuzma, on committing that foul:",
+    "pubDate": "2025-12-22",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/kuzma-committing-foul-045255548.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "asked-doc-rivers-about-what-he-felt-happened-during",
+    "title": "Asked Doc Rivers about what he felt happened during …",
+    "description": "Asked Doc Rivers about what he felt happened during …",
+    "pubDate": "2025-12-22",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/asked-doc-rivers-felt-happened-045254090.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "quot-the-whole-team-is-behind-him-telling-him-to-let-it",
+    "title": "&quot;The whole team is behind him, telling him to let it …",
+    "description": "\"The whole team is behind him, telling him to let it …",
+    "pubDate": "2025-12-22",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/whole-team-behind-him-telling-045253190.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "boards-quot-the-game-evolves-but-i-think-with-the-game",
+    "title": "Boards: &quot;The game evolves, but I think with the game …",
+    "description": "Boards: \"The game evolves, but I think with the game …",
+    "pubDate": "2025-12-22",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/boards-game-evolves-think-game-045252782.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "miles-mcbride-continues-to-do-varied-work-on-the-court",
+    "title": "Miles McBride continues to do varied work on the court …",
+    "description": "Miles McBride continues to do varied work on the court …",
+    "pubDate": "2025-12-22",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/miles-mcbride-continues-varied-court-045251782.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "dayton-flyers-split-2-home-games-heading-into-christmas",
+    "title": "Dayton Flyers split 2 home games heading into Christmas",
+    "description": "The Dayton Flyers have concluded the non-conference season.",
+    "pubDate": "2025-12-22",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/dayton-flyers-split-2-home-045129725.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "texans-playoff-picture-updated-chances-for-houston-to-make-2025-nfl-postseason-after-week-16-win-over-raiders",
+    "title": "Texans playoff picture: Updated chances for Houston to make 2025 NFL postseason after Week 16 win over Raiders",
+    "description": "The Texans are moving closer to a playoff return.",
+    "pubDate": "2025-12-22",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/texans-playoff-picture-updated-chances-002728546.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "jazzy-davidson-39-s-season-high-24-points-lead-usc-past-california-golden-bears-in-nail-biting-win",
+    "title": "Jazzy Davidson&#39;s season high 24 points lead USC past California Golden Bears in nail-biting win",
+    "description": "SAN FRANCISCO — Freshman guard Jazzy Davidson proved once again Sunday evening why she is one of the fastest rising stars in all of Women's basketball, as she delivered yet another career night with the USC Trojans headed north to play the California Golden Bears at the Chase Center.",
+    "pubDate": "2025-12-22",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/jazzy-davidsons-season-high-24-044923606.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "drake-maye-leads-the-patriots-to-a-28-24-win-over-the-ravens-that-clinches-a-playoff-spot",
+    "title": "Drake Maye leads the Patriots to a 28-24 win over the Ravens that clinches a playoff spot",
+    "description": "Drake \"Drake Maye\" Maye guided New England to a pair of fourth-quarter touchdowns, rallying his team from an 11-point deficit to a 28-24 victory over Baltimore that clinched a postseason spot for the Patriots and dealt a devastating blow to the Ravens’ playoff hopes.",
+    "pubDate": "2025-12-22",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/drake-maye-leads-patriots-28-044846009.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "roundtable-reactions-ravens-falter-late-against-patriots-as-playoff-hopes-fizzle",
+    "title": "Roundtable Reactions: Ravens falter late against Patriots as playoff hopes fizzle",
+    "description": "The Baltimore Ravens dropped to below .500 with a crushing defeat on Sunday night, losing 28-24 at the hands of the New England Patriots on home turf. Despite losing Lamar Jackson to a back injury before halftime, the Ravens were still in position to win in the fourth quarter but saw a double-digit",
+    "pubDate": "2025-12-22",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/roundtable-reactions-ravens-falter-against-044817027.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "indiana-curt-cignetti-could-target-9-629-yard-71-td-qb-to-replace-fernando-mendoza",
+    "title": "Indiana, Curt Cignetti could target 9,629-yard, 71-TD QB to replace Fernando Mendoza",
+    "description": "The Indiana Hoosiers' main focus next month is doing all they can to win a national title and complete an undefeated season. But, if not, more help could be on the way.",
+    "pubDate": "2025-12-22",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/indiana-curt-cignetti-could-target-044752918.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "sunday-night-football-fantasy-fallout-fantasy-winners-and-losers-from-ravens-vs-patriots-in-week-16",
+    "title": "Sunday Night Football Fantasy Fallout: Fantasy winners and losers from Ravens vs. Patriots in Week 16",
+    "description": "The New England Patriots advance to 12-3, while securing a playoff spot in their win over the Baltimore Ravens.",
+    "pubDate": "2025-12-22",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/sunday-night-football-fantasy-fallout-044724889.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "ravens-playoff-picture-updated-chances-for-baltimore-to-make-2025-postseason-after-week-16-loss-to-patriots",
+    "title": "Ravens playoff picture: Updated chances for Baltimore to make 2025 postseason after Week 16 loss to Patriots",
+    "description": "Here is an updated look at the Baltimore Ravens playoff picture after a Week 16 loss to the New England Patriots.",
+    "pubDate": "2025-12-22",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/ravens-playoff-picture-updated-chances-044639028.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "broncos-playoff-picture-what-week-16-vs-jaguars-means-for-afc-standings",
+    "title": "Broncos playoff picture: What Week 16 vs. Jaguars means for AFC standings",
+    "description": "The AFC Playoff picture tightened up a bit in Week 16 with the Broncos falling to the Jaguars, the Chargers defeating the Cowboys, the Bills defeating the Browns, the Texans defeating the Raiders, and the Steelers defeating the Lions in a wild one that came down to the end in Detroit. The Patriots a",
+    "pubDate": "2025-12-22",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/broncos-playoff-picture-week-16-010542346.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "sunday-night-football-patriots-clinch-postseason-berth-with-28-24-comeback-victory-over-ravens",
+    "title": "Sunday Night Football: Patriots clinch postseason berth with 28-24 comeback victory over Ravens",
+    "description": "New England will be in the postseason for the first time since 2021, but Baltimore QB Lamar Jackson exited the contest in the second quarter with a back injury.",
+    "pubDate": "2025-12-22",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/sunday-night-football-patriots-clinch-044439999.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "steelers-playoff-picture-updated-chances-for-pittsburgh-to-make-2025-nfl-postseason-in-week-16",
+    "title": "Steelers playoff picture: Updated chances for Pittsburgh to make 2025 NFL postseason in Week 16",
+    "description": "Here is an updated look at the Steelers' chances to make the 2025 NFL postseason in Week 16.",
+    "pubDate": "2025-12-22",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/steelers-playoff-picture-updated-chances-005935997.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "red-sox-trade-for-willson-contreras-adding-bat-to-lineup-in-deal-with-cardinals",
+    "title": "Red Sox trade for Willson Contreras, adding bat to lineup in deal with Cardinals",
+    "description": "The Red Sox have been pursing a major lineup addition for weeks. On Sunday night, they landed one.",
+    "pubDate": "2025-12-22",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/red-sox-trade-willson-contreras-013416693.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "virginia-tech-football-james-franklin-targeting-elite-name-as-dl-coach",
+    "title": "Virginia Tech football: James Franklin targeting elite name as DL coach",
+    "description": "James Franklin is about to make one of his most impressive hires yet.",
+    "pubDate": "2025-12-22",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/virginia-tech-football-james-franklin-044318542.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "lebron-james-gets-brutally-honest-about-having-to-play-on-christmas-day",
+    "title": "LeBron James gets brutally honest about having to play on Christmas Day",
+    "description": "No one has played on Christmas more than James.",
+    "pubDate": "2025-12-22",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/lebron-james-gets-brutally-honest-043942423.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "patriots-clinch-nfl-playoff-berth-for-first-time-since-2021",
+    "title": "Patriots clinch NFL playoff berth for first time since 2021",
+    "description": "The Patriots are back in the postseason for the first time since 2021.",
+    "pubDate": "2025-12-22",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/patriots-clinch-nfl-playoff-berth-043757088.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "bills-playoff-picture-what-week-16-vs-browns-means-for-afc-standings",
+    "title": "Bills playoff picture: What Week 16 vs. Browns means for AFC standings",
+    "description": "The Buffalo Bills won, but so did the Los Angeles Chargers. The AFC playoff picture is coming into focus.",
+    "pubDate": "2025-12-22",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/bills-playoff-picture-week-16-210116084.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "nfl-standings-updated-afc-nfc-playoff-pictures-for-week-16-of-2025-season",
+    "title": "NFL standings: Updated AFC, NFC playoff pictures for Week 16 of 2025 season",
+    "description": "Here's looking at the 14 teams that would be in the playoffs if the 2025 NFL season ended going into Sunday of Week 16, from top seeds to final wild cards in both conferences.",
+    "pubDate": "2025-12-22",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/nfl-standings-updated-afc-nfc-070001277.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "how-willson-contreras-trade-restructured-deal-will-impact-red-sox-2026-payroll",
+    "title": "How Willson Contreras trade, restructured deal will impact Red Sox’ 2026 payroll",
+    "description": "The Red Sox reworked Willson Contreras' contract when they traded for him. Here's how it all breaks down and impacts the 2026 payroll.",
+    "pubDate": "2025-12-22",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/willson-contreras-trade-restructured-deal-043537068.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "steelers-playoff-picture-what-week-16-vs-lions-means-for-afc-standings",
+    "title": "Steelers playoff picture: What Week 16 vs. Lions means for AFC standings",
+    "description": "A look at the AFC playoff picture.",
+    "pubDate": "2025-12-22",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/steelers-playoff-picture-week-16-170000990.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "what-ravens-39-loss-vs-patriots-means-for-afc-north-wild-card-standings",
+    "title": "What Ravens&#39; loss vs. Patriots means for AFC North, wild-card standings",
+    "description": "What does the Baltimore Ravens' loss to the New England Patriots mean for the AFC North and wild-card standings? Find all the answers on the 2025 NFL playoff picture here.",
+    "pubDate": "2025-12-22",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/ravens-loss-vs-patriots-means-043407093.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "collin-klein-reflects-on-missed-chances-as-his-final-game-with-the-aggies-slips-away",
+    "title": "Collin Klein reflects on missed chances as his final game with the Aggies slips away",
+    "description": "It was a mix of red zone failures, mounting frustration, and a season that ended just five yards short.",
+    "pubDate": "2025-12-22",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/collin-klein-reflects-missed-chances-043334962.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "nfl-teams-to-clinch-playoff-spot-updated-2025-playoff-bracket-with-bears-patriots-clinching-in-week-16",
+    "title": "NFL teams to clinch playoff spot: Updated 2025 playoff bracket with Bears, Patriots clinching in Week 16",
+    "description": "Here's the teams that have officially locked in a playoff berth.",
+    "pubDate": "2025-12-22",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/nfl-teams-clinch-playoff-spot-012300650.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "how-steelers-can-clinch-afc-north-in-week-17-after-ravens-39-loss-to-patriots",
+    "title": "How Steelers can clinch AFC North in Week 17 after Ravens&#39; loss to Patriots",
+    "description": "The Pittsburgh Steelers can now clinch the AFC North title in Week 17 following the Baltimore Ravens' Week 16 loss to the New England Patriots. Here's how.",
+    "pubDate": "2025-12-22",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/steelers-clinch-afc-north-week-043157278.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "ravens-playoff-picture-what-week-16-vs-patriots-means-for-afc-standings",
+    "title": "Ravens playoff picture: What Week 16 vs. Patriots means for AFC standings",
+    "description": "What impact will this week’s Patriots matchup have on the Ravens’ playoff hopes? Here’s the latest.",
+    "pubDate": "2025-12-22",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/ravens-playoff-picture-week-16-043139965.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "rewind-patriots-punch-playoff-ticket",
+    "title": "Rewind: Patriots punch playoff ticket",
+    "description": "New England is headed to the playoffs in coach Mike Vrabel's first season leading the team.",
+    "pubDate": "2025-12-22",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/live-coverage-patriots-try-clinch-220043578.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "which-teams-have-clinched-2025-nfl-playoff-berth",
+    "title": "Which teams have clinched 2025 NFL playoff berth",
+    "description": "The NFL playoff picture is coming into focus. As the season winds through December and January, we’re highlighting each team that has clinched a spot in the 2025-26 NFL playoffs.",
+    "pubDate": "2025-12-22",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/teams-clinched-2025-nfl-playoff-201516205.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "the-rihanna-effect-why-fenty-s-leap-into-the-wnba-is-a-marketing-masterstroke",
+    "title": "The Rihanna Effect: Why Fenty’s Leap into the WNBA is a Marketing Masterstroke",
+    "description": "In May 2025, a deal was officially struck between the WNBA, Fenty Beauty and Fenty Skin, blending the world of sports and high-end cosmetics in historic fashion.",
+    "pubDate": "2025-12-22",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/rihanna-effect-why-fenty-leap-043102062.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "updated-2026-nfl-draft-order-giants-raiders-on-pace-to-claim-top-selections-entering-week-16",
+    "title": "Updated 2026 NFL Draft order: Giants, Raiders on pace to claim top selections entering Week 16",
+    "description": "The race for the No. 1 pick is crowded as the regular season enters its final stretch.",
+    "pubDate": "2025-12-22",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/updated-2026-nfl-draft-order-080001356.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "seven-takeaways-as-drake-maye-authors-signature-moment-in-comeback-win",
+    "title": "Seven Takeaways As Drake Maye Authors Signature Moment In Comeback Win",
+    "description": "The New England Patriots bounced back in a major way on Sunday Night Football. New England, reeling from an atrocious loss to the Buffalo Bills, were able to overcome that game’s memory, numerous injuries and their perceived talent disadvantage in a thrilling comeback win against the Baltimore Raven",
+    "pubDate": "2025-12-22",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/seven-takeaways-drake-maye-authors-042945057.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "patriots-vs-ravens-final-score-stats-game-recap-from-week-16",
+    "title": "Patriots vs. Ravens: Final score, stats, game recap from Week 16",
     "description": "New England looks to clinch a playoff spot with a win on Sunday night.",
     "pubDate": "2025-12-22",
     "image": "",
@@ -216,427 +549,94 @@
     "source": "Google News"
   },
   {
-    "slug": "rutgers-basketball-weekend-reaction-football-hires-jim-turner-as-ol-coach",
-    "title": "Rutgers Basketball Weekend Reaction + Football Hires Jim Turner as OL Coach",
-    "description": "TBMR Ep 46 is out now!",
+    "slug": "big-sean-named-creative-director-of-global-experience-for-detroit-pistons",
+    "title": "Big Sean Named Creative Director of Global Experience for Detroit Pistons",
+    "description": "Sean, who was raised in Detroit, has worked closely with the Pistons in recent years on a range of off-the-court initiatives.",
     "pubDate": "2025-12-22",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/rutgers-basketball-weekend-reaction-football-034649800.html",
+    "link": "https://sports.yahoo.com/articles/big-sean-named-creative-director-042855957.html",
     "source": "Google News"
   },
   {
-    "slug": "buccaneers-week-16-top-performers-at-carolina-panthers",
-    "title": "Buccaneers Week 16 Top Performers at Carolina Panthers",
-    "description": "It was over last week but now it’s OVER over.",
+    "slug": "how-did-referees-miss-obvious-penalty-against-patriots-kayshon-boutte",
+    "title": "How Did Referees Miss Obvious Penalty Against Patriots’ Kayshon Boutte?!",
+    "description": "New England Patriots running back Rhamondre Stevenson might have negated it’s importance, but there’s no denying the Baltimore Ravens benefited from an obvious missed call at M&T Bank Stadium on Sunday night. Facing first-and-10 from the New England 44-yard line with three minutes left, Ravens corne",
     "pubDate": "2025-12-22",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/buccaneers-week-16-top-performers-034445464.html",
+    "link": "https://sports.yahoo.com/articles/did-referees-miss-obvious-penalty-042758096.html",
     "source": "Google News"
   },
   {
-    "slug": "the-nfl-is-giving-us-coal-for-christmas",
-    "title": "The NFL is giving us coal for Christmas",
-    "description": "Christmas Day 2025 is looking like a bust for the NFL and Netflix before a ball is even kicked.",
+    "slug": "nfl-playoff-picture-how-the-patriots-clinched-a-playoff-berth-in-week-16",
+    "title": "NFL playoff picture: How the Patriots clinched a playoff berth in Week 16",
+    "description": "Patriots. We break down how they can clinch a spot in the 2026 NFL Playoffs in Week 16.",
     "pubDate": "2025-12-22",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/nfl-giving-us-coal-christmas-034443414.html",
+    "link": "https://sports.yahoo.com/articles/nfl-playoff-picture-patriots-clinch-160000540.html",
     "source": "Google News"
   },
   {
-    "slug": "patriots-ravens-live-coverage",
-    "title": "Patriots-Ravens | Live Coverage",
-    "description": "The Patriots are trailing in the fourth quarter in Baltimore.",
+    "slug": "jalen-johnson-sounds-off-on-the-atlanta-hawks-39-quot-embarassing-quot-loss-to-the-chicago-bulls",
+    "title": "Jalen Johnson sounds off on the Atlanta Hawks&#39; &quot;embarassing&quot; loss to the Chicago Bulls",
+    "description": "The Atlanta Hawks lost the highest-scoring game of the season to the Chicago Bulls, which was an embarrassing result for the former.",
     "pubDate": "2025-12-22",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/live-coverage-patriots-try-clinch-220043578.html",
+    "link": "https://sports.yahoo.com/articles/jalen-johnson-sounds-off-atlanta-042603810.html",
     "source": "Google News"
   },
   {
-    "slug": "lamar-jackson-downgraded-to-out-with-back-injury",
-    "title": "Lamar Jackson downgraded to out with back injury",
-    "description": "The Ravens' starting quarterback will not return to Sunday night's contest against the Patriots after suffering a back injury late in the second quarter.",
+    "slug": "ravens-playoff-chances-take-a-major-hit-after-28-24-loss-to-patriots",
+    "title": "Ravens playoff chances take a major hit after 28-24 loss to Patriots",
+    "description": "Baltimore needs to defeat Green Bay and have Cleveland defeat Pittsburgh in Week 17 after loss to the New England Patriots on Sunday Night Football",
     "pubDate": "2025-12-22",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/lamar-jackson-downgraded-back-injury-034218658.html",
+    "link": "https://sports.yahoo.com/articles/ravens-playoff-chances-major-hit-042539154.html",
     "source": "Google News"
   },
   {
-    "slug": "lamar-jackson-injury-update-ravens-qb-ruled-out-vs-patriots-after-hurting-back",
-    "title": "Lamar Jackson injury update: Ravens QB ruled out vs. Patriots after hurting back",
-    "description": "Here's what's known about Lamar Jackson's exit from Sunday night's matchup.",
+    "slug": "nfl-playoff-picture-what-patriots-win-over-ravens-means-for-afc-standings-in-week-16",
+    "title": "NFL playoff picture: What Patriots’ win over Ravens means for AFC standings in Week 16",
+    "description": "The Patriots face the Ravens in Baltimore on Sunday. We break down what the game means for the NFL playoff picture.",
     "pubDate": "2025-12-22",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/lamar-jackson-injury-ravens-qb-024739232.html",
+    "link": "https://sports.yahoo.com/articles/nfl-playoff-picture-does-patriots-230000479.html",
     "source": "Google News"
   },
   {
-    "slug": "bo-nix-discusses-throw-that-injured-pat-bryant-in-broncos-loss-to-jags",
-    "title": "Bo Nix discusses throw that injured Pat Bryant in Broncos loss to Jags",
-    "description": "The Denver Broncos quarterback feels \"responsible\" for injuring a teammate.",
+    "slug": "what-patriots-39-win-vs-ravens-means-for-no-1-seed-afc-east",
+    "title": "What Patriots&#39; win vs. Ravens means for No. 1 seed, AFC East",
+    "description": "What does the New England Patriots' win over the Baltimore Ravens mean for the No.1 seed and the AFC East? Find all the answers regarding the 2025 NFL playoff picture here.",
     "pubDate": "2025-12-22",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/bo-nix-discusses-throw-injured-034057675.html",
+    "link": "https://sports.yahoo.com/articles/patriots-win-vs-ravens-means-042535709.html",
     "source": "Google News"
   },
   {
-    "slug": "iowa-state-39-s-audi-crooks-becomes-second-big-12-player-in-a-century-to-hit-outstanding-feat",
-    "title": "Iowa State&#39;s Audi Crooks becomes second Big 12 player in a century to hit outstanding feat",
-    "description": "The Cyclones are a threat this year.",
+    "slug": "nfl-playoff-picture-what-does-steelers-win-over-lions-means-for-afc-nfc-standings-in-week-16",
+    "title": "NFL playoff picture: What does Steelers win over Lions means for AFC, NFC standings in Week 16",
+    "description": "The Steelers face the Lions in Pittsburgh on Sunday. We break down what the game means for the NFL playoff picture in Week 16",
     "pubDate": "2025-12-22",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/iowa-states-audi-crooks-becomes-034025171.html",
+    "link": "https://sports.yahoo.com/articles/nfl-playoff-picture-does-steelers-200000567.html",
     "source": "Google News"
   },
   {
-    "slug": "buccaneers-vs-dolphins-predictions-early-picks-odds-for-week-17",
-    "title": "Buccaneers vs Dolphins Predictions - Early Picks & Odds for Week 17",
-    "description": "Early Buccaneers vs. Dolphins predictions and NFL picks for Week 17. Miami is on island time, and Tampa needs every win it can get.",
+    "slug": "building-the-offense-msu-retains-key-position-coaches-under-fitzgerald",
+    "title": "Building the Offense: MSU Retains Key Position Coaches Under Fitzgerald",
+    "description": "Fitzgerald secures key offensive talent, retaining wide receivers and tight ends coaches to reshape Michigan State's attack for the upcoming season.",
     "pubDate": "2025-12-22",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/buccaneers-vs-dolphins-predictions-early-034000938.html",
+    "link": "https://sports.yahoo.com/articles/building-offense-msu-retains-key-042517723.html",
     "source": "Google News"
   },
   {
-    "slug": "crosby-breaks-lemieux-39-s-scoring-record-penguins-beat-canadiens-4-3-in-shootout-to-end-8-game-skid",
-    "title": "Crosby breaks Lemieux&#39;s scoring record, Penguins beat Canadiens 4-3 in shootout to end 8-game skid",
-    "description": "Sidney Crosby broke Mario Lemieux’s franchise scoring record and Rickard Rakell had the deciding goal in the shootout as the Pittsburgh Penguins beat the Montreal Canadiens 4-3 on Sunday night to snap an eight-game losing streak.  Crosby, who began the night one point behind Lemieux, broke the mark",
+    "slug": "nfl-playoff-picture-what-bills-win-over-browns-means-for-afc-standings-in-week-16",
+    "title": "NFL playoff picture: What Bills win over Browns means for AFC standings in Week 16",
+    "description": "The Bills face the Browns in Cleveland on Sunday. We break down what the game means for the NFL playoff picture.",
     "pubDate": "2025-12-22",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/crosby-breaks-lemieuxs-scoring-record-033951902.html",
-    "source": "DAN SCIFO"
-  },
-  {
-    "slug": "michigan-state-opens-cherokee-invitational-with-massive-win-over-isu",
-    "title": "Michigan State opens Cherokee Invitational with massive win over ISU",
-    "description": "To open the Cherokee Invitational, Michigan State dominated Indiana State, 115-66.",
-    "pubDate": "2025-12-22",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/michigan-state-opens-cherokee-invitational-033945686.html",
+    "link": "https://sports.yahoo.com/articles/nfl-playoff-picture-does-bills-163000285.html",
     "source": "Google News"
-  },
-  {
-    "slug": "lamar-jackson-injury-qb-leaves-patriots-ravens-with-back-injury",
-    "title": "Lamar Jackson injury: QB leaves Patriots-Ravens with back injury",
-    "description": "Ravens QB Lamar Jackson exited Sunday night’s game against the Patriots with a back injury",
-    "pubDate": "2025-12-22",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/lamar-jackson-injury-qb-leaves-031052895.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "drake-maye-injury-update-latest-news-on-patriots-qb-39-s-status-in-week-16-game",
-    "title": "Drake Maye injury update: Latest news on Patriots QB&#39;s status in Week 16 game",
-    "description": "New England Patriots quarterback Drake Maye might be dealing with an injury in the second half of the Week 16 game against the Baltimore Ravens.",
-    "pubDate": "2025-12-22",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/drake-maye-injury-latest-news-033753897.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "jaguars-39-trevor-lawrence-joins-joe-montana-in-exclusive-nfl-history-with-crazy-stats-streak",
-    "title": "Jaguars&#39; Trevor Lawrence joins Joe Montana in exclusive NFL history with crazy stats streak",
-    "description": "Trevor is playing as well as he ever has.",
-    "pubDate": "2025-12-22",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/jaguars-trevor-lawrence-joins-joe-033613250.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "notre-dame-women-s-basketball-irish-blow-out-bellarmine-inside-purcell-pavilion-110-38",
-    "title": "Notre Dame Women’s Basketball: Irish blow out Bellarmine inside Purcell Pavilion, 110-38",
-    "description": "A triple double and two double doubles highlight Notre Dame’s beatdown of Bellarmine.",
-    "pubDate": "2025-12-22",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/notre-dame-women-basketball-irish-033540770.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "vote-for-the-varsity-845-boys-track-and-field-athletes-of-the-week",
-    "title": "Vote for the Varsity 845 boys track and field athletes of the week",
-    "description": "There are nine candidates for the Varsity 845 boys track and field athletes of the week for Dec. 15-21, 2025. Voting close on Sunday, Dec. 28.",
-    "pubDate": "2025-12-22",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/vote-varsity-845-boys-track-033421701.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "trey-mcbride-39-s-record-setting-streak-ends-vs-falcons",
-    "title": "Trey McBride&#39;s record-setting streak ends vs. Falcons",
-    "description": "The Cardinals had a streak end against the Falcons — not the one they wanted.",
-    "pubDate": "2025-12-22",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/trey-mcbrides-record-setting-streak-033302167.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "mark-daigneault-reveals-the-thunder-are-ecstatic-to-play-against-the-spurs-on-christmas",
-    "title": "Mark Daigneault reveals the Thunder are ecstatic to play against the Spurs on Christmas",
-    "description": "The Oklahoma City Thunder will play against the San Antonio Spurs on Christmas Day, which is a budding rivalry this season.",
-    "pubDate": "2025-12-22",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/mark-daigneault-reveals-thunder-ecstatic-033220910.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "vaclav-nestrasil-shows-czech-teammates-collegiate-ropes-at-bemidji-39-s-pre-tournament-camp",
-    "title": "Vaclav Nestrasil shows Czech teammates collegiate ropes at Bemidji&#39;s pre-tournament camp",
-    "description": "Dec. 21—BEMIDJI — Two weeks ago, UMass players returned to campus after a big win. The Minutemen made their final trip to Matthews Arena. They finished the weekend with a 2-0 triumph over No. 11/12 Northeastern in a Hockey East Conference series. Save for final practices before the holiday break and",
-    "pubDate": "2025-12-22",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/vaclav-nestrasil-shows-czech-teammates-033200145.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "zay-flowers-18-yard-touchdown-run-gives-ravens-17-13-lead",
-    "title": "Zay Flowers 18-yard touchdown run gives Ravens 17-13 lead",
-    "description": "Lamar Jackson has not returned to the field, but Zay Flowers has nevertheless given the Ravens a third-quarter lead over the Patriots.",
-    "pubDate": "2025-12-22",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/zay-flowers-18-yard-touchdown-033118543.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "mountaineers-surpass-century-mark-for-emphatic-victory-over-houston-in-opening-game-of-big-12-play-101-46",
-    "title": "Mountaineers surpass century mark for emphatic victory over Houston in opening game of Big 12 play, 101-46",
-    "description": "Dec. 21—MORGANTOWN — Six players scored in double figures for the West Virginia women's basketball team as the Mountaineers kicked off their 2025 conference schedule by scoring 100 + points for the first time in Big 12 play against Houston inside the Hope Coliseum on Sunday afternoon. WVU (11-2) dom",
-    "pubDate": "2025-12-22",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/mountaineers-surpass-century-mark-emphatic-033100946.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "kentucky-set-to-hire-cal-s-allen-brown-as-cornerbacks-coach",
-    "title": "Kentucky set to hire Cal’s Allen Brown as cornerbacks coach",
-    "description": "Kentucky continues to round out its first coaching staff under Will Stein.",
-    "pubDate": "2025-12-22",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/kentucky-set-hire-cal-allen-033020913.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "monday-39-s-time-schedule",
-    "title": "Monday&#39;s Time Schedule",
-    "description": "",
-    "pubDate": "2025-12-22",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/mondays-time-schedule-032727069.html",
-    "source": "The Associated Press"
-  },
-  {
-    "slug": "red-sox-trade-for-first-baseman-wilson-contreras-from-st-louis-cardinals",
-    "title": "Red Sox trade for first baseman Wilson Contreras from St. Louis Cardinals",
-    "description": "The Boston Red Sox acquired Willson Contreras from the St. Louis Cardinals on Sunday in exchange for right-hander Hunter Dobbins and two pitching prospects.",
-    "pubDate": "2025-12-22",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/red-sox-trade-first-baseman-032641831.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "packers-john-fitzpatrick-tore-his-achilles",
-    "title": "Packers’ John FitzPatrick tore his Achilles",
-    "description": "It’s official. Green Bay Packers tight end John FitzPatrick tore his Achilles tendon, per ESPN’s Adam Schefter, which was the expectation from his injury on Saturday night. Since Tucker Kraft went down with an ACL tear, FitzPatrick and Luke Musgrave have shared the “starting” tight end role on the t",
-    "pubDate": "2025-12-22",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/packers-john-fitzpatrick-tore-achilles-032638279.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "enough-with-the-nfl-referee-meetings-let-the-players-play",
-    "title": "Enough with the NFL referee meetings, let the players play ",
-    "description": "The NFL and its officials are in a tough spot here. The objective is to be fair and render sound judgment, but analysis of the rules nowadays takes time — too much, if you ask viewers of two of Week 16's biggest games.",
-    "pubDate": "2025-12-22",
-    "image": "",
-    "link": "https://sports.yahoo.com/nfl/article/enough-with-the-nfl-referee-meetings-let-the-players-play-032553160.html",
-    "source": "Jay Busbee"
-  },
-  {
-    "slug": "demario-douglas-injury-update-is-more-bad-news-for-patriots",
-    "title": "DeMario Douglas injury update is more bad news for Patriots",
-    "description": "Is this seriously happening?",
-    "pubDate": "2025-12-22",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/demario-douglas-injury-more-bad-032444963.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "no-2-texas-beats-sdsu-in-women-s-basketball-70-51",
-    "title": "No. 2 Texas beats SDSU in women’s basketball 70-51",
-    "description": "BROOKINGS, S.D. (SDSU) — South Dakota State basketball put up a fight, but No. 2 Texas eventually pulled away from the Jackrabbits to win 70-51 Sunday afternoon at First Bank & Trust Arena. The Longhorns remain perfect at 14-0 on the year while the Jackrabbits go into the holiday break with a 10-4 m",
-    "pubDate": "2025-12-22",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/no-2-texas-beats-sdsu-032333934.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "joshua-farmer-injury-update-patriots-dt-ruled-out-of-ravens-game",
-    "title": "Joshua Farmer injury update: Patriots DT ruled out of Ravens game",
-    "description": "The rookie suffered a hamstring injury in the first quarter against Baltimore.",
-    "pubDate": "2025-12-22",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/joshua-farmer-injury-patriots-dt-032314187.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "cfp-recap-takeaways-from-saturday-tripleheader",
-    "title": "CFP Recap: Takeaways from Saturday tripleheader",
-    "description": "Texas A&M flopped at home to end the season with a big thud, while Will Stein and Oregon took care of business.",
-    "pubDate": "2025-12-22",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/cfp-recap-takeaways-saturday-tripleheader-032234746.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "pat-bryant-is-ok-broncos-wr-avoided-serious-injury",
-    "title": "Pat Bryant is OK: Broncos WR avoided serious injury",
-    "description": "Pat Bryant's injury is \"nothing serious,\" a source close to the player told the Denver Post.",
-    "pubDate": "2025-12-22",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/pat-bryant-ok-broncos-wr-032212602.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "penguins-end-slide-actually-win-shootout",
-    "title": "Penguins end slide, actually win shootout",
-    "description": "The Pittsburgh Penguins got a second chance in 24 hours to beat the Montreal Canadiens. There was little in their game Sunday in their game that resembled their losing effort Saturday as the Penguins played a significantly better, cleaner game.",
-    "pubDate": "2025-12-22",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/penguins-end-slide-actually-win-032146097.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "the-sacramento-kings-may-not-trade-the-one-player-everyone-seems-to-want",
-    "title": "The Sacramento Kings may not trade the one player everyone seems to want",
-    "description": "A lot of names could be on the move for the Sacramento Kings this season, but the one everyone wants may be staying put.",
-    "pubDate": "2025-12-22",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/sacramento-kings-may-not-trade-032140044.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "berke-buyuktuncel-has-triple-double-in-no-15-nebraska-39-s-78-55-win-over-north-dakota",
-    "title": "Berke Buyuktuncel has triple-double in No. 15 Nebraska&#39;s 78-55 win over North Dakota",
-    "description": "",
-    "pubDate": "2025-12-22",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/berke-buyuktuncel-triple-double-no-032101847.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "from-doubt-to-the-rose-bowl-alabama-football-39-s-kalen-deboer-s-statement-season",
-    "title": "From Doubt to the Rose Bowl: Alabama Football&#39;s Kalen DeBoer’s Statement Season",
-    "description": "Amidst overwhelming pressure and relentless rumors, Kalen DeBoer forged resilience, proving his unwavering leadership and guiding Alabama to the Rose Bowl.",
-    "pubDate": "2025-12-22",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/doubt-rose-bowl-alabama-footballs-032051011.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "ashton-jeanty-silences-doubters-against-stout-houston-texans-defense",
-    "title": "Ashton Jeanty silences doubters against stout Houston Texans’ defense",
-    "description": "Week 16 couldn’t have gone much better for Raiders, especially with the rookie running back’s performance",
-    "pubDate": "2025-12-22",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/ashton-jeanty-silences-doubters-against-032000832.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "lamar-jackson-drops-out-of-snf-with-back-injury",
-    "title": "Lamar Jackson drops out of SNF with back injury",
-    "description": "The Green Bay Packers might be getting Tyler Huntley under center next week.",
-    "pubDate": "2025-12-22",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/lamar-jackson-drops-snf-back-031802355.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "treveyon-henderson-ruled-out-of-ravens-patriots-game-with-head-injury",
-    "title": "TreVeyon Henderson ruled out of Ravens-Patriots game with head injury",
-    "description": "Henderson left the field in the first half after sustaining the injury. The Ravens ruled him out at halftime with the game tied at 10-10.",
-    "pubDate": "2025-12-22",
-    "image": "",
-    "link": "https://sports.yahoo.com/nfl/breaking-news/article/treveyon-henderson-ruled-out-of-ravens-patriots-game-with-head-injury-031703581.html",
-    "source": "Jason Owens"
-  },
-  {
-    "slug": "nba-hall-of-famer-says-bam-adebayo-39-s-girlfriend-a-39-ja-wilson-39-can-help-him-with-his-shooting-39",
-    "title": "NBA Hall of Famer says Bam Adebayo&#39;s girlfriend A&#39;ja Wilson &#39;can help him with his shooting&#39;",
-    "description": "This is pretty savage.",
-    "pubDate": "2025-12-22",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/nba-hall-famer-says-bam-031616570.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "sidney-crosby-s-climb-to-top-of-penguins-points-list-is-reminder-of-mario-lemieux-s-greatness",
-    "title": "Sidney Crosby’s Climb To Top Of Penguins’ Points List Is Reminder Of Mario Lemieux’s Greatness",
-    "description": "Editor’s note: This article was published before Sidney Crosby broke Mario Lemieux’s franchise scoring record on Dec. 21. The very fact of Mario Lemieux’s arrival at PPG Paints Arena this week for the Penguins’ game against the Oilers is evidence that what’s transpiring with his favorite NHL team is",
-    "pubDate": "2025-12-22",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/sidney-crosby-climb-top-penguins-162311214.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "broncos-39-christmas-wish-a-win-in-kansas-city-after-a-rare-loss-snaps-their-11-game-winning-streak",
-    "title": "Broncos&#39; Christmas wish: A win in Kansas City after a rare loss snaps their 11-game winning streak",
-    "description": "Rarely has an NFL team been so eager to play on a Thursday night — on Christmas, no less.  After their first loss in three months, the Broncos were hankering to get back on the field to make amends for their blunder-filled 34-20 loss to the Jacksonville Jaguars in Denver on Sunday.  The Chiefs (6-9)",
-    "pubDate": "2025-12-22",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/broncos-christmas-wish-win-kansas-031327756.html",
-    "source": "ARNIE STAPLETON"
-  },
-  {
-    "slug": "alabama-women-s-basketball-makes-history-with-program-best-14-0-start",
-    "title": "Alabama Women’s Basketball Makes History with Program-Best 14-0 Start",
-    "description": "Crimson Tide achieves program-best 14-0 start, showcasing dominant defense, balanced scoring, and veteran leadership. This historic run defies expectations as they enter conference play.",
-    "pubDate": "2025-12-22",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/alabama-women-basketball-makes-history-031301992.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "penguins-points-leaders-where-crosby-lemieux-malkin-and-more-land-on-all-time-list",
-    "title": "Penguins Points Leaders: Where Crosby, Lemieux, Malkin And More Land On All-Time List",
-    "description": "Penguins fans have been fortunate to watch some of the greatest players in NHL history. In the early 1990s, Pens stars Mario Lemieux and Jaromir Jagr led Pittsburgh to back-to-back championships alongside other top scorers like Ron Francis and Kevin Stevens. MORE: Crosby’s Climb To Top Of Penguins’",
-    "pubDate": "2025-12-22",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/penguins-points-leaders-where-crosby-024015574.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "patriots-suffer-multiple-tackle-injuries-against-ravens",
-    "title": "Patriots suffer multiple tackle injuries against Ravens",
-    "description": "The Patriots had a pair of backup tackles protecting Drake Maye for a spell on Sunday Night Football.",
-    "pubDate": "2025-12-22",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/patriots-suffer-multiple-tackle-injuries-024310333.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "woody-marks-absence-almost-proved-costly-for-texans",
-    "title": "Woody Marks’ absence almost proved costly for Texans",
-    "description": "In their Week 16 matchup against the Raiders, the running game for Houston was severely lacking.",
-    "pubDate": "2025-12-22",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/woody-marks-absence-almost-proved-031107170.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "39-they-deserved-the-win-today-39-colorado-s-stars-set-the-line",
-    "title": "&#39;They Deserved The Win Today&#39;: Colorado’s Stars Set The Line",
-    "description": "Colorado's superstars ignited their offense, proving unstoppable as Minnesota's stars couldn't match their game-changing brilliance.",
-    "pubDate": "2025-12-22",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/deserved-win-today-colorado-stars-030922267.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "mlb-offseason-grades-red-sox-deal-for-contreras-white-sox-land-murakami",
-    "title": "MLB offseason grades: Red Sox deal for Contreras, White Sox land Murakami",
-    "description": "We've got you covered with grades and analysis on every winter signing and big offseason trade.",
-    "pubDate": "2025-12-21",
-    "image": "",
-    "link": "https://www.espn.com/mlb/story/_/id/46994593/2025-26-mlb-offseason-grades-free-agency-trade-analysis",
-    "source": "Bradford Doolittle and David Schoenfield"
   },
   {
     "slug": "miami-s-run-game-special-teams-woes-and-a-pair-of-blowouts",
@@ -655,15 +655,6 @@
     "image": "",
     "link": "https://www.espn.com/soccer/story/_/id/47379624/manchester-united-aston-villa-ruben-amorim-premier-league-analysis-reaction",
     "source": "Rob Dawson"
-  },
-  {
-    "slug": "week-16-winners-and-losers-brown-lawrence-nacua-lead-the-way-allen-jacobs-fizzle",
-    "title": "Week 16 winners and losers: Brown, Lawrence, Nacua lead the way; Allen, Jacobs fizzle",
-    "description": "Chase Brown, Trevor Lawrence and Puka Nakua led the way with big Week 16 performances, while Josh Allen, Josh Jacobs and Amon-Ra St. Brown were among the biggest disappointments.",
-    "pubDate": "2025-12-21",
-    "image": "",
-    "link": "https://www.espn.com/fantasy/football/story/_/page/FFSundayHighLows-47381667/nfl-week-16-fantasy-football-winners-losers-injuries-rankings-more",
-    "source": "Matt Bowen and Tristan H. Cockcroft"
   },
   {
     "slug": "the-jake-paul-show-is-far-from-over-but-where-does-it-go-from-here",
