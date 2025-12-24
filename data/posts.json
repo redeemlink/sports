@@ -47,11 +47,20 @@
   {
     "slug": "spurs-defense-throttles-okc-as-rivalry-grows",
     "title": "Spurs' defense throttles OKC as rivalry grows",
-    "description": "The Spurs beat the Thunder for the second time in 10 days after once again overwhelming the defending champions with physicality and speed.",
+    "description": "The Spurs beat the Thunder for the second time in 10 days after again overwhelming the defending champions with physicality and speed.",
     "pubDate": "2025-12-24",
     "image": "",
     "link": "https://www.espn.com/nba/story/_/id/47404822/spurs-overwhelm-okc-again-set-stage-budding-rivalry",
     "source": "Michael C. Wright"
+  },
+  {
+    "slug": "lakers-redick-blunt-effort-defense-a-choice",
+    "title": "Lakers' Redick blunt: Effort, defense 'a choice'",
+    "description": "Los Angeles' defense was shredded in the third quarter of a 132-108 loss to Phoenix on Tuesday night.",
+    "pubDate": "2025-12-24",
+    "image": "",
+    "link": "https://www.espn.com/nba/story/_/id/47405020/jj-redick-blunt-lakers-effort-defense-blowout",
+    "source": "Dave McMenamin"
   },
   {
     "slug": "nuggets-forward-johnson-to-have-mri-on-knee",
@@ -79,15 +88,6 @@
     "image": "",
     "link": "https://www.espn.com/nfl/story/_/id/47401559/jets-placing-qb-justin-fields-ir-coach-aaron-glenn-says",
     "source": "Rich Cimini"
-  },
-  {
-    "slug": "jumbo-ozaki-a-japanese-golf-great-dies-at-78",
-    "title": "'Jumbo' Ozaki, a Japanese golf great, dies at 78",
-    "description": "Masashi \"Jumbo\" Ozaki, whose 113 worldwide victories are the most of any player from Japan, died Wednesday in his home country after a battle with colon cancer, the Japan Golf Tour said. He was 78.",
-    "pubDate": "2025-12-24",
-    "image": "",
-    "link": "https://www.espn.com/golf/story/_/id/47403888/golf-hall-famer-jumbo-ozaki-japan-dies-78",
-    "source": "www.espn.com - TOP"
   },
   {
     "slug": "venus-williams-andrea-preti-tie-the-knot",
@@ -216,12 +216,30 @@
     "source": "BBC Sport"
   },
   {
+    "slug": "how-to-survive-christmas-period-the-fpl-talking-point",
+    "title": "How to survive Christmas period - the FPL talking point ",
+    "description": "With four deadlines in 11 days, FPL expert Pras Singhal gives five tips to stay ahead of the curve over the festive period.",
+    "pubDate": "2025-12-24",
+    "image": "",
+    "link": "https://www.bbc.com/sport/football/articles/cwyg45pr43xo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport"
+  },
+  {
     "slug": "kelce-s-last-dance-why-chiefs-star-could-retire-from-nfl",
     "title": "Kelce's last dance? Why Chiefs star could retire from NFL",
     "description": "With Kansas City's dynasty over and a wedding to Taylor Swift to plan for, the Chiefs' final two games of the season could be Travis Kelce's last in the NFL.",
     "pubDate": "2025-12-24",
     "image": "",
     "link": "https://www.bbc.com/sport/american-football/articles/cvgrx3ny08do?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport"
+  },
+  {
+    "slug": "sutton-s-predictions-v-the-wellermen-s-jonny-stewart",
+    "title": "Sutton's predictions v The Wellermen's Jonny Stewart",
+    "description": "BBC Sport football expert Chris Sutton takes on The Wellermen's Jonny Stewart - and AI - with his predictions for this weekend's Premier League fixtures.",
+    "pubDate": "2025-12-24",
+    "image": "",
+    "link": "https://www.bbc.com/sport/football/articles/cyvg0my1zvyo?at_medium=RSS&at_campaign=rss",
     "source": "BBC Sport"
   },
   {
@@ -232,6 +250,312 @@
     "image": "",
     "link": "https://www.bbc.com/sport/football/articles/cwyw0q74rn9o?at_medium=RSS&at_campaign=rss",
     "source": "BBC Sport"
+  },
+  {
+    "slug": "kevin-byard-received-more-than-just-pro-bowl-honors-on-tuesday",
+    "title": "Kevin Byard received more than just Pro Bowl honors on Tuesday",
+    "description": "Making the Pro Bowl is nice, but this award means more for the team.",
+    "pubDate": "2025-12-24",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/kevin-byard-received-more-just-073517858.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "how-to-survive-christmas-period-the-fpl-talking-point",
+    "title": "How to survive Christmas period - the FPL talking point",
+    "description": "With four deadlines in 11 days, FPL expert Pras Singhal gives five tips to stay ahead of the curve over the festive period.",
+    "pubDate": "2025-12-24",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/survive-christmas-period-fpl-talking-073332109.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "chelsea-get-huge-injury-boost-ahead-of-aston-villa-as-star-pictured-back-in-training",
+    "title": "Chelsea get huge injury boost ahead of Aston Villa as star pictured back in training",
+    "description": "Chelsea have got themselves a huge boost right before the Aston Villa game on Saturday with one star pictured back in training.Chelsea have suffered quite a few injuries again this season after a busy...",
+    "pubDate": "2025-12-24",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/chelsea-huge-injury-boost-ahead-073000817.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "gladbach-mulling-over-loan-move-for-leverkusen-gem-belocian",
+    "title": "Gladbach mulling over loan move for Leverkusen gem Belocian",
+    "description": "Borussia Mönchengladbach is said to have Jeanuël Belocian on their radar and they would like to sign him on loan this winter.According to a report by Le Parisien, Gladbach have identified his profil...",
+    "pubDate": "2025-12-24",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/gladbach-mulling-over-loan-move-073000334.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "the-hoddle-of-coffee-tottenham-hotspur-news-and-links-for-wednesday-december-24",
+    "title": "The Hoddle of Coffee: Tottenham Hotspur news and links for Wednesday, December 24",
+    "description": "Good morning and welcome to the second part of fitzie’s top 10 songs of 2025. If you’re looking for Nos. 6-10, you best look in the hoddle before this. What? Don’t see the link? Well search in the archives, ya fool! Let’s get to it: No. 5: Cobra, by Geese This is a late edition […]",
+    "pubDate": "2025-12-24",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/hoddle-coffee-tottenham-hotspur-news-073000083.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "kawhi-leonard-scores-41-leads-clippers-past-rockets-to-consecutive-wins-for-first-time-since-october",
+    "title": "Kawhi Leonard scores 41, leads Clippers past Rockets, to consecutive wins for first time since October",
+    "description": "The Rockets are struggling defensively, having gone 2-5 in their last seven heading into a Christmas Day showdown against the Lakers.",
+    "pubDate": "2025-12-24",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/kawhi-leonard-scores-41-leads-072930668.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "offensive-woes-continue-for-kings-in-loss-to-kraken",
+    "title": "Offensive woes continue for Kings in loss to Kraken",
+    "description": "The Kings get held to less than three goals for the seventh consecutive game in their 3-2 loss to the Kraken.",
+    "pubDate": "2025-12-24",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/offensive-woes-continue-kings-loss-072616649.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "news-korea-cup-to-switch-to-autumn-apring-format-to-meet-global-standards",
+    "title": "News: Korea Cup to switch to autumn–apring format to meet global standards",
+    "description": "The Korea Football Association (KFA) has announced that it will restructure the Korea Cup into an autumn–spring format in line with global standards.On December 23rd, the KFA held its 11th board mee...",
+    "pubDate": "2025-12-24",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/news-korea-cup-switch-autumn-072500433.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "crystal-palace-analysis-a-brave-performance-but-not-enough",
+    "title": "Crystal Palace analysis: A brave performance but not enough",
+    "description": "For Crystal Palace, 2025 has been one of the best years in the history of the club.  With the FA Cup and Community Shield in the trophy cabinet and a first European campaign underway, things are pretty good in south London.  The Palace boss made three changes to the side thrashed at Leeds, but the E",
+    "pubDate": "2025-12-24",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/crystal-palace-analysis-brave-performance-072457717.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "islanders-2-devils-1-late-pelech-goal-starts-break-on-a-high",
+    "title": "Islanders 2, Devils 1: Late Pelech goal starts break on a high",
+    "description": "The Islanders and Devils entered the Christmas break with a tight, cagey match that Adam Pelech tipped in the Isles’ favor with a tiebreaking goal with 1:15 left in regulation. There were no penalties as the refs put their whistles away, which may have favored the Islanders at the pivotal moment: on",
+    "pubDate": "2025-12-24",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/islanders-2-devils-1-pelech-072107742.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "former-bayer-leverkusen-superstar-explains-what-makes-alonso-special-8211-8216-when-he-walked-into-the-dressing-room-8230-8217",
+    "title": "Former Bayer Leverkusen superstar explains what makes Alonso special &#8211; &#8216;When he walked into the dressing room&#8230;&#8217;",
+    "description": "The current situation surrounding Xabi Alonso at Real Madrid is proving to be one of the most complex challenges of his young coaching career. This moment of uncertainty stands in sharp contrast to t...",
+    "pubDate": "2025-12-24",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/former-bayer-leverkusen-superstar-explains-072000183.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "de-la-fuente-speaks-on-barcelona-star-8217-s-world-cup-chances-8211-8216-some-people-will-like-it-8217",
+    "title": "De la Fuente speaks on Barcelona star&#8217;s World Cup chances &#8211; &#8216;Some people will like it&#8217;",
+    "description": "The debate around Spain’s goalkeeping situation ahead of the next FIFA World Cup is slowly gathering momentum, and one name that continues to generate discussion is Barcelona goalkeeper Joan Garcia....",
+    "pubDate": "2025-12-24",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/la-fuente-speaks-barcelona-star-072000786.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "8220-that-was-made-clear-8221-8211-matt-law-provides-fascinating-update-on-nicolas-jackson-and-chelsea",
+    "title": "&#8220;That was made clear&#8221; &#8211; Matt Law provides fascinating update on Nicolas Jackson and Chelsea",
+    "description": "Nicolas Jackson won’t play for Chelsea again whilst Enzo Maresca is manager of the club according to top insider Matt Law.Jackson joined Bayern Munich on a season long loan on deadline day, with an ...",
+    "pubDate": "2025-12-24",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/made-clear-matt-law-provides-071500973.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "richards-injury-not-as-bad-as-first-feared-palace-boss-glasner-confirms",
+    "title": "Richards injury not as bad as first feared, Palace boss Glasner confirms",
+    "description": "Crystal Palace have received a massive injury boost. Eagles defender Chris Richards suffered a bloody injury and needed to be stretchered off in the loss to Arsenal.The fact that he had to be carried ...",
+    "pubDate": "2025-12-24",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/richards-injury-not-bad-first-071500737.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "news-suwon-samsung-bluewings-appoint-lee-jung-hyo-as-new-manager",
+    "title": "News: Suwon Samsung Bluewings appoint Lee Jung-hyo as new manager",
+    "description": "Suwon Samsung Bluewings have announced that Lee Jung-hyo has been appointed as the club’s 11th head coach.Suwon Samsung believe that Lee, who possesses a clear footballing philosophy, outstanding co...",
+    "pubDate": "2025-12-24",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/news-suwon-samsung-bluewings-appoint-071500611.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "sutton-39-s-predictions-v-the-wellermen-39-s-jonny-stewart",
+    "title": "Sutton&#39;s predictions v The Wellermen&#39;s Jonny Stewart",
+    "description": "BBC Sport football expert Chris Sutton takes on The Wellermen's Jonny Stewart - and AI - with his predictions for this weekend's Premier League fixtures.",
+    "pubDate": "2025-12-24",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/suttons-predictions-v-wellermens-jonny-071436092.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "endrick-to-lyon-a-centre-back-for-flick-the-christmas-eve-headlines",
+    "title": "🗞️ Endrick to Lyon, a centre-back for Flick... the Christmas Eve headlines",
+    "description": "Tonight is Christmas Eve and tomorrow is Christmas, but Mr. Football never rests, and surely today it will produce some news to keep us entertained.For now, the front pages of the Spanish press talk a...",
+    "pubDate": "2025-12-24",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/endrick-lyon-centre-back-flick-071300068.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "jj-redick-outlines-lakers-39-defensive-problems-of-late",
+    "title": "JJ Redick outlines Lakers&#39; defensive problems of late",
+    "description": "The Lakers have been struggling to contain opponents over the last few weeks, and coach JJ Redick detailed what went wrong in Tuesday's loss.",
+    "pubDate": "2025-12-24",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/jj-redick-outlines-lakers-defensive-071247376.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "jadon-sancho-besiktas-make-man-united-star-primary-target",
+    "title": "Jadon Sancho: Besiktas make Man United star primary target",
+    "description": "Manchester United winger Jadon Sancho has not had the ideal loan move up to this point.Chelsea rejectionIn the summer of 2024, Chelsea agreed to a loan plus obligation to buy Sancho from United.Despit...",
+    "pubDate": "2025-12-24",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/jadon-sancho-besiktas-man-united-071200668.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "lakers-39-defensive-identity-vanishes-into-phoenix-air-in-loss",
+    "title": "Lakers&#39; defensive identity vanishes into Phoenix air in loss",
+    "description": "The Lakers surrendered 45 points in a quarter in a journeyman's revenge game in Phoenix. Now a team that once knew itself is now strangers in its own locker room.",
+    "pubDate": "2025-12-24",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/lakers-defensive-identity-vanishes-phoenix-071156971.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "talks-opened-with-real-madrid-over-liverpool-starter",
+    "title": "Talks opened with Real Madrid over Liverpool starter",
+    "description": "Liverpool centre-back problems stacking upThe Premier League champions are suffering in the centre-back area - with injuries reported to Joe Gomez and Giovanni Leoni - and the cost of missing out on M...",
+    "pubDate": "2025-12-24",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/talks-opened-real-madrid-over-071000417.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "this-is-my-toughest-time-as-captain-stokes",
+    "title": "This is my toughest time as captain - Stokes",
+    "description": "Ben Stokes said he is going through his \"toughest time\" as England captain, as the tourists' awful Ashes series is dogged by reports of excessive drinking.",
+    "pubDate": "2025-12-24",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/toughest-time-captain-stokes-064536747.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "archer-ruled-out-of-ashes-as-bethell-replaces-pope",
+    "title": "Archer ruled out of Ashes as Bethell replaces Pope",
+    "description": "England pace bowler Jofra Archer is ruled out of the remainder of the Ashes series with a side strain, while England drop former vice-captain Ollie Pope for the fourth Test in Melbourne.",
+    "pubDate": "2025-12-24",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/archer-ruled-ashes-bethell-replaces-061604269.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "steelers-getting-shocking-career-year-from-unheralded-veteran",
+    "title": "Steelers Getting Shocking Career Year From Unheralded Veteran",
+    "description": "When the Pittsburgh Steelers signed veteran running back Kenneth Gainwell to a one-year, $1.79 million contract in March, nobody would have guessed that it would turn out to be one of the best signings of the entire offseason. Despite reaching two Super Bowls and winning one during his four seasons",
+    "pubDate": "2025-12-24",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/steelers-getting-shocking-career-unheralded-070617424.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "news-jeju-sk-appoint-sergio-costa-as-new-head-coach",
+    "title": "News: Jeju SK appoint Sergio Costa as new head coach",
+    "description": "Jeju SK have appointed former assistant to Paulo Bento, Sergio Costa, as the club’s new head coach.(Photo by Claudio Villa/Getty Images)Set to take charge from the 2026 season, Sergio Costa is a fam...",
+    "pubDate": "2025-12-24",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/news-jeju-sk-appoint-sergio-070500850.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "thunder-host-the-spurs-for-christmas-day-matchup",
+    "title": "Thunder host the Spurs for Christmas day matchup",
+    "description": "",
+    "pubDate": "2025-12-24",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/thunder-host-spurs-christmas-day-070345474.html",
+    "source": "The Associated Press"
+  },
+  {
+    "slug": "los-angeles-hosts-houston-in-christmas-day-action",
+    "title": "Los Angeles hosts Houston in Christmas day action",
+    "description": "",
+    "pubDate": "2025-12-24",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/los-angeles-hosts-houston-christmas-070345138.html",
+    "source": "The Associated Press"
+  },
+  {
+    "slug": "denver-hosts-minnesota-in-christmas-day-action",
+    "title": "Denver hosts Minnesota in Christmas day action",
+    "description": "",
+    "pubDate": "2025-12-24",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/denver-hosts-minnesota-christmas-day-070345043.html",
+    "source": "The Associated Press"
+  },
+  {
+    "slug": "warriors-meet-the-mavericks-on-christmas-day",
+    "title": "Warriors meet the Mavericks on Christmas day",
+    "description": "",
+    "pubDate": "2025-12-24",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/warriors-meet-mavericks-christmas-day-070344456.html",
+    "source": "The Associated Press"
+  },
+  {
+    "slug": "what-nba-games-are-on-christmas-in-2025-tv-schedule-times-channels-for-every-holiday-game",
+    "title": "What NBA games are on Christmas in 2025? TV schedule, times, channels for every holiday game",
+    "description": "Here is everything you need to know to watch all the NBA action on Christmas, including a complete schedule with TV and streaming information for every game.",
+    "pubDate": "2025-12-24",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/nba-games-christmas-2025-tv-070001717.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "dayot-upamecano-8217-s-demands-to-remain-at-bayern-munich-revealed-amid-psg-real-madrid-interest",
+    "title": "Dayot Upamecano&#8217;s demands to remain at Bayern Munich revealed amid PSG, Real Madrid interest",
+    "description": "Bayern Munich and Real Madrid have done battle on several occasions regarding contract situations, and the latest battleground is Dayot Upamecano. The French defender is out of contract at the end of ...",
+    "pubDate": "2025-12-24",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/dayot-upamecano-demands-remain-bayern-070000092.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "our-premier-league-christmas-xi",
+    "title": "Our Premier League Christmas XI",
+    "description": "‘Tis the season! It’s Christmas Day, so what better time than now to present our Premier League festive XI. GK: Saint Nick PopeThe Newcastle United goalkeeper is gifting clean sheets this holiday...",
+    "pubDate": "2025-12-24",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/premier-league-christmas-xi-070000352.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "8220-what-chelsea-needs-8221-8211-former-chelsea-captain-recommends-new-signing-to-the-club",
+    "title": "&#8220;What Chelsea needs&#8221; &#8211; Former Chelsea captain recommends new signing to the club",
+    "description": "One former Chelsea player has recommended a new signing to the club and says he would be exactly what Chelsea needs right now.There will be many who agree with this but also, I’m sure that some will...",
+    "pubDate": "2025-12-24",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/chelsea-needs-former-chelsea-captain-070000485.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "barcelona-narrow-january-defender-hunt-to-three-surprise-names",
+    "title": "Barcelona narrow January defender hunt to three surprise names",
+    "description": "According to a recent report from Mundo Deportivo, Barcelona have narrowed their search for a low-cost central defender down to three experienced profiles. The names under discussion are Nicolas Otam...",
+    "pubDate": "2025-12-24",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/barcelona-narrow-january-defender-hunt-070000013.html",
+    "source": "Google News"
   },
   {
     "slug": "world-darts-championship-2026-schedule-and-results",
@@ -270,6 +594,24 @@
     "source": "Google News"
   },
   {
+    "slug": "wedgewood-shuts-out-utah-makes-case-team-canada-can-t-ignore",
+    "title": "Wedgewood Shuts Out Utah, Makes Case Team Canada Can’t Ignore",
+    "description": "The latest reports indicate that Scott Wedgewood is not being considered for Team Canada’s Olympic roster. His shutout, however, is the hockey equivalent of the viral meme: “Are you sure about that?”",
+    "pubDate": "2025-12-24",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/wedgewood-shuts-utah-makes-case-065301488.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "golden-knights-recap-merry-christmas-vgk-fillet-sharks",
+    "title": "Golden Knights Recap: MERRY CHRISTMAS! VGK Fillet Sharks",
+    "description": "On Tuesday, the Vegas Golden Knights (17-8-10) kicked off a four-game homestead against the San Jose Sharks (17-17-3). They dominated […]",
+    "pubDate": "2025-12-24",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/golden-knights-recap-merry-christmas-065204867.html",
+    "source": "Google News"
+  },
+  {
     "slug": "news-ulsan-hd-appoint-club-legend-kim-hyun-seok-as-new-manager",
     "title": "News: Ulsan HD appoint club legend Kim Hyun-seok as new manager",
     "description": "Ulsan HD have appointed former Chungnam Asan and Jeonnam Dragons manager Kim Hyun-seok as the club's new first team head coach.Kim Hyun-seok, a Horangi club legend, has taken charge of Ulsan. On the 2...",
@@ -285,6 +627,15 @@
     "pubDate": "2025-12-24",
     "image": "",
     "link": "https://sports.yahoo.com/articles/hoopshype-daily-nikola-jokic-dominates-080518513.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "clippers-make-a-statement-expose-rockets-39-discipline-gaps-in-128-108-win",
+    "title": "Clippers Make a Statement, Expose Rockets&#39; Discipline Gaps in 128-108 Win",
+    "description": "Clippers dominate from the perimeter and exploit Houston's careless turnovers en route to a decisive statement victory.",
+    "pubDate": "2025-12-24",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/clippers-statement-expose-rockets-discipline-064927467.html",
     "source": "Google News"
   },
   {
@@ -312,24 +663,6 @@
     "pubDate": "2025-12-24",
     "image": "",
     "link": "https://sports.yahoo.com/articles/version-illinois-almost-unbeatable-064632432.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "this-is-my-toughest-time-as-captain-stokes",
-    "title": "This is my toughest time as captain - Stokes",
-    "description": "Ben Stokes said he is going through his \"toughest time\" as England captain, as the tourists' awful Ashes series is dogged by reports of excessive drinking.",
-    "pubDate": "2025-12-24",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/toughest-time-captain-stokes-064536747.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "archer-ruled-out-of-ashes-as-bethell-replaces-pope",
-    "title": "Archer ruled out of Ashes as Bethell replaces Pope",
-    "description": "England pace bowler Jofra Archer is ruled out of the remainder of the Ashes series with a side strain, while England drop former vice-captain Ollie Pope for the fourth Test in Melbourne.",
-    "pubDate": "2025-12-24",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/archer-ruled-ashes-bethell-replaces-061604269.html",
     "source": "Google News"
   },
   {
@@ -366,321 +699,6 @@
     "pubDate": "2025-12-24",
     "image": "",
     "link": "https://sports.yahoo.com/articles/january-could-see-manchester-city-064000040.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "barcelona-offered-a-chance-to-sign-chelsea-defender-axel-disasi",
-    "title": "Barcelona offered a chance to sign Chelsea defender Axel Disasi",
-    "description": "Barcelona have been offered a chance to sign Chelsea centre-back Axel Disasi, according to Spanish news outlet SPORT.The forgotten 27-year-old defender is one of many options offered to Barcelona as t...",
-    "pubDate": "2025-12-24",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/barcelona-offered-chance-sign-chelsea-064000849.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "los-angeles-dodgers-linked-to-potential-trade-for-dynamic-27-year-old-star",
-    "title": "Los Angeles Dodgers linked to potential trade for dynamic 27-year-old star",
-    "description": "The Los Angeles Dodgers could look to make a blockbuster move this offseason.",
-    "pubDate": "2025-12-24",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/los-angeles-dodgers-linked-potential-063929835.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "open-thread-december-24-2025",
-    "title": "Open Thread: December 24, 2025",
-    "description": "The Open Thread/Daily Merengue is a place where you can discuss anything and everything related to football. Feel free to discuss the topics presented here, or start your very own discussions! The Open thread will be posted every day by one of the mods you’d totally do a movies night with: Valyrian",
-    "pubDate": "2025-12-24",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/open-thread-december-24-2025-063713401.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "high-school-basketball-tuesday-39-s-scores",
-    "title": "High school basketball: Tuesday&#39;s scores",
-    "description": "CIF City Section and Southern Section high school boys' and girls' basketball scores for Tuesday's games.",
-    "pubDate": "2025-12-24",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/high-school-basketball-tuesdays-scores-063521292.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "knights-take-out-frustrations-on-sharks-7-2",
-    "title": "Knights take out frustrations on Sharks, 7-2",
-    "description": "A five-goal first period set the tone for a rout that ended Vegas' three-game losing streak.",
-    "pubDate": "2025-12-24",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/knights-frustrations-sharks-7-2-063519257.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "west-bromwich-albion-39-s-tracksuit-rebels-of-1963",
-    "title": "West Bromwich Albion&#39;s tracksuit rebels of 1963",
-    "description": "Footballers went on strike after their manager refused to let them train in full tracksuits.",
-    "pubDate": "2025-12-24",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/west-bromwich-albions-tracksuit-rebels-063209105.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "chelsea-8217-s-embarrassing-brief-on-antoine-semenyo-not-a-good-look-as-real-reason-comes-out",
-    "title": "Chelsea&#8217;s embarrassing brief on Antoine Semenyo not a good look as real reason comes out",
-    "description": "Chelsea’s embarrassing brief on why they allegedly missed out on Antoine Semenyo is not a good look as the real reason now comes out.Yesterday was a mad one. None of us have expected Chelsea to be b...",
-    "pubDate": "2025-12-24",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/chelsea-embarrassing-brief-antoine-semenyo-063000363.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "mason-mount-united-take-firm-call-on-englishman-8217-s-future",
-    "title": "Mason Mount: United take firm call on Englishman&#8217;s future",
-    "description": "Ruben Amorim’s treatment of several Manchester United stars has raised eyebrows during his year-long tenure.Kobbie Mainoo is the most recent example, while last season, it was Marcus Rashford, Aleja...",
-    "pubDate": "2025-12-24",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/mason-mount-united-firm-call-063000074.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "bayern-munich-exec-max-eberl-channels-flava-flav",
-    "title": "Bayern Munich exec Max Eberl channels Flava Flav",
-    "description": "FC Bayern and…Public Enemy?",
-    "pubDate": "2025-12-24",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/bayern-munich-exec-max-eberl-063000245.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "39-why-i-was-always-driving-home-for-christmas-39",
-    "title": "&#39;Why I was always driving home for Christmas&#39;",
-    "description": "In his BBC Sport column, ex-Premier League boss Tony Pulis reflects on what the festive period was like as a player and manager.",
-    "pubDate": "2025-12-24",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/why-always-driving-home-christmas-062738701.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "wirfs-winfield-named-to-2026-pro-bowl",
-    "title": "Wirfs, Winfield named to 2026 Pro Bowl",
-    "description": "The National Football League today announced that Tampa Bay Buccaneers tackle Tristan Wirfs and safety Antoine Winfield Jr. were named to the 2026 Pro Bowl Games. The nod marks the second career Pro Bowl selection for Winfield Jr. (2021), while Wirfs has now earned five consecutive trips (2021-25) i",
-    "pubDate": "2025-12-24",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/wirfs-winfield-named-2026-pro-062725100.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "another-brutal-loss-at-home-kings-drop-3-2-to-kraken-despite-late-push",
-    "title": "Another Brutal Loss At Home: Kings Drop 3-2 to Kraken Despite Late Push",
-    "description": "Kevin Fiala had a great look to tie it up and force overtime, but came up short. His last-second blast went off the crossbar and out, leaving the final punctuation mark on another Kings loss that felt closer than what the scoreboard suggested.",
-    "pubDate": "2025-12-24",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/another-brutal-loss-home-kings-062556551.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "wembanyama-39-s-historic-streak-ends-in-blowout-win-over-thunder",
-    "title": "Wembanyama&#39;s historic streak ends in blowout win over Thunder",
-    "description": "The Spurs dominated the league-leading Thunder on Tuesday night, but Victor Wembanyama's historic block streak came to an end.",
-    "pubDate": "2025-12-24",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/wembanyamas-historic-streak-ends-blowout-062247169.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "manchester-city-appear-to-have-landed-the-first-big-blow-of-the-january-transfer-window",
-    "title": "Manchester City appear to have landed the first big blow of the January transfer window",
-    "description": "The January transfer window is now a week away from opening. Given that Manchester City are well-placed in three competitions they will be looking to strengthen Pep Guardiola’s squad to allow City p...",
-    "pubDate": "2025-12-24",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/manchester-city-appear-landed-first-062000600.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "frank-defends-van-de-ven-after-slot-s-reckless-dig-at-the-tottenham-star",
-    "title": "Frank defends Van de Ven after Slot’s ‘reckless’ dig at the Tottenham star",
-    "description": "Tottenham Hotspur boss Thomas Frank has responded to Arne Slot’s comments on Micky van de Ven following the clash with Liverpool last weekend.Liverpool’s Alexander Isak broke the deadlock in the f...",
-    "pubDate": "2025-12-24",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/frank-defends-van-ven-slot-062000170.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "villanova-turns-back-seton-hall-64-56-in-wildcats-big-east-conference-opener",
-    "title": "Villanova turns back Seton Hall 64-56 in Wildcats’ Big East Conference opener",
-    "description": "Acaden Lewis had 16 points and Villanova beat Seton Hall 64-56 in the Wildcats’ Big East Conference opener",
-    "pubDate": "2025-12-24",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/villanova-turns-back-seton-hall-061827304.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "vikes-views-who-ya-got-lions-at-vikings",
-    "title": "Vikes Views: Who Ya Got? Lions at Vikings",
-    "description": "The Detroit Lions come into town on Christmas Day to take on our Minnesota Vikings. This game probably looked a lot juicier at the beginning of the season. Both teams have had disappointing seasons and the Lions are likely to join the Vikings in the land of the eliminated soon.. The Vikings went on",
-    "pubDate": "2025-12-24",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/vikes-views-ya-got-lions-061700459.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "johnson-scores-25-points-and-spurs-win-7-straight-with-130-110-win-over-thunder",
-    "title": "Johnson scores 25 points and Spurs win 7 straight with 130-110 win over Thunder",
-    "description": "Keldon Johnson had 25 points, Stephon Castle added 24 points and the San Antonio Spurs stormed past Oklahoma City 130-110 on Tuesday night, winning their seventh straight and beating the Thunder for the second time in 10 days.  Victor Wembanyama’s streak of consecutive games with at least one block",
-    "pubDate": "2025-12-24",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/johnson-scores-25-points-spurs-061630779.html",
-    "source": "The Associated Press"
-  },
-  {
-    "slug": "star-bowler-jofra-archer-is-out-of-the-final-two-ashes-tests-for-england",
-    "title": "Star bowler Jofra Archer is out of the final two Ashes tests for England",
-    "description": "England bowler Jofra Archer will not play in the remaining two Ashes tests due to a left side strain, a team official said Wednesday.  The 30-year-old Archer spent four years battling a variety of fitness issues, including stress fractures of the back and right elbow, but has been in strong form sin",
-    "pubDate": "2025-12-24",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/star-bowler-jofra-archer-final-061537739.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "united-cup-list-of-players-nations-squads-from-all-competing-countries",
-    "title": "United Cup list of players, nations: Squads from all competing countries",
-    "description": "The United Cup will again whet our appetite ahead of the Australian Open with some of the world's best players hitting Sydney and Perth.",
-    "pubDate": "2025-12-24",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/united-cup-list-players-nations-061335314.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "profile-anthony-lopes-proves-an-upgrade-for-nantes",
-    "title": "PROFILE | Anthony Lopes proves an upgrade for Nantes",
-    "description": "It needed some getting used to to see Anthony Lopes wear a different goalkeeper jersey than the one embroidered with Lyon’s crest. For 13 years, the Portuguese shot-stopper stood tall between the st...",
-    "pubDate": "2025-12-24",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/profile-anthony-lopes-proves-upgrade-061200413.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "crown-point-makes-a-statement-at-hall-of-fame-classic-39-best-team-in-state-39",
-    "title": "Crown Point makes a statement at Hall of Fame Classic. &#39;Best team in state.&#39;",
-    "description": "Crown Point rallies from 11-point third quarter deficit to knock off Mt. Vernon for Hall of Fame Classic championship.",
-    "pubDate": "2025-12-24",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/crown-point-makes-statement-hall-061155712.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "crown-point-makes-a-statement-at-hall-of-fame-classic-39-best-team-in-state-39",
-    "title": "Crown Point makes a statement at Hall of Fame Classic. &#39;Best team in state.&#39;",
-    "description": "Crown Point rallies from 11-point third quarter deficit to knock off Mt. Vernon for Hall of Fame Classic championship.",
-    "pubDate": "2025-12-24",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/crown-point-makes-statement-hall-061155306.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "cardiff-forward-davies-targeting-2026-world-cup-with-wales",
-    "title": "Cardiff forward Davies targeting 2026 World Cup with Wales",
-    "description": "Cardiff City forward Isaak Davies is targeting a place in Craig Bellamy's Wales squad next summer should they qualify for the World Cup.  Wales boss Bellamy rewarded the Aberdare-born forward with his first cap during their 7-1 thrashing of North Macedonia in October.  Davies came off the bench and",
-    "pubDate": "2025-12-24",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/cardiff-forward-davies-targeting-2026-061005021.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "title-winner-moves-closer-to-liverpool-return",
-    "title": "Title winner moves CLOSER to Liverpool return",
-    "description": "Liverpool opted to do several loan deals last summer. It wasn’t just promising youngsters moving on temporary spells away however - even though the likes of James McConnell and Lewis Koumas were amo...",
-    "pubDate": "2025-12-24",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/title-winner-moves-closer-liverpool-061000093.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "chelsea-pull-out-of-antoine-semenyo-race-as-premier-league-rivals-cluster",
-    "title": "Chelsea pull out of Antoine Semenyo race as Premier League rivals cluster",
-    "description": "Chelsea have pulled off a sensational U-turn in their pursuit of Ghanaian forward Antoine Semenyo.According to The Athletic, the Blues have stepped away from the race for the Bournemouth forward despi...",
-    "pubDate": "2025-12-24",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/chelsea-pull-antoine-semenyo-race-061000973.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "a-lesson-in-nba-fragility-from-the-memphis-grizzlies",
-    "title": "A lesson in NBA fragility from the Memphis Grizzlies",
-    "description": "The Grizzlies beat the Utah Jazz on Tuesday night, hanging on to the 9th spot in the Western Conference.",
-    "pubDate": "2025-12-24",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/lesson-nba-fragility-memphis-grizzlies-060934065.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "tst-images-kraken-beat-kings-3-2-at-the-crypto-arena",
-    "title": "TST Images: Kraken beat Kings 3,2 at the Crypto Arena",
-    "description": "LOS ANGELES -- The Seattle Kraken defeated the Los Angeles Kings, 3-2, at the Crypto Arena on December 23rd, 2025 and The Sporting Tribune's Jon Bryan was there to capture the following images.",
-    "pubDate": "2025-12-24",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/tst-images-kraken-beat-kings-060836188.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "tst-images-knights-defeat-the-sharks-7-2-at-t-mobile-arena",
-    "title": "TST Images: Knights defeat the Sharks, 7-2, at T-Mobile Arena",
-    "description": "LAS VEGAS -- The Vegas Golden Knights defeated the San Jose Sharks, 7-2, on Tuesday December 23, 2025, at T-Mobile Arena and The Sporting Tribune's RJ Forbus was there to capture the following TST Images.",
-    "pubDate": "2025-12-24",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/tst-images-knights-defeat-sharks-060749332.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "oilers-cruising-at-just-the-right-time-mcdavid-draisaitl-dominate-calgary",
-    "title": "Oilers Cruising At Just The Right Time: McDavid, Draisaitl Dominate Calgary",
-    "description": "McDavid orchestrated a five-assist masterpiece, while Draisaitl potted a hat trick. The Oilers' dominant win might just be a sign of things to come.",
-    "pubDate": "2025-12-24",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/oilers-cruising-just-time-mcdavid-060650629.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "bane-39-s-work-on-both-ends-helps-magic-hold-off-trail-blazers-110-106",
-    "title": "Bane&#39;s work on both ends helps Magic hold off Trail Blazers, 110-106",
-    "description": "Desmond Bane scored 23 points, Anthony Black added 22 and the Orlando Magic turned away Portland's comeback attempt Tuesday night for a 110-106 victory over the Trail Blazers.  After trailing by 17 in the third quarter, the Blazers took a one-point lead early in the fourth before Tyus Jones answered",
-    "pubDate": "2025-12-24",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/banes-both-ends-helps-magic-060644890.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "leonard-39-s-41-point-game-powers-clippers-to-a-128-108-victory-over-the-rockets",
-    "title": "Leonard&#39;s 41-point game powers Clippers to a 128-108 victory over the Rockets",
-    "description": "Kawhi Leonard scored 41 points and James Harden added 29 as the Los Angeles Clippers beat the Houston Rockets 128-108 on Tuesday night.  Leonard shot 16 for 23 from the field and 4 for 5 from long distance as the Clippers won consecutive games for just the second time this season.  Los Angeles was c",
-    "pubDate": "2025-12-24",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/leonards-41-point-game-powers-060547904.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "cunningham-duren-and-harris-lead-east-best-pistons-to-136-127-win-over-kings",
-    "title": "Cunningham, Duren and Harris lead East-best Pistons to 136-127 win over Kings",
-    "description": "Cade Cunningham had 23 points and 14 assists, Jalen Duren had 23 points and 12 rebounds, and the Eastern Conference-leading Detroit Pistons beat the Sacramento Kings 136-127 on Tuesday night.  Tobias Harris scored 24 points for the Pistons, who have won nine of 11.  Duren's double-double was his fou",
-    "pubDate": "2025-12-24",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/cunningham-duren-harris-lead-east-060525193.html",
-    "source": "ANTONIO RAY HARVEY"
-  },
-  {
-    "slug": "panthers-rally-with-five-goal-third-period-beat-hurricanes-5-2",
-    "title": "Panthers rally with five-goal third period, beat Hurricanes 5-2",
-    "description": "Luke Kunin and Anton Lundell scored 43 seconds apart during a five-goal third period for the Florida Panthers, who rallied past the Carolina Hurricanes 5-2 on Tuesday night.  Niko Mikkola began the Panthers’ burst with his first goal of the season and Florida ended up with four goals in slightly mor",
-    "pubDate": "2025-12-24",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/panthers-rally-five-goal-third-060406496.html",
-    "source": "The Associated Press"
-  },
-  {
-    "slug": "bundesliga-clubs-go-wild-at-almost-real-christmas-parties",
-    "title": "🎊 Bundesliga clubs go wild at (almost) real Christmas parties",
-    "description": "In an age where virtually every secret is revealed—sometimes even before it actually exists—football, for once, is no exception.Transfers, diagnoses, tactics. Everything falls victim to daily leak...",
-    "pubDate": "2025-12-24",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/almost-real-christmas-parties-bundesliga-060100238.html",
     "source": "Google News"
   },
   {
@@ -900,30 +918,12 @@
     "source": "BBC Sport"
   },
   {
-    "slug": "england-investigate-ashes-drinking-as-video-emerges",
-    "title": "England investigate Ashes drinking as video emerges",
-    "description": "England will look into reports of players drinking excessively during a break from the Ashes series in Noosa, says director of cricket Rob Key.",
-    "pubDate": "2025-12-23",
-    "image": "",
-    "link": "https://www.bbc.com/sport/cricket/articles/c5ydewwejnqo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport"
-  },
-  {
     "slug": "no-wru-decision-on-how-to-cut-region-in-2025",
     "title": "No WRU decision on how to cut region in 2025",
     "description": "The Welsh Rugby Union (WRU) say there will be no resolution before the end of 2025 on how to cut a professional men's side.",
     "pubDate": "2025-12-23",
     "image": "",
     "link": "https://www.bbc.com/sport/rugby-union/articles/c15711248q0o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport"
-  },
-  {
-    "slug": "norwegian-biathlete-bakken-dies-aged-27",
-    "title": "Norwegian biathlete Bakken dies aged 27",
-    "description": "Norwegian biathlete Sivert Guttorm Bakken, who had been hoping to compete at the Winter Olympics in February, dies aged 27.",
-    "pubDate": "2025-12-23",
-    "image": "",
-    "link": "https://www.bbc.com/sport/articles/c33mkn574vgo?at_medium=RSS&at_campaign=rss",
     "source": "BBC Sport"
   },
   {
@@ -981,6 +981,24 @@
     "source": "BBC Sport"
   },
   {
+    "slug": "england-investigate-ashes-drinking-as-video-emerges",
+    "title": "England investigate Ashes drinking as video emerges",
+    "description": "England will look into reports of players drinking excessively during a break from the Ashes series in Noosa, says director of cricket Rob Key.",
+    "pubDate": "2025-12-23",
+    "image": "",
+    "link": "https://www.bbc.com/sport/cricket/articles/c5ydewwejnqo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport"
+  },
+  {
+    "slug": "norwegian-biathlete-bakken-dies-aged-27",
+    "title": "Norwegian biathlete Bakken dies aged 27",
+    "description": "Norwegian biathlete Sivert Guttorm Bakken, who had been hoping to compete at the Winter Olympics in February, dies aged 27.",
+    "pubDate": "2025-12-23",
+    "image": "",
+    "link": "https://www.bbc.com/sport/articles/c33mkn574vgo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport"
+  },
+  {
     "slug": "how-will-liverpool-cope-without-isak",
     "title": "How will Liverpool cope without Isak?",
     "description": "BBC Sport analyses how Liverpool manager Arne Slot might set up following striker Alexander Isak being ruled out for about two months with a broken leg.",
@@ -996,15 +1014,6 @@
     "pubDate": "2025-12-23",
     "image": "",
     "link": "https://www.bbc.com/sport/football/articles/c0kdmkkz3jno?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport"
-  },
-  {
-    "slug": "how-england-lost-the-ashes-in-five-charts",
-    "title": "How England lost the Ashes in five charts",
-    "description": "It took England just 11 days of cricket to lose the Ashes to Australia - BBC Sport looks at five charts that show why the hosts have gone 3-0 up after three Tests.",
-    "pubDate": "2025-12-23",
-    "image": "",
-    "link": "https://www.bbc.com/sport/cricket/articles/c8e9n4pyee4o?at_medium=RSS&at_campaign=rss",
     "source": "BBC Sport"
   },
   {
@@ -1026,6 +1035,15 @@
     "source": "BBC Sport"
   },
   {
+    "slug": "how-england-lost-the-ashes-in-five-charts",
+    "title": "How England lost the Ashes in five charts",
+    "description": "It took England just 11 days of cricket to lose the Ashes to Australia - BBC Sport looks at five charts that show why the hosts have gone 3-0 up after three Tests.",
+    "pubDate": "2025-12-23",
+    "image": "",
+    "link": "https://www.bbc.com/sport/cricket/articles/c8e9n4pyee4o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport"
+  },
+  {
     "slug": "i-don-t-mind-them-having-a-christmas-dinner-dyche-on-weighing-players",
     "title": "'I don't mind them having a Christmas dinner' - Dyche on weighing players",
     "description": "Nottingham Forest boss Sean Dyche urges his players to show \"common sense\" over Christmas after Pep Guardiola says he will weigh his squad on their return.",
@@ -1044,15 +1062,6 @@
     "source": "BBC Sport"
   },
   {
-    "slug": "real-madrid-forward-endrick-agrees-lyon-loan-switch",
-    "title": "Real Madrid forward Endrick agrees Lyon loan switch ",
-    "description": "Real Madrid and Brazil forward Endrick agrees to join French side Lyon on loan until the end of the season.",
-    "pubDate": "2025-12-23",
-    "image": "",
-    "link": "https://www.bbc.com/sport/football/articles/c8dyndzjqn5o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport"
-  },
-  {
     "slug": "it-s-giving-me-goosebumps-europe-stars-recall-ryder-cup-triumph",
     "title": "'It's giving me goosebumps' - Europe stars recall Ryder Cup triumph",
     "description": "Europe's Ryder Cup players reflect on their monumental victory over the US at Bethpage in New York for a BBC Radio 5 Live golf special to be aired on 26 December.",
@@ -1068,15 +1077,6 @@
     "pubDate": "2025-12-23",
     "image": "",
     "link": "https://www.bbc.com/sport/football/articles/cp34rnqekkqo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport"
-  },
-  {
-    "slug": "australia-s-cummins-and-lyon-out-of-rest-of-ashes",
-    "title": "Australia's Cummins and Lyon out of rest of Ashes",
-    "description": "Pat Cummins and Nathan Lyon are out of Australia's squad for the fourth Ashes test, while Steve Smith returns to captain.",
-    "pubDate": "2025-12-23",
-    "image": "",
-    "link": "https://www.bbc.com/sport/cricket/articles/cj3868pyyglo?at_medium=RSS&at_campaign=rss",
     "source": "BBC Sport"
   },
   {
@@ -1107,21 +1107,30 @@
     "source": "BBC Sport"
   },
   {
+    "slug": "australia-s-cummins-and-lyon-out-of-rest-of-ashes",
+    "title": "Australia's Cummins and Lyon out of rest of Ashes",
+    "description": "Pat Cummins and Nathan Lyon are out of Australia's squad for the fourth Ashes test, while Steve Smith returns to captain.",
+    "pubDate": "2025-12-23",
+    "image": "",
+    "link": "https://www.bbc.com/sport/cricket/articles/cj3868pyyglo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport"
+  },
+  {
+    "slug": "real-madrid-forward-endrick-agrees-lyon-loan-switch",
+    "title": "Real Madrid forward Endrick agrees Lyon loan switch ",
+    "description": "Real Madrid and Brazil forward Endrick agrees to join French side Lyon on loan until the end of the season.",
+    "pubDate": "2025-12-23",
+    "image": "",
+    "link": "https://www.bbc.com/sport/football/articles/c8dyndzjqn5o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport"
+  },
+  {
     "slug": "oxford-sack-rowett-after-one-win-in-10-games",
     "title": "Oxford sack Rowett after one win in 10 games",
     "description": "Oxford United head coach Gary Rowett is sacked with the club in the Championship relegation zone.",
     "pubDate": "2025-12-23",
     "image": "",
     "link": "https://www.bbc.com/sport/football/articles/cvgrxx7nn5zo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport"
-  },
-  {
-    "slug": "newcastle-seek-clarification-over-non-penalty",
-    "title": "Newcastle seek 'clarification' over non-penalty",
-    "description": "Manager Eddie Howe says Newcastle \"want to know the thought process behind the decision\" not to award them a penalty against Chelsea on Saturday.",
-    "pubDate": "2025-12-23",
-    "image": "",
-    "link": "https://www.bbc.com/sport/football/articles/cz7nddpd0y1o?at_medium=RSS&at_campaign=rss",
     "source": "BBC Sport"
   },
   {
@@ -1140,15 +1149,6 @@
     "pubDate": "2025-12-23",
     "image": "",
     "link": "https://www.bbc.com/sport/cricket/articles/c1e415pn69xo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport"
-  },
-  {
-    "slug": "top-class-gordon-commits-to-scotland-return",
-    "title": "'Top-class' Gordon commits to Scotland return",
-    "description": "Blaze captain Kirstie Gordon opts to add to her 60 Scotland caps more than eight years on from a switch to England.",
-    "pubDate": "2025-12-23",
-    "image": "",
-    "link": "https://www.bbc.com/sport/cricket/articles/c33m0x2n12eo?at_medium=RSS&at_campaign=rss",
     "source": "BBC Sport"
   },
   {
