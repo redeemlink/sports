@@ -99,51 +99,6 @@
     "source": "NBA insiders"
   },
   {
-    "slug": "the-50-best-women-s-soccer-players-in-the-world-for-2025-ranked",
-    "title": "The 50 best women's soccer players in the world for 2025, ranked!",
-    "description": "Here are the 50 best women's soccer players in the world for 2025, as ranked by an expert panel of coaches, GMs and journalists.",
-    "pubDate": "2025-12-24",
-    "image": "",
-    "link": "https://www.espn.com/soccer/story/_/id/47101532/best-50-women-soccer-players-ranked-world-2025-espn-fc",
-    "source": "ESPN"
-  },
-  {
-    "slug": "probably-will-be-a-netflix-documentary-inside-the-twists-and-turns-of-penn-state-s-58-day-coaching-search",
-    "title": "'Probably will be a Netflix documentary': Inside the twists and turns of Penn State's 58-day coaching search",
-    "description": "The Nittany Lions got their guy in Matt Campbell, but they took a circuitous route.",
-    "pubDate": "2025-12-24",
-    "image": "",
-    "link": "https://www.espn.com/college-football/story/_/id/47369719/inside-penn-state-college-football-coaching-search",
-    "source": "www.espn.com - TOP"
-  },
-  {
-    "slug": "five-nba-games-three-nfl-games-one-loaded-christmas-day-slate-everything-you-need-to-know",
-    "title": "Five NBA games, three NFL games, one loaded Christmas Day slate: Everything you need to know",
-    "description": "Christmas Day includes three NFL matchups and five NBA games. We're previewing them all with picks, predictions, storylines and more.",
-    "pubDate": "2025-12-24",
-    "image": "",
-    "link": "https://www.espn.com/espn/story/_/id/47326382/nfl-nba-christmas-2025-games-picks-schedules-odds-injuries-stats",
-    "source": "ESPN Staff"
-  },
-  {
-    "slug": "how-a-random-nfl-drug-test-led-to-a-cancer-diagnosis-alex-singleton-s-horrifying-past-two-months",
-    "title": "How a random NFL drug test led to a cancer diagnosis: Alex Singleton's 'horrifying' past two months",
-    "description": "The Broncos linebacker discovered he had testicular cancer from a league drug test. And now he plays the game with a fresh perspective.",
-    "pubDate": "2025-12-24",
-    "image": "",
-    "link": "https://www.espn.com/nfl/story/_/id/47399442/alex-singleton-denver-broncos-testicular-cancer-nfl-random-drug-test",
-    "source": "Jeff Legwold"
-  },
-  {
-    "slug": "luka-ar-and-the-hilarious-bromance-fueling-the-lakers-wild-start",
-    "title": "Luka, AR and the hilarious bromance fueling the Lakers' wild start",
-    "description": "The success and virality of this duo is doing more than quiet the typical noise around the Lakers. It also might transition the franchise fully into their post-LeBron era.",
-    "pubDate": "2025-12-24",
-    "image": "",
-    "link": "https://www.espn.com/nba/story/_/id/47380110/luka-doncic-austin-reaves-hilarious-bromance-fueling-nba-los-angeles-lakers-19-9-start",
-    "source": "Dave McMenamin"
-  },
-  {
     "slug": "2026-nfl-pro-bowl-afc-nfc-rosters-the-league-s-top-players",
     "title": "2026 NFL Pro Bowl AFC, NFC rosters: The league's top players",
     "description": "The Ravens, Broncos, 49ers and Seahawks each had six players chosen to lead the way.",
@@ -162,22 +117,76 @@
     "source": "Ben Solak and Seth Walder"
   },
   {
-    "slug": "tracking-the-nfl-playoff-picture-updated-chances-to-clinch-open-spots-win-division-titles",
-    "title": "Tracking the NFL playoff picture: Updated chances to clinch open spots, win division titles",
-    "description": "We are following the 2025 NFL season's playoff picture. Here's how things look right now for wild-card spots, division races and even the draft order.",
+    "slug": "how-a-random-nfl-drug-test-led-to-a-cancer-diagnosis-alex-singleton-s-horrifying-past-two-months",
+    "title": "How a random NFL drug test led to a cancer diagnosis: Alex Singleton's 'horrifying' past two months",
+    "description": "The Broncos linebacker discovered he had testicular cancer from a league drug test. And now he plays the game with a fresh perspective.",
     "pubDate": "2025-12-24",
     "image": "",
-    "link": "https://www.espn.com/espn/feature/story/_/id/47248728/2025-nfl-playoff-live-odds-updated-chances-clinch-bracket-projections-scenarios",
+    "link": "https://www.espn.com/nfl/story/_/id/47399442/alex-singleton-denver-broncos-testicular-cancer-nfl-random-drug-test",
+    "source": "Jeff Legwold"
+  },
+  {
+    "slug": "the-50-best-women-s-soccer-players-in-the-world-for-2025-ranked",
+    "title": "The 50 best women's soccer players in the world for 2025, ranked!",
+    "description": "Here are the 50 best women's soccer players in the world for 2025, as ranked by an expert panel of coaches, GMs and journalists.",
+    "pubDate": "2025-12-24",
+    "image": "",
+    "link": "https://www.espn.com/soccer/story/_/id/47101532/best-50-women-soccer-players-ranked-world-2025-espn-fc",
+    "source": "ESPN"
+  },
+  {
+    "slug": "five-nba-games-three-nfl-games-one-loaded-christmas-day-slate-everything-you-need-to-know",
+    "title": "Five NBA games, three NFL games, one loaded Christmas Day slate: Everything you need to know",
+    "description": "Christmas Day includes three NFL matchups and five NBA games. We're previewing them all with picks, predictions, storylines and more.",
+    "pubDate": "2025-12-24",
+    "image": "",
+    "link": "https://www.espn.com/espn/story/_/id/47326382/nfl-nba-christmas-2025-games-picks-schedules-odds-injuries-stats",
+    "source": "ESPN Staff"
+  },
+  {
+    "slug": "that-s-what-we-sign-up-for-five-tales-and-a-few-gripes-from-playing-on-christmas",
+    "title": "'That's what we sign up for': Five tales -- and a few gripes -- from playing on Christmas",
+    "description": "With NBA Christmas games on the horizon, stars and coaches share their stories and gripes about playing on the holiday.",
+    "pubDate": "2025-12-24",
+    "image": "",
+    "link": "https://www.espn.com/nba/story/_/id/47390566/nba-christmas-2025-stories-bronny-lebron-james-stephen-curry-draymond-green-more",
+    "source": "Ohm Youngmisuk"
+  },
+  {
+    "slug": "the-budding-spurs-thunder-rivalry-that-could-shape-the-future-of-the-west",
+    "title": "The budding Spurs-Thunder rivalry that could shape the future of the West",
+    "description": "The Spurs and Thunder face each other twice this week, including on Christmas Day.",
+    "pubDate": "2025-12-24",
+    "image": "",
+    "link": "https://www.espn.com/nba/story/_/id/47370916/the-budding-spurs-thunder-rivalry-shape-west",
+    "source": "Tim MacMahon and Michael C. Wright"
+  },
+  {
+    "slug": "probably-will-be-a-netflix-documentary-inside-the-twists-and-turns-of-penn-state-s-58-day-coaching-search",
+    "title": "'Probably will be a Netflix documentary': Inside the twists and turns of Penn State's 58-day coaching search",
+    "description": "The Nittany Lions got their guy in Matt Campbell, but they took a circuitous route.",
+    "pubDate": "2025-12-24",
+    "image": "",
+    "link": "https://www.espn.com/college-football/story/_/id/47369719/inside-penn-state-college-football-coaching-search",
     "source": "www.espn.com - TOP"
   },
   {
-    "slug": "nfl-playoff-clinching-scenarios-what-s-at-stake-for-nine-teams-in-week-17",
-    "title": "NFL playoff-clinching scenarios: What's at stake for nine teams in Week 17?",
-    "description": "Nine teams have the chance to clinch a No. 1 seed, division title or playoff berth this weekend.",
+    "slug": "a-miracle-child-a-priceless-penny-and-a-racing-legend",
+    "title": "A miracle child, a priceless penny and a racing legend",
+    "description": "Back in 1998, long before the United States stopped producing the penny, a little girl with spina bifida gave Dale Earnhardt a gift that raises the question: What if pennies are actually worth everything?",
     "pubDate": "2025-12-24",
     "image": "",
-    "link": "https://www.espn.com/nfl/story/_/id/47390374/nfl-playoff-picture-2025-clinching-scenarios-division-races-week-17",
-    "source": "ESPN staff"
+    "link": "https://www.espn.com/auto/story/_/id/47326000/how-girl-lucky-penny-fueled-dale-earnhardt-daytona-500-win-wessa-miller",
+    "source": "Sam Borden"
+  },
+  {
+    "slug": "luka-ar-and-the-hilarious-bromance-fueling-the-lakers-wild-start",
+    "title": "Luka, AR and the hilarious bromance fueling the Lakers' wild start",
+    "description": "The success and virality of this duo is doing more than quiet the typical noise around the Lakers. It also might transition the franchise fully into their post-LeBron era.",
+    "pubDate": "2025-12-24",
+    "image": "",
+    "link": "https://www.espn.com/nba/story/_/id/47380110/luka-doncic-austin-reaves-hilarious-bromance-fueling-nba-los-angeles-lakers-19-9-start",
+    "source": "Dave McMenamin"
   },
   {
     "slug": "power-rankings-kentucky-seton-hall-crack-top-25",
@@ -216,60 +225,6 @@
     "source": "Charlie Creme"
   },
   {
-    "slug": "a-miracle-child-a-priceless-penny-and-a-racing-legend",
-    "title": "A miracle child, a priceless penny and a racing legend",
-    "description": "Back in 1998, long before the United States stopped producing the penny, a little girl with spina bifida gave Dale Earnhardt a gift that raises the question: What if pennies are actually worth everything?",
-    "pubDate": "2025-12-24",
-    "image": "",
-    "link": "https://www.espn.com/auto/story/_/id/47326000/how-girl-lucky-penny-fueled-dale-earnhardt-daytona-500-win-wessa-miller",
-    "source": "Sam Borden"
-  },
-  {
-    "slug": "look-out-arsenal-man-city-titles-have-been-built-on-dominant-midseason-runs",
-    "title": "Look out, Arsenal: Man City titles have been built on dominant midseason runs",
-    "description": "Man City haven't been their typical best this season -- at least not yet, though the festive period is when their title wins have been built. Should Arsenal be worried?",
-    "pubDate": "2025-12-24",
-    "image": "",
-    "link": "https://www.espn.com/soccer/story/_/id/47379708/manchester-city-premier-league-title-winter-dominance-pep-guardiola-fixtures-analysis",
-    "source": "Rob Dawson"
-  },
-  {
-    "slug": "which-of-these-eight-midfield-targets-fits-best-at-man-united",
-    "title": "Which of these eight midfield targets fits best at Man United?",
-    "description": "United are in the market for a midfielder, but which of the candidates makes most sense?",
-    "pubDate": "2025-12-24",
-    "image": "",
-    "link": "https://www.espn.com/soccer/story/_/id/47388081/which-midfield-transfer-targets-fit-man-united-wharton-baleba-anderson",
-    "source": "Tor-Kristian Karlsen"
-  },
-  {
-    "slug": "tis-the-season-for-rating-christmas-sweaters-from-top-soccer-teams",
-    "title": "'Tis the season for rating Christmas sweaters from top soccer teams!",
-    "description": "Oh the weather outside is frightful, but the selection of knitwear that fans can wear to support their team this Christmas is so delightful.",
-    "pubDate": "2025-12-24",
-    "image": "",
-    "link": "https://www.espn.com/soccer/story/_/id/47105677/rating-2025s-christmas-sweaters-top-soccer-teams",
-    "source": "Chris Wright"
-  },
-  {
-    "slug": "that-s-what-we-sign-up-for-five-tales-and-a-few-gripes-from-playing-on-christmas",
-    "title": "'That's what we sign up for': Five tales -- and a few gripes -- from playing on Christmas",
-    "description": "With NBA Christmas games on the horizon, stars and coaches share their stories and gripes about playing on the holiday.",
-    "pubDate": "2025-12-24",
-    "image": "",
-    "link": "https://www.espn.com/nba/story/_/id/47390566/nba-christmas-2025-stories-bronny-lebron-james-stephen-curry-draymond-green-more",
-    "source": "Ohm Youngmisuk"
-  },
-  {
-    "slug": "the-budding-spurs-thunder-rivalry-that-could-shape-the-future-of-the-west",
-    "title": "The budding Spurs-Thunder rivalry that could shape the future of the West",
-    "description": "The Spurs and Thunder face each other twice this week, including on Christmas Day.",
-    "pubDate": "2025-12-24",
-    "image": "",
-    "link": "https://www.espn.com/nba/story/_/id/47370916/the-budding-spurs-thunder-rivalry-shape-west",
-    "source": "Tim MacMahon and Michael C. Wright"
-  },
-  {
     "slug": "mvps-for-every-bowl-game-sieh-bangura-carries-ohio-to-seventh-straight-bowl-win",
     "title": "MVPs for every bowl game: Sieh Bangura carries Ohio to seventh straight bowl win",
     "description": "It's bowl season and our college football experts are picking an MVP from every game.",
@@ -288,22 +243,22 @@
     "source": "Adam Rittenberg"
   },
   {
-    "slug": "world-junior-championship-guide-top-contenders-key-players-to-watch",
-    "title": "World Junior Championship guide: Top contenders, key players to watch",
-    "description": "The tournament starts Thursday, with the best under-20 players in hockey. Here are gold medal favorites, players set to break out.",
+    "slug": "tracking-the-nfl-playoff-picture-updated-chances-to-clinch-open-spots-win-division-titles",
+    "title": "Tracking the NFL playoff picture: Updated chances to clinch open spots, win division titles",
+    "description": "We are following the 2025 NFL season's playoff picture. Here's how things look right now for wild-card spots, division races and even the draft order.",
     "pubDate": "2025-12-24",
     "image": "",
-    "link": "https://www.espn.com/nhl/story/_/id/47392536/2026-iihf-world-junior-championship-preview-top-players-teams-tournament",
-    "source": "Rachel Kryshak"
+    "link": "https://www.espn.com/espn/feature/story/_/id/47248728/2025-nfl-playoff-live-odds-updated-chances-clinch-bracket-projections-scenarios",
+    "source": "www.espn.com - TOP"
   },
   {
-    "slug": "the-nhl-s-best-this-week-is-craig-berube-on-the-hot-seat-in-toronto",
-    "title": "The NHL's best this week: Is Craig Berube on the hot seat in Toronto?",
-    "description": "As the holiday break approaches, the Maple Leafs aren't exactly excelling. Plus, key games in the week ahead.",
+    "slug": "nfl-playoff-clinching-scenarios-what-s-at-stake-for-nine-teams-in-week-17",
+    "title": "NFL playoff-clinching scenarios: What's at stake for nine teams in Week 17?",
+    "description": "Nine teams have the chance to clinch a No. 1 seed, division title or playoff berth this weekend.",
     "pubDate": "2025-12-24",
     "image": "",
-    "link": "https://www.espn.com/nhl/story/_/id/47378620/nhl-2025-26-best-games-week-craig-berube-toronto-maple-leafs-hot-seat",
-    "source": "Arda Ocal"
+    "link": "https://www.espn.com/nfl/story/_/id/47390374/nfl-playoff-picture-2025-clinching-scenarios-division-races-week-17",
+    "source": "ESPN staff"
   },
   {
     "slug": "a-12-player-blockbuster-cy-young-signings-ranking-the-biggest-mlb-christmas-week-moves",
@@ -324,30 +279,57 @@
     "source": "David Schoenfield"
   },
   {
-    "slug": "why-believe-in-tyler-shough-malik-willis-and-other-unlikely-playoff-starters",
-    "title": "Why believe in Tyler Shough, Malik Willis and other unlikely playoff starters?",
-    "description": "'Tis the season for fantasy heroes! Liz Loza breaks down so players who can step in and help win a fantasy championship even if they're not necessarily the ones who got you here.",
+    "slug": "look-out-arsenal-man-city-titles-have-been-built-on-dominant-midseason-runs",
+    "title": "Look out, Arsenal: Man City titles have been built on dominant midseason runs",
+    "description": "Man City haven't been their typical best this season -- at least not yet, though the festive period is when their title wins have been built. Should Arsenal be worried?",
     "pubDate": "2025-12-24",
     "image": "",
-    "link": "https://www.espn.com/fantasy/football/story/_/id/47402594/fantasy-football-start-sit-add-week-17",
-    "source": "Liz Loza"
+    "link": "https://www.espn.com/soccer/story/_/id/47379708/manchester-city-premier-league-title-winter-dominance-pep-guardiola-fixtures-analysis",
+    "source": "Rob Dawson"
+  },
+  {
+    "slug": "which-of-these-eight-midfield-targets-fits-best-at-man-united",
+    "title": "Which of these eight midfield targets fits best at Man United?",
+    "description": "United are in the market for a midfielder, but which of the candidates makes most sense?",
+    "pubDate": "2025-12-24",
+    "image": "",
+    "link": "https://www.espn.com/soccer/story/_/id/47388081/which-midfield-transfer-targets-fit-man-united-wharton-baleba-anderson",
+    "source": "Tor-Kristian Karlsen"
+  },
+  {
+    "slug": "world-junior-championship-guide-top-contenders-key-players-to-watch",
+    "title": "World Junior Championship guide: Top contenders, key players to watch",
+    "description": "The tournament starts Thursday, with the best under-20 players in hockey. Here are gold medal favorites, players set to break out.",
+    "pubDate": "2025-12-24",
+    "image": "",
+    "link": "https://www.espn.com/nhl/story/_/id/47392536/2026-iihf-world-junior-championship-preview-top-players-teams-tournament",
+    "source": "Rachel Kryshak"
+  },
+  {
+    "slug": "the-nhl-s-best-this-week-is-craig-berube-on-the-hot-seat-in-toronto",
+    "title": "The NHL's best this week: Is Craig Berube on the hot seat in Toronto?",
+    "description": "As the holiday break approaches, the Maple Leafs aren't exactly excelling. Plus, key games in the week ahead.",
+    "pubDate": "2025-12-24",
+    "image": "",
+    "link": "https://www.espn.com/nhl/story/_/id/47378620/nhl-2025-26-best-games-week-craig-berube-toronto-maple-leafs-hot-seat",
+    "source": "Arda Ocal"
   },
   {
     "slug": "matchup-rankings-upgrade-harold-fannin-jr-downgrade-jameson-williams",
     "title": "Matchup rankings: Upgrade Harold Fannin Jr., downgrade Jameson Williams",
-    "description": "The most and least favorable matchups for this week's games at the four key positions (QB, RB, WR and TE).",
+    "description": "The most and least favorable matchups in the NFL for this week's games at the four key fantasy positions (QB, RB, WR and TE).",
     "pubDate": "2025-12-24",
     "image": "",
     "link": "https://www.espn.com/fantasy/football/story/_/id/47389017/fantasy-football-rankings-tips-nfl-week-17-matchups-qb-rb-wr-te",
     "source": "Tristan H. Cockcroft"
   },
   {
-    "slug": "best-bets-dfs-plays-for-the-christmas-day-tripleheader-edge-to-the-road-teams",
-    "title": "Best bets, DFS plays for the Christmas Day tripleheader: Edge to the road teams",
-    "description": "Betting the Christmas Day games? Here are the odds, game picks, prop plays and daily fantasy tips for all three.",
+    "slug": "buzz-disappointing-chiefs-enter-christmas-matchup-as-two-td-underdogs-to-broncos",
+    "title": "Buzz: Disappointing Chiefs enter Christmas matchup as two-TD underdogs to Broncos",
+    "description": "The NFL's Christmas Day slate features some disappointing teams, none as bad betting-wise as the Kansas City Chiefs.",
     "pubDate": "2025-12-24",
     "image": "",
-    "link": "https://www.espn.com/espn/betting/story/_/id/47402185/nfl-week-17-odds-lines-spread-betting-picks-dfs-tips-christmas-day-football-preview-cowboys-commanders-lions-vikings-broncos-chiefs",
+    "link": "https://www.espn.com/espn/betting/story/_/id/40159558/betting-buzz-latest-sports-betting-odds-updates-changes-line-moves-industry-intel",
     "source": "ESPN"
   },
   {
@@ -387,39 +369,12 @@
     "source": "BBC Sport"
   },
   {
-    "slug": "impossible-to-replace-fernandes-could-miss-up-to-a-month",
-    "title": "'Impossible to replace' - Fernandes could miss up to a month",
-    "description": "Manchester United head coach Ruben Amorim says it is \"impossible\" to replace Bruno Fernandes as he faces up to a month without him.",
-    "pubDate": "2025-12-24",
-    "image": "",
-    "link": "https://www.bbc.com/sport/football/articles/c75v0q99e7eo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport"
-  },
-  {
     "slug": "always-hungry-always-brave-why-man-city-want-semenyo",
     "title": "'Always hungry, always brave' - why Man City want Semenyo",
     "description": "Every transfer window, there is a player whose future becomes the defining saga of the month. This January, it looks set to be Bournemouth's Antoine Semenyo.",
     "pubDate": "2025-12-24",
     "image": "",
     "link": "https://www.bbc.com/sport/football/articles/c9qeryx8vn4o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport"
-  },
-  {
-    "slug": "it-s-time-for-wright-to-retire-van-gerwen",
-    "title": "It's time for Wright to retire - Van Gerwen",
-    "description": "Three-time world champion Michael van Gerwen says Peter Wright should retire  following his defeat in the PDC World Darts Championship.",
-    "pubDate": "2025-12-24",
-    "image": "",
-    "link": "https://www.bbc.com/sport/darts/articles/cn8emv22d2ko?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport"
-  },
-  {
-    "slug": "has-bashir-become-unselectable-for-england-during-ashes",
-    "title": "Has Bashir become 'unselectable' for England during Ashes?",
-    "description": "England have spent almost two years getting off-spinner Shoaib Bashir ready for an Ashes tour of Australia, but four games in, he is yet to play. BBC Sport looks at possible reasons why.",
-    "pubDate": "2025-12-24",
-    "image": "",
-    "link": "https://www.bbc.com/sport/cricket/articles/cqjgx1xg4rpo?at_medium=RSS&at_campaign=rss",
     "source": "BBC Sport"
   },
   {
@@ -432,21 +387,21 @@
     "source": "BBC Sport"
   },
   {
+    "slug": "has-bashir-become-unselectable-for-england-during-ashes",
+    "title": "Has Bashir become 'unselectable' for England during Ashes?",
+    "description": "England have spent almost two years getting off-spinner Shoaib Bashir ready for an Ashes tour of Australia, but four games in, he is yet to play. BBC Sport looks at possible reasons why.",
+    "pubDate": "2025-12-24",
+    "image": "",
+    "link": "https://www.bbc.com/sport/cricket/articles/cqjgx1xg4rpo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport"
+  },
+  {
     "slug": "sutton-s-predictions-v-the-wellermen-s-jonny-stewart",
     "title": "Sutton's predictions v The Wellermen's Jonny Stewart",
     "description": "BBC Sport football expert Chris Sutton takes on The Wellermen's Jonny Stewart - and AI - with his predictions for this weekend's Premier League fixtures.",
     "pubDate": "2025-12-24",
     "image": "",
     "link": "https://www.bbc.com/sport/football/articles/cyvg0my1zvyo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport"
-  },
-  {
-    "slug": "how-to-survive-christmas-period-the-fpl-talking-point",
-    "title": "How to survive Christmas period - the FPL talking point ",
-    "description": "With four deadlines in 11 days, FPL expert Pras Singhal gives five tips to stay ahead of the curve over the festive period.",
-    "pubDate": "2025-12-24",
-    "image": "",
-    "link": "https://www.bbc.com/sport/football/articles/cwyg45pr43xo?at_medium=RSS&at_campaign=rss",
     "source": "BBC Sport"
   },
   {
@@ -459,6 +414,15 @@
     "source": "BBC Sport"
   },
   {
+    "slug": "how-to-survive-christmas-period-the-fpl-talking-point",
+    "title": "How to survive Christmas period - the FPL talking point ",
+    "description": "With four deadlines in 11 days, FPL expert Pras Singhal gives five tips to stay ahead of the curve over the festive period.",
+    "pubDate": "2025-12-24",
+    "image": "",
+    "link": "https://www.bbc.com/sport/football/articles/cwyg45pr43xo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport"
+  },
+  {
     "slug": "ex-captain-brierley-retires-to-become-salford-ceo",
     "title": "Ex-captain Brierley retires to become Salford CEO",
     "description": "Former Salford captain Ryan Brierley is to take over as the club's chief executive, the consortium that has won the bid to run the club has said.",
@@ -468,12 +432,12 @@
     "source": "BBC Sport"
   },
   {
-    "slug": "i-know-how-it-feels-when-everything-piles-on-top-of-you-stokes",
-    "title": "I know how it feels when everything piles on top of you - Stokes",
-    "description": "Ben Stokes says he understands the criticism his side are facing during his \"toughest time as England captain\", as their Ashes series is dogged by reports of excessive drinking.",
+    "slug": "afcon-bringing-hope-to-sudan-amid-civil-war",
+    "title": "Afcon 'bringing hope' to Sudan amid civil war",
+    "description": "Sudan's participation in the Africa Cup of Nations is \"bringing hope\" to the country amid its civil war, forward Abobaker Eisa says.",
     "pubDate": "2025-12-24",
     "image": "",
-    "link": "https://www.bbc.com/sport/cricket/videos/cn0k7qygq49o?at_medium=RSS&at_campaign=rss",
+    "link": "https://www.bbc.com/sport/football/articles/cy07z8373rzo?at_medium=RSS&at_campaign=rss",
     "source": "BBC Sport"
   },
   {
@@ -483,6 +447,15 @@
     "pubDate": "2025-12-24",
     "image": "",
     "link": "https://www.bbc.com/sport/football/articles/cwyw0q74rn9o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport"
+  },
+  {
+    "slug": "i-know-how-it-feels-when-everything-piles-on-top-of-you-stokes",
+    "title": "I know how it feels when everything piles on top of you - Stokes",
+    "description": "Ben Stokes says he understands the criticism his side are facing during his \"toughest time as England captain\", as their Ashes series is dogged by reports of excessive drinking.",
+    "pubDate": "2025-12-24",
+    "image": "",
+    "link": "https://www.bbc.com/sport/cricket/videos/cn0k7qygq49o?at_medium=RSS&at_campaign=rss",
     "source": "BBC Sport"
   },
   {
@@ -603,453 +576,453 @@
     "source": "BBC Sport"
   },
   {
-    "slug": "the-final-christmas-day-fixture-in-england-60-years-on",
-    "title": "The final Christmas Day fixture in England - 60 years on",
-    "description": "This year marks the 60th anniversary since the final Football League match was played on Christmas Day in England.",
+    "slug": "fantasy-football-snap-share-report-yes-taysom-hill-is-a-viable-option-in-the-championship-round",
+    "title": "Fantasy Football Snap Share Report: Yes, Taysom Hill is a viable option in the championship round",
+    "description": "Fantasy football analyst James Koh breaks down some intriguing snap shares heading into Week 17.",
     "pubDate": "2025-12-24",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/final-christmas-day-fixture-england-151717123.html",
+    "link": "https://sports.yahoo.com/fantasy/article/fantasy-football-snap-share-report-yes-taysom-hill-is-a-viable-option-in-the-championship-round-144912953.html",
+    "source": "James Koh"
+  },
+  {
+    "slug": "ruben-amorim-offers-latest-bruno-fernandes-injury-update-after-fears-of-serious-issue",
+    "title": "Ruben Amorim offers latest Bruno Fernandes injury update after fears of serious issue",
+    "description": "Man United captain Fernandes sustained a soft tissue injury against Aston Villa, which has sparked concern of a long-term absence",
+    "pubDate": "2025-12-24",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/ruben-amorim-offers-latest-bruno-144905106.html",
     "source": "Google News"
   },
   {
-    "slug": "2026-pro-bowl-4-texans-make-team-3-alternates",
-    "title": "2026 Pro Bowl: 4 Texans Make Team, 3 Alternates",
-    "description": "Which Texans have been selected for the Pro Bowl Games?",
+    "slug": "official-mann-departs-hannover-96-schmadtke-takes-over-role",
+    "title": "Official: Mann departs Hannover 96, Schmadtke takes over role",
+    "description": "News in the 2. Bundesliga emerged this afternoon that Marcus Mann is leaving Hannover 96 after more than four years together.As the second-division club officially announced via an online statement, t...",
     "pubDate": "2025-12-24",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/2026-pro-bowl-4-texans-153000717.html",
+    "link": "https://sports.yahoo.com/articles/official-mann-departs-hannover-96-144900981.html",
     "source": "Google News"
   },
   {
-    "slug": "sky-sports-reporter-liverpool-set-to-reignite-talks-to-sign-35m-star",
-    "title": "Sky Sports Reporter: Liverpool set to reignite talks to sign £35m star",
-    "description": "Liverpool centre back planning reaches defining momentLiverpool’s transfer planning rarely feels reactive, yet the current picture at centre back demands urgency as much as foresight. Sky Sports’ ...",
+    "slug": "fantasy-football-start-39-em-sit-39-em-week-17-d-st-edition",
+    "title": "Fantasy Football Start &#39;Em, Sit &#39;Em Week 17: D/ST Edition",
+    "description": "Three defenses you should start and three you should sit this week in your fantasy league.",
     "pubDate": "2025-12-24",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/sky-sports-reporter-liverpool-set-153000173.html",
+    "link": "https://sports.yahoo.com/articles/fantasy-football-start-em-sit-144621136.html",
     "source": "Google News"
   },
   {
-    "slug": "john-cena-details-conversation-he-had-with-wwe-39-s-aj-styles-about-impending-retirement",
-    "title": "John Cena Details Conversation He Had With WWE&#39;s AJ Styles About Impending Retirement",
-    "description": "John Cena shared some thoughts with AJ Styles, as both men are nearing the end of their in-ring careers.",
+    "slug": "2025-nfl-starting-quarterback-passer-rating-leaders",
+    "title": "2025 NFL starting quarterback passer rating leaders",
+    "description": "From Matthew Stafford to Jared Goff, to Josh Allen and Drake Maye, here are the passer rating leaders with the NFL regular season nearing an end.",
     "pubDate": "2025-12-24",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/john-cena-details-conversation-had-153000301.html",
+    "link": "https://sports.yahoo.com/articles/2025-nfl-starting-quarterback-passer-144510389.html",
     "source": "Google News"
   },
   {
-    "slug": "btb-wednesday-discussion-where-should-the-cowboys-play-tyler-smith-in-2026",
-    "title": "BTB Wednesday Discussion: Where should the Cowboys play Tyler Smith in 2026?",
-    "description": "Where should the Cowboys play Tyler Smith in 2026?",
+    "slug": "flex-finder-week-17-championship-flex-plays-only",
+    "title": "FLEX Finder Week 17: Championship FLEX plays only",
+    "description": "With the fantasy football playoffs in full swing, check out some under-the-radar RBs, WRs and TEs who could spike for your lineups.",
     "pubDate": "2025-12-24",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/btb-wednesday-discussion-where-cowboys-153000301.html",
+    "link": "https://sports.yahoo.com/articles/flex-finder-week-17-championship-144436062.html",
     "source": "Google News"
   },
   {
-    "slug": "bayern-munich-midseason-player-ratings-the-midfield",
-    "title": "Bayern Munich midseason player ratings: The Midfield",
-    "description": "How did the FC Bayern midfield fare?",
+    "slug": "l-a-kings-39-goalie-phoenix-copley-is-from-the-north-pole",
+    "title": "L.A. Kings&#39; goalie Phoenix Copley is from the North Pole",
+    "description": "This is an absolutely incredible tidbit.",
     "pubDate": "2025-12-24",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/bayern-munich-midseason-player-ratings-153000061.html",
+    "link": "https://sports.yahoo.com/articles/l-kings-goalie-phoenix-copley-144340577.html",
     "source": "Google News"
   },
   {
-    "slug": "nfl-insider-reveals-concerning-rams-39-davante-adams-update",
-    "title": "NFL insider reveals concerning Rams&#39; Davante Adams update",
-    "description": "Davante Adams might get shut down this season.",
+    "slug": "browns-sign-ol-kendrick-green-off-of-bills-39-practice-squad",
+    "title": "Browns sign OL Kendrick Green off of Bills&#39; practice squad",
+    "description": "The Browns have added an offensive lineman to their roster for the final weeks of the regular season.",
     "pubDate": "2025-12-24",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/nfl-insider-reveals-concerning-rams-152629240.html",
+    "link": "https://sports.yahoo.com/articles/browns-sign-ol-kendrick-green-144319218.html",
     "source": "Google News"
   },
   {
-    "slug": "fantasy-football-week-17-full-ppr-flex-rankings",
-    "title": "Fantasy Football Week 17 Full PPR FLEX Rankings",
-    "description": "Here are our fantasy football Full PPR tight end rankings for Week 17 of the 2025 NFL season.",
+    "slug": "colts-vs-jaguars-who-has-the-advantage-in-week-17-rematch",
+    "title": "Colts vs. Jaguars: Who has the advantage in Week 17 rematch?",
+    "description": "Which team has the advantage and where in the Colts vs. Jaguars Week 17 division rematch?",
     "pubDate": "2025-12-24",
     "image": "",
-    "link": "https://sports.yahoo.com/fantasy/article/fantasy-football-week-17-full-ppr-flex-rankings-152518121.html",
-    "source": "Yahoo Sports Fantasy Staff"
-  },
-  {
-    "slug": "fantasy-football-week-17-full-ppr-tight-end-rankings",
-    "title": "Fantasy Football Week 17 Full PPR Tight End Rankings",
-    "description": "Here are our fantasy football Full PPR tight end rankings for Week 17 of the 2025 NFL season.",
-    "pubDate": "2025-12-24",
-    "image": "",
-    "link": "https://sports.yahoo.com/fantasy/article/fantasy-football-week-17-full-ppr-tight-end-rankings-152513111.html",
-    "source": "Yahoo Sports Fantasy Staff"
-  },
-  {
-    "slug": "fantasy-football-week-17-full-ppr-wide-receiver-rankings",
-    "title": "Fantasy Football Week 17 Full PPR Wide Receiver Rankings",
-    "description": "Here are our fantasy football Full PPR wide receiver rankings for Week 17 of the 2025 NFL season.",
-    "pubDate": "2025-12-24",
-    "image": "",
-    "link": "https://sports.yahoo.com/fantasy/article/fantasy-football-week-17-full-ppr-wide-receiver-rankings-152509055.html",
-    "source": "Yahoo Sports Fantasy Staff"
-  },
-  {
-    "slug": "fantasy-football-week-17-full-ppr-running-back-rankings",
-    "title": "Fantasy Football Week 17 Full PPR Running Back Rankings",
-    "description": "Here are our fantasy football Full PPR running back rankings for Week 17 of the 2025 NFL season.",
-    "pubDate": "2025-12-24",
-    "image": "",
-    "link": "https://sports.yahoo.com/fantasy/article/fantasy-football-week-17-full-ppr-running-back-rankings-152504340.html",
-    "source": "Yahoo Sports Fantasy Staff"
-  },
-  {
-    "slug": "fantasy-football-week-17-ppr-rankings-hub-advice-to-help-with-your-start-sit-questions",
-    "title": "Fantasy Football Week 17 PPR Rankings Hub: Advice to help with your start-sit questions",
-    "description": "Here you can find all of our PPR rankings for fantasy football in Week 17.",
-    "pubDate": "2025-12-24",
-    "image": "",
-    "link": "https://sports.yahoo.com/fantasy/article/fantasy-football-week-17-ppr-rankings-hub-advice-to-help-with-your-start-sit-questions-152457656.html",
-    "source": "Yahoo Sports Fantasy Staff"
-  },
-  {
-    "slug": "bills-sign-6-foot-5-florida-gators-product-to-help-josh-allen-and-the-offense",
-    "title": "Bills sign 6-foot-5 Florida Gators product to help Josh Allen and the offense",
-    "description": "Buffalo is adding depth for the stretch run.",
-    "pubDate": "2025-12-24",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/bills-sign-6-foot-5-152447984.html",
+    "link": "https://sports.yahoo.com/articles/colts-vs-jaguars-advantage-week-144240362.html",
     "source": "Google News"
   },
   {
-    "slug": "steelers-vs-browns-4-big-storylines-in-this-week-39-s-game",
-    "title": "Steelers vs Browns: 4 big storylines in this week&#39;s game",
-    "description": "The Steelers are taking on the Browns this week but won't know how big this game is until late Saturday night.",
+    "slug": "porter-doris-return-for-leinster-39-s-munster-trip",
+    "title": "Porter & Doris return for Leinster&#39;s Munster trip",
+    "description": "Leinster recall fit-again Andrew Porter and captain Caelan Doris for their United Rugby Championship game against Munster at Thomond Park on Saturday.",
     "pubDate": "2025-12-24",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/steelers-vs-browns-4-big-152444604.html",
+    "link": "https://sports.yahoo.com/articles/porter-doris-return-leinsters-munster-133511650.html",
     "source": "Google News"
   },
   {
-    "slug": "nfl-tv-broadcast-map-for-ravens-vs-packers-in-week-17",
-    "title": "NFL TV broadcast map for Ravens vs. Packers in Week 17",
-    "description": "The TV broadcast map has been released, and with the Ravens vs. Packers scheduled for Saturday night, fans will see Steelers-Browns",
+    "slug": "ex-liverpool-sporting-director-schmadtke-back-at-hanover",
+    "title": "Ex-Liverpool sporting director Schmadtke back at Hanover",
+    "description": "Former Liverpool sporting director Jörg Schmadtke is returning to Hanover 96 as managing director for sport, the German second division club said on Wednesday. Hanover said that Schmadtke will start on January 1 in succession of Marcus Mann, who moves on to Austria's Red Bull Salzburg.",
     "pubDate": "2025-12-24",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/nfl-tv-broadcast-map-ravens-152316337.html",
+    "link": "https://sports.yahoo.com/articles/ex-liverpool-sporting-director-schmadtke-144021384.html",
     "source": "Google News"
   },
   {
-    "slug": "trade-myles-garrett-media-calling-for-browns-to-deal-star",
-    "title": "Trade Myles Garrett? Media calling for Browns to deal star",
-    "description": "Should the Browns trade Myles Garrett? Is it even possible with the salary cap impact? Members of the media are claiming it's time for Cleveland to deal the superstar.",
+    "slug": "lioness-stanway-awarded-freedom-of-hometown",
+    "title": "Lioness Stanway awarded freedom of hometown",
+    "description": "The England midfielder says she wants to continue helping to support the next generation.",
     "pubDate": "2025-12-24",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/trade-myles-garrett-media-calling-152255025.html",
+    "link": "https://sports.yahoo.com/articles/lioness-stanway-awarded-freedom-hometown-143200196.html",
     "source": "Google News"
   },
   {
-    "slug": "afcon-2025-fixtures-results-tables-and-schedule-in-full-from-africa-cup-of-nations",
-    "title": "Afcon 2025: Fixtures, results, tables and schedule in full from Africa Cup of Nations",
-    "description": "Morocco host the 24-nation tournament as Ivory Coast return to defend their crown",
+    "slug": "who-has-advantage-in-jaguars-vs-colts-week-17-nfl-matchup",
+    "title": "Who has advantage in Jaguars vs. Colts Week 17 NFL matchup?",
+    "description": "Who has the advantage and where in the Jaguars vs. Colts Week 17 NFL matchup?",
     "pubDate": "2025-12-24",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/afcon-2025-fixtures-dates-start-154127513.html",
+    "link": "https://sports.yahoo.com/articles/advantage-jaguars-vs-colts-week-143725851.html",
     "source": "Google News"
   },
   {
-    "slug": "f1-2025-awards-best-driver-biggest-disappointment-and-top-overtake",
-    "title": "F1 2025 awards: Best driver, biggest disappointment and top overtake",
-    "description": "Lando Norris won the 2025 drivers’ world championship, but who else impressed? Formula 1 correspondent Kieran Jackson picks through the good, the bad and the ugly of an entertaining and dramatic season on track",
+    "slug": "christian-gonzalez-39-s-pro-bowl-nod-proves-costly-for-new-england-patriots",
+    "title": "Christian Gonzalez&#39;s Pro Bowl nod proves costly for New England Patriots",
+    "description": "New England Patriots cornerback Christian Gonzalez has secured his very first Pro Bowl selection, which is great news for him but bad news for the Patriots' wallet.",
     "pubDate": "2025-12-24",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/f1-2025-season-awards-why-100524454.html",
+    "link": "https://sports.yahoo.com/articles/christian-gonzalezs-pro-bowl-nod-143724144.html",
     "source": "Google News"
   },
   {
-    "slug": "bafana-targeted-at-afcon-says-ronwen-williams",
-    "title": "Bafana targeted at AFCON, says Ronwen Williams",
-    "description": "InterviewWilliams believes Bafana have target on the backPhoto: Ryan Wilkisky/BackPagePix Bafana Bafana goalkeeper and captain Ronwen Williams says his team is being targeted in the 2025 Africa Cup of...",
+    "slug": "max-verstappen-39-s-team-switches-to-mercedes-for-2026-gt-campaign",
+    "title": "Max Verstappen&#39;s team switches to Mercedes for 2026 GT campaign",
+    "description": "After sampling the Mercedes GT3 himself, Max Verstappen's team is pivoting to the German manufacturer next year",
     "pubDate": "2025-12-24",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/bafana-targeted-afcon-says-ronwen-152000591.html",
+    "link": "https://sports.yahoo.com/articles/max-verstappens-team-switches-mercedes-143718068.html",
     "source": "Google News"
   },
   {
-    "slug": "rivals-2025-high-school-football-national-all-americans",
-    "title": "Rivals 2025 High School Football National All-Americans",
-    "description": "The end of the high school football was last week and what a season it was in 2025 as gridiron stars performed all across the country the past few months to electrify on Friday nights. We’re unveiling our National All-American list – the names you have been probably hearing about the last few years",
+    "slug": "fraulo-on-the-cusp-of-leaving-gladbach-for-derby-county",
+    "title": "Fraulo on the cusp of leaving Gladbach for Derby County",
+    "description": "According to Tipsbladet, Oscar Fraulo is set to leave Borussia Mönchengladbach behind and join Derby County.The two clubs have reportedly already agreed on an undisclosed transfer fee for the 22-year...",
     "pubDate": "2025-12-24",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/rivals-2025-high-school-football-151921620.html",
+    "link": "https://sports.yahoo.com/articles/fraulo-cusp-leaving-gladbach-derby-143700943.html",
     "source": "Google News"
   },
   {
-    "slug": "multiple-76ers-discuss-impact-of-missing-vj-edgecombe-others-vs-nets",
-    "title": "Multiple 76ers discuss impact of missing VJ Edgecombe, others vs. Nets",
-    "description": "Multiple members of the Philadelphia 76ers discuss the impact of missing VJ Edgecombe and others in the loss to the Brooklyn Nets.",
+    "slug": "auburn-linebacker-robert-woodyard-jr-plans-on-entering-the-portal",
+    "title": "Auburn linebacker Robert Woodyard Jr. plans on entering the portal",
+    "description": "Auburn linebacker Robert Woodyard Jr. plans on entering the transfer portal",
     "pubDate": "2025-12-24",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/multiple-76ers-discuss-impact-missing-151916736.html",
+    "link": "https://sports.yahoo.com/articles/auburn-linebacker-robert-woodyard-jr-143641088.html",
     "source": "Google News"
   },
   {
-    "slug": "tv-broadcast-maps-and-announcers-for-week-17-of-the-2025-season",
-    "title": "TV broadcast maps and announcers for Week 17 of the 2025 season",
-    "description": "Here are the television broadcast maps and announcers for Week 17 of the 2025 NFL season . . .",
+    "slug": "checking-up-on-red-sox-s-kristian-campbell-in-winter-ball",
+    "title": "Checking Up On Red Sox’s Kristian Campbell In Winter Ball",
+    "description": "Boston Red Sox fans perked up in November when news surfaced that Kristian Campbell would be playing winter ball in Puerto Rico. It would be an opportunity for fans to get a peek at Campbell’s ongoing development. Early photos and footage from Puerto Rico showed that Campbell had adjusted his swing",
     "pubDate": "2025-12-24",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/tv-broadcast-maps-announcers-week-151748382.html",
+    "link": "https://sports.yahoo.com/articles/checking-red-sox-kristian-campbell-143544294.html",
     "source": "Google News"
   },
   {
-    "slug": "76ers-sign-former-1st-round-pick-from-bucks-to-new-contract",
-    "title": "76ers sign former 1st-round pick from Bucks to new contract",
-    "description": "Philly is adding some talent to its roster.",
+    "slug": "espn-insider-suggests-ravens-should-look-to-a-future-without-lamar-jackson",
+    "title": "ESPN insider suggests Ravens should look to a future without Lamar Jackson",
+    "description": "This could shake up the whole NFL.",
     "pubDate": "2025-12-24",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/76ers-sign-former-1st-round-151743237.html",
+    "link": "https://sports.yahoo.com/articles/espn-insider-suggests-ravens-look-143533233.html",
     "source": "Google News"
   },
   {
-    "slug": "week-17-fantasy-football-playoffs-confidence-meter-tyler-shough-breaking-through",
-    "title": "Week 17 Fantasy Football Playoffs Confidence Meter: Tyler Shough breaking through",
-    "description": "Zachary Krueger dives into players he has high, medium, and low levels of confidence in for the fantasy football playoffs.",
+    "slug": "lions-donning-alternate-uniforms-vs-vikings-in-christmas-day-tilt",
+    "title": "Lions donning alternate uniforms vs. Vikings in Christmas Day tilt",
+    "description": "The Detroit Lions are donning their black alternates against the Vikings on Christmas Day.",
     "pubDate": "2025-12-24",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/week-17-fantasy-football-playoffs-151735366.html",
+    "link": "https://sports.yahoo.com/articles/lions-donning-alternate-uniforms-vs-143519453.html",
     "source": "Google News"
   },
   {
-    "slug": "torino-also-interested-in-pisilli",
-    "title": "Torino also interested in Pisilli",
-    "description": "While the attack is pushing for the arrivals of Zirkzee and Raspadori, Roma is also working on the outgoing transfer market. In addition to Ferguson and Dovbyk, the sale of Pisilli is also being consi...",
+    "slug": "latest-joe-burrow-bengals-future-conspiracy-is-as-silly-as-the-first",
+    "title": "Latest Joe Burrow, Bengals future conspiracy is as silly as the first",
+    "description": "Consistent theories about Joe Burrow not wanting to play for the Bengals just won't go away.",
     "pubDate": "2025-12-24",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/torino-interested-pisilli-151700438.html",
+    "link": "https://sports.yahoo.com/articles/latest-joe-burrow-bengals-future-143453865.html",
     "source": "Google News"
   },
   {
-    "slug": "christmas-villains",
-    "title": "Christmas Villains",
-    "description": "New episode of The Fergie Fledglings!Nathan and Pauly get together to talk about Manchester United’s 2-1 defeat at Aston Villa from the weekend and look ahead to a Boxing Day matchup with Newcastle later in the week.As always, thank you for listening and be sure to subscribe and save wherever you ge",
+    "slug": "don-39-t-worry-about-broncos-blowing-out-chiefs-and-more-storylines-that-will-define-fantasy-football-championship-week",
+    "title": "Don&#39;t worry about Broncos blowing out Chiefs and more storylines that will define fantasy football championship week",
+    "description": "Joel Smyth takes you through eight storylines he believes will define fantasy football championship matchups in Week 17.",
     "pubDate": "2025-12-24",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/christmas-villains-151623447.html",
+    "link": "https://sports.yahoo.com/fantasy/article/dont-worry-about-broncos-blowing-out-chiefs-and-more-storylines-that-will-define-fantasy-football-championship-week-143450551.html",
+    "source": "Joel Smyth"
+  },
+  {
+    "slug": "former-cleveland-browns-head-coach-upholds-suspension-on-steelers-wr-dk-metcalf",
+    "title": "Former Cleveland Browns head coach upholds suspension on Steelers WR DK Metcalf",
+    "description": "The former Browns head coach upheld Metcalf's suspension.",
+    "pubDate": "2025-12-24",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/former-cleveland-browns-head-coach-143434347.html",
     "source": "Google News"
   },
   {
-    "slug": "prep-basketball-roundup-niemi-39-s-buzzer-beating-three-gives-hoquiam-win-against-overlake",
-    "title": "Prep Basketball Roundup: Niemi&#39;s buzzer-beating three gives Hoquiam win against Overlake",
-    "description": "A last-second shot set off a holiday celebration in Hoquiam as we review Tuesday’s prep basketball games on the Harbor. ~~~ BOYS PREP BASKETBALL Hoquiam 55, Overlake 54 Leave a good shooter open, even slightly, and they can make you pay. Hoquiam junior guard Lincoln Niemi did just that when he splas",
+    "slug": "sunderland-defender-could-depart-in-january-says-le-bris",
+    "title": "Sunderland defender could depart in January says Le Bris",
+    "description": "Regis Le Bris admits Arthur Masuaku could leave Sunderland in January.The full-back has struggled for game time at the club since his summer arrival, having not played for the Black Cats since October...",
     "pubDate": "2025-12-24",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/prep-basketball-roundup-niemis-buzzer-151600615.html",
+    "link": "https://sports.yahoo.com/articles/sunderland-defender-could-depart-january-143400445.html",
     "source": "Google News"
   },
   {
-    "slug": "nfl-tv-broadcast-map-for-philadelphia-eagles-vs-buffalo-bills-in-week-17",
-    "title": "NFL TV broadcast map for Philadelphia Eagles vs. Buffalo Bills in Week 17",
-    "description": "The NFL slate of games for Week 17 is set, and most of America will see the Bills host the Eagles in a massive Sunday afternoon showdown",
+    "slug": "rams-rooting-guide-which-week-17-games-could-impact-la",
+    "title": "Rams rooting guide: Which Week 17 games could impact LA?",
+    "description": "The Rams need help in order to win the NFC West and the No. 1 seed. It starts this week where two key games will have a major impact on LA's seeding.",
     "pubDate": "2025-12-24",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/nfl-tv-broadcast-map-philadelphia-151539040.html",
+    "link": "https://sports.yahoo.com/articles/rams-rooting-guide-week-17-143244389.html",
     "source": "Google News"
   },
   {
-    "slug": "south-carolina-edge-taeshawn-alston-plans-to-enter-ncaa-transfer-portal",
-    "title": "South Carolina EDGE Taeshawn Alston plans to enter NCAA Transfer Portal",
-    "description": "South Carolina freshman EDGE rusher Taeshawn Alston plans to enter the NCAA Transfer Portal, On3’s Pete Nakos reports. Alston did not see any game action this season and redshirted. The news of Alston’s transfer comes one day after it was revealed that All-SEC EDGE rusher Dylan Stewart would be retu",
+    "slug": "what-exactly-is-cameron-boozer-s-nba-potential",
+    "title": "What Exactly Is Cameron Boozer’s NBA Potential?",
+    "description": "Boozer’s production is changing his NBA Draft narrative.",
     "pubDate": "2025-12-24",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/south-carolina-edge-taeshawn-alston-151510671.html",
+    "link": "https://sports.yahoo.com/articles/exactly-cameron-boozer-nba-potential-143215508.html",
     "source": "Google News"
   },
   {
-    "slug": "nba-players-who-got-waived-on-christmas",
-    "title": "NBA players who got waived on Christmas",
-    "description": "It was not a merry Christmas in the household of these players. The NBA can be a brutal business like that.",
+    "slug": "tuesday-big-ten-recap-ohio-state-beats-grambling-state",
+    "title": "Tuesday Big Ten Recap: Ohio State Beats Grambling State",
+    "description": "Recap all the Big Ten action from Tuesday.",
     "pubDate": "2025-12-24",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/nba-players-got-waived-christmas-202735404.html",
+    "link": "https://sports.yahoo.com/articles/tuesday-big-ten-recap-ohio-143202242.html",
     "source": "Google News"
   },
   {
-    "slug": "it-39-s-time-for-wright-to-retire-van-gerwen",
-    "title": "It&#39;s time for Wright to retire - Van Gerwen",
-    "description": "Three-time world champion Michael van Gerwen says Peter Wright should retire following his defeat in the PDC World Darts Championship.",
+    "slug": "real-madrid-pick-their-favourite-in-quest-to-sign-a-new-defender-in-2026",
+    "title": "Real Madrid pick their favourite in quest to sign a new defender in 2026",
+    "description": "Barring Endrick’s confirmed loan move to Lyon, Real Madrid are not expected to make too many moves in the upcoming January transfer window.However, the club will be active once again in the summer o...",
     "pubDate": "2025-12-24",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/time-wright-retire-van-gerwen-150636825.html",
+    "link": "https://sports.yahoo.com/articles/real-madrid-pick-favourite-quest-143200523.html",
     "source": "Google News"
   },
   {
-    "slug": "saints-39-taysom-hill-makes-super-bowl-era-nfl-history-with-trio-of-1-000-yard-feats",
-    "title": "Saints&#39; Taysom Hill makes Super Bowl era NFL history with trio of 1,000-yard feats",
-    "description": "Taysom Hill is a one-of-a-kind player in modern NFL history.",
+    "slug": "sixers-signing-marjon-beauchamp-to-a-two-way-deal",
+    "title": "Sixers signing MarJon Beauchamp to a two-way deal",
+    "description": "Sixers signing MarJon Beauchamp to a two-way deal",
     "pubDate": "2025-12-24",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/saints-taysom-hill-makes-super-151420405.html",
+    "link": "https://sports.yahoo.com/articles/sixers-signing-marjon-beauchamp-two-143159414.html",
     "source": "Google News"
   },
   {
-    "slug": "breaking-news-atl-tico-madrid-announce-another-departure",
-    "title": "🚨 Breaking news: Atlético Madrid announce another departure",
-    "description": "The winter transfer market is starting to heat up in Spain. Atlético de Madrid and Club Atlético Osasuna have formalized an agreement this Wednesday for the permanent transfer of Javi Galán, who wi...",
+    "slug": "austin-reaves-on-luka-doncic-we-act-like-we-39-re-probably-10-year-old-best-friends",
+    "title": "Austin Reaves on Luka Doncic: ‘We act like we&#39;re probably 10-year old best friends’",
+    "description": "Austin Reaves on Luka Doncic: ‘We act like we're probably 10-year old best friends’",
     "pubDate": "2025-12-24",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/breaking-news-atl-tico-madrid-151400553.html",
+    "link": "https://sports.yahoo.com/articles/austin-reaves-luka-doncic-act-143158547.html",
     "source": "Google News"
   },
   {
-    "slug": "formula-e-expects-to-have-a-woman-on-the-grid-within-the-next-two-years",
-    "title": "Formula E expects to have a woman on the grid “within the next two years”",
-    "description": "The series hasn’t featured a female driver since its 2015-16 Season 2",
+    "slug": "luka-doncic-leads-the-league-in-free-throw-attempts",
+    "title": "Luka Doncic leads the league in free throw attempts …",
+    "description": "Luka Doncic leads the league in free throw attempts …",
     "pubDate": "2025-12-24",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/formula-e-expects-woman-grid-151355154.html",
+    "link": "https://sports.yahoo.com/articles/luka-doncic-leads-league-free-143157784.html",
     "source": "Google News"
   },
   {
-    "slug": "how-former-lsu-football-transfer-jay-39-viar-suggs-fared-with-wisconsin",
-    "title": "How former LSU football transfer Jay&#39;Viar Suggs fared with Wisconsin",
-    "description": "LSU defensive lineman Jay'Viar Suggs transferred to Wisconsin ahead of the 2025 season. See how he performed in 2025 with the Badgers:",
+    "slug": "ravens-continue-to-have-major-problems-closing-out-games",
+    "title": "Ravens continue to have major problems closing out games",
+    "description": "Ravens continue having problems finishing out games out where ESPN Analytics gave them a 90%+ chance of winning",
     "pubDate": "2025-12-24",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/former-lsu-football-transfer-jayviar-151321154.html",
+    "link": "https://sports.yahoo.com/articles/ravens-continue-major-problems-closing-143139154.html",
     "source": "Google News"
   },
   {
-    "slug": "patriots-insider-gushes-over-drake-maye-s-performance-vs-ravens",
-    "title": "Patriots’ Insider Gushes Over Drake Maye’s Performance Vs. Ravens",
-    "description": "The New England Patriots rallied from an 11-point fourth-quarter deficit in Week 16 to pick up a 28-24 victory over the Baltimore Ravens on Sunday Night Football. Unsurprisingly, second-year quarterback Drake Maye played a major role in the team’s 12th win of the season. It wasn’t his cleanest outin",
+    "slug": "five-star-rb-recruit-names-georgia-football-among-top-schools",
+    "title": "Five-star RB recruit names Georgia football among top schools",
+    "description": "Five-star running back recruit David Gabriel Georges lists Georgia among his top eight schools, according to Hayes Fawcett of On3.",
     "pubDate": "2025-12-24",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/patriots-insider-gushes-over-drake-151315255.html",
+    "link": "https://sports.yahoo.com/articles/five-star-rb-recruit-names-143129890.html",
     "source": "Google News"
   },
   {
-    "slug": "sean-strickland-vs-anthony-hernandez-odds-ex-champ-betting-line-underdog-for-ufc-houston-headliner",
-    "title": "Sean Strickland vs. Anthony Hernandez odds: Ex-champ betting line underdog for UFC Houston headliner",
-    "description": "Former UFC middleweight champion Sean Strickland will try to stay afloat in the 185-pound title chase when he collides with fellow Top 5 contender Anthony Hernandez atop the upcoming UFC Houston fight card, recently made official for Paramount+ on Sat., Feb. 21, 2026 inside Toyota Center in Houston,",
+    "slug": "prescott-maye-lead-week-17-fantasy-football-quarterback-rankings",
+    "title": "Prescott, Maye lead Week 17 fantasy football quarterback rankings",
+    "description": "Dak Prescott, Drake Maye and Joe Burrow lead UPI senior sports writer Alex Butler's Top-20 fantasy football quarterback rankings for Week 17.",
     "pubDate": "2025-12-24",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/sean-strickland-vs-anthony-hernandez-151222634.html",
+    "link": "https://sports.yahoo.com/articles/prescott-maye-lead-week-17-143107858.html",
     "source": "Google News"
   },
   {
-    "slug": "eagles-news-not-time-to-abandon-the-tush-push",
-    "title": "Eagles News: Not time to abandon the Tush Push",
-    "description": "Philadelphia Eagles news and links for 12/24/25.",
+    "slug": "mc-j-the-pop-tarts-bowl-headlines-this-weekend-s-slate-of-bowl-games",
+    "title": "MC&J: The Pop-Tarts Bowl headlines this weekend’s slate of bowl games",
+    "description": "Friday and Saturday will feature 11 more bowl games, including three involving Big Ten teams.",
     "pubDate": "2025-12-24",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/eagles-news-not-time-abandon-151206923.html",
+    "link": "https://sports.yahoo.com/articles/mc-j-pop-tarts-bowl-143100931.html",
     "source": "Google News"
   },
   {
-    "slug": "jason-kelce-adds-n-j-hot-sauce-company-to-post-nfl-business-portfolio",
-    "title": "Jason Kelce adds N.J. hot sauce company to post-NFL business portfolio",
-    "description": "The longtime Philadelphia Eagle is using his profile to help Hank Sauce, originally made in Sea Isle City.",
+    "slug": "bengals-get-major-trade-demand-update-on-joe-burrow-from-nfl-insiders",
+    "title": "Bengals get major trade demand update on Joe Burrow from NFL insiders",
+    "description": "Joe Burrow doesn't want to go anywhere.",
     "pubDate": "2025-12-24",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/jason-kelce-adds-n-j-124539437.html",
+    "link": "https://sports.yahoo.com/articles/bengals-major-trade-demand-joe-143024726.html",
     "source": "Google News"
   },
   {
-    "slug": "louisville-wide-receiver-shaun-boykins-jr-plans-to-enter-ncaa-transfer-portal",
-    "title": "Louisville wide receiver Shaun Boykins Jr. plans to enter NCAA Transfer Portal",
-    "description": "Louisville wide receiver Shaun Boykins Jr. plans to enter the NCAA Transfer Portal, per On3’s Pete Nakos. To keep up with the latest players on the move, check out On3’s Transfer Portal wire. The On3 Transfer Portal Instagram account and Twitter account are excellent resources to stay up to date wit",
+    "slug": "wisconsin-a-school-to-watch-for-sec-transfer-wide-receiver",
+    "title": "Wisconsin a ‘school to watch’ for SEC transfer wide receiver",
+    "description": "Wisconsin is an 'early school to watch' for Oklahoma transfer wide receiver Jayden Gibson, according to On3's Pete Nakos.",
     "pubDate": "2025-12-24",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/louisville-wide-receiver-shaun-boykins-151110553.html",
+    "link": "https://sports.yahoo.com/articles/wisconsin-school-watch-sec-transfer-143008205.html",
     "source": "Google News"
   },
   {
-    "slug": "christmas-instead-of-four-hills-preparation-for-retired-eisenbichler",
-    "title": "Christmas instead of Four Hills preparation for retired Eisenbichler",
-    "description": "Former world champion Markus Eisenbichler of Germany is not missing ski jumping as he looks forward to his first Christmas since retiring from the sport. \"You can make it a little more festive.",
+    "slug": "wwe-raw-ratings-viewership-report-12-15-2025",
+    "title": "WWE Raw Ratings & Viewership Report: 12/15/2025",
+    "description": "WWE Raw failed to feature in Netflix's global Top 10 shows ranking for the third time this year, but still ranked in the Top 10 on the US charts.",
     "pubDate": "2025-12-24",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/christmas-instead-four-hills-preparation-151048797.html",
+    "link": "https://sports.yahoo.com/articles/wwe-raw-ratings-viewership-report-143000992.html",
     "source": "Google News"
   },
   {
-    "slug": "boys-basketball-trotwood-finds-its-pace-in-61-50-win-over-urbana",
-    "title": "Boys basketball: Trotwood finds its pace in 61-50 win over Urbana",
-    "description": "Dec. 24—TROTWOOD — An uncharacteristic start for Trotwood allowed Urbana to build a 10-point lead in the first quarter. Turnovers caused its offense to start in a rut. Once the Rams got out of it, they looked like themselves. Trotwood defeated Urbana 61-50 at home Tuesday. The Rams are now 4-1 overa",
+    "slug": "a-pod-of-their-own-cloudy-with-a-chance-of-dude",
+    "title": "A Pod of Their Own: Cloudy with a chance of Dude",
+    "description": "This week, we talk about the Jeff McNeil trade and the additions of Jorge Polanco and Luke Weaver.",
     "pubDate": "2025-12-24",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/boys-basketball-trotwood-finds-pace-151000126.html",
+    "link": "https://sports.yahoo.com/articles/pod-own-cloudy-chance-dude-143000530.html",
     "source": "Google News"
   },
   {
-    "slug": "espn-39-s-adam-schefter-says-nfl-isn-39-t-done-with-dk-metcalf-fan-shoving-incident",
-    "title": "ESPN&#39;s Adam Schefter says NFL isn&#39;t done with DK Metcalf-fan shoving incident",
-    "description": "This isn't quite done yet.",
+    "slug": "good-morning-san-diego-padres-could-look-to-minor-league-arms-for-rotation-depth-reunion-with-luis-arraez-possible",
+    "title": "Good Morning San Diego: Padres could look to minor league arms for rotation depth; reunion with Luis Arraez possible",
+    "description": "Ryan O’Hearn signs two-year deal with Pirates",
     "pubDate": "2025-12-24",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/espns-adam-schefter-says-nfl-150932778.html",
+    "link": "https://sports.yahoo.com/articles/good-morning-san-diego-padres-143000766.html",
     "source": "Google News"
   },
   {
-    "slug": "pft-39-s-week-17-2025-nfl-picks-florio-vs-simms",
-    "title": "PFT&#39;s Week 17 2025 NFL picks: Florio vs. Simms",
-    "description": "All games picked, straight up and against the spread.",
+    "slug": "8220-he-8217-s-ready-8221-8211-maresca-confirms-chelsea-star-ready-to-play-full-game-but-blues-need-more-than-minutes",
+    "title": "&#8220;He&#8217;s ready&#8221; &#8211; Maresca confirms Chelsea star ready to play full game but Blues need more than minutes",
+    "description": "After missing him for so long with a groin injury, Cole Palmer’s reintegration into the Chelsea team has been pretty quiet.The team hasn’t been at its best, and nor has the attacker. A lovely goal...",
     "pubDate": "2025-12-24",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/pfts-week-17-2025-nfl-150802783.html",
+    "link": "https://sports.yahoo.com/articles/ready-maresca-confirms-chelsea-star-143000403.html",
     "source": "Google News"
   },
   {
-    "slug": "detroit-lions-39-playoff-hopes-could-rest-on-shoulders-of-backup-quarterback",
-    "title": "Detroit Lions&#39; playoff hopes could rest on shoulders of backup quarterback",
-    "description": "The Detroit Lions need to win and also need the Baltimore Ravens to beat the Green Bay Packers this week in order to stay in playoff contention. However, Detroit might be relying on a backup quarterback to save their season.",
+    "slug": "wolves-dealt-major-injury-blow-ahead-of-liverpool-clash",
+    "title": "Wolves dealt major injury blow ahead of Liverpool clash",
+    "description": "Liverpool prepare for Wolves test amid mounting injury concernsWolves arrive at Anfield carrying the weight of a brutal campaign and a fresh injury setback, as Liverpool look to sustain their momentum...",
     "pubDate": "2025-12-24",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/detroit-lions-playoff-hopes-could-150740206.html",
+    "link": "https://sports.yahoo.com/articles/wolves-dealt-major-injury-blow-143000100.html",
     "source": "Google News"
   },
   {
-    "slug": "random-ramsdom-playoffs-eve",
-    "title": "Random Ramsdom: Playoffs eve",
-    "description": "Los Angeles Rams News and Links for 12/24/25",
+    "slug": "reports-genoa-are-making-a-big-push-to-bring-mattia-perin-back-to-the-marassi",
+    "title": "Reports: Genoa are making a big push to bring Mattia Perin back to the Marassi",
+    "description": "Juventus’ backup goalkeeper has a familiar club as a potential suitor to give him the chance at a starting spot once again.",
     "pubDate": "2025-12-24",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/random-ramsdom-playoffs-eve-150707188.html",
+    "link": "https://sports.yahoo.com/articles/reports-genoa-making-big-push-143000447.html",
     "source": "Google News"
   },
   {
-    "slug": "watching-lions-vikings-for-non-netflix-customers",
-    "title": "Watching Lions/Vikings for Non-Netflix Customers",
-    "description": "For some of you, there is a way",
+    "slug": "kyle-shanahan-was-going-to-challenge-jake-tonges-incompletion",
+    "title": "Kyle Shanahan was going to challenge Jake Tonges’ incompletion",
+    "description": "Brock Purdy threw five touchdowns, should’ve had six, joining Joe Montana and Steve Young.",
     "pubDate": "2025-12-24",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/watching-lions-vikings-non-netflix-150700200.html",
+    "link": "https://sports.yahoo.com/articles/kyle-shanahan-going-challenge-jake-143000057.html",
     "source": "Google News"
   },
   {
-    "slug": "berkly-catton-returns-vince-dunn-exits-the-lineup-as-the-kraken-defeat-the-kings-3-2",
-    "title": "Berkly Catton Returns, Vince Dunn Exits The Lineup As The Kraken Defeat The Kings 3-2",
-    "description": "Berkly Catton returned to the Seattle Kraken lineup, but the team was without star defenseman Vince Dunn as they defeated the Los Angeles Kings 3-2.",
+    "slug": "ask-brian-holiday-seahawks-edition",
+    "title": "Ask Brian: Holiday Seahawks edition",
+    "description": "Hello CSR! Welcome to Ask Brian, your weekly Panthers fan mail bag for everyone! We are into the final stretch of the season and holy crap. The Panthers could actually make the playoffs. What a wild time to be in. Technically the Panthers could make the playoffs this week with a win over Seattle and",
     "pubDate": "2025-12-24",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/berkly-catton-returns-vince-dunn-150554349.html",
+    "link": "https://sports.yahoo.com/articles/ask-brian-holiday-seahawks-edition-143000845.html",
     "source": "Google News"
   },
   {
-    "slug": "tennessee-titans-head-coaching-search-jeff-hafley-in-the-crosshairs",
-    "title": "Tennessee Titans head coaching search: Jeff Hafley in the crosshairs",
-    "description": "The Tennessee Titans are searching for their next head coach, and Green Bay Packers defensive coordinator Jeff Hafley could be a fit.",
+    "slug": "phnx-daily-cardinals-8217-struggling-defense-faces-major-challenge",
+    "title": "PHNX Daily: Cardinals&#8217; Struggling Defense Faces Major Challenge",
+    "description": "👋 GOOD MORNING – Merry Christmas eve (if you celebrate) everyone! This year hasn’t exactly been much of a gift if you’re an Arizona Cardinals fan, but there’s still games...",
     "pubDate": "2025-12-24",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/tennessee-titans-head-coaching-search-150543161.html",
+    "link": "https://sports.yahoo.com/articles/phnx-daily-cardinals-struggling-defense-143000215.html",
     "source": "Google News"
   },
   {
-    "slug": "gameabove-sports-bowl-nfl-draft-prospects-to-watch",
-    "title": "GameAbove Sports Bowl: NFL Draft Prospects to Watch",
-    "description": "Caleb Tiernan is the top draft prospect in this game. The 6-7, 329 pound left tackle could solidify his second round status with a big game here.",
+    "slug": "oilers-39-connor-mcdavid-makes-hockey-history-not-done-in-nhl-in-decades",
+    "title": "Oilers&#39; Connor McDavid makes hockey history not done in NHL in decades",
+    "description": "He continues to be the best.",
     "pubDate": "2025-12-24",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/gameabove-sports-bowl-nfl-draft-150523586.html",
+    "link": "https://sports.yahoo.com/articles/oilers-connor-mcdavid-makes-hockey-142953963.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "dolphins-dc-doesn-39-t-understand-pro-bowl-snub-of-lb-jordyn-brooks",
+    "title": "Dolphins DC doesn&#39;t understand Pro Bowl snub of LB Jordyn Brooks",
+    "description": "\"Just put on the tape,\" says Dolphins defensive coordinator Anthony Weaver.",
+    "pubDate": "2025-12-24",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/dolphins-dc-doesnt-understand-pro-142917404.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "broncos-veteran-pro-bowl-players-have-waited-a-long-time-to-be-honored",
+    "title": "Broncos Veteran Pro-Bowl Players Have Waited A Long Time To Be Honored",
+    "description": "The Denver Broncos had a half-dozen players make the Pro Bowl roster yesterday, and their backgrounds are all over the map. The toughest road to this particular honor, though, belonged to a pair of veterans, offensive tackle Garrett Bolles and receiver Courtland Sutton, and they had to wait a long t",
+    "pubDate": "2025-12-24",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/broncos-veteran-pro-bowl-players-142915067.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "top-10-lpga-storylines-from-2025-include-a-major-finish-for-the-ages",
+    "title": "Top 10 LPGA storylines from 2025 include a major finish for the ages",
+    "description": "An LPGA season that saw a record 29 different winners had a number of highlights and head-turning storylines.",
+    "pubDate": "2025-12-24",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/top-10-lpga-storylines-2025-142816180.html",
     "source": "Google News"
   },
   {
@@ -1140,6 +1113,15 @@
     "pubDate": "2025-12-23",
     "image": "",
     "link": "https://www.bbc.com/sport/american-football/videos/c2k4w0nl5nxo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport"
+  },
+  {
+    "slug": "man-city-in-advanced-talks-with-bournemouth-s-semenyo",
+    "title": "Man City in advanced talks with Bournemouth's Semenyo",
+    "description": "Antoine Semenyo is set to make a final decision on his future with Manchester City in advanced talks over a January move for the Bournemouth forward.",
+    "pubDate": "2025-12-23",
+    "image": "",
+    "link": "https://www.bbc.com/sport/football/articles/cx2djq1jdrdo?at_medium=RSS&at_campaign=rss",
     "source": "BBC Sport"
   },
   {
