@@ -18,6 +18,24 @@
     "source": "Brooke Pryor"
   },
   {
+    "slug": "wr-rice-among-four-chiefs-players-placed-on-ir",
+    "title": "WR Rice among four Chiefs players placed on IR",
+    "description": "Chiefs wide receiver Rashee Rice's 2025 season began with a suspension and now will end on injured reserve.",
+    "pubDate": "2025-12-24",
+    "image": "",
+    "link": "https://www.espn.com/nfl/story/_/id/47408515/wr-rashee-rice-four-chiefs-players-placed-ir",
+    "source": "www.espn.com - TOP"
+  },
+  {
+    "slug": "kerr-settles-draymond-beef-not-my-finest-hour",
+    "title": "Kerr settles Draymond beef: 'Not my finest hour'",
+    "description": "In a fairly remarkable 15-minute media session Wednesday, Golden State Warriors coach Steve Kerr took responsibility for his argument with Draymond Green that caused the forward to leave the bench in the middle of a game.",
+    "pubDate": "2025-12-24",
+    "image": "",
+    "link": "https://www.espn.com/soccer/story/_/id/47408205/steve-kerr-laments-beef-draymond-green",
+    "source": "Tim Bontemps"
+  },
+  {
     "slug": "commanders-to-start-qb-johnson-vs-cowboys",
     "title": "Commanders to start QB Johnson vs. Cowboys",
     "description": "The Commanders will start 39-year-old Josh Johnson at quarterback for their Christmas Day home game against the Cowboys, coach Dan Quinn announced Wednesday.",
@@ -25,6 +43,15 @@
     "image": "",
     "link": "https://www.espn.com/nfl/story/_/id/47407565/commanders-qb-josh-johnson-make-first-nfl-start-2021",
     "source": "John Keim"
+  },
+  {
+    "slug": "vikes-kelly-to-ir-after-3rd-concussion-of-season",
+    "title": "Vikes' Kelly to IR after 3rd concussion of season",
+    "description": "The Vikings placed center Ryan Kelly on injured reserve Wednesday, ending his season and possibly his career after he suffered his third concussion of the year.",
+    "pubDate": "2025-12-24",
+    "image": "",
+    "link": "https://www.espn.com/nfl/story/_/id/47408628/vikings-kelly-ir-3rd-concussion-2025-6th-career",
+    "source": "Kevin Seifert"
   },
   {
     "slug": "washington-wr-boston-says-he-s-entering-draft",
@@ -52,33 +79,6 @@
     "image": "",
     "link": "https://www.espn.com/college-football/story/_/id/47408021/jacksonville-state-star-rb-cam-cook-plans-enter-portal",
     "source": "Max Olson"
-  },
-  {
-    "slug": "metcalf-s-ban-upheld-fan-s-conduct-under-review",
-    "title": "Metcalf's ban upheld; fan's conduct under review",
-    "description": "The NFL upheld DK Metcalf's two-game suspension for his altercation with a fan in Detroit on Sunday.",
-    "pubDate": "2025-12-24",
-    "image": "",
-    "link": "https://www.espn.com/nfl/story/_/id/47402230/dk-metcalf-suspension-upheld-wr-miss-steelers-final-2-games",
-    "source": "Brooke Pryor"
-  },
-  {
-    "slug": "richards-on-u-s-palace-return-won-t-be-long",
-    "title": "Richards on U.S., Palace return: 'Won't be long'",
-    "description": "United States defender Chris Richards said it \"won't be long\" until he's back for Crystal Palace.",
-    "pubDate": "2025-12-24",
-    "image": "",
-    "link": "https://www.espn.com/soccer/story/_/id/47407490/usmnt-chris-richards-optimistic-quick-palace-return",
-    "source": "ESPN News Services"
-  },
-  {
-    "slug": "raiders-bowers-to-ir-ending-star-te-s-season",
-    "title": "Raiders' Bowers to IR, ending star TE's season",
-    "description": "The Raiders have placed starting tight end Brock Bowers and safety Jeremy Chinn on injured reserve.",
-    "pubDate": "2025-12-24",
-    "image": "",
-    "link": "https://www.espn.com/nfl/story/_/id/47407065/raiders-place-brock-bowers-jeremy-chinn-ir",
-    "source": "Ryan McFadden"
   },
   {
     "slug": "nba-power-rankings-young-riser-on-all-teams",
@@ -126,8 +126,8 @@
     "source": "Jeff Legwold"
   },
   {
-    "slug": "luka-ar-and-the-hilarious-bromance-fueling-the-lakers-wild-start",
-    "title": "Luka, AR and the hilarious bromance fueling the Lakers' wild start",
+    "slug": "luka-doncic-austin-reaves-and-the-hilarious-bromance-fueling-the-lakers-wild-start",
+    "title": "Luka Doncic, Austin Reaves and the hilarious bromance fueling the Lakers' wild start",
     "description": "The success and virality of this duo is doing more than quiet the typical noise around the Lakers. It also might transition the franchise fully into their post-LeBron era.",
     "pubDate": "2025-12-24",
     "image": "",
@@ -396,12 +396,39 @@
     "source": "BBC Sport"
   },
   {
+    "slug": "take-on-our-bbc-gameshows-ultimate-football-quiz",
+    "title": "Take on our BBC Gameshows ultimate football quiz",
+    "description": "We've built five quizzes to celebrate five BBC shows - but only those with the biggest football trivia brains can beat them all.",
+    "pubDate": "2025-12-24",
+    "image": "",
+    "link": "https://www.bbc.com/sport/football/articles/c898kv2zp58o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport"
+  },
+  {
     "slug": "ex-poker-player-bord-is-preferred-sheff-wed-bidder",
     "title": "Ex-poker player Bord is preferred Sheff Wed bidder",
     "description": "Former professional poker player James Bord is chosen as the preferred bidder for Sheffield Wednesday, BBC Sport can confirm.",
     "pubDate": "2025-12-24",
     "image": "",
     "link": "https://www.bbc.com/sport/football/articles/cpd6020z01po?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport"
+  },
+  {
+    "slug": "sutton-s-predictions-v-the-wellermen-s-jonny-stewart",
+    "title": "Sutton's predictions v The Wellermen's Jonny Stewart",
+    "description": "BBC Sport football expert Chris Sutton takes on The Wellermen's Jonny Stewart - and AI - with his predictions for this weekend's Premier League fixtures.",
+    "pubDate": "2025-12-24",
+    "image": "",
+    "link": "https://www.bbc.com/sport/football/articles/cyvg0my1zvyo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport"
+  },
+  {
+    "slug": "has-bashir-become-unselectable-for-england-during-ashes",
+    "title": "Has Bashir become 'unselectable' for England during Ashes?",
+    "description": "England have spent almost two years getting off-spinner Shoaib Bashir ready for an Ashes tour of Australia, but four games in, he is yet to play. BBC Sport looks at possible reasons why.",
+    "pubDate": "2025-12-24",
+    "image": "",
+    "link": "https://www.bbc.com/sport/cricket/articles/cqjgx1xg4rpo?at_medium=RSS&at_campaign=rss",
     "source": "BBC Sport"
   },
   {
@@ -414,12 +441,12 @@
     "source": "BBC Sport"
   },
   {
-    "slug": "has-bashir-become-unselectable-for-england-during-ashes",
-    "title": "Has Bashir become 'unselectable' for England during Ashes?",
-    "description": "England have spent almost two years getting off-spinner Shoaib Bashir ready for an Ashes tour of Australia, but four games in, he is yet to play. BBC Sport looks at possible reasons why.",
+    "slug": "dropped-on-christmas-day-and-redemption-in-durban",
+    "title": "'Dropped on Christmas Day and redemption in Durban'",
+    "description": "Steven Finn looks back on a career of touring with England, including the low of being dropped on Christmas Day and the high of taking down South Africa.",
     "pubDate": "2025-12-24",
     "image": "",
-    "link": "https://www.bbc.com/sport/cricket/articles/cqjgx1xg4rpo?at_medium=RSS&at_campaign=rss",
+    "link": "https://www.bbc.com/sport/cricket/articles/cd74ll3y57po?at_medium=RSS&at_campaign=rss",
     "source": "BBC Sport"
   },
   {
@@ -441,24 +468,6 @@
     "source": "BBC Sport"
   },
   {
-    "slug": "sutton-s-predictions-v-the-wellermen-s-jonny-stewart",
-    "title": "Sutton's predictions v The Wellermen's Jonny Stewart",
-    "description": "BBC Sport football expert Chris Sutton takes on The Wellermen's Jonny Stewart - and AI - with his predictions for this weekend's Premier League fixtures.",
-    "pubDate": "2025-12-24",
-    "image": "",
-    "link": "https://www.bbc.com/sport/football/articles/cyvg0my1zvyo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport"
-  },
-  {
-    "slug": "argentina-lock-rubiolo-signs-long-term-bristol-deal",
-    "title": "Argentina lock Rubiolo signs long-term Bristol deal",
-    "description": "Bristol Bears' Argentina lock Pedro Rubiolo commits his long-term future to the Prem side.",
-    "pubDate": "2025-12-24",
-    "image": "",
-    "link": "https://www.bbc.com/sport/rugby-union/articles/c075lvnv1mjo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport"
-  },
-  {
     "slug": "i-know-how-it-feels-when-everything-piles-on-top-of-you-stokes",
     "title": "I know how it feels when everything piles on top of you - Stokes",
     "description": "Ben Stokes says he understands the criticism his side are facing during his \"toughest time as England captain\", as their Ashes series is dogged by reports of excessive drinking.",
@@ -474,6 +483,15 @@
     "pubDate": "2025-12-24",
     "image": "",
     "link": "https://www.bbc.com/sport/football/videos/cwylznj4vgzo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport"
+  },
+  {
+    "slug": "argentina-lock-rubiolo-signs-long-term-bristol-deal",
+    "title": "Argentina lock Rubiolo signs long-term Bristol deal",
+    "description": "Bristol Bears' Argentina lock Pedro Rubiolo commits his long-term future to the Prem side.",
+    "pubDate": "2025-12-24",
+    "image": "",
+    "link": "https://www.bbc.com/sport/rugby-union/articles/c075lvnv1mjo?at_medium=RSS&at_campaign=rss",
     "source": "BBC Sport"
   },
   {
@@ -504,15 +522,6 @@
     "source": "BBC Sport"
   },
   {
-    "slug": "how-to-survive-christmas-period-the-fpl-talking-point",
-    "title": "How to survive Christmas period - the FPL talking point ",
-    "description": "With four deadlines in 11 days, FPL expert Pras Singhal gives five tips to stay ahead of the curve over the festive period.",
-    "pubDate": "2025-12-24",
-    "image": "",
-    "link": "https://www.bbc.com/sport/football/articles/cwyg45pr43xo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport"
-  },
-  {
     "slug": "suryavanshi-14-makes-history-with-list-a-century",
     "title": "Suryavanshi, 14, makes history with List A century",
     "description": "Indian teenager Vaibhav Suryavanshi makes history as the youngest player to score a century in men's List A cricket.",
@@ -522,21 +531,21 @@
     "source": "BBC Sport"
   },
   {
+    "slug": "how-to-survive-christmas-period-the-fpl-talking-point",
+    "title": "How to survive Christmas period - the FPL talking point ",
+    "description": "With four deadlines in 11 days, FPL expert Pras Singhal gives five tips to stay ahead of the curve over the festive period.",
+    "pubDate": "2025-12-24",
+    "image": "",
+    "link": "https://www.bbc.com/sport/football/articles/cwyg45pr43xo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport"
+  },
+  {
     "slug": "ex-captain-brierley-retires-to-become-salford-ceo",
     "title": "Ex-captain Brierley retires to become Salford CEO",
     "description": "Former Salford captain Ryan Brierley is to take over as the club's chief executive, the consortium that has won the bid to run the club has said.",
     "pubDate": "2025-12-24",
     "image": "",
     "link": "https://www.bbc.com/sport/rugby-league/articles/cgex4rqwp8wo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport"
-  },
-  {
-    "slug": "all-your-fpl-stats-and-premier-league-team-news-in-one-place",
-    "title": "All your FPL stats and Premier League team news in one place",
-    "description": "Every key bit of Premier League team news and the most important Fantasy Premier League statistics - all in one place.",
-    "pubDate": "2025-12-24",
-    "image": "",
-    "link": "https://www.bbc.com/sport/articles/cgl6j0n6e9zo?at_medium=RSS&at_campaign=rss",
     "source": "BBC Sport"
   },
   {
@@ -567,15 +576,6 @@
     "source": "BBC Sport"
   },
   {
-    "slug": "southampton-and-coventry-charged-by-fa-over-melee",
-    "title": "Southampton and Coventry charged by FA over melee",
-    "description": "Coventry City and Southampton are charged by the FA for the scenes after the final whistle in their draw at St Mary's on Saturday.",
-    "pubDate": "2025-12-24",
-    "image": "",
-    "link": "https://www.bbc.com/sport/football/articles/crk73zy4rp4o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport"
-  },
-  {
     "slug": "test-your-knowledge-in-the-rugby-league-quiz-of-the-year",
     "title": "Test your knowledge in the rugby league quiz of the year",
     "description": "How closely were you paying attention to the world of rugby league in 2025? Find out in our quiz of the year.",
@@ -585,12 +585,21 @@
     "source": "BBC Sport"
   },
   {
-    "slug": "mozambique-target-historic-first-afcon-win-in-morocco",
-    "title": "Mozambique target historic first Afcon win in Morocco",
-    "description": "Mozambique believe they can reach the knockout stage at the 2025 Africa Cup of Nations, according to former international Manuel Bucuane.",
+    "slug": "all-your-fpl-stats-and-premier-league-team-news-in-one-place",
+    "title": "All your FPL stats and Premier League team news in one place",
+    "description": "Every key bit of Premier League team news and the most important Fantasy Premier League statistics - all in one place.",
     "pubDate": "2025-12-24",
     "image": "",
-    "link": "https://www.bbc.com/sport/football/articles/cwyp80jq4wgo?at_medium=RSS&at_campaign=rss",
+    "link": "https://www.bbc.com/sport/articles/cgl6j0n6e9zo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport"
+  },
+  {
+    "slug": "southampton-and-coventry-charged-by-fa-over-melee",
+    "title": "Southampton and Coventry charged by FA over melee",
+    "description": "Coventry City and Southampton are charged by the FA for the scenes after the final whistle in their draw at St Mary's on Saturday.",
+    "pubDate": "2025-12-24",
+    "image": "",
+    "link": "https://www.bbc.com/sport/football/articles/crk73zy4rp4o?at_medium=RSS&at_campaign=rss",
     "source": "BBC Sport"
   },
   {
@@ -621,6 +630,15 @@
     "source": "BBC Sport"
   },
   {
+    "slug": "can-you-spot-12-welsh-sports-stars-who-made-headlines-in-2025",
+    "title": "Can you spot 12 Welsh sports stars who made headlines in 2025?",
+    "description": "They are all elite Welsh sports stars and they all hit the headlines in 2025 - but with festive baubles in the way, how many of our Christmas dozen can you spot?",
+    "pubDate": "2025-12-24",
+    "image": "",
+    "link": "https://www.bbc.com/sport/articles/cp84eg0dnxlo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport"
+  },
+  {
     "slug": "irish-premiership-ready-for-highlight-of-the-year",
     "title": "Irish Premiership ready for 'highlight of the year'",
     "description": "BBC Sport NI takes a look at all six of the Boxing Day matches in the Irish Premiership.",
@@ -630,453 +648,453 @@
     "source": "BBC Sport"
   },
   {
-    "slug": "how-the-packers-coverage-bust-led-to-the-bears-game-tying-td",
-    "title": "How the Packers’ coverage bust led to the Bears’ game-tying TD",
-    "description": "Breaking down what happened on the Chicago Bears' 4th quarter touchdown.",
+    "slug": "amad-gives-afcon-holders-ivory-coast-win-over-mozambique",
+    "title": "Amad gives Afcon holders Ivory Coast win over Mozambique",
+    "description": "Amad Diallo's second-half strike gives holders Ivory Coast victory over Mozambique in their 2025 Africa Cup of Nations opener in Marrakech.",
     "pubDate": "2025-12-24",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/packers-coverage-bust-led-bears-213834866.html",
+    "link": "https://sports.yahoo.com/articles/amad-gives-afcon-holders-ivory-192853064.html",
     "source": "Google News"
   },
   {
-    "slug": "ravens-lamar-jackson-absent-from-practice-again-casting-doubt-vs-packers",
-    "title": "Ravens’ Lamar Jackson absent from practice again, casting doubt vs. Packers",
-    "description": "BALTIMORE — With the Ravens’ season on the thinnest of ice, the status of quarterback Lamar Jackson for Saturday night’s crucial game against the Green Bay Packers at Lambeau Field remains uncertain. Jackson missed practice for a second straight day Wednesday. The only player not in attendance, he h",
+    "slug": "derek-stingley-kamari-lassiter-return-to-practice-for-texans",
+    "title": "Derek Stingley, Kamari Lassiter return to practice for Texans",
+    "description": "The current AFC defensive player of the week was back at practice for the Texans on Wednesday.",
     "pubDate": "2025-12-24",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/ravens-lamar-jackson-absent-practice-213500755.html",
+    "link": "https://sports.yahoo.com/articles/derek-stingley-kamari-lassiter-return-224644160.html",
     "source": "Google News"
   },
   {
-    "slug": "umar-sadiq-strongly-desires-to-return-to-valencia-but-will-the-nigerian-39-s-wishes-come-true",
-    "title": "Umar Sadiq strongly desires to return to Valencia, but will the Nigerian&#39;s wishes come true?",
-    "description": "The Nigerian striker wants to return to La Liga.Getty ImagesNigerian striker Umar Sadiq is making his intentions for the winter transfer window unmistakably clear: he is determined to secure a return ...",
+    "slug": "the-2025-christmas-games-have-lost-their-luster",
+    "title": "The 2025 Christmas games have lost their luster",
+    "description": "Last year's Christmas games, at least on paper, were good.",
     "pubDate": "2025-12-24",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/umar-sadiq-strongly-desires-return-213500505.html",
+    "link": "https://sports.yahoo.com/articles/2025-christmas-games-lost-luster-224515448.html",
     "source": "Google News"
   },
   {
-    "slug": "fantasy-basketball-week-10-injury-report-how-much-longer-will-luka-don-i-sit",
-    "title": "Fantasy Basketball Week 10 Injury Report: How much longer will Luka Dončić sit?",
-    "description": "While it appears likely that the Lakers star will play on Christmas Day, some other fantasy-relevant players are facing extended absences.",
+    "slug": "cameroon-open-afcon-with-win-after-etta-eyong-strike",
+    "title": "Cameroon open Afcon with win after Etta Eyong strike",
+    "description": "Karl Etta Eyong's early strike gives Cameroon victory over Gabon in their 2025 Africa Cup of Nations Group F opener in Agadir.",
     "pubDate": "2025-12-24",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/fantasy-basketball-week-10-injury-213359414.html",
+    "link": "https://sports.yahoo.com/articles/cameroon-open-afcon-win-etta-220925765.html",
     "source": "Google News"
   },
   {
-    "slug": "yahoo-fantasy-x-arena-club-slab-packs-week-17-drop-joe-burrow-color-blast-among-chase-cards",
-    "title": "Yahoo Fantasy x Arena Club Slab Packs Week 17 Drop — Joe Burrow Color Blast among chase cards",
-    "description": "Yahoo and Arena Club are back with slab packs featuring some of last week’s top fantasy football performers.",
+    "slug": "florida-redshirt-freshman-db-entering-transfer-portal",
+    "title": "Florida redshirt freshman DB entering transfer portal",
+    "description": "Jamroc Grimsley is headed to the transfer portal after two years with the Florida Gators. He played 64 snaps over five games in Gainesville.",
     "pubDate": "2025-12-24",
     "image": "",
-    "link": "https://sports.yahoo.com/fantasy/article/yahoo-fantasy-x-arena-club-slab-packs-week-17-drop--joe-burrow-color-blast-among-chase-cards-213353394.html",
-    "source": "Yahoo Sports Fantasy Staff"
-  },
-  {
-    "slug": "washington-wr-denzel-boston-declares-for-nfl-draft",
-    "title": "Washington WR Denzel Boston Declares for NFL Draft",
-    "description": "Washington’s star WR is headed to the pros",
-    "pubDate": "2025-12-24",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/washington-wr-denzel-boston-declares-213307776.html",
+    "link": "https://sports.yahoo.com/articles/florida-redshirt-freshman-db-entering-223948704.html",
     "source": "Google News"
   },
   {
-    "slug": "proposed-yankees-trade-sees-new-york-land-50-million-all-star-gold-glove-to-be-cost-effective-replacement-for-cody-bellinger",
-    "title": "Proposed Yankees trade sees New York land $50 million All-Star, Gold Glove to be cost-effective replacement for Cody Bellinger",
-    "description": "This would be a financially smart move by the Yankees.",
+    "slug": "oregon-ducks-unveil-uniform-combination-for-orange-bowl-vs-texas-tech",
+    "title": "Oregon Ducks unveil uniform combination for Orange Bowl vs. Texas Tech",
+    "description": "The Oregon Ducks have unveiled their uniforms combination for the Orange Bowl CFP matchup against the Texas Tech Red Raiders.",
     "pubDate": "2025-12-24",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/proposed-yankees-trade-sees-york-213303187.html",
+    "link": "https://sports.yahoo.com/articles/oregon-ducks-unveil-uniform-combination-223938758.html",
     "source": "Google News"
   },
   {
-    "slug": "eric-stokes-stands-strong-against-nico-collins-houston-texans",
-    "title": "Eric Stokes stands strong against Nico Collins, Houston Texans",
-    "description": "Breaking down the cornerback’s performance in Houston",
+    "slug": "kendrick-bourne-plays-santa-jokes-about-gift-list-inside-49ers-locker-room",
+    "title": "Kendrick Bourne plays Santa, jokes about gift list inside 49ers locker room",
+    "description": "The veteran receiver hit a half-million dollar incentive on Monday.",
     "pubDate": "2025-12-24",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/eric-stokes-stands-strong-against-213300700.html",
+    "link": "https://sports.yahoo.com/articles/kendrick-bourne-plays-santa-jokes-223803537.html",
     "source": "Google News"
   },
   {
-    "slug": "reggie-miller-39-in-10-years-i-would-not-be-surprised-if-there-39-s-a-four-point-line-39",
-    "title": "Reggie Miller: &#39;In 10 years, I would not be surprised if there&#39;s a four-point line&#39;",
-    "description": "Reggie Miller: 'In 10 years, I would not be surprised if there's a four-point line'",
+    "slug": "michigan-football-coaching-search-hot-board-update-and-outlook",
+    "title": "Michigan football coaching search: hot board update and outlook",
+    "description": "Michigan football resets its coaching hot board, evaluating current candidates and grading the best fits to replace Sherrone Moore.",
     "pubDate": "2025-12-24",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/reggie-miller-10-years-not-213259160.html",
+    "link": "https://sports.yahoo.com/articles/michigan-football-coaching-search-hot-223638964.html",
     "source": "Google News"
   },
   {
-    "slug": "i-would-just-like-to-see-a-little-bit-more-inside",
-    "title": "“I would just like to see a little bit more inside …",
-    "description": "“I would just like to see a little bit more inside …",
+    "slug": "lions-on-brink-of-playoff-elimination-explaining-detroit-39-s-rapid-regression-in-2025",
+    "title": "Lions on brink of playoff elimination: Explaining Detroit&#39;s rapid regression in 2025",
+    "description": "The Lions went from going 27-7 as repeat NFC North champions the previous two seasons to the brink of playoff elimination at 8-7 in 2025. Here's breaking down Detroit's shocking breakdown.",
     "pubDate": "2025-12-24",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/just-see-little-bit-more-213258945.html",
+    "link": "https://sports.yahoo.com/articles/lions-brink-playoff-elimination-explaining-223606697.html",
     "source": "Google News"
   },
   {
-    "slug": "charlotte-hornets-president-of-basketball-operations",
-    "title": "Charlotte Hornets President of Basketball Operations …",
-    "description": "Charlotte Hornets President of Basketball Operations …",
+    "slug": "can-you-spot-12-welsh-sports-stars-who-made-headlines-in-2025",
+    "title": "Can you spot 12 Welsh sports stars who made headlines in 2025?",
+    "description": "They are all elite Welsh sports stars and they all hit the headlines in 2025 - but with festive baubles in the way, how many of our Christmas dozen can you spot?",
     "pubDate": "2025-12-24",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/charlotte-hornets-president-basketball-operations-213257460.html",
+    "link": "https://sports.yahoo.com/articles/spot-12-welsh-sports-stars-223422938.html",
     "source": "Google News"
   },
   {
-    "slug": "allen-iverson-partnered-with-trina-s-kids-foundation",
-    "title": "Allen Iverson partnered with Trina’s Kids Foundation …",
-    "description": "Allen Iverson partnered with Trina’s Kids Foundation …",
+    "slug": "analyzing-devin-white-free-agent-market",
+    "title": "Analyzing Devin White free agent market",
+    "description": "Devin White free agent market projection",
     "pubDate": "2025-12-24",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/allen-iverson-partnered-trina-kids-213256281.html",
+    "link": "https://sports.yahoo.com/articles/analyzing-devin-white-free-agent-223300363.html",
     "source": "Google News"
   },
   {
-    "slug": "i-remember-in-my-life-at-this-time-it-wasn-t-the",
-    "title": "“I remember in my life, at this time it wasn’t the …",
-    "description": "“I remember in my life, at this time it wasn’t the …",
+    "slug": "guardians-predicted-to-sign-65-million-three-time-all-star-two-time-silver-slugger-to-upgrade-from-kyle-manzardo",
+    "title": "Guardians predicted to sign $65 million three-time All-Star, two-time Silver Slugger to upgrade from Kyle Manzardo",
+    "description": "This would be a serious move by the Guardians.",
     "pubDate": "2025-12-24",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/remember-life-time-wasn-t-213255723.html",
+    "link": "https://sports.yahoo.com/articles/guardians-predicted-sign-65-million-223133216.html",
     "source": "Google News"
   },
   {
-    "slug": "ufc-fighter-who-launched-discourse-on-world-war-2-not-an-inbred-imbecile-but-admits-his-intelligence-has-become-a-curse",
-    "title": "UFC fighter who launched discourse on World War 2 not ‘an inbred imbecile’ but admits his ‘intelligence has become a curse’",
-    "description": "Thank you, Bryce Mitchell, for becoming the first person brave enough to discuss World War 2. It’s unfortunate that “every single podcaster on the planet” stole the idea, then scrapped their current format in favor of talking about the conflict between the Axis and Allies. No doubt it was the year-o",
+    "slug": "why-trading-anfernee-simons-isn-t-simple-for-the-celtics",
+    "title": "Why Trading Anfernee Simons Isn’t Simple for the Celtics",
+    "description": "When the Boston Celtics acquired Anfernee Simons as part of the deal that sent Jrue Holiday to the Portland Trail Blazers this summer, it was widely assumed that his time with the franchise would be short-lived. Simons is in the final year of his current contract, earning $27.6 million. However, Sim",
     "pubDate": "2025-12-24",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/ufc-fighter-launched-discourse-world-213228673.html",
+    "link": "https://sports.yahoo.com/articles/why-trading-anfernee-simons-isn-223102315.html",
     "source": "Google News"
   },
   {
-    "slug": "nfl-power-rankings-week-17-edition",
-    "title": "NFL Power Rankings: Week 17 Edition",
-    "description": "100% accurate ranking of all 32 NFL teams.",
+    "slug": "aaron-rodgers-addresses-dk-metcalf-altercation-calls-for-higher-standard-of-fan-conduct",
+    "title": "Aaron Rodgers addresses DK Metcalf altercation, calls for higher standard of fan conduct",
+    "description": "Quarterback Aaron Rodgers spoke publicly for the first time about DK Metcalf’s recent altercation with a fan in Detroit, offering support for his wide receiver while also expressing disappointment in the incident and raising broader concerns about fan behavior in stadiums. Metcalf was suspended two",
     "pubDate": "2025-12-24",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/nfl-power-rankings-week-17-213138342.html",
+    "link": "https://sports.yahoo.com/articles/aaron-rodgers-addresses-dk-metcalf-223000280.html",
     "source": "Google News"
   },
   {
-    "slug": "jaxson-dart-eyes-bounce-back-performance-for-giants-at-raiders-after-career-worst-game-against-vikings",
-    "title": "Jaxson Dart eyes bounce-back performance for Giants at Raiders after career-worst game against Vikings",
-    "description": "Rookie quarterback Jaxson Dart looks to rebound in Week 17 as the Giants prepare to face the Raiders.",
+    "slug": "can-2025-cameroon-emerges-victorious-in-top-clash-against-gabon",
+    "title": "CAN 2025: Cameroon emerges victorious in top clash against Gabon",
+    "description": "Karl Etta EyongThe showdown between Cameroon and Gabon has concluded. The Indomitable Lions snatched victory thanks to the only goal of the match, scored by Karl Toko Ekambi.In this high-stakes encoun...",
     "pubDate": "2025-12-24",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/jaxson-dart-eyes-bounce-back-213133189.html",
+    "link": "https://sports.yahoo.com/articles/2025-cameroon-emerges-victorious-top-223000744.html",
     "source": "Google News"
   },
   {
-    "slug": "saints-titans-list-a-whopping-21-players-on-week-17-injury-report",
-    "title": "Saints, Titans list a whopping 21 players on Week 17 injury report",
-    "description": "The Tennessee Titans listed 10 players on their Week 17 injury report, while the New Orleans Saints listed 11. Here's what you need to know.",
+    "slug": "florida-expected-to-hire-duke-rbs-coach-chris-foster-per-report",
+    "title": "Florida expected to hire Duke RBs coach Chris Foster, per report",
+    "description": "Florida will add Duke running backs coach Chris Foster in the same capacity, according to a report.",
     "pubDate": "2025-12-24",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/saints-titans-list-whopping-21-213105555.html",
+    "link": "https://sports.yahoo.com/articles/florida-expected-hire-duke-rbs-222928411.html",
     "source": "Google News"
   },
   {
-    "slug": "lebron-james-compares-shai-gilgeous-alexander-to-former-mvp-winner",
-    "title": "LeBron James compares Shai Gilgeous-Alexander to former MVP winner",
-    "description": "LeBron James compares Shai Gilgeous-Alexander to former MVP winner.",
+    "slug": "week-17-preview-bears-vs-49ers-headline-race-for-nfc-s-no-1-seed",
+    "title": "Week 17 Preview: Bears vs. 49ers headline race for NFC’s No. 1 seed",
+    "description": "Andrew Siciliano, Jori Epstein, and Ben Fawkes talk through the biggest Week 17 matchups. Can the Chicago Bears defeat the San Francisco 49ers Sunday? Will Seattle keep control of the NFC? Find out on today's Christmas Eve edition of Inside Coverage!",
     "pubDate": "2025-12-24",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/lebron-james-compares-shai-gilgeous-213025650.html",
+    "link": "https://sports.yahoo.com/nfl/article/week-17-preview-bears-vs-49ers-headline-race-for-nfcs-no-1-seed-222811190.html",
+    "source": "Andrew Siciliano,Ben Fawkes,Jori Epstein"
+  },
+  {
+    "slug": "a-j-brown-nakobe-dean-did-not-practice-on-wednesday",
+    "title": "A.J. Brown, Nakobe Dean did not practice on Wednesday",
+    "description": "A dental issue kept Eagles wide receiver A.J.",
+    "pubDate": "2025-12-24",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/j-brown-nakobe-dean-did-222507693.html",
     "source": "Google News"
   },
   {
-    "slug": "texas-freshmen-wrs-loom-large-in-bowl-game-following-moore-39-s-departure",
-    "title": "Texas Freshmen WRs loom large in bowl game following Moore&#39;s departure",
-    "description": "Texas is a week out from facing off against Michigan and the freshmen WRs will be at the center of attention.",
+    "slug": "arsenal-are-eager-to-land-this-la-liga-midfielder-should-arteta-get-him-on-board",
+    "title": "Arsenal Are Eager To Land This La Liga Midfielder: Should Arteta Get Him On Board?",
+    "description": "In a recent report, Sky Sports claimed that Arsenal are eager to land Elche midfielder Rodrigo Mendoza. It has been mentioned that the Gunners are showing interest in recruiting the Spanish talent nex...",
     "pubDate": "2025-12-24",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/texas-freshmen-wrs-loom-large-213018678.html",
+    "link": "https://sports.yahoo.com/articles/arsenal-eager-land-la-liga-222500936.html",
     "source": "Google News"
   },
   {
-    "slug": "ruben-neves-man-united-target-tipped-to-join-european-heavyweight-on-a-free-transfer",
-    "title": "Ruben Neves: Man United target tipped to join European heavyweight on a free transfer",
-    "description": "Manchester United are expected to attempt to bring Ruben Neves back to the Premier League this January.With United’s midfield desperately needing control, energy, and quality in the centre of the pa...",
+    "slug": "george-kittle-misses-practice-with-ankle-injury-status-for-niners-39-game-against-bears-in-question",
+    "title": "George Kittle misses practice with ankle injury, status for Niners&#39; game against Bears in question",
+    "description": "San Francisco Pro Bowl tight end George Kittle missed practice with an ankle injury on Wednesday, leaving his status for this weekend's big game against the Chicago Bears in question.  Kittle hurt his ankle during Monday night's 48-27 victory over the Indianapolis Colts.  Coach Kyle Shanahan said Ki",
     "pubDate": "2025-12-24",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/ruben-neves-man-united-target-213000682.html",
+    "link": "https://sports.yahoo.com/articles/george-kittle-misses-practice-ankle-222221352.html",
+    "source": "JOSH DUBOW"
+  },
+  {
+    "slug": "giants-fans-urged-to-keep-a-close-eye-on-their-undrafted-prospect-infielder",
+    "title": "Giants fans urged to keep a close eye on their undrafted prospect infielder",
+    "description": "This prospect slugger could make quite the jump in the rankings in 2026.",
+    "pubDate": "2025-12-24",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/giants-fans-urged-keep-close-222129552.html",
     "source": "Google News"
   },
   {
-    "slug": "seth-rollins-discusses-influence-of-late-hofer-on-his-wwe-persona",
-    "title": "Seth Rollins Discusses Influence Of Late HOFer On His WWE Persona",
-    "description": "Seth Rollins went against the serious, dark grain of modern WWE TV, by embracing the colors and exuberance of a WWE HOFer.",
+    "slug": "klay-thompson-likely-to-play-in-reunion-game-against-warriors",
+    "title": "Klay Thompson likely to play in reunion game against Warriors",
+    "description": "Klay Thompson likely to play in reunion game against Warriors",
     "pubDate": "2025-12-24",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/seth-rollins-discusses-influence-hofer-213000009.html",
+    "link": "https://sports.yahoo.com/articles/klay-thompson-likely-play-reunion-222059806.html",
     "source": "Google News"
   },
   {
-    "slug": "rudi-v-ller-hopeful-optimistic-for-the-future-of-germany-national-team-with-the-influx-of-younger-talents",
-    "title": "Rudi Völler hopeful, optimistic for the future of Germany national team with the influx of younger talents",
-    "description": "Völler knows there’s plenty reason to be excited by some of Germany’s young players, like FC Bayern’s Lennart Karl…",
+    "slug": "report-kenan-yildiz-wants-to-be-juventus-highest-paid-player-as-part-of-new-contract",
+    "title": "Report: Kenan Yildiz wants to be Juventus’ highest-paid player as part of new contract",
+    "description": "The biggest contract extension Juventus have negotiated in years feels like it just got another piece added to the puzzle.",
     "pubDate": "2025-12-24",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/rudi-v-ller-hopeful-optimistic-213000196.html",
+    "link": "https://sports.yahoo.com/articles/report-kenan-yildiz-wants-juventus-222034535.html",
     "source": "Google News"
   },
   {
-    "slug": "bengals-vs-cardinals-wednesday-injury-report-ossai-dnp",
-    "title": "Bengals vs. Cardinals Wednesday Injury Report: Ossai DNP",
-    "description": "Two more games to go.",
+    "slug": "washington-wide-receiver-denzel-boston-declares-for-nfl-draft",
+    "title": "Washington wide receiver Denzel Boston declares for NFL draft",
+    "description": "Washington wide receiver Denzel Boston plans to enter the NFL draft, he announced Wednesday on social media.  The 6-foot-4, 210-pound Boston had 62 receptions for 881 yards and 11 touchdowns this season as a junior, earning third-team All-Big Ten honors.  Last year, he had 63 catches for 834 yards a",
     "pubDate": "2025-12-24",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/bengals-vs-cardinals-wednesday-injury-212914603.html",
+    "link": "https://sports.yahoo.com/articles/washington-wide-receiver-denzel-boston-221932813.html",
     "source": "Google News"
   },
   {
-    "slug": "chiefs-make-8-roster-moves-on-wednesday",
-    "title": "Chiefs make 8 roster moves on Wednesday",
-    "description": "Keeping track of Kansas City’s active roster is becoming increasingly complicated.",
+    "slug": "browns-steelers-have-huge-injury-reports-to-start-week-17-tj-watt-update",
+    "title": "Browns, Steelers have huge injury reports to start Week 17; TJ Watt update",
+    "description": "The Cleveland Browns, Pittsburgh Steelers have 28 players injured for Week 17, TJ Watt returned to practice",
     "pubDate": "2025-12-24",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/chiefs-8-roster-moves-wednesday-212841774.html",
+    "link": "https://sports.yahoo.com/articles/browns-steelers-huge-injury-reports-221924608.html",
     "source": "Google News"
   },
   {
-    "slug": "florida-wr-eugene-wilson-iii-to-enter-transfer-portal",
-    "title": "Florida WR Eugene Wilson III to enter transfer portal",
-    "description": "After three years with the Florida Gators, former five-star receiver Eugene Wilson III plans to to enter the transfer portal this offseason.",
+    "slug": "diallo-and-mahrez-strike-at-afcon-as-ivory-coast-algeria-win",
+    "title": "Diallo and Mahrez strike at AFCON as Ivory Coast, Algeria win",
+    "description": "Amad Diallo and Riyad Mahrez starred as defending champions Ivory Coast and former winners Algeria had contrasting victories on Wednesday when the first round of African Cup of Nations (AFCON) group matches concluded in Morocco.   Ivory Coast, who face Cameroon and Gabon in their remaining group mat",
     "pubDate": "2025-12-24",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/florida-wr-eugene-wilson-iii-212836454.html",
+    "link": "https://sports.yahoo.com/articles/diallo-mahrez-strike-afcon-ivory-221902956.html",
     "source": "Google News"
   },
   {
-    "slug": "winter-olympics-hopeful-27-found-dead-at-training-camp-in-italy",
-    "title": "Winter Olympics Hopeful, 27, Found Dead at Training Camp in Italy",
-    "description": "Sivert Guttorm Bakken, a Norwegian athlete who was hoping to compete in the biathlon at the Winter Olympics, was found dead in his hotel room in Lavaze, Italy, according to Norway’s NRK television outlet, via the AP, on Tuesday, December 23. The Lillehammer, Norway, native was 27. Bakken, who won th",
+    "slug": "packers-ravens-injury-report-malik-willis-missed-practice-with-illness",
+    "title": "Packers-Ravens Injury Report: Malik Willis missed practice with illness",
+    "description": "Green Bay Packers quarterback Jordan Love took all of the team’s snaps with the first-team offense on Wednesday.",
     "pubDate": "2025-12-24",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/winter-olympics-hopeful-27-found-212832088.html",
+    "link": "https://sports.yahoo.com/articles/packers-ravens-injury-report-malik-221822462.html",
     "source": "Google News"
   },
   {
-    "slug": "rams-designate-cb-roger-mccreary-to-return-from-ir",
-    "title": "Rams designate CB Roger McCreary to return from IR",
-    "description": "Roger McCreary has returned to practice and could be activated off injured reserve soon",
+    "slug": "sung-mun-song-introduced-to-san-diego",
+    "title": "Sung-Mun Song introduced to San Diego",
+    "description": "Padres add Korean infielder",
     "pubDate": "2025-12-24",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/rams-designate-cb-roger-mccreary-212818367.html",
+    "link": "https://sports.yahoo.com/articles/sung-mun-song-introduced-san-221633853.html",
     "source": "Google News"
   },
   {
-    "slug": "santa-tracker-where-is-santa-see-what-sports-to-watch-tonight",
-    "title": "Santa Tracker: Where is Santa? See what sports to watch tonight",
-    "description": "Christmas Day is just a few hours away. Where is Santa? While you wait for him, we have the perfect sports viewing guide.",
+    "slug": "steelers-tj-watt-returns-to-practice-on-wednesday",
+    "title": "Steelers’ TJ Watt Returns To Practice on Wednesday",
+    "description": "Pittsburgh Steelers pass rusher TJ Watt has returned to practice.",
     "pubDate": "2025-12-24",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/santa-tracker-2025-where-santa-204800976.html",
+    "link": "https://sports.yahoo.com/articles/steelers-tj-watt-returns-practice-221626995.html",
     "source": "Google News"
   },
   {
-    "slug": "lions-elevate-practice-squad-pair-ahead-of-christmas-day-vs-vikings",
-    "title": "Lions elevate practice squad pair ahead of Christmas Day vs. Vikings",
-    "description": "The Detroit Lions elevated a pair ahead of their Christmas Day showdown at the Minnesota Vikings.",
+    "slug": "dre-greenlaw-luke-wattenberg-won-39-t-play-for-broncos-on-christmas",
+    "title": "Dre Greenlaw, Luke Wattenberg won&#39;t play for Broncos on Christmas",
+    "description": "The Broncos have ruled five players out for their Christmas game against the Chiefs.",
     "pubDate": "2025-12-24",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/lions-elevate-practice-squad-pair-212527109.html",
+    "link": "https://sports.yahoo.com/articles/dre-greenlaw-luke-wattenberg-wont-221513366.html",
     "source": "Google News"
   },
   {
-    "slug": "west-ham-united-want-to-sign-27-year-old-centre-forward-with-9-g-a-so-far-this-season-will-the-hammers-get-him",
-    "title": "West Ham United Want To Sign 27-Year-Old Centre-Forward With 9 G/A So Far This Season: Will The Hammers Get Him?",
-    "description": "The reputed news outlet TalkSPORT recently published a report that increased talk about West Ham United’s transfer plans. The update says the East London club really wants to sign Coventry City stri...",
+    "slug": "tyler-shough-remains-on-injury-report-as-a-full-participant",
+    "title": "Tyler Shough remains on injury report as a full participant",
+    "description": "Saints quarterback Tyler Shough is on the team's injury report for a second consecutive week, but he remains a full participant.",
     "pubDate": "2025-12-24",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/west-ham-united-want-sign-212500133.html",
+    "link": "https://sports.yahoo.com/articles/tyler-shough-remains-injury-report-221502170.html",
     "source": "Google News"
   },
   {
-    "slug": "santa-tracker-where-is-santa-tracking-his-2025-journey",
-    "title": "Santa Tracker: Where is Santa? Tracking his 2025 journey",
-    "description": "Christmas Day is just a few hours away. Where is Santa? While you wait for him, we have the perfect sports viewing guide.",
+    "slug": "cusa-play-no-big-deal-for-mostate-bears",
+    "title": "CUSA play no big deal for MoState Bears",
+    "description": "SPRINGFIELD, Mo–Hello everyone, I’m Dan Lucy on the Ozarks First digital desk. It’ll be a happy holidays for Missouri State basketball coach Cuonzo Martin. His Bears held off a pesky Lindenwood squad on Tuesday 70-65. In our Bear Nation update. MoState has won two in a row and are sitting at 6-5 on",
     "pubDate": "2025-12-24",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/santa-tracker-where-santa-tracking-212401531.html",
+    "link": "https://sports.yahoo.com/articles/cusa-play-no-big-deal-221412245.html",
     "source": "Google News"
   },
   {
-    "slug": "giants-predicted-to-sign-31-million-all-star-former-cy-young-candidate-to-create-1-2-3-punch-with-logan-webb-robbie-ray",
-    "title": "Giants predicted to sign $31 million All-Star, former Cy Young candidate to create 1-2-3 punch with Logan Webb, Robbie Ray",
-    "description": "This would give the Giants some serious rotation depth.",
+    "slug": "steelers-browns-injury-report-t-j-watt-limited-in-return-to-practice",
+    "title": "Steelers-Browns injury report: T.J. Watt limited in return to practice",
+    "description": "T.J. Watt has a shot to play on Sunday.",
     "pubDate": "2025-12-24",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/giants-predicted-sign-31-million-212206464.html",
+    "link": "https://sports.yahoo.com/articles/steelers-browns-injury-report-t-221234568.html",
     "source": "Google News"
   },
   {
-    "slug": "deforest-buckner-injury-week-17-practice-status-update-on-colts-39-dt",
-    "title": "DeForest Buckner injury: Week 17 practice status update on Colts&#39; DT",
-    "description": "Colts' DT DeForest Buckner was listed as a non-participant on Wednesday's Week 17 injury report.",
+    "slug": "our-favorite-golf-memories-from-2025",
+    "title": "Our favorite golf memories from 2025",
+    "description": "GolfDigest.com writers share what they'll remember in golf from the past year",
     "pubDate": "2025-12-24",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/deforest-buckner-injury-week-17-212117176.html",
+    "link": "https://sports.yahoo.com/articles/favorite-golf-memories-2025-221234337.html",
     "source": "Google News"
   },
   {
-    "slug": "how-can-the-astros-improve-their-pitching-rotation",
-    "title": "How can the Astros improve their pitching rotation?",
-    "description": "With only Hunter Brown penciled in near the top, Houston’s rotation picture quickly becomes less certain. Injuries, innings limits, and natural regression have made starting pitching depth a front-office priority, prompting the Astros to canvass a free-agent market that offers experience, upside, an",
+    "slug": "packers-rich-bisaccia-addresses-onside-kick-blunder",
+    "title": "Packers’ Rich Bisaccia addresses onside kick blunder",
+    "description": "Green Bay Packers receiver Romeo Doubs simply dropped the ball. That’s the start and end of it for the Packers.",
     "pubDate": "2025-12-24",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/astros-improve-pitching-rotation-212053715.html",
+    "link": "https://sports.yahoo.com/articles/packers-rich-bisaccia-addresses-onside-221215404.html",
     "source": "Google News"
   },
   {
-    "slug": "pro-bowl-snub-joe-burrow-said-this-bengals-player-should-have-made-the-cut",
-    "title": "Pro Bowl snub? Joe Burrow said this Bengals player should have made the cut",
-    "description": "Bengals quarterback Joe Burrow offered advice to cornerback D.J. Turner on not making the Pro Bowl Games.",
+    "slug": "broncos-injury-report-5-players-ruled-out-for-39-tnf-39-vs-chiefs",
+    "title": "Broncos injury report: 5 players ruled out for &#39;TNF&#39; vs. Chiefs",
+    "description": "The Broncos have released their final injury report ahead of a Christmas Day showdown with the Chiefs.",
     "pubDate": "2025-12-24",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/pro-bowl-snub-joe-burrow-212024865.html",
+    "link": "https://sports.yahoo.com/articles/broncos-injury-report-5-players-221154314.html",
     "source": "Google News"
   },
   {
-    "slug": "pro-bowl-snub-joe-burrow-said-this-bengals-player-should-have-made-the-cut",
-    "title": "Pro Bowl snub? Joe Burrow said this Bengals player should have made the cut",
-    "description": "Bengals quarterback Joe Burrow offered advice to cornerback D.J. Turner on not making the Pro Bowl Games.",
+    "slug": "take-on-our-bbc-gameshows-ultimate-football-quiz",
+    "title": "Take on our BBC Gameshows ultimate football quiz",
+    "description": "We've built five quizzes to celebrate five BBC shows - but only those with the biggest football trivia brains can beat them all.",
     "pubDate": "2025-12-24",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/pro-bowl-snub-joe-burrow-212024834.html",
+    "link": "https://sports.yahoo.com/articles/bbc-gameshows-ultimate-football-quiz-221055417.html",
     "source": "Google News"
   },
   {
-    "slug": "vikings-place-c-ryan-kelly-on-ir",
-    "title": "Vikings place C Ryan Kelly on IR",
-    "description": "The Vikings placed veteran center Ryan Kelly on injured reserve for a second time in 2025, ending his season.",
+    "slug": "why-the-rockets-rise-to-elite-teams-and-stumble-against-everyone-else",
+    "title": "Why the Rockets Rise to Elite Teams - And Stumble Against Everyone Else",
+    "description": "Urgency dictates their success. Houston masters elite matchups but falters against weaker foes, revealing a critical habit the Rockets must break.",
     "pubDate": "2025-12-24",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/vikings-place-c-ryan-kelly-212008409.html",
+    "link": "https://sports.yahoo.com/articles/why-rockets-rise-elite-teams-220809013.html",
     "source": "Google News"
   },
   {
-    "slug": "green-bay-packers-could-have-a-hard-time-keeping-upcoming-free-agent",
-    "title": "Green Bay Packers Could Have a Hard Time Keeping Upcoming Free Agent",
-    "description": "At 9-5-1, the Green Bay Packers aren’t quite where they’d like to be this season. They won’t win as many […]",
+    "slug": "things-to-watch-for-miami-dolphins-vs-tampa-bay-buccaneers-on-sunday",
+    "title": "Things to watch for: Miami Dolphins vs. Tampa Bay Buccaneers on Sunday",
+    "description": "MIAMI GARDENS — The Miami Dolphins are in a desperate situation as they move toward their home finale against the Tampa Bay Buccaneers on Sunday. Their coach, Mike McDaniel, is fighting to keep his job and their rookie quarterback, Quinn Ewers, is fighting to earn a job. All the while their fans are",
     "pubDate": "2025-12-24",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/green-bay-packers-could-hard-211955582.html",
+    "link": "https://sports.yahoo.com/articles/things-watch-miami-dolphins-vs-220800386.html",
     "source": "Google News"
   },
   {
-    "slug": "lions-elevate-2-players-from-practice-squad-for-vikings-game",
-    "title": "Lions elevate 2 players from practice squad for Vikings game",
-    "description": "2 Detroit Lions practice squad players will be available on Christmas vs. the Minnesota Vikings.",
+    "slug": "cameroon-1-0-gabon-etta-eyong-strike-gives-indomitable-lions-first-afcon-win-over-panthers",
+    "title": "Cameroon 1–0 Gabon: Etta Eyong strike gives Indomitable Lions first AFCON win over Panthers",
+    "description": "Cameroon beat Gabon 1-0 in their African Cup of Nations opening fixture on Wednesday evening, marking their first ever victory over the Panthers in the competition.Cameroon scored the game’s only go...",
     "pubDate": "2025-12-24",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/lions-elevate-2-players-practice-211915295.html",
+    "link": "https://sports.yahoo.com/articles/cameroon-1-0-gabon-etta-220700945.html",
     "source": "Google News"
   },
   {
-    "slug": "avonte-maddox-injury-update-detroit-lions-s-out-vs-vikings",
-    "title": "Avonte Maddox injury update: Detroit Lions S out vs. Vikings",
-    "description": "With Avonte Maddox, Kerby Joseph and Brian Branch out, the Detroit Lions are down to their 4th and 5th safeties.",
+    "slug": "florida-state-qb-thomas-castellanos-drops-ncaa-appeal-enters-nfl-draft",
+    "title": "Florida State QB Thomas Castellanos drops NCAA appeal, enters NFL draft",
+    "description": "Castellanos thanked family, friends, coaches and teammates and “everyone who has supported me along this journey” in a statement posted on social media.",
     "pubDate": "2025-12-24",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/avonte-maddox-injury-detroit-lions-211900842.html",
+    "link": "https://sports.yahoo.com/articles/florida-state-qb-thomas-castellanos-220653956.html",
     "source": "Google News"
   },
   {
-    "slug": "steve-kerr-hopes-to-see-draymond-green-retire-as-a-warrior",
-    "title": "Steve Kerr hopes to see Draymond Green retire as a Warrior",
-    "description": "Steve Kerr hopes to see Draymond Green retire as a Warrior",
+    "slug": "texas-high-school-football-coach-riley-dodge-leaving-for-job-on-acc-staff",
+    "title": "Texas high school football coach Riley Dodge leaving for job on ACC staff",
+    "description": "Another day and another prominent Texas high school football head coach is off to the collegiate level. A few days after news dropped that North Crowley’s Ray Gates took a job at North Texas, Southlake Carroll (TX) head coach Riley Dodge will be leaving the Dragons to take an assistant coaching posi",
     "pubDate": "2025-12-24",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/steve-kerr-hopes-see-draymond-211759809.html",
+    "link": "https://sports.yahoo.com/articles/texas-high-school-football-coach-220637919.html",
     "source": "Google News"
   },
   {
-    "slug": "steve-kerr-we-are-a-fading-dynasty-we-know-that",
-    "title": "Steve Kerr: We are a fading dynasty, we know that",
-    "description": "Steve Kerr: We are a fading dynasty, we know that",
+    "slug": "t-j-watt-limited-in-return-to-steelers-practice",
+    "title": "T.J. Watt limited in return to Steelers practice",
+    "description": "Steelers edge rusher T.J.",
     "pubDate": "2025-12-24",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/steve-kerr-fading-dynasty-know-211758770.html",
+    "link": "https://sports.yahoo.com/articles/t-j-watt-limited-return-220610995.html",
     "source": "Google News"
   },
   {
-    "slug": "steve-kerr-says-monday-wasn-39-t-his-finest-hour-apologizes-to-draymond-green",
-    "title": "Steve Kerr says Monday wasn&#39;t his finest hour, apologizes to Draymond Green",
-    "description": "Steve Kerr says Monday wasn't his finest hour, apologizes to Draymond Green",
+    "slug": "woof-washington-adds-2027-in-state-cb-commit",
+    "title": "#WOOF: Washington Adds 2027 In-State CB Commit",
+    "description": "The Huskies pick up a pledge from CB Maurice Williams",
     "pubDate": "2025-12-24",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/steve-kerr-says-monday-wasnt-211757151.html",
+    "link": "https://sports.yahoo.com/articles/woof-washington-adds-2027-state-220502424.html",
     "source": "Google News"
   },
   {
-    "slug": "steve-kerr-not-considering-moving-draymond-green-to-the-bench",
-    "title": "Steve Kerr not considering moving Draymond Green to the bench",
-    "description": "Steve Kerr not considering moving Draymond Green to the bench",
+    "slug": "woltemade-to-lead-the-line-4-3-3-newcastle-united-predicted-lineup-vs-manchester-united",
+    "title": "Woltemade To Lead The Line | 4-3-3 Newcastle United Predicted Lineup Vs Manchester United",
+    "description": "Newcastle United will lock horns with Manchester United at Old Trafford this Friday night as they look to secure a good result at home in the Premier League. The Magpies managed to earn a 2-2 draw aga...",
     "pubDate": "2025-12-24",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/steve-kerr-not-considering-moving-211756257.html",
+    "link": "https://sports.yahoo.com/articles/woltemade-lead-line-4-3-220500711.html",
     "source": "Google News"
   },
   {
-    "slug": "i-think-it-39-s-all-good-you-know-it-just-happened-on",
-    "title": "“I think it&#39;s all good. You know, it just happened on …",
-    "description": "“I think it's all good. You know, it just happened on …",
+    "slug": "emmett-johnson-2026-nfl-draft-scouting-report-nebraska-39-s-back-makes-case-for-rb2",
+    "title": "Emmett Johnson 2026 NFL Draft scouting report: Nebraska&#39;s back makes case for RB2",
+    "description": "Johnson was one of the few risers in this RB class.",
     "pubDate": "2025-12-24",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/think-good-know-just-happened-211755410.html",
+    "link": "https://sports.yahoo.com/articles/emmett-johnson-2026-nfl-draft-220356856.html",
     "source": "Google News"
   },
   {
-    "slug": "quot-it-was-5-minutes-of-total-breakdown-probably",
-    "title": "&quot;It was 5 minutes of total breakdown probably. …",
-    "description": "\"It was 5 minutes of total breakdown probably. …",
+    "slug": "etta-eyong-the-cameroon-hero-in-tense-afcon-win-over-gabon",
+    "title": "Etta Eyong the Cameroon hero in tense AFCON win over Gabon",
+    "description": "Spain-based striker Karl Etta Eyong scored after six minutes to give five-time champions Cameroon a 1-0 victory over Gabon in a tense Africa Cup of Nations clash on Wednesday in Agadir. His goal earned Cameroon three points, bringing them level in Group F with title-holders Ivory Coast, who edged Mo",
     "pubDate": "2025-12-24",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/5-minutes-total-breakdown-probably-211754492.html",
+    "link": "https://sports.yahoo.com/articles/etta-eyong-cameroon-hero-tense-220354203.html",
     "source": "Google News"
   },
   {
-    "slug": "kerr-says-al-horford-is-likely-to-play-on-christmas",
-    "title": "Kerr says Al Horford is likely to play on Christmas …",
-    "description": "Kerr says Al Horford is likely to play on Christmas …",
+    "slug": "malik-willis-downgraded-to-dnp-with-illness-on-wednesday",
+    "title": "Malik Willis downgraded to DNP with illness on Wednesday",
+    "description": "While Packers starting quarterback Jordan Love remained a limited participant in Wednesday's practice, the same is not the case when it comes to backup quarterback Malik Willis.",
     "pubDate": "2025-12-24",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/kerr-says-al-horford-likely-211753791.html",
+    "link": "https://sports.yahoo.com/articles/malik-willis-downgraded-dnp-illness-220221179.html",
     "source": "Google News"
   },
   {
-    "slug": "white-chi-falls-to-the-floor-on-his-own-and-not-as",
-    "title": "“White (CHI) falls to the floor on his own and not as …",
-    "description": "“White (CHI) falls to the floor on his own and not as …",
+    "slug": "steelers-release-dt-to-make-room-for-new-wr",
+    "title": "Steelers release DT to make room for new WR",
+    "description": "Pittsburgh shuffles its practice squad on Christmas Eve.",
     "pubDate": "2025-12-24",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/white-chi-falls-floor-own-211752455.html",
+    "link": "https://sports.yahoo.com/articles/steelers-release-dt-room-wr-220129184.html",
     "source": "Google News"
   },
   {
-    "slug": "bengals-vs-cardinals-game-time-tv-channel-online-stream-odds-and-predictions",
-    "title": "Bengals vs. Cardinals game time, TV channel, online stream, odds, and predictions",
-    "description": "How to watch the Bengals host the Cardinals.",
+    "slug": "magomed-ankalaev-39-s-manager-jiri-prochazka-ticket-for-next-ufc-title-shot",
+    "title": "Magomed Ankalaev&#39;s manager: Jiri Prochazka ticket for next UFC title shot",
+    "description": "Rizvan Magomedov sees one particular fight that could get Magomed Ankalaev back in the UFC title picture.",
     "pubDate": "2025-12-24",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/bengals-vs-cardinals-game-time-211750964.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "jaguars-vs-colts-key-matchups-in-form-quarterbacks-set-for-shootout",
-    "title": "Jaguars vs Colts key matchups: In-form quarterbacks set for shootout?",
-    "description": "Three key matchups to look out for as the Jaguars head to Lucas Oil Stadium to face the Colts",
-    "pubDate": "2025-12-24",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/jaguars-vs-colts-key-matchups-211747982.html",
+    "link": "https://sports.yahoo.com/articles/magomed-ankalaevs-manager-jiri-prochazka-220025227.html",
     "source": "Google News"
   },
   {
@@ -1197,24 +1215,6 @@
     "source": "BBC Sport"
   },
   {
-    "slug": "captain-ekitike-and-triple-arsenal-defence-fpl-team-of-the-week",
-    "title": "Captain Ekitike and triple Arsenal defence - FPL team of the week",
-    "description": "Liverpool might score a hatful at home to Wolves this week and it would be rude not to get at least one attacking asset in your FPL team, writes Thomas Woods.",
-    "pubDate": "2025-12-23",
-    "image": "",
-    "link": "https://www.bbc.com/sport/football/articles/cp34rnqekkqo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport"
-  },
-  {
-    "slug": "no-wru-decision-on-how-to-cut-region-in-2025",
-    "title": "No WRU decision on how to cut region in 2025",
-    "description": "The Welsh Rugby Union (WRU) say there will be no resolution before the end of 2025 on how to cut a professional men's side.",
-    "pubDate": "2025-12-23",
-    "image": "",
-    "link": "https://www.bbc.com/sport/rugby-union/articles/c15711248q0o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport"
-  },
-  {
     "slug": "why-mbappe-had-1-3m-ethics-bonus-in-psg-contract",
     "title": "Why Mbappe had £1.3m ethics bonus in PSG contract",
     "description": "Paris St-Germain were told they must hand over a £1.3m \"ethics bonus\" to Kylian Mbappe as part of his court battle win - what are these payments?",
@@ -1224,21 +1224,21 @@
     "source": "BBC Sport"
   },
   {
+    "slug": "captain-ekitike-and-triple-arsenal-defence-fpl-team-of-the-week",
+    "title": "Captain Ekitike and triple Arsenal defence - FPL team of the week",
+    "description": "Liverpool might score a hatful at home to Wolves this week and it would be rude not to get at least one attacking asset in your FPL team, writes Thomas Woods.",
+    "pubDate": "2025-12-23",
+    "image": "",
+    "link": "https://www.bbc.com/sport/football/articles/cp34rnqekkqo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport"
+  },
+  {
     "slug": "nancy-wants-really-happy-maeda-to-stay-at-celtic",
     "title": "Nancy wants 'really happy' Maeda to stay at Celtic",
     "description": "Celtic manager Wilfried Nancy is eager to retain Daizen Maeda and insists the forward is \"really happy\" at the Scottish champions after a possible summer exit was blocked.",
     "pubDate": "2025-12-23",
     "image": "",
     "link": "https://www.bbc.com/sport/football/articles/c709g0w8249o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport"
-  },
-  {
-    "slug": "no-wru-decision-on-how-to-cull-side-in-2025",
-    "title": "No WRU decision on how to cull side in 2025",
-    "description": "The Welsh Rugby Union (WRU) say there will be no resolution before the end of 2025 on how to cut a professional men's side.",
-    "pubDate": "2025-12-23",
-    "image": "",
-    "link": "https://www.bbc.com/sport/rugby-union/articles/c15711248q0o?at_medium=RSS&at_campaign=rss",
     "source": "BBC Sport"
   },
   {
