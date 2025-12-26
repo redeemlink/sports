@@ -135,6 +135,24 @@
     "source": "Bill Connelly"
   },
   {
+    "slug": "nba-power-rankings-young-risers-to-watch-on-all-30-teams",
+    "title": "NBA Power Rankings: Young risers to watch on all 30 teams",
+    "description": "From ROY and MIP races, our NBA insiders break down all 30 teams' young riser in this week's Power Rankings.",
+    "pubDate": "2025-12-26",
+    "image": "",
+    "link": "https://www.espn.com/nba/story/_/id/47402055/nba-power-rankings-all-30-teams-young-riser-most-improved-rookie-year",
+    "source": "NBA insiders"
+  },
+  {
+    "slug": "nba-buzz-live-updates-trades-and-intel-from-around-the-league",
+    "title": "NBA buzz: Live updates, trades and intel from around the league",
+    "description": "Catch up on the latest buzz, trade alerts and league intel from our ESPN NBA insiders.",
+    "pubDate": "2025-12-26",
+    "image": "",
+    "link": "https://www.espn.com/nba/story/_/id/47191162/nba-buzz-latest-live-updates-trades-intel-league",
+    "source": "ESPN"
+  },
+  {
     "slug": "one-stat-that-will-make-or-break-2026-for-all-15-nl-teams",
     "title": "One stat that will make or break 2026 for all 15 NL teams",
     "description": "Here are the numbers that could define your favorite National League squad in the new year.",
@@ -304,24 +322,6 @@
     "image": "",
     "link": "https://www.espn.com/nhl/story/_/id/47378620/nhl-2025-26-best-games-week-craig-berube-toronto-maple-leafs-hot-seat",
     "source": "Arda Ocal"
-  },
-  {
-    "slug": "nba-power-rankings-young-risers-to-watch-on-all-30-teams",
-    "title": "NBA Power Rankings: Young risers to watch on all 30 teams",
-    "description": "From ROY and MIP races, our NBA insiders break down all 30 teams' young riser in this week's Power Rankings.",
-    "pubDate": "2025-12-26",
-    "image": "",
-    "link": "https://www.espn.com/nba/story/_/id/47402055/nba-power-rankings-all-30-teams-young-riser-most-improved-rookie-year",
-    "source": "NBA insiders"
-  },
-  {
-    "slug": "doncic-reaves-and-the-hilarious-bromance-fueling-the-lakers-wild-start",
-    "title": "Doncic, Reaves and the hilarious bromance fueling the Lakers' wild start",
-    "description": "The success and virality of this duo is doing more than quiet the typical noise around the Lakers.",
-    "pubDate": "2025-12-26",
-    "image": "",
-    "link": "https://www.espn.com/nba/story/_/id/47380110/luka-doncic-austin-reaves-hilarious-bromance-fueling-nba-los-angeles-lakers-19-9-start",
-    "source": "Dave McMenamin"
   },
   {
     "slug": "transfer-rumors-news-man-united-want-gallagher-loan-atl-tico-want-30m",
@@ -612,6 +612,60 @@
     "source": "BBC Sport"
   },
   {
+    "slug": "bucs-visit-dolphins-look-to-move-closer-to-nfc-south-title",
+    "title": "Bucs visit Dolphins, look to move closer to NFC South title",
+    "description": "",
+    "pubDate": "2025-12-26",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/bucs-visit-dolphins-look-move-233928782.html",
+    "source": "The Associated Press"
+  },
+  {
+    "slug": "who-has-the-advantage-in-the-chargers-vs-texans-week-17-matchup",
+    "title": "Who has the advantage in the Chargers vs. Texans Week 17 matchup?",
+    "description": "Which team has the advantage and where in the Chargers' crucial Week 17 matchup against the Texans?",
+    "pubDate": "2025-12-26",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/advantage-chargers-vs-texans-week-233656500.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "texas-a-m-junior-tight-end-will-enter-the-transfer-portal",
+    "title": "Texas A&M junior tight end will enter the transfer portal",
+    "description": "Texas A&M junior tight end Theo Melin Öhrström will reportedly enter his name into the transfer portal after three seasons with the program.",
+    "pubDate": "2025-12-26",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/texas-m-junior-tight-end-233301445.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "report-michigan-hires-kyle-whittingham-to-replace-disgraced-coach-sherrone-moore",
+    "title": "Report: Michigan hires Kyle Whittingham to replace disgraced coach Sherrone Moore",
+    "description": "Whittingham announced two weeks ago that he would step down after 21 seasons as Utah’s coach.",
+    "pubDate": "2025-12-26",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/report-michigan-hires-kyle-whittingham-233152243.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "49ers-39-george-kittle-questionable-for-key-game-against-bears-with-ankle-injury",
+    "title": "49ers&#39; George Kittle questionable for key game against Bears with ankle injury",
+    "description": "San Francisco star tight end George Kittle was listed as questionable with an ankle injury for the 49ers' key game in playoff positioning on Sunday night against the Chicago Bears.  Kittle missed the full week of practice after getting hurt Monday night in a win against Indianapolis.  Receiver Ricky",
+    "pubDate": "2025-12-26",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/49ers-george-kittle-questionable-key-233145925.html",
+    "source": "JOSH DUBOW"
+  },
+  {
+    "slug": "college-football-bowl-schedule-dates-times-tv-channels-live-streams-to-watch-every-fbs-bowl-game-in-2025-26",
+    "title": "College football bowl schedule: Dates, times, TV channels, live streams to watch every FBS bowl game in 2025-26",
+    "description": "Here is everything you need to know about the 2025-26 college football bowl schedule, including TV and streaming options for each game.",
+    "pubDate": "2025-12-26",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/college-football-bowl-schedule-dates-072002168.html",
+    "source": "Google News"
+  },
+  {
     "slug": "unc-39-s-big-three-top-performers-so-far-in-non-conference",
     "title": "UNC&#39;s Big Three: Top performers so far in non-conference",
     "description": "As ACC play begins, three Tar Heels have emerged as North Carolina’s top performers and will be critical to the team’s success the rest of the season.",
@@ -628,6 +682,24 @@
     "image": "",
     "link": "https://sports.yahoo.com/articles/echl-postpones-13-games-players-233020752.html",
     "source": "The Associated Press"
+  },
+  {
+    "slug": "world-juniors-schedule-2026-full-dates-times-scores-tv-channel-live-streams-to-watch-every-iihf-hockey-game",
+    "title": "World Juniors schedule 2026: Full dates, times, scores, TV channel, live streams to watch every IIHF hockey game",
+    "description": "The U.S. and Canada will look to continue their mutual stranglehold on the IIHF under-20 title. Here's how to watch all the action.",
+    "pubDate": "2025-12-26",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/world-juniors-schedule-2026-full-053001977.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "why-michigan-hired-kyle-whittingham-over-kalen-deboer-other-options-after-sherrone-moore-firing",
+    "title": "Why Michigan hired Kyle Whittingham over Kalen DeBoer, other options after Sherrone Moore firing",
+    "description": "Michigan's next head football coach is one of the sport's most experienced leaders.",
+    "pubDate": "2025-12-26",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/why-michigan-hired-kyle-whittingham-213452612.html",
+    "source": "Google News"
   },
   {
     "slug": "check-out-chiefs-39-te-travis-kelce-39-s-high-school-basketball-highlights-from-cleveland-heights",
@@ -654,6 +726,15 @@
     "pubDate": "2025-12-26",
     "image": "",
     "link": "https://sports.yahoo.com/articles/transfer-portal-qb-tracker-2026-190158297.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "morocco-forced-to-wait-for-afcon-knockout-place-after-mali-draw",
+    "title": "Morocco forced to wait for AFCON knockout place after Mali draw",
+    "description": "Morocco missed the chance to guarantee their spot in the last 16 of the Africa Cup of Nations after Lassine Sinayoko's second-half penalty earned Mali a 1-1 draw with the hosts on Friday.The match was a tale of two spot-kicks, with Brahim Diaz giving Morocco the lead from a penalty deep in first-hal",
+    "pubDate": "2025-12-26",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/morocco-forced-wait-afcon-knockout-221321285.html",
     "source": "Google News"
   },
   {
@@ -891,6 +972,33 @@
     "source": "Google News"
   },
   {
+    "slug": "why-nfl-writer-would-ve-loved-to-see-myles-garrett-on-patriots-this-season",
+    "title": "Why NFL Writer Would’ve Loved To See Myles Garrett On Patriots This Season",
+    "description": "During the offseason, there was some buzz surrounding the possibility that the Cleveland Browns could have traded their star pass rusher, Myles Garrett. Garrett requested a trade during Super Bowl week, but he and the Browns reached an agreement on a contract extension before free agency began in Ma",
+    "pubDate": "2025-12-26",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/why-nfl-writer-ve-loved-231120049.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "garrett-altman-named-new-offensive-coordinator-for-arkansas-state",
+    "title": "Garrett Altman named new offensive coordinator for Arkansas State",
+    "description": "Coming off the heels of the Xbox Bowl victory, the Red Wolves are making some additions to the coaching staff.",
+    "pubDate": "2025-12-26",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/garrett-altman-named-offensive-coordinator-230916159.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "fans-already-enjoying-the-2025-first-financial-classic",
+    "title": "Fans already enjoying the 2025 First Financial Classic",
+    "description": "The 2025 First Financial Classic is underway, bringing together 16 teams for four days of high school basketball excitement and unique matchups, with fans coming out to support their teams and enjoy the special atmosphere of the tournament.",
+    "pubDate": "2025-12-26",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/fans-already-enjoying-2025-first-230911444.html",
+    "source": "Google News"
+  },
+  {
     "slug": "ruben-amorim-explains-thinking-behind-bold-formation-switch-in-1-0-win-over-newcastle",
     "title": "Ruben Amorim explains thinking behind bold formation switch in 1-0 win over Newcastle",
     "description": "Manchester United head coach Ruben Amorim has revealed why he made the decision to abandon his controversial 3-4-2-1 for a new system during the club’s 1-0 win over Newcastle.United beat NewcastleUn...",
@@ -951,114 +1059,6 @@
     "pubDate": "2025-12-26",
     "image": "",
     "link": "https://sports.yahoo.com/articles/steelers-announce-massive-t-j-230619134.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "afcon-2025-how-to-watch-every-match-for-free-on-tv-and-online",
-    "title": "Afcon 2025: How to watch every match for free on TV and online",
-    "description": "Morocco host the tournament and are also the favourites, ahead of Senegal and defending champions Ivory Coast",
-    "pubDate": "2025-12-26",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/afcon-2025-watch-every-match-150809280.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "kuhta-has-3-assists-vesterinen-scores-twice-as-finland-beats-denmark-6-2-in-world-juniors",
-    "title": "Kuhta has 3 assists, Vesterinen scores twice as Finland beats Denmark 6-2 in world juniors",
-    "description": "Jasper Kuhta led Finland with three assists, including two on goals from Roope Vesterinen in a 6-2 win over Denmark in each team's opening game of the world junior championships on Friday.  Kuhta was one of five players to finish with at least two points for Finland — and 12 with at least one point",
-    "pubDate": "2025-12-26",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/kuhta-3-assists-vesterinen-scores-230535410.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "with-top-draft-pick-in-play-raiders-bench-banged-up-maxx-crosby-for-game-vs-giants",
-    "title": "With top draft pick in play, Raiders bench banged-up Maxx Crosby for game vs. Giants",
-    "description": "The Las Vegas Raiders have decided to bench defensive end Maxx Crosby for Sunday's home game against the New York Giants in a matchup of teams with the NFL's worst records.  The loser has the inside track to the top overall draft pick, and the Raiders will be resting other key players this week.  Ti",
-    "pubDate": "2025-12-26",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/top-draft-pick-play-raiders-230516230.html",
-    "source": "MARK ANDERSON"
-  },
-  {
-    "slug": "mason-mount-injury-update-as-ruben-amorim-offers-explanation-for-half-time-change",
-    "title": "Mason Mount injury update as Ruben Amorim offers explanation for half-time change",
-    "description": "Manchester United will already be without Bruno Fernandes, Bryan Mbeumo and Amad Diallo when they host Wolves on Tuesday",
-    "pubDate": "2025-12-26",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/mason-mount-injury-ruben-amorim-225147625.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "kyle-whittingham-to-take-over-as-football-coach-at-michigan-agreeing-to-5-year-deal-ap-sources-say",
-    "title": "Kyle Whittingham to take over as football coach at Michigan, agreeing to 5-year deal, AP sources say",
-    "description": "",
-    "pubDate": "2025-12-26",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/kyle-whittingham-over-football-coach-230301618.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "utah-39-s-kyle-whittingham-to-join-michigan-immediately-at-citrus-bowl",
-    "title": "Utah&#39;s Kyle Whittingham to join Michigan immediately at Citrus Bowl",
-    "description": "According to multiple reports, Kyle Whittingham is expected to join Michigan immediately, leaving Utah immediately before their Las Vegas Bowl.",
-    "pubDate": "2025-12-26",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/utahs-kyle-whittingham-join-michigan-230157207.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "depleted-manchester-united-hang-on-to-victory-over-frustrated-newcastle",
-    "title": "Depleted Manchester United hang on to victory over frustrated Newcastle",
-    "description": "Manchester United have thrown away far better opportunities than this to break into the top five this season but, on a night when they were severely depleted and missing some of their biggest players, they finally found a way to get over the line.",
-    "pubDate": "2025-12-26",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/depleted-manchester-united-hang-victory-230145231.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "chris-tanev-is-the-boost-the-maple-leafs-have-been-looking-for",
-    "title": "Chris Tanev Is The Boost The Maple Leafs Have Been Looking For",
-    "description": "Toronto Maple Leafs defenseman Chris Tanev made his return from injury on Tuesday against the Pittsburgh Penguins. While Tanev isn't a Norris Trophy contender, his calming presence in Toronto's zone gave the Leafs the defensive improvement they've been looking for.",
-    "pubDate": "2025-12-26",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/chris-tanev-boost-maple-leafs-230102594.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "vote-the-record-39-s-preseason-high-school-boys-soccer-player-of-the-year-poll",
-    "title": "VOTE: The Record&#39;s Preseason High School Boys Soccer Player of the Year Poll",
-    "description": "Take your pick and cast your vote for The Record's 2025-26 Preseason Boys Soccer Player of the Year. Twenty-seven SJ County teams are included.",
-    "pubDate": "2025-12-26",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/vote-records-preseason-high-school-230022506.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "how-realistic-are-bradley-barcola-39-s-chances-of-leaving-psg",
-    "title": "How Realistic are Bradley Barcola&#39;s Chances of Leaving PSG?",
-    "description": "The young Frenchman is being linked with a move to Liverpool by various sources, although it remains doubtful whether PSG would let him go at this stage.",
-    "pubDate": "2025-12-26",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/realistic-bradley-barcolas-chances-leaving-230004270.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "following-collapse-in-2025-mets-viewed-as-third-most-desperate-team-in-mlb",
-    "title": "Following Collapse In 2025, Mets Viewed As Third Most Desperate Team In MLB",
-    "description": "Losing stars and facing a costly rebuild, the Mets scramble for splashy moves to recover from their 2025 collapse and satisfy eager fans.",
-    "pubDate": "2025-12-26",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/following-collapse-2025-mets-viewed-230003532.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "where-to-watch-naoya-inoue-vs-david-picasso-live-stream-tv-channel-start-time-for-2025-boxing-fight",
-    "title": "Where to watch Naoya Inoue vs. David Picasso: Live stream, TV channel & start time for 2025 boxing fight",
-    "description": "Here are your options to watch Naoya Inoue vs. David Picasso, including the live stream and start time for the fight on Saturday in Saudi Arabia.",
-    "pubDate": "2025-12-26",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/where-watch-naoya-inoue-vs-230001491.html",
     "source": "Google News"
   },
   {
