@@ -27,15 +27,6 @@
     "source": "Ryan McFadden"
   },
   {
-    "slug": "inoue-nakatani-win-to-set-up-2026-megafight",
-    "title": "Inoue, Nakatani win to set up 2026 megafight",
-    "description": "Japanese boxing stars Naoya Inoue and Junto Nakatani won their respective fights Saturday, setting up a 2026 showdown between two of the world's best pound-for-pound fighters.",
-    "pubDate": "2025-12-27",
-    "image": "",
-    "link": "https://www.espn.com/boxing/story/_/id/47426170/naoya-inoue-junto-nakatani-win-set-2026-megafight",
-    "source": "Nick Parkinson"
-  },
-  {
     "slug": "lakers-reaves-calf-strain-out-at-least-1-month",
     "title": "Lakers' Reaves (calf strain) out at least 1 month",
     "description": "Lakers guard Austin Reaves is expected to miss at least a month because of a calf strain, the team announced.",
@@ -74,11 +65,20 @@
   {
     "slug": "pats-down-5-starters-but-henderson-might-play",
     "title": "Pats down 5 starters, but Henderson might play",
-    "description": "The Patriots will be without five starters against the Jets, but there is still a chance rookie running back TreVeyon Henderson is available as he progresses through the concussion protocol.",
+    "description": "The Patriots will be without five starters against the Jets, but there's still a chance rookie running back TreVeyon Henderson is available as he progresses through concussion protocol.",
     "pubDate": "2025-12-27",
     "image": "",
     "link": "https://www.espn.com/nfl/story/_/id/47420630/patriots-rb-treveyon-henderson-concussion-play-vs-jets",
     "source": "Mike Reiss"
+  },
+  {
+    "slug": "bills-allen-good-to-go-vs-eagles-after-foot-injury",
+    "title": "Bills' Allen 'good to go' vs. Eagles after foot injury",
+    "description": "Despite a right foot injury, Buffalo Bills quarterback Josh Allen is set to play in Sunday's game against the Philadelphia Eagles and is not expected to have any limitations, per coach Sean McDermott.",
+    "pubDate": "2025-12-27",
+    "image": "",
+    "link": "https://www.espn.com/nfl/story/_/id/47420973/bills-josh-allen-good-go-vs-eagles-foot-injury",
+    "source": "Alaina Getzenberg"
   },
   {
     "slug": "pop-tarts-bowl-trophy-behind-the-scenes",
@@ -279,17 +279,8 @@
     "source": "ESPN"
   },
   {
-    "slug": "a-new-united-states-champ-three-stages-of-hell-for-rhodes-vs-mcintyre",
-    "title": "A new United States champ; Three Stages of Hell for Rhodes vs. McIntyre",
-    "description": "Friday's \"SmackDown\" saw a new champion being crowned and the Cody Rhodes-Drew McIntyre rivalry reaching a new level.",
-    "pubDate": "2025-12-27",
-    "image": "",
-    "link": "https://www.espn.com/wwe/story/_/id/47422314/wwe-smackdown-highlights-new-united-states-champ-rhodes-vs-mcintyre-three-stages-hell",
-    "source": "Arda Ocal"
-  },
-  {
-    "slug": "transfer-rumors-news-man-united-consider-re-signing-midfielder-garner",
-    "title": "Transfer rumors, news: Man United consider re-signing midfielder Garner",
+    "slug": "transfer-rumors-news-man-united-consider-re-signing-former-midfielder-garner",
+    "title": "Transfer rumors, news: Man United consider re-signing former midfielder Garner",
     "description": "Former Manchester United midfielder James Garner is being targeted for a return to Old Trafford. Transfer Talk has the latest news and rumors.",
     "pubDate": "2025-12-27",
     "image": "",
@@ -387,12 +378,21 @@
     "source": "BBC Sport"
   },
   {
-    "slug": "solness-and-skylight-hustle-take-leopardstown-wins",
-    "title": "Solness and Skylight Hustle take Leopardstown wins",
-    "description": "Solness edges out Marine Nationale to take a thrilling win in the feature Club Chase Steeplechase at Leopardstown while Skylight Hustle takes victory in the two-mile Novices Hurdle.",
+    "slug": "small-halls-in-crisis-boxing-s-lifeblood-is-struggling-to-breathe",
+    "title": "Small halls in crisis - boxing's lifeblood is struggling to breathe",
+    "description": "Small-hall boxing has long been considered the sport's lifeblood. But right now, it is struggling for survival. BBC Sport finds out why.",
     "pubDate": "2025-12-27",
     "image": "",
-    "link": "https://www.bbc.com/sport/horse-racing/articles/c8xd0q85xvno?at_medium=RSS&at_campaign=rss",
+    "link": "https://www.bbc.com/sport/boxing/articles/c0kdrd1zkmzo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport"
+  },
+  {
+    "slug": "england-bowler-atkinson-set-for-scan-on-hamstring",
+    "title": "England bowler Atkinson set for scan on hamstring",
+    "description": "Seamer Gus Atkinson adds to England’s injury problems by leaving the field on the second morning of the fourth Ashes Test against Australia.",
+    "pubDate": "2025-12-27",
+    "image": "",
+    "link": "https://www.bbc.com/sport/cricket/articles/cd9z31jdqzeo?at_medium=RSS&at_campaign=rss",
     "source": "BBC Sport"
   },
   {
@@ -423,39 +423,21 @@
     "source": "BBC Sport"
   },
   {
+    "slug": "the-noise-is-extraordinary-duckett-ramps-for-six",
+    "title": "'The noise is extraordinary' - Duckett ramps for six",
+    "description": "Ben Duckett goes on the attack, ramping Michael Neser for six over as England start aggressively in their pursuit of 175 runs to win the fourth Ashes Test on day two in Melbourne.",
+    "pubDate": "2025-12-27",
+    "image": "",
+    "link": "https://www.bbc.com/sport/cricket/videos/c4genqv4488o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport"
+  },
+  {
     "slug": "stokes-ecstatic-after-fourth-test-victory",
     "title": "Stokes 'ecstatic' after fourth Test victory",
     "description": "England captain Ben Stokes praises the way his side \"held firm\" and dealt with the noise surrounding the squad in the build up to the fourth Test before going out and performing as England beat Australia by four wickets in Melbourne to get their first win of the Ashes series.",
     "pubDate": "2025-12-27",
     "image": "",
     "link": "https://www.bbc.com/sport/cricket/videos/c78329x3qzpo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport"
-  },
-  {
-    "slug": "man-city-found-right-mentality-to-beat-nottingham-forest-guardiola",
-    "title": "Man City found right mentality to beat Nottingham Forest - Guardiola ",
-    "description": "Manchester City manager Pep Guardiola says that his side had the necessary mentality to come back after Christmas and beat Nottingham Forest 2-1.",
-    "pubDate": "2025-12-27",
-    "image": "",
-    "link": "https://www.bbc.com/sport/football/videos/ce91k8ypvyro?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport"
-  },
-  {
-    "slug": "small-halls-in-crisis-boxing-s-lifeblood-is-struggling-to-breathe",
-    "title": "Small halls in crisis - boxing's lifeblood is struggling to breathe",
-    "description": "Small-hall boxing has long been considered the sport's lifeblood. But right now, it is struggling for survival. BBC Sport finds out why.",
-    "pubDate": "2025-12-27",
-    "image": "",
-    "link": "https://www.bbc.com/sport/boxing/articles/c0kdrd1zkmzo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport"
-  },
-  {
-    "slug": "england-bowler-atkinson-set-for-scan-on-hamstring",
-    "title": "England bowler Atkinson set for scan on hamstring",
-    "description": "Seamer Gus Atkinson adds to England’s injury problems by leaving the field on the second morning of the fourth Ashes Test against Australia.",
-    "pubDate": "2025-12-27",
-    "image": "",
-    "link": "https://www.bbc.com/sport/cricket/articles/cd9z31jdqzeo?at_medium=RSS&at_campaign=rss",
     "source": "BBC Sport"
   },
   {
@@ -468,30 +450,21 @@
     "source": "BBC Sport"
   },
   {
+    "slug": "england-win-staggering-two-day-test-in-melbourne",
+    "title": "England win staggering two-day Test in Melbourne",
+    "description": "England beat Australia by four wickets in a remarkable two-day match in Melbourne to claim their first Ashes Test win down under since 2011.",
+    "pubDate": "2025-12-27",
+    "image": "",
+    "link": "https://www.bbc.com/sport/cricket/articles/c1m84mppgmko?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport"
+  },
+  {
     "slug": "what-can-we-expect-from-the-2026-road-racing-season",
     "title": "What can we expect from the 2026 road racing season?",
     "description": "BBC Sport NI assesses the prospects for the 2026 road racing season after a year which brought its fair share of excitement, frustration and controversy.",
     "pubDate": "2025-12-27",
     "image": "",
     "link": "https://www.bbc.com/sport/motorsport/articles/c4g4w19pzndo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport"
-  },
-  {
-    "slug": "semenyo-guehi-who-will-move-in-january",
-    "title": "Semenyo? Guehi? Who will move in January?",
-    "description": "BBC senior football correspondent Sami Mokbel gives Football Focus the lowdown on whether Bournemouth's Antoine Semenyo and Crystal Palace's Marc Guehi will move clubs in January.",
-    "pubDate": "2025-12-27",
-    "image": "",
-    "link": "https://www.bbc.com/sport/football/videos/cp896lz49zjo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport"
-  },
-  {
-    "slug": "the-noise-is-extraordinary-duckett-ramps-for-six",
-    "title": "'The noise is extraordinary' - Duckett ramps for six",
-    "description": "Ben Duckett goes on the attack, ramping Michael Neser for six over as England start aggressively in their pursuit of 175 runs to win the fourth Ashes Test on day two in Melbourne.",
-    "pubDate": "2025-12-27",
-    "image": "",
-    "link": "https://www.bbc.com/sport/cricket/videos/c4genqv4488o?at_medium=RSS&at_campaign=rss",
     "source": "BBC Sport"
   },
   {
@@ -549,53 +522,107 @@
     "source": "BBC Sport"
   },
   {
-    "slug": "fantastic-photos-of-team-usa-skiing-great-mikaela-shiffrin",
-    "title": "Fantastic photos of Team USA skiing great Mikaela Shiffrin",
-    "description": "Mikaela Shiffin looks to add to her stunning skiing resume in the Winter Olympics.",
+    "slug": "man-city-makes-it-six-premier-league-wins-in-a-row-with-2-1-victory-against-nottingham-forest",
+    "title": "Man City makes it six Premier League wins in a row with 2-1 victory against Nottingham Forest",
+    "description": "Rayan Cherki kept Manchester City's Premier League title challenge powering on with a late winner at Nottingham Forest on Saturday.  The France forward's 83rd minute strike secured a 2-1 victory at the City Ground to make it six league wins in a row for Pep Guardiola's team.  City is on an eight-gam",
     "pubDate": "2025-12-27",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/fantastic-photos-team-usa-skiing-153032410.html",
+    "link": "https://sports.yahoo.com/articles/man-city-makes-six-premier-145039662.html",
+    "source": "JAMES ROBSON"
+  },
+  {
+    "slug": "year-in-review-top-stories-of-2025-blue-devils-advance-to-semifinals-local-link-to-world-series",
+    "title": "Year in review — Top stories of 2025: Blue Devils advance to semifinals, local link to World Series",
+    "description": "Editor's note: The Meadville Tribune is re-visiting the top eight Crawford County-area sports stories from 2025. The series begins today and continues Monday, Tuesday and Wednesday. Two stories will run per day in no particular order. Cambridge Springs advances to state semifinals The 2025 Cambridge",
+    "pubDate": "2025-12-27",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/review-top-stories-2025-blue-144700855.html",
     "source": "Google News"
   },
   {
-    "slug": "two-badgers-are-finally-coming-out-of-their-shells",
-    "title": "Two Badgers are finally coming out of their shells",
-    "description": "The Badgers are seeing some of their rotational pieces finally break out.",
+    "slug": "meadville-senior-tymir-phillips-selected-to-all-state-football-team",
+    "title": "Meadville senior Tymir Phillips selected to all-state football team",
+    "description": "Meadville Bulldogs’ senior Tymir Phillips was selected to the Pennsylvania Football Writers’ 2025 Class 4A all-state football team, that was announced Wednesday. Phillips was selected to the team as an athlete. In 10 games for the Bulldogs Phillips carried the ball 78 times, where he racked up 610 y",
     "pubDate": "2025-12-27",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/two-badgers-finally-coming-shells-153000244.html",
+    "link": "https://sports.yahoo.com/articles/meadville-senior-tymir-phillips-selected-144600826.html",
     "source": "Google News"
   },
   {
-    "slug": "saka-reaches-new-milestone-for-arsenal-with-assist-in-brighton-clash",
-    "title": "📊 Saka reaches new milestone for Arsenal with assist in Brighton clash",
-    "description": "Arsenal winger Bukayo Saka has reached a new milestone with an assist for their opening goal against Brighton in the Premier League on Saturday afternoon.The Gunners started brightly against the Seagu...",
+    "slug": "49ers-bears-who-do-experts-think-will-win-sf-39-s-week-17-game",
+    "title": "49ers-Bears: Who do experts think will win SF&#39;s Week 17 game?",
+    "description": "The San Francisco 49ers and Chicago Bears will meet on Sunday night at Levi's Stadium. Here's who experts think will win the Week 17 battle.",
     "pubDate": "2025-12-27",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/saka-reaches-milestone-arsenal-assist-153000309.html",
+    "link": "https://sports.yahoo.com/articles/49ers-bears-experts-think-win-144529985.html",
     "source": "Google News"
   },
   {
-    "slug": "saturday-bowl-game-thread-12-27",
-    "title": "Saturday Bowl Game Thread 12/27",
-    "description": "Bowl games are playing all day, so you may as well watch some football",
+    "slug": "giannis-antetokounmpo-expected-to-return-to-bucks-39-lineup-saturday-night-against-bulls",
+    "title": "Giannis Antetokounmpo expected to return to Bucks&#39; lineup Saturday night against Bulls",
+    "description": "Antetokounmpo has been out since Dec. 3 with a calf strain.",
     "pubDate": "2025-12-27",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/saturday-bowl-game-thread-12-153000142.html",
+    "link": "https://sports.yahoo.com/nba/article/giannis-antetokounmpo-expected-to-return-to-bucks-lineup-saturday-night-against-bulls-144508653.html",
+    "source": "Sean Leahy"
+  },
+  {
+    "slug": "late-cherki-goal-secures-man-city-2-1-win-over-nottingham-forest",
+    "title": "Late Cherki Goal Secures Man City 2-1 Win Over Nottingham Forest",
+    "description": "Cherki Delivers Again as Man City Edge Forest 2-1 in Title RaceManchester City returned to the summit of the Premier League with a late, decisive strike from Rayan Cherki, overcoming a stubborn Nottin...",
+    "pubDate": "2025-12-27",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/cherki-goal-secures-man-city-144500284.html",
     "source": "Google News"
   },
   {
-    "slug": "report-real-madrid-fc-barcelona-liverpool-could-battle-bayern-munich-for-bvb-s-nico-schlotterbeck",
-    "title": "Report: Real Madrid, FC Barcelona, Liverpool could battle Bayern Munich for BVB’s Nico Schlotterbeck",
-    "description": "FC Bayern will have competition for Nico Schlotterbeck.",
+    "slug": "predicted-xi-enzo-maresca-faces-huge-question-mark-over-dropped-enzo-fernandez-and-chelsea-shape",
+    "title": "Predicted XI: Enzo Maresca faces huge question mark over dropped Enzo Fernandez and Chelsea shape",
+    "description": "Usually Christmas feels packed full of games – in this case, Chelsea have had their first week off for a while, meaning that today’s clash with Aston Villa has felt like a long time coming.That’...",
     "pubDate": "2025-12-27",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/report-real-madrid-fc-barcelona-153000788.html",
+    "link": "https://sports.yahoo.com/articles/predicted-xi-enzo-maresca-faces-144500537.html",
     "source": "Google News"
   },
   {
-    "slug": "scottish-premiership-livingston-celtic-share-four-goals-in-ridiculous-first-10-minutes",
-    "title": "Scottish Premiership: Livingston & Celtic share four goals in ridiculous first 10 minutes",
+    "slug": "monaco-and-strasbourg-frontrunners-to-sign-dunkerque-8217-s-gessime-yassine",
+    "title": "Monaco and Strasbourg frontrunners to sign Dunkerque&#8217;s Gessime Yassine",
+    "description": "The race to sign USL Dunkerque’s Gessime Yassine (20) is heating up and could reach a conclusion in the coming days, as per a report from Foot Mercato. Yassine has impressed in Ligue 2 for Dunkerq...",
+    "pubDate": "2025-12-27",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/monaco-strasbourg-frontrunners-sign-dunkerque-144500517.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "fsu-coaching-changes-tracker-latest-updates-on-seminoles-staff-moves",
+    "title": "FSU coaching changes tracker: Latest updates on Seminoles’ staff moves",
+    "description": "The offseason is underway for Florida State, with changes to both the Seminoles’ roster and staff taking place over the coming weeks after a second-straight losing season. With an overhaul of the entire Florida State infrastructure having been proposed in last month’s announcement confirming the ret",
+    "pubDate": "2025-12-27",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/fsu-coaching-changes-tracker-updates-163552453.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "reports-fsu-to-hire-john-garrett-as-general-manager",
+    "title": "Reports: FSU to hire John Garrett as general manager",
+    "description": "Florida State, after making changes to its on-field staff, looks to have found its new general manager — John Garrett The news was first reported by Warchant, with Noles247 confirming the reporting. Garrett, who currently serves as the general manager of player personnel at Duke, spent two years (20",
+    "pubDate": "2025-12-27",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/reports-fsu-hire-john-garrett-144314793.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "juve-eye-nkunku-vicario-inter-update-napoli-target-timber-today-s-news",
+    "title": "🔥 Juve eye Nkunku, Vicario-Inter update, Napoli target Timber: today’s news",
+    "description": "The championship returns, but the transfer market is getting closer and closer, and news in this regard is certainly not lacking.Watch the entire Serie BKT live on OneFootball for only €9.99 per mon...",
+    "pubDate": "2025-12-27",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/juve-eye-nkunku-vicario-inter-144200089.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "scottish-premiership-build-up-team-news-after-hibs-win-edinburgh-derby",
+    "title": "Scottish Premiership: Build-up & team news after Hibs win Edinburgh derby",
     "description": "Listen to Sportsound commentary from Livingston, Ibrox and Pittodrie, and follow text updates from five games in the Scottish Premiership.",
     "pubDate": "2025-12-27",
     "image": "",
@@ -603,237 +630,93 @@
     "source": "Google News"
   },
   {
-    "slug": "michigan-state-predicted-to-land-4-star-transfer-qb-from-alabama",
-    "title": "Michigan State predicted to land 4-star transfer QB from Alabama",
-    "description": "The Spartans would feel good about this.",
+    "slug": "robert-lewandowski-confirms-bizarre-barcelona-request-8211-8220-it-stuck-in-my-head-8221",
+    "title": "Robert Lewandowski confirms bizarre Barcelona request &#8211; &#8220;It stuck in my head&#8221;",
+    "description": "Robert Lewandowski has been a fantastic servant for Barcelona over the course of his three and a half seasons so far, with 109 goals in 165 appearances across all competitions. His record could have b...",
     "pubDate": "2025-12-27",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/michigan-state-predicted-land-4-152731718.html",
+    "link": "https://sports.yahoo.com/articles/robert-lewandowski-confirms-bizarre-barcelona-144000427.html",
     "source": "Google News"
   },
   {
-    "slug": "saturday-morning-rangers-stuff",
-    "title": "Saturday morning Rangers stuff",
-    "description": "Texas Rangers update for Saturday, Dec. 27.",
+    "slug": "gallery-cherki-masterclass-downs-forest",
+    "title": "Gallery: Cherki masterclass downs Forest!",
+    "description": "Rayan Cherki scored one and assisted another to inspire City to a hard-fought 2-1 Premier League victory over Nottingham Forest. Match Report City end the year in style with late win at Forest After a...",
     "pubDate": "2025-12-27",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/saturday-morning-rangers-stuff-152431412.html",
+    "link": "https://sports.yahoo.com/articles/gallery-cherki-masterclass-downs-forest-144000208.html",
     "source": "Google News"
   },
   {
-    "slug": "naoya-inoue-vs-david-picasso-full-fight-video-highlights",
-    "title": "Naoya Inoue vs. David Picasso full fight video highlights",
-    "description": "Naoya Inoue put on a show in Saudi Arabia",
+    "slug": "naoya-inoue-beats-picasso-is-nakatani-next",
+    "title": "Naoya Inoue beats Picasso, is Nakatani next?",
+    "description": "Naoya Inoue retained his championship again, and may have his biggest fight looming for 2026.",
     "pubDate": "2025-12-27",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/naoya-inoue-vs-david-picasso-152423421.html",
+    "link": "https://sports.yahoo.com/articles/naoya-inoue-beats-picasso-nakatani-143959122.html",
     "source": "Google News"
   },
   {
-    "slug": "hansi-flick-makes-call-on-marcus-rashford-8217-s-barcelona-future",
-    "title": "Hansi Flick makes call on Marcus Rashford&#8217;s Barcelona future",
-    "description": "Barcelona head coach Hansi Flick is eager to keep hold of the on-loan Marcus Rashford through next summer and beyond.This comes with the German tactician more than satisfied with the attacker’s cont...",
+    "slug": "former-georgia-bulldog-brock-bowers-out-for-the-season",
+    "title": "Former Georgia Bulldog Brock Bowers out for the season",
+    "description": "Former Georgia Bulldog Brock Bowers was placed on season-ending injured reserve to recover from a lingering injury.",
     "pubDate": "2025-12-27",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/hansi-flick-makes-call-marcus-152400077.html",
+    "link": "https://sports.yahoo.com/articles/former-georgia-bulldog-brock-bowers-143928118.html",
     "source": "Google News"
   },
   {
-    "slug": "man-city-analysis-city-move-into-menacing-position",
-    "title": "Man City analysis: City move into menacing position",
-    "description": "The Manchester City squad - and then Pep Guardiola - took the acclaim of the travelling supporters after a hard-fought win against Nottingham Forest which felt like one that brings titles.  City were not at their fluid best but got the result they needed, not just through their class but also grit a",
+    "slug": "is-lamar-jackson-playing-tonight-latest-injury-update-on-ravens-qb-for-week-17",
+    "title": "Is Lamar Jackson playing tonight? Latest injury update on Ravens QB for Week 17",
+    "description": "Baltimore Ravens quarterback Lamar Jackson is listed as doubtful for the Week 17 game against the Green Bay Packers on Saturday night. Here's what we know about his chances of suiting up.",
     "pubDate": "2025-12-27",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/man-city-analysis-city-move-152250666.html",
+    "link": "https://sports.yahoo.com/articles/lamar-jackson-playing-today-latest-125440757.html",
     "source": "Google News"
   },
   {
-    "slug": "late-cherki-winner-denies-forest-point-to-fire-city-top-of-the-pile",
-    "title": "Late Cherki winner denies Forest point to fire City top of the pile",
-    "description": "Rayan Cherki’s late strike denied Nottingham Forest what would have been a famous point and sent Manchester City back to the top of the Premier League, after a hard-fought 2-1 win at the City Ground...",
+    "slug": "afcon-benin-break-their-curse-qualification-dream-alive",
+    "title": "🚨 AFCON: Benin break their curse, qualification dream alive!",
+    "description": "The deliverance.This Saturday, Benin and Botswana kicked off a new day of the AFCON.Having lost their opening matches, both nations needed to react in order to keep their hopes of qualifying for the r...",
     "pubDate": "2025-12-27",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/cherki-winner-denies-forest-point-152200396.html",
+    "link": "https://sports.yahoo.com/articles/afcon-benin-break-curse-qualification-143800845.html",
     "source": "Google News"
   },
   {
-    "slug": "how-to-watch-nfl-week-17-saturday-games-texans-chargers-ravens-packers",
-    "title": "How to watch NFL Week 17 Saturday games: Texans-Chargers, Ravens-Packers",
-    "description": "The Texans and Chargers battle Saturday afternoon and the Ravens and Packers play at night. Here is the viewing info.",
+    "slug": "anytime-touchdown-scorer-jaguars-vs-colts-prediction-td-picks-for-week-17",
+    "title": "Anytime Touchdown Scorer Jaguars vs Colts Prediction: TD Picks for Week 17",
+    "description": "Target Parker Washington & Jonathan Taylor for our Jaguars vs. Colts anytime touchdown scorers for Sunday, December 28.",
     "pubDate": "2025-12-27",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/watch-nfl-week-17-saturday-152148906.html",
+    "link": "https://sports.yahoo.com/articles/anytime-touchdown-scorer-jaguars-vs-143800754.html",
     "source": "Google News"
   },
   {
-    "slug": "report-excessive-contract-demands-could-make-real-madrid-walk-away-from-pursuit-of-bayern-munich-s-dayot-upamecano",
-    "title": "Report: ‘Excessive’ contract demands could make Real Madrid walk away from pursuit of Bayern Munich’s Dayot Upamecano",
-    "description": "FC Bayern might not be the only team unsure about Upamecano’s contract desires.",
+    "slug": "packers-vs-ravens-picks-predictions-for-week-17-game-with-playoff-implications",
+    "title": "Packers vs. Ravens picks, predictions for Week 17 game with playoff implications",
+    "description": "The Green Bay Packers and Baltimore Ravens will square off on Saturday in a game that will have serious implications for the playoff positioning of both teams. Here's who experts think will win this Week 17 matchup.",
     "pubDate": "2025-12-27",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/report-real-madrid-thinks-bayern-170000233.html",
+    "link": "https://sports.yahoo.com/articles/packers-vs-ravens-picks-predictions-143727762.html",
     "source": "Google News"
   },
   {
-    "slug": "indiana-39-s-fernando-mendoza-transfer-replacement-predicted-as-71-td-qb-from-out-west",
-    "title": "Indiana&#39;s Fernando Mendoza transfer replacement predicted as 71-TD QB from out west",
-    "description": "The Hoosiers have a good thing going.",
+    "slug": "why-milan-could-live-to-regret-mike-maignan-s-new-contract",
+    "title": "Why Milan could live to regret Mike Maignan’s new contract",
+    "description": "On Saturday, Milan fans woke up to the positive news of the perfect New Year’s Gift. La Gazzetta reported that the Rossoneri management has offered a bumper new contract to Mike Maignan, putting forward €7 million per season for the goalkeeper. This comes close to the Frenchman’s demand of €7.5 mill",
     "pubDate": "2025-12-27",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/indianas-fernando-mendoza-transfer-replacement-151931527.html",
+    "link": "https://sports.yahoo.com/articles/why-milan-could-live-regret-143725844.html",
     "source": "Google News"
   },
   {
-    "slug": "why-is-the-echl-on-strike-blades-player-logan-lambdin-helps-explain",
-    "title": "Why is the ECHL on strike? Blades player Logan Lambdin helps explain",
-    "description": "The players are striking in-season for the first time in the 38-year-old league's history. Here's why explained by Blades union rep Logan Lambdin.",
+    "slug": "florida-state-predicted-to-land-34-td-transfer-qb-to-play-for-gus-malzahn-39-s-seminoles",
+    "title": "Florida State predicted to land 34-TD transfer QB to play for Gus Malzahn&#39;s Seminoles",
+    "description": "FSU needs to turn things around.",
     "pubDate": "2025-12-27",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/why-echl-strike-blades-player-151917386.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "the-pickleball-tip-of-the-week-is-39-dink-with-a-plan-39",
-    "title": "The pickleball tip of the week is &#39;Dink with a plan&#39;",
-    "description": "Want a useful pickleball pro tip? Don't just dink and hope, dink with a plan. The pros do it and you should, too",
-    "pubDate": "2025-12-27",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/pickleball-tip-week-dink-plan-151824502.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "bengals-39-ja-39-marr-chase-reveals-big-goal-for-week-17-vs-cardinals",
-    "title": "Bengals&#39; Ja&#39;Marr Chase reveals big goal for Week 17 vs. Cardinals",
-    "description": "Ja'Marr Chase is looking to end a long drought.",
-    "pubDate": "2025-12-27",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/bengals-jamarr-chase-reveals-big-151808366.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "women-s-basketball-miles-scores-29-to-lead-frogs-past-wildcats",
-    "title": "Women’s Basketball: Miles scores 29 to lead Frogs past Wildcats",
-    "description": "Olivia Miles and Marta Suarez both scored at least 20 points as the Frogs moved to 1-0 in Big 12 play.",
-    "pubDate": "2025-12-27",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/women-basketball-miles-29-points-151659582.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "naoya-inoue-sees-off-picasso-to-set-up-tokyo-super-fight-with-junto-nakatani",
-    "title": "Naoya Inoue sees off Picasso to set up Tokyo super-fight with Junto Nakatani",
-    "description": "Naoya Inoue moved a step closer to the biggest bout in Japanese boxing history after outclassing Alan Picasso by unanimous decision in Riyadh on Saturday, retaining his undisputed super-bantamweight titles and clearing the runway for a long-anticipated showdown with countryman Junto Nakatani.  Inoue",
-    "pubDate": "2025-12-27",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/naoya-inoue-sees-off-picasso-151638404.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "paz-howler-protests-over-ramadani-foul-di-fra-sent-off",
-    "title": "😡 Paz howler, protests over Ramadani foul, Di Fra sent off 🟥",
-    "description": "At Via del Mare, an emergency-stricken Lecce hosts Como, coming off two consecutive defeats and a forced break during the Italian Super Cup weekend.Watch the entire Serie BKT live on OneFootball for o...",
-    "pubDate": "2025-12-27",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/paz-howler-protests-over-ramadani-151600037.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "tennessee-kicks-off-music-city-bowl-preparations-in-nashville",
-    "title": "Tennessee kicks off Music City Bowl preparations in Nashville",
-    "description": "Tennessee football kicks off Music City Bowl preparations in Nashville ahead of playing Illinois.",
-    "pubDate": "2025-12-27",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/tennessee-kicks-off-music-city-151523612.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "solness-and-skylight-hustle-take-leopardstown-wins",
-    "title": "Solness and Skylight Hustle take Leopardstown wins",
-    "description": "Solness edges out Marine Nationale to take a thrilling win in the feature Club Chase Steeplechase at Leopardstown while Skylight Hustle takes victory in the two-mile Novices Hurdle.",
-    "pubDate": "2025-12-27",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/solness-skylight-hustle-leopardstown-wins-150657234.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "jalen-hurts-named-eagles-top-obstacle-to-winning-a-third-super-bowl",
-    "title": "Jalen Hurts named Eagles’ top obstacle to winning a third Super Bowl",
-    "description": "Jalen Hurts is named as the one flaw that may keep the Eagles from winning a third Super Bowl.",
-    "pubDate": "2025-12-27",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/jalen-hurts-named-eagles-top-151459737.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "jansen-stars-as-super-kings-beat-capitals-in-sa20",
-    "title": "Jansen stars as Super Kings beat Capitals in SA20",
-    "description": "Duan Jansen claimed 4-23 as Joburg Super Kings beat Pretoria Capitals by 22 runs in the SA20.  Capitals won the toss and elected to field first and Super Kings posted 168-6 with Rilee Rossouw top-scoring with 48 off 33 balls.  Super Kings were 110-4 after 13.5 overs when Mulder joined Rossouw in bei",
-    "pubDate": "2025-12-27",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/jansen-stars-super-kings-beat-151422945.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "2026-nfc-north-mock-draft-where-do-things-go-heading-into-week-17",
-    "title": "2026 NFC North Mock Draft: Where do things go heading into Week 17?",
-    "description": "The Vikings have won heading into the weekend but the rest of the division is up in the air as we do another NFC North mock draft.",
-    "pubDate": "2025-12-27",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/2026-nfc-north-mock-draft-151417874.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "profile-pierre-emile-hojbjerg-emerges-as-marseille-8217-s-leader",
-    "title": "PROFILE | Pierre-Emile Hojbjerg emerges as Marseille&#8217;s leader",
-    "description": "“He’s a coach on the field… reminiscent of Thiago Motta,” former Marseille midfielder Benoît Cheyrou noted earlier this season, speaking about midfielder Pierre-Emile Højbjerg. Roberto De Ze...",
-    "pubDate": "2025-12-27",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/profile-pierre-emile-hojbjerg-emerges-151400517.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "sabres-hope-to-extend-winning-streak-to-eight-against-bruins",
-    "title": "Sabres Hope To Extend Winning Streak To Eight Against Bruins",
-    "description": "Buffalo Sabres - Boston Bruins Game Preview",
-    "pubDate": "2025-12-27",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/sabres-hope-extend-winning-streak-151345161.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "illinois-39-luke-altmyer-replacement-predicted-as-ivy-league-transfer-with-19-5-record",
-    "title": "Illinois&#39; Luke Altmyer replacement predicted as Ivy League transfer with 19-5 record",
-    "description": "The Fighting Illini need their next leader.",
-    "pubDate": "2025-12-27",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/illinois-luke-altmyer-replacement-predicted-151300856.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "best-nba-player-props-today-for-december-27-wiggins-flexes-long-range-muscles",
-    "title": "Best NBA Player Props Today for December 27: Wiggins Flexes Long-Range Muscles",
-    "description": "Our NBA player props for Saturday, December 27 target Andrew Wiggins, Zion Williamson, and Brice Sensabaugh.",
-    "pubDate": "2025-12-27",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/best-nba-player-props-today-151300930.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "john-harbaugh-shares-early-impressions-of-packers-qb-malik-willis",
-    "title": "John Harbaugh shares early impressions of Packers QB Malik Willis",
-    "description": "Ravens' head coach John Harbaugh shares some preliminary thoughts about Packers QB Malik Willis.",
-    "pubDate": "2025-12-27",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/john-harbaugh-shares-early-impressions-151245558.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "15-games-in-32-days-the-mad-dash-through-january-could-define-boston-39-s-season",
-    "title": "15 Games in 32 Days: The Mad Dash Through January Could Define Boston&#39;s Season",
-    "description": "The Boston Bruins had an excellent start to December, apart from a 6-2-0 run that placed Boston tied for first place in the Atlantic Division heading into Minnesota, the final leg of a three-game road trip before a five-game home stand ahead of the NHL's Christmas pause.",
-    "pubDate": "2025-12-27",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/15-games-32-days-mad-151243145.html",
+    "link": "https://sports.yahoo.com/articles/florida-state-predicted-land-34-143707078.html",
     "source": "Google News"
   },
   {
@@ -842,16 +725,43 @@
     "description": "Can the Cherries get a much-needed win as they visit the impressive Bees?",
     "pubDate": "2025-12-27",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/brentford-vs-bournemouth-live-updates-151200513.html",
+    "link": "https://sports.yahoo.com/articles/watch-brentford-vs-bournemouth-live-173354456.html",
     "source": "Google News"
   },
   {
-    "slug": "guardiola-equals-record-streak-over-rival-with-city-win",
-    "title": "Guardiola equals record streak over rival with City win",
-    "description": "Manchester City defeated Nottingham Forest away from home in the 18th round of the Premier League. And the bitter result for Forest represents yet another setback for coach Sean Dyche against Pep Guar...",
+    "slug": "profile-ilan-kebbal-8211-paris-fc-8217-s-late-bloomer-cum-neo-algeria-international",
+    "title": "PROFILE | Ilan Kebbal &#8211; Paris FC&#8217;s late-bloomer-cum-neo-Algeria international",
+    "description": "When you watch Ilan Kebbal, the first question that springs to mind is how, at the age of 27, he has not been picked up by a ‘bigger’ club. The Algerian was exceptional with Paris FC last season a...",
     "pubDate": "2025-12-27",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/guardiola-equals-record-streak-over-151100073.html",
+    "link": "https://sports.yahoo.com/articles/profile-ilan-kebbal-paris-fc-143700226.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "eagles-playoff-seeding-scenarios-week-17-rooting-guide",
+    "title": "Eagles playoff seeding scenarios: Week 17 rooting guide",
+    "description": "Who should the Eagles be rooting against in Week 17 for NFC playoff seeding?",
+    "pubDate": "2025-12-27",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/eagles-playoff-seeding-scenarios-week-132941692.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "how-to-watch-music-city-bowl-illinois-vs-tennessee-game-time-tv-channel-online-streaming-and-odds",
+    "title": "How to Watch Music City Bowl (Illinois vs. Tennessee): Game Time, TV Channel, Online Streaming and Odds",
+    "description": "Looking for win No. 9.",
+    "pubDate": "2025-12-27",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/watch-music-city-bowl-illinois-143624902.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "5-keys-to-packers-beating-ravens-in-primetime-in-week-17",
+    "title": "5 keys to Packers beating Ravens in primetime in Week 17",
+    "description": "Five keys to the Packers beating the Ravens on Saturday night at Lambeau Field.",
+    "pubDate": "2025-12-27",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/5-keys-packers-beating-ravens-143616976.html",
     "source": "Google News"
   },
   {
@@ -860,142 +770,205 @@
     "description": "Arsenal's attack hopes to find its footing when dangerous Brighton & Hove Albion visit the Emirates Stadium on Saturday.",
     "pubDate": "2025-12-27",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/arsenal-vs-brighton-live-updates-151100726.html",
+    "link": "https://sports.yahoo.com/articles/watch-arsenal-vs-brighton-live-135000101.html",
     "source": "Google News"
   },
   {
-    "slug": "jaelan-phillips-39-insight-on-josh-allen-adds-intrigue-to-eagles-vs-bills",
-    "title": "Jaelan Phillips&#39; insight on Josh Allen adds intrigue to Eagles vs. Bills",
-    "description": "Jaelan Phillips brings a unique knowledge of Josh Allen to Sunday's Eagles-Bills matchup",
+    "slug": "updated-fantasy-football-start-39-em-sit-39-em-week-17-who-should-i-start-championship-week-lineup-advice-best-matchups-dfs-picks",
+    "title": "Updated Fantasy Football Start &#39;Em, Sit &#39;Em Week 17: Who should I start, Championship Week lineup advice, best matchups, DFS picks",
+    "description": "Vinnie Iyer is back for another season of fantasy football lineup advice, bringing his rankings and insights across all positions to help you make those tough Week 17 start 'em, sit 'em decisions based on matchups, usage, and other factors.",
     "pubDate": "2025-12-27",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/jaelan-phillips-insight-josh-allen-150933411.html",
+    "link": "https://sports.yahoo.com/articles/fantasy-football-start-em-sit-205805516.html",
     "source": "Google News"
   },
   {
-    "slug": "2026-pdc-darts-world-championship-day-14-live-results-scores-schedule-and-bracket-ratajski-survives-match-darts-completes-comeback-over-plaisier",
-    "title": "2026 PDC Darts World Championship Day 14 live results, scores, schedule and bracket: Ratajski survives match darts, completes comeback over Plaisier",
-    "description": "After a few days off for the break, we are back with the third round!",
+    "slug": "the-elite-the-meh-the-ugly-rate-bowl",
+    "title": "The Elite, The Meh & The Ugly - Rate Bowl",
+    "description": "Nine straight bowl wins",
     "pubDate": "2025-12-27",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/2026-pdc-darts-world-championship-110005302.html",
+    "link": "https://sports.yahoo.com/articles/elite-meh-ugly-rate-bowl-143500484.html",
     "source": "Google News"
   },
   {
-    "slug": "ira-winderman-reality-should-have-heat-as-sellers-rather-than-potentially-being-left-empty-handed",
-    "title": "Ira Winderman: Reality should have Heat as sellers, rather than potentially being left empty-handed",
-    "description": "MIAMI — Losing provides no rewards, but reality can. That makes this a December the Miami Heat should remember. Because sometimes objects aren’t closer than they appear, such as the early-season notion of Erik Spoelstra’s team being in the thick of the Eastern Conference race. That clearly stands as",
+    "slug": "devin-lloyd-jags-will-use-having-one-pro-bowler-as-fuel",
+    "title": "Devin Lloyd: Jags will use having one Pro Bowler as fuel",
+    "description": "The Jaguars have not been shy about sharing their belief that they haven't gotten enough respect around the football world for the work they've done this season and there was more fodder on that front this week.",
     "pubDate": "2025-12-27",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/ira-winderman-reality-heat-sellers-150800257.html",
+    "link": "https://sports.yahoo.com/articles/devin-lloyd-jags-having-one-143400340.html",
     "source": "Google News"
   },
   {
-    "slug": "after-nationals-tabbed-as-quot-rebuilding-quot-team-one-offseason-acquisition-named-one-to-watch-in-2026",
-    "title": "After Nationals tabbed as &quot;rebuilding&quot; team, one offseason acquisition named one to watch in 2026",
-    "description": "While the Nationals' roster movement remains unclear with trade speculation around pitcher MacKenzie Gore still alive, new catcher Harry Ford continues to draw buzz for Washington.",
+    "slug": "profile-takumi-minamino-8211-monaco-8217-s-unsung-hero",
+    "title": "PROFILE | Takumi Minamino &#8211; Monaco&#8217;s unsung hero",
+    "description": "There are flashier, more eye-catching forwards at Monaco: Maghnes Akliouche is a dazzling footballer and now a France international; Ansu Fati was once heralded as the great hope of Spanish football a...",
     "pubDate": "2025-12-27",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/nationals-tabbed-rebuilding-team-one-150704484.html",
+    "link": "https://sports.yahoo.com/articles/profile-takumi-minamino-monaco-unsung-143300776.html",
     "source": "Google News"
   },
   {
-    "slug": "james-franklin-39-s-virginia-tech-predicted-to-land-former-penn-state-qb-from-transfer-portal",
-    "title": "James Franklin&#39;s Virginia Tech predicted to land former Penn State QB from transfer portal",
-    "description": "There are actually a couple guys like this out there.",
+    "slug": "barcelona-8217-s-18-year-old-academy-talent-an-option-for-flick-to-bolster-defence-amid-key-absences",
+    "title": "Barcelona&#8217;s 18-year-old academy talent an option for Flick to bolster defence amid key absences",
+    "description": "The absence of Andreas Christensen has created a serious dilemma for Barcelona at a crucial point of the season. With the Danish international ruled out until the end of the campaign and uncertainty ...",
     "pubDate": "2025-12-27",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/james-franklins-virginia-tech-predicted-150614926.html",
+    "link": "https://sports.yahoo.com/articles/barcelona-18-old-academy-talent-143300094.html",
     "source": "Google News"
   },
   {
-    "slug": "fantasy-start-or-sit-week-17-woody-marks-jawhar-jordan-dalton-schultz",
-    "title": "Fantasy start or sit Week 17: Woody Marks, Jawhar Jordan, Dalton Schultz",
-    "description": "Some fantasy football start or sit advice for Houston Texans running backs Woody Marks and Jawhar Jordan and tight end Dalton Schultz ahead of the Week 17 contest against the Los Angeles Chargeres.",
+    "slug": "why-is-liverpool-v-wolves-not-on-tv-team-news-and-how-to-watch-premier-league-fixture-highlights",
+    "title": "Why is Liverpool v Wolves not on TV? Team news and how to watch Premier League fixture highlights",
+    "description": "Everything you need to know as Arne Slot’s side host bottom-of-the-table Wolves in the Premier League",
     "pubDate": "2025-12-27",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/fantasy-start-sit-week-17-150557399.html",
+    "link": "https://sports.yahoo.com/articles/why-liverpool-v-wolves-not-075349141.html",
     "source": "Google News"
   },
   {
-    "slug": "a-look-at-guardians-kyle-manzardo-s-projected-stats-for-2026-season",
-    "title": "A Look at Guardians’ Kyle Manzardo’s Projected Stats for 2026 Season",
-    "description": "Kyle Manzardo is in line for a similar season with the Cleveland Guardians as he did a year ago.",
+    "slug": "baltimore-ravens-vs-green-bay-packers-how-to-watch-the-nfl-today-where-to-stream-game-time-and-more",
+    "title": "Baltimore Ravens vs. Green Bay Packers: How to watch the NFL today, where to stream, game time and more",
+    "description": "How to watch the Week 17 game between the Baltimore Ravens and the Green Bay Packers.",
     "pubDate": "2025-12-27",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/look-guardians-kyle-manzardo-projected-150500338.html",
+    "link": "https://sports.yahoo.com/nfl/article/baltimore-ravens-vs-green-bay-packers-how-to-watch-the-nfl-today-where-to-stream-game-time-and-more-143044968.html",
+    "source": "Liz Kocan"
+  },
+  {
+    "slug": "cherki-stars-in-man-city-win-at-forest",
+    "title": "Cherki stars in Man City win at Forest",
+    "description": "Rayan Cherki bolstered Manchester City's title charge as the France star capped a superb display with the late goal that sealed a 2-1 win at Nottingham Forest on Saturday.If City pip Arsenal to the title, Cherki is likely to be one of their most significant contributors.",
+    "pubDate": "2025-12-27",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/cherki-stars-man-city-win-143038987.html",
     "source": "Google News"
   },
   {
-    "slug": "liverpool-and-wolves-pay-heartfelt-tribute-to-diogo-jota",
-    "title": "📸 Liverpool and Wolves pay heartfelt tribute to Diogo Jota",
-    "description": "Liverpool and Wolves face each other today for the first time since the death of Diogo Jota, a legend at both clubs, and both clubs, with their people at the forefront, have paid him an emotional and ...",
+    "slug": "live-blog-clemson-faces-penn-state-in-the-2025-pinstripe-bowl",
+    "title": "Live Blog: Clemson faces Penn State in the 2025 Pinstripe Bowl",
+    "description": "Follow along with us as Clemson and Penn State faced off in the Pinstripe Bowl at Yankee Stadium.",
     "pubDate": "2025-12-27",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/liverpool-wolves-pay-heartfelt-tribute-150500017.html",
+    "link": "https://sports.yahoo.com/articles/live-blog-clemson-faces-penn-143036791.html",
     "source": "Google News"
   },
   {
-    "slug": "eagles-aim-to-extend-a-quiet-streak-vs-josh-allen-and-the-bills",
-    "title": "Eagles aim to extend a quiet streak vs. Josh Allen and the Bills",
-    "description": "Eagles hope to keep a lesser-mentioned streak intact vs. Josh Allen and the Buffalo Bills.",
+    "slug": "islam-makhachev-confirms-he-turned-down-ufc-324-title-defense-offer",
+    "title": "Islam Makhachev confirms he turned down UFC 324 title defense offer",
+    "description": "Islam Makhachev has confirmed UFC wanted him to make a quick turnaround for the Paramount+ debut, but it wasn't feasible.",
     "pubDate": "2025-12-27",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/eagles-aim-extend-quiet-streak-150431604.html",
+    "link": "https://sports.yahoo.com/articles/islam-makhachev-confirms-turned-down-143030542.html",
     "source": "Google News"
   },
   {
-    "slug": "csu-football-39-s-jaxxon-warren-lloyd-avant-to-enter-transfer-portal",
-    "title": "CSU football&#39;s Jaxxon Warren, Lloyd Avant to enter transfer portal",
-    "description": "Two offensive players who either were key or hoped to be key to the Colorado State football team intend to enter the transfer portal.",
+    "slug": "packers-39-christian-watson-injury-news-isn-39-t-what-it-seems-for-chances-of-playing-today-vs-ravens",
+    "title": "Packers&#39; Christian Watson injury news isn&#39;t what it seems for chances of playing today vs. Ravens",
+    "description": "This is important nuance to the report.",
     "pubDate": "2025-12-27",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/csu-footballs-jaxxon-warren-lloyd-150403264.html",
+    "link": "https://sports.yahoo.com/articles/packers-christian-watson-injury-news-143015407.html",
     "source": "Google News"
   },
   {
-    "slug": "fsu-expected-to-hire-former-staffer-john-garrett-to-lead-front-office",
-    "title": "FSU expected to hire former staffer John Garrett to lead front office",
-    "description": "John Garrett comes to FSU from Duke, where he spent the past year overseeing player personnel for head coach Manny Diaz.",
+    "slug": "this-charlotte-hornets-39-stat-will-surprise-you",
+    "title": "This Charlotte Hornets&#39; stat will surprise you",
+    "description": "Can you believe the Hornets have been this good, despite an 11-20 record?",
     "pubDate": "2025-12-27",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/fsu-expected-hire-former-staffer-150401271.html",
+    "link": "https://sports.yahoo.com/articles/charlotte-hornets-stat-surprise-143001640.html",
     "source": "Google News"
   },
   {
-    "slug": "my-st-louis-relatives-are-all-in-on-chaim-bloom",
-    "title": "My St. Louis Relatives Are All In On Chaim Bloom",
-    "description": "My in-laws are envisioning a dynasty, and I’m quietly recalling the highs and lows from his Red Sox tenure.",
+    "slug": "san-diego-padres-reveal-new-plans-for-recent-npb-signing",
+    "title": "San Diego Padres reveal new plans for recent NPB signing",
+    "description": "Sung-Mun Song may play in a new position next season.",
     "pubDate": "2025-12-27",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/st-louis-relatives-chaim-bloom-150326628.html",
+    "link": "https://sports.yahoo.com/articles/san-diego-padres-reveal-plans-143001113.html",
     "source": "Google News"
   },
   {
-    "slug": "week-17-las-vegas-raiders-new-york-giants-predictions",
-    "title": "Week 17 Las Vegas Raiders-New York Giants predictions",
-    "description": "Who do you got in Week 17?",
+    "slug": "city-end-the-year-in-style-with-late-win-at-forest",
+    "title": "City end the year in style with late win at Forest",
+    "description": "Rayan Cherki’s 83rd minute winner secured a 2-1 victory over Nottingham Forest as Manchester City made it a perfect ending to 2025.After neither side had a shot on target in the first half, Tijjani ...",
     "pubDate": "2025-12-27",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/week-17-las-vegas-raiders-150300481.html",
+    "link": "https://sports.yahoo.com/articles/city-end-style-win-forest-143000455.html",
     "source": "Google News"
   },
   {
-    "slug": "dover-high-basketball-players-are-seacoast-athletes-of-week",
-    "title": "Dover High basketball players are Seacoast Athletes of Week",
-    "description": "Dover High School's Avery Littlefield and Michael Gorman are Seacoast high school Athlete of the Week winners",
+    "slug": "vieri-claims-hojlund-is-one-of-the-five-best-strikers-in-the-world",
+    "title": "Vieri claims Hojlund is ‘one of the five best strikers in the world’",
+    "description": "Christian Vieri has launched a bold claim that Napoli centre-forward Rasmus Hojlund is potential among the top five strikers in the world, but believes that Antonio Conte still has a big decision to m...",
     "pubDate": "2025-12-27",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/dover-high-basketball-players-seacoast-150251768.html",
+    "link": "https://sports.yahoo.com/articles/vieri-claims-hojlund-one-five-143000714.html",
     "source": "Google News"
   },
   {
-    "slug": "brandon-graham-offers-jordan-davis-the-highest-possible-compliment",
-    "title": "Brandon Graham offers Jordan Davis the highest possible compliment",
-    "description": "Brandon Graham believes Jordan Davis will be \"way better\" than he was during his legendary Eagles career",
+    "slug": "good-morning-san-diego-jhony-brito-looking-to-re-establish-himself-after-lost-season-in-2025",
+    "title": "Good Morning San Diego: Jhony Brito looking to re-establish himself after lost season in 2025",
+    "description": "Right-hander could return to the ‘pen or make a push for the rotation",
     "pubDate": "2025-12-27",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/brandon-graham-offers-jordan-davis-150247999.html",
+    "link": "https://sports.yahoo.com/articles/good-morning-san-diego-jhony-143000778.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "the-golden-fool-s-mailbag-how-hard-should-49ers-pursue-jauan-jennings-can-the-49ers-make-the-super-bowl-tarter-sauce-on-fries",
+    "title": "The Golden Fool’s Mailbag: How hard should 49ers pursue Jauan Jennings? Can the 49ers make the Super Bowl? Tarter sauce on fries?",
+    "description": "You asked honest questions and we give honest answers.",
+    "pubDate": "2025-12-27",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/golden-fool-mailbag-hard-49ers-143000118.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "roxanne-perez-reveals-which-wwe-storyline-made-her-39-fall-in-love-39-with-pro-wrestling",
+    "title": "Roxanne Perez Reveals Which WWE Storyline Made Her &#39;Fall In Love&#39; With Pro Wrestling",
+    "description": "Roxanne Perez shares that an iconic feud from the early 2010s led her to become a fan of professional wrestling.",
+    "pubDate": "2025-12-27",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/roxanne-perez-reveals-wwe-storyline-143000995.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "pinstripe-bowl-mini-preview-penn-state-clemson",
+    "title": "Pinstripe Bowl Mini-Preview: Penn State! Clemson!",
+    "description": "Why this game? Don’t ask questions, that’s why. Pinstripe Bowl Penn State Nittany Lions vs. Clemson Tigers11am | ABC | Clemson -2.5 | O/U 47.5at Yankee Stadium (Bronx, New York, New York) misdreavus79: Here’s something neat: James Franklin’s first loss at Penn State was to Northwestern. His last los",
+    "pubDate": "2025-12-27",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/pinstripe-bowl-mini-preview-penn-143000375.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "ivory-coast-vs-aston-villa-match-preview-head-to-head-team-news-line-ups-prediction",
+    "title": "Ivory Coast vs Aston Villa: Match preview, head-to-head, team news, line-ups, prediction",
+    "description": "Ivory Coast take on Cameroon in the standout Group F fixture on matchday two at the Africa Cup of Nations on Sunday evening at Stade de Marrakech.The defending champions opened their campaign with a 1...",
+    "pubDate": "2025-12-27",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/ivory-coast-vs-aston-villa-143000991.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "pep-guardiola-reaction-what-did-manchester-city-boss-say-after-late-win-at-nottingham-forest",
+    "title": "Pep Guardiola reaction: What did Manchester City boss say after late win at Nottingham Forest?",
+    "description": "Guardiola was booked during the game and was celebrating the late win wildly.",
+    "pubDate": "2025-12-27",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/pep-guardiola-reaction-did-manchester-142901713.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "is-reported-yoan-moncada-interest-just-a-leverage-play-by-toronto-blue-jays",
+    "title": "Is Reported Yoan Moncada Interest Just a Leverage Play By Toronto Blue Jays?",
+    "description": "Moncada fits the roster need, but is he really of interest to Toronto?",
+    "pubDate": "2025-12-27",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/reported-yoan-moncada-interest-just-142812829.html",
     "source": "Google News"
   },
   {
@@ -1053,21 +1026,30 @@
     "source": "BBC Sport"
   },
   {
-    "slug": "detroit-crumble-and-a-kelce-farewell-christmas-day-in-the-nfl",
-    "title": "Detroit crumble and a Kelce farewell? - Christmas Day in the NFL",
-    "description": "The Detroit Lions suffer a defeat that ends their play-off hopes while Denver beat Kansas City in what could be Travis Kelce's final home game for the Chiefs.",
-    "pubDate": "2025-12-26",
-    "image": "",
-    "link": "https://www.bbc.com/sport/american-football/articles/c75vpz9p27vo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport"
-  },
-  {
     "slug": "jokic-breaks-curry-record-in-historic-triple-double",
     "title": "Jokic breaks Curry record in historic triple-double",
     "description": "Three-time MVP Nikola Jokic breaks nine-year Steph Curry record in the Denver Nuggets' win against the Minnesota Timberwolves.",
     "pubDate": "2025-12-26",
     "image": "",
     "link": "https://www.bbc.com/sport/basketball/articles/c8dyzyj9d88o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport"
+  },
+  {
+    "slug": "everyone-stepped-up-amorim",
+    "title": "'Everyone stepped up' - Amorim",
+    "description": "Manchester United boss Ruben Amorim \"happy\" with side's 1-0 win against Newcastle United after last minute injuries including Bruni Fernandes.",
+    "pubDate": "2025-12-26",
+    "image": "",
+    "link": "https://www.bbc.com/sport/football/videos/cjdrmvdm0vmo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport"
+  },
+  {
+    "slug": "detroit-crumble-and-a-kelce-farewell-christmas-day-in-the-nfl",
+    "title": "Detroit crumble and a Kelce farewell? - Christmas Day in the NFL",
+    "description": "The Detroit Lions suffer a defeat that ends their play-off hopes while Denver beat Kansas City in what could be Travis Kelce's final home game for the Chiefs.",
+    "pubDate": "2025-12-26",
+    "image": "",
+    "link": "https://www.bbc.com/sport/american-football/articles/c75vpz9p27vo?at_medium=RSS&at_campaign=rss",
     "source": "BBC Sport"
   },
   {
@@ -1095,15 +1077,6 @@
     "pubDate": "2025-12-26",
     "image": "",
     "link": "https://www.bbc.com/sport/football/articles/clyx073nxljo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport"
-  },
-  {
-    "slug": "everyone-stepped-up-amorim",
-    "title": "'Everyone stepped up' - Amorim",
-    "description": "Manchester United boss Ruben Amorim \"happy\" with side's 1-0 win against Newcastle United after last minute injuries including Bruni Fernandes.",
-    "pubDate": "2025-12-26",
-    "image": "",
-    "link": "https://www.bbc.com/sport/football/videos/cjdrmvdm0vmo?at_medium=RSS&at_campaign=rss",
     "source": "BBC Sport"
   },
   {
@@ -1158,6 +1131,24 @@
     "pubDate": "2025-12-26",
     "image": "",
     "link": "https://www.bbc.com/sport/cricket/videos/c623y6p6j5ro?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport"
+  },
+  {
+    "slug": "that-s-unbelievable-carey-fall-into-england-s-trap",
+    "title": "'That's unbelievable' - Carey fall into England's trap",
+    "description": "Ben Stokes takes the wicket of Alex Carey as his ball towards the leg side is played by the Australian batter straight into the hands of Zak Crawley at leg slip as Australia fall to 91-6 on day one of the fourth Ashes Test in Melbourne.",
+    "pubDate": "2025-12-26",
+    "image": "",
+    "link": "https://www.bbc.com/sport/cricket/videos/c3v1q3kn796o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport"
+  },
+  {
+    "slug": "carse-punishes-green-hesitation-with-direct-hit",
+    "title": "Carse punishes Green hesitation with direct hit",
+    "description": "Cameron Green is made to rue his hesitation between the wickets as the Australian batter is run out by Brydon Carse at the non-striker's end for 17, leaving Australia 143-7 on day one of the fourth Ashes Test in Melbourne.",
+    "pubDate": "2025-12-26",
+    "image": "",
+    "link": "https://www.bbc.com/sport/cricket/videos/c1w9v8pqw99o?at_medium=RSS&at_campaign=rss",
     "source": "BBC Sport"
   },
   {
