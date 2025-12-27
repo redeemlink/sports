@@ -126,15 +126,6 @@
     "source": "Ryan McFadden"
   },
   {
-    "slug": "how-the-texans-built-one-of-the-best-defenses-in-the-nfl",
-    "title": "How the Texans built one of the best defenses in the NFL",
-    "description": "Houston has made offseason decisions that have paid off through the draft and free agency.",
-    "pubDate": "2025-12-27",
-    "image": "",
-    "link": "https://www.espn.com/nfl/story/_/id/47408145/houston-texans-no-1-defense-built-league",
-    "source": "DJ Bien-Aime"
-  },
-  {
     "slug": "one-stat-that-will-make-or-break-2026-for-all-15-nl-teams",
     "title": "One stat that will make or break 2026 for all 15 NL teams",
     "description": "Here are the numbers that could define your favorite National League squad in the new year.",
@@ -171,13 +162,13 @@
     "source": "Beth Lindop"
   },
   {
-    "slug": "giants-raiders-loser-could-be-big-winner-in-nfl-draft",
-    "title": "Giants-Raiders loser could be big winner in NFL draft",
-    "description": "There is a lot at stake for two 2-13 teams -- namely, the pole position for the No. 1 overall pick in the 2026 NFL draft.",
+    "slug": "packers-playoff-hopes-could-hinge-on-special-teams",
+    "title": "Packers' playoff hopes could hinge on special teams",
+    "description": "Special teams remains an issue in Green Bay and played a key role in the loss to the Bears this past week.",
     "pubDate": "2025-12-27",
     "image": "",
-    "link": "https://www.espn.com/nfl/story/_/id/47426484/new-york-giants-las-vegas-raiders-week-17-matchup-winner-2026-nfl-draft",
-    "source": "Jordan Raanan"
+    "link": "https://www.espn.com/nfl/story/_/id/47417935/nfl-green-bay-packers-playoff-hopes-matt-lafleur-special-teams",
+    "source": "Rob Demovsky"
   },
   {
     "slug": "matthew-stafford-vs-drake-maye-inside-the-odds-betting-for-the-nfl-s-mvp-race",
@@ -198,22 +189,13 @@
     "source": "ESPN"
   },
   {
-    "slug": "tracking-the-nfl-playoff-picture-updated-chances-to-clinch-open-spots-win-division-titles",
-    "title": "Tracking the NFL playoff picture: Updated chances to clinch open spots, win division titles",
-    "description": "We are following the 2025 NFL season's playoff picture. Here's how things look right now for wild-card spots, division races and even the draft order.",
+    "slug": "giants-raiders-loser-could-be-big-winner-in-nfl-draft",
+    "title": "Giants-Raiders loser could be big winner in NFL draft",
+    "description": "There is a lot at stake for two 2-13 teams -- namely, the pole position for the No. 1 overall pick in the 2026 NFL draft.",
     "pubDate": "2025-12-27",
     "image": "",
-    "link": "https://www.espn.com/espn/feature/story/_/id/47248728/2025-nfl-playoff-live-odds-updated-chances-clinch-bracket-projections-scenarios",
-    "source": "www.espn.com - TOP"
-  },
-  {
-    "slug": "nfl-playoff-clinching-scenarios-what-s-at-stake-for-nine-teams-in-week-17",
-    "title": "NFL playoff-clinching scenarios: What's at stake for nine teams in Week 17?",
-    "description": "Nine teams have the chance to clinch a No. 1 seed, division title or playoff berth this weekend.",
-    "pubDate": "2025-12-27",
-    "image": "",
-    "link": "https://www.espn.com/nfl/story/_/id/47390374/nfl-playoff-picture-2025-clinching-scenarios-division-races-week-17",
-    "source": "ESPN staff"
+    "link": "https://www.espn.com/nfl/story/_/id/47426484/new-york-giants-las-vegas-raiders-week-17-matchup-winner-2026-nfl-draft",
+    "source": "Jordan Raanan"
   },
   {
     "slug": "nba-buzz-live-updates-trades-and-intel-from-around-the-league",
@@ -243,15 +225,6 @@
     "source": "ESPN"
   },
   {
-    "slug": "can-jalen-hurts-or-josh-allen-break-the-career-rushing-td-record",
-    "title": "Can Jalen Hurts or Josh Allen break the career rushing TD record?",
-    "description": "How much does the tush push play a factor in their records?",
-    "pubDate": "2025-12-27",
-    "image": "",
-    "link": "https://www.espn.com/nfl/story/_/id/47398832/jalen-hurts-josh-allen-break-career-rushing-td-record",
-    "source": "Tim McManus and Alaina Getzenberg"
-  },
-  {
     "slug": "burrow-gifts-offensive-linemen-authentic-dinosaur-bear-and-mammoth-fossils-for-christmas",
     "title": "Burrow gifts offensive linemen authentic dinosaur, bear and mammoth fossils for Christmas",
     "description": "Burrow's love of fossils gained national acclaim because of a clip from the Netflix series \"Quarterback,\" where he was pumped to see fossils at Chicago's Field Museum.",
@@ -259,6 +232,24 @@
     "image": "",
     "link": "https://www.espn.com/nfl/story/_/id/47420689/joe-burrow-offensive-linemen-gifts-authentic-fossils-christmas",
     "source": "Ben Baby"
+  },
+  {
+    "slug": "tracking-the-nfl-playoff-picture-updated-chances-to-clinch-open-spots-win-division-titles",
+    "title": "Tracking the NFL playoff picture: Updated chances to clinch open spots, win division titles",
+    "description": "We are following the 2025 NFL season's playoff picture. Here's how things look right now for wild-card spots, division races and even the draft order.",
+    "pubDate": "2025-12-27",
+    "image": "",
+    "link": "https://www.espn.com/espn/feature/story/_/id/47248728/2025-nfl-playoff-live-odds-updated-chances-clinch-bracket-projections-scenarios",
+    "source": "www.espn.com - TOP"
+  },
+  {
+    "slug": "nfl-playoff-clinching-scenarios-what-s-at-stake-for-nine-teams-in-week-17",
+    "title": "NFL playoff-clinching scenarios: What's at stake for nine teams in Week 17?",
+    "description": "Nine teams have the chance to clinch a No. 1 seed, division title or playoff berth this weekend.",
+    "pubDate": "2025-12-27",
+    "image": "",
+    "link": "https://www.espn.com/nfl/story/_/id/47390374/nfl-playoff-picture-2025-clinching-scenarios-division-races-week-17",
+    "source": "ESPN staff"
   },
   {
     "slug": "will-your-team-make-the-playoffs-simulate-the-rest-of-the-regular-season",
@@ -304,6 +295,15 @@
     "image": "",
     "link": "https://www.espn.com/soccer/story/_/id/47334380/transfer-window-preview-do-europes-big-clubs-need",
     "source": "ESPN"
+  },
+  {
+    "slug": "arsenal-in-survival-mode-as-sensational-raya-save-keeps-them-top",
+    "title": "Arsenal in 'survival' mode as 'sensational' Raya save keeps them top",
+    "description": "David Raya's \"sensational\" second-half save keeps Arsenal top of the Premier League - with the Gunners in \"survival\" mode.",
+    "pubDate": "2025-12-27",
+    "image": "",
+    "link": "https://www.bbc.com/sport/football/articles/cj9ym3kgv4xo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport"
   },
   {
     "slug": "such-an-easy-game-to-ref-dyche-stunned-by-bizarre-var-calls",
@@ -639,12 +639,138 @@
     "source": "BBC Sport"
   },
   {
+    "slug": "rock-falls-boys-basketball-hands-aurora-christian-first-loss-friday-39-s-sauk-valley-roundup",
+    "title": "Rock Falls boys basketball hands Aurora Christian first loss: Friday&#39;s Sauk Valley roundup",
+    "description": "Dec. 27—Boys basketball Rock Falls 62, Aurora Christian 57: The Rockets pulled off a big upset win in the first round at the State Farm Classic in the small schools boys bracket after beating the second-seeded Eagles. The 15th-seeded Rockets (5-7) handed AC (11-1) their first loss in the victory as",
+    "pubDate": "2025-12-27",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/rock-falls-boys-basketball-hands-193200765.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "could-the-nets-be-negatively-affected-by-the-nba-reviewing-tanking",
+    "title": "Could the Nets be negatively affected by the NBA reviewing tanking?",
+    "description": "The Brooklyn Nets are still in the early stages of their rebuild, but the NBA recently announced their intention to review tanking. What does it mean?",
+    "pubDate": "2025-12-27",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/could-nets-negatively-affected-nba-193121314.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "unai-emery-reaction-aston-villa-boss-speaks-after-comeback-win-runs-winning-streak-to-11",
+    "title": "Unai Emery reaction — Aston Villa boss speaks after comeback win runs winning streak to 11",
+    "description": "Unai Emery's men stayed in the game long enough to seize all three points in comeback fashion, stretching their winning streak to 11 games after a 2-1 win over Chelsea at Stamford Bridge on Saturday.",
+    "pubDate": "2025-12-27",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/unai-emery-reaction-aston-villa-193046652.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "arsenal-rivalling-chelsea-and-tottenham-for-this-juventus-winger-a-decent-fit-for-arteta",
+    "title": "Arsenal Rivalling Chelsea And Tottenham For This Juventus Winger: A Decent Fit For Arteta?",
+    "description": "In a recent report, Tutto Juve mentioned that Arsenal are among the clubs hoping to land Juventus winger Kenan Yildiz. It has been claimed that the Gunners would have to rival Chelsea and Tottenham Ho...",
+    "pubDate": "2025-12-27",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/arsenal-rivalling-chelsea-tottenham-juventus-193000917.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "barcelona-mid-season-ratings-eric-garcia-9-10-araujo-gets-4-5",
+    "title": "Barcelona mid-season ratings: Eric Garcia 9/10, Araujo gets 4.5",
+    "description": "FC Barcelona are set to enter into 2026 with the league position that Hansi Flick would have hoped for at the beginning of the season. Top of La Liga, 46 points from 18 games and a four-point cushion ...",
+    "pubDate": "2025-12-27",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/barcelona-mid-season-ratings-eric-193000874.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "north-texas-vs-san-diego-state-prediction-picks-odds-for-today-new-mexico-bowl",
+    "title": "North Texas vs San Diego State Prediction, Picks & Odds for Today — New Mexico Bowl",
+    "description": "Get the best North Texas vs. San Diego State picks, odds & expert predictions ahead of Saturday's matchup in Albuquerque on December 27.",
+    "pubDate": "2025-12-27",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/north-texas-vs-san-diego-190700537.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "ravens-vs-packers-predictions-picks-best-bets-for-nfl-week-17",
+    "title": "Ravens vs Packers Predictions, Picks & Best Bets for NFL Week 17",
+    "description": "Our Ravens vs. Packers predictions back the visitors to cover the spread in Week 17.",
+    "pubDate": "2025-12-27",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/ravens-vs-packers-predictions-picks-110000539.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "chris-long-lauds-chargers-qb-justin-herbert-39-s-consistent-success",
+    "title": "Chris Long lauds Chargers QB Justin Herbert&#39;s consistent success",
+    "description": "In a recent airing of the 'Green Light with Chris Long' podcast, the two-time Super Bowl champ raved on Chargers QB Justin Herbert's success.",
+    "pubDate": "2025-12-27",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/chris-long-lauds-chargers-qb-192610826.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "getting-lucky-or-winning-ugly-can-arsenal-win-the-premier-league-title-this-way",
+    "title": "Getting lucky or winning ugly, can Arsenal win the Premier League title this way?",
+    "description": "Arsenal are winning games via own goals and penalties these days. Can they hold off surging Manchester City for the Premier League title if Viktor Gyokeres (or someone else) doesn't start firing?",
+    "pubDate": "2025-12-27",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/getting-lucky-winning-ugly-arsenal-192515061.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "enzo-maresca-reaction-to-blown-lead-poor-finishing-in-chelsea-loss-to-aston-villa",
+    "title": "Enzo Maresca reaction to blown lead, poor finishing in Chelsea loss to Aston Villa",
+    "description": "Chelsea boss Enzo Maresca watched from the stands as two different Chelsea teams appeared in the same match on Saturday, and the wasteful first group may make him more upset than the leaky second.",
+    "pubDate": "2025-12-27",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/enzo-maresca-reaction-blown-lead-192409380.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "chelsea-miss-their-chance-against-aston-villa",
+    "title": "🚨 Chelsea miss their chance against Aston Villa",
+    "description": "The Blues behind the Reds.Chelsea hosted Aston Villa this Saturday, on the occasion of the 18th matchday of the Premier League.Overtaken earlier in the day by Liverpool, the Blues were unable to recla...",
+    "pubDate": "2025-12-27",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/chelsea-miss-chance-against-aston-192400755.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "chelsea-1-2-aston-villa-visitors-comeback-run-win-streak-to-11",
+    "title": "Chelsea 1-2 Aston Villa: Visitors comeback, run win streak to 11",
+    "description": "Aston Villa pushed their winning streak to 11 games with a 2-1 comeback win over wasteful Chelsea at Stamford Bridge on Saturday.",
+    "pubDate": "2025-12-27",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/chelsea-1-2-aston-villa-192400679.html",
+    "source": "Google News"
+  },
+  {
     "slug": "florian-wirtz-finally-scores-as-liverpool-win-again-but-wolves-reveal-same-old-flaw",
     "title": "Florian Wirtz finally scores as Liverpool win again – but Wolves reveal same old flaw",
     "description": "Liverpool 2-1 Wolves: Florian Wirtz scored his first Reds goal as the Premier League champions edged past their Championship-bound opponents",
     "pubDate": "2025-12-27",
     "image": "",
     "link": "https://sports.yahoo.com/articles/florian-wirtz-finally-scores-liverpool-183814537.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "nfl-td-props-the-best-touchdown-scorer-bets-for-week-17",
+    "title": "NFL TD Props: The Best Touchdown Scorer Bets for Week 17",
+    "description": "Ashton Jeanty, Jake Ferguson, and Tyler Warren are among our best bets to score a touchdown in NFL Week 17.",
+    "pubDate": "2025-12-27",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/nfl-td-props-best-touchdown-130800111.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "the-lakers-are-due-for-a-massive-regression-to-the-mean",
+    "title": "The Lakers are due for a massive regression to the mean",
+    "description": "The 2025-26 Los Angeles Lakers currently have best win percentage for a team with negative point differential NBA history. That could be a bad sign.",
+    "pubDate": "2025-12-27",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/lakers-due-massive-regression-mean-192128241.html",
     "source": "Google News"
   },
   {
@@ -657,12 +783,30 @@
     "source": "Google News"
   },
   {
+    "slug": "donnakebabrumma-haaland-pokes-fun-at-teammate-donnarumma-after-city-beat-forest",
+    "title": "‘DonnaKebabRumma’ – Haaland pokes fun at teammate Donnarumma after City beat Forest",
+    "description": "Erling Haaland is in good spirits this festive period, celebrating Manchester City’s 2-1 win over Nottingham Forest with a cheeky comment on teammate Gianluigi Donnarumma’s Instagram post.As part ...",
+    "pubDate": "2025-12-27",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/donnakebabrumma-haaland-pokes-fun-teammate-192000310.html",
+    "source": "Google News"
+  },
+  {
     "slug": "club-found-to-be-150-years-old-updates-its-crest",
     "title": "Club found to be 150 years old updates its crest",
     "description": "A football club founded in the Victorian era is even older than first thought and it now has a new crest.",
     "pubDate": "2025-12-27",
     "image": "",
     "link": "https://sports.yahoo.com/articles/club-found-150-years-old-180833333.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "colts-make-numerous-roster-moves-before-week-17-game-vs-jaguars",
+    "title": "Colts make numerous roster moves before Week 17 game vs. Jaguars",
+    "description": "The Indianapolis Colts numerous roster moves before the team's Week 17 game against the Jaguars.",
+    "pubDate": "2025-12-27",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/colts-numerous-roster-moves-week-191818300.html",
     "source": "Google News"
   },
   {
@@ -900,6 +1044,15 @@
     "source": "Google News"
   },
   {
+    "slug": "bundesliga-january-2026-transfer-primers-1-fc-union-berlin",
+    "title": "Bundesliga January 2026 Transfer Primers | 1. FC Union Berlin",
+    "description": "The next of our 18 Bundesliga transfer primers to be published here on Get German Football News takes an in-depth look at 1. FC Union Berlin. In the case of “die Eisernen”, we’ve a big surprise...",
+    "pubDate": "2025-12-27",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/bundesliga-january-2026-transfer-primers-191000339.html",
+    "source": "Google News"
+  },
+  {
     "slug": "inter-milan-legend-tells-nerazzurri-to-stop-crying-over-injuries-backs-brazil-winger-as-dumfries-successor",
     "title": "Inter Milan Legend Tells Nerazzurri To ‘Stop Crying’ Over Injuries, Backs Brazil Winger As Dumfries Successor",
     "description": "Inter Milan legend Christian Vieri has urged the Nerazzurri to stop complaining about injuries, backing Luis Henrique as a credible solution during Denzel Dumfries’ absence.Speaking to La Gazzetta d...",
@@ -927,165 +1080,12 @@
     "source": "Google News"
   },
   {
-    "slug": "bundesliga-january-2026-transfer-primers-1-fc-union-berlin",
-    "title": "Bundesliga January 2026 Transfer Primers | 1. FC Union Berlin",
-    "description": "The next of our 18 Bundesliga transfer primers to be published here on Get German Football News takes an in-depth look at 1. FC Union Berlin. In the case of “die Eisernen”, we’ve a big surprise...",
+    "slug": "this-day-in-dodgers-history-yoshinobu-yamamoto-s-landmark-contract-becomes-official",
+    "title": "This Day in Dodgers History: Yoshinobu Yamamoto’s Landmark Contract Becomes Official",
+    "description": "Two years ago, the Dodgers inked Japanese ace Yoshinobu Yamamoto to a record-setting deal, overcoming early struggles for a dominant postseason performance.",
     "pubDate": "2025-12-27",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/bundesliga-january-2026-transfer-primers-191000339.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "arsenal-in-39-survival-39-mode-as-39-sensational-39-raya-save-keeps-them-top",
-    "title": "Arsenal in &#39;survival&#39; mode as &#39;sensational&#39; Raya save keeps them top",
-    "description": "David Raya's \"sensational\" second-half save keeps Arsenal top of the Premier League - with the Gunners in \"survival\" mode.",
-    "pubDate": "2025-12-27",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/arsenal-survival-mode-sensational-raya-190829378.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "mock-draft-predicts-bengals-select-trey-hendrickson-39-s-successor-in-first-round",
-    "title": "Mock draft predicts Bengals select Trey Hendrickson&#39;s successor in first round",
-    "description": "With Hendrickson an impending free agent, Cincinnati needs more pass rushers.",
-    "pubDate": "2025-12-27",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/mock-draft-predicts-bengals-select-190804044.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "jaguars-39-rb-downgraded-from-questionable-to-out-vs-colts-in-week-17",
-    "title": "Jaguars&#39; RB downgraded from questionable to out vs. Colts in Week 17",
-    "description": "One of the Jaguars' running backs has been downgraded from questionable to out in Week 17 against the Colts.",
-    "pubDate": "2025-12-27",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/jaguars-rb-downgraded-questionable-vs-190708814.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "davis-stuns-lazio-at-96-39-protests-as-vecino-seals-1-1-draw",
-    "title": "🧨 Davis stuns Lazio at 96&#39;, protests as Vecino seals 1-1 draw",
-    "description": "At the BluEnergy Stadium, a tactical and hard-fought match with very few thrills for most of the clash between Udinese and Lazio. The game seemed destined for a 0-0 draw, but in the 80th minute Vecino...",
-    "pubDate": "2025-12-27",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/davis-stuns-lazio-96-protests-190700983.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "49ers-gm-rumor-from-cbs-sports-should-catch-the-attention-of-dolphins-giants-falcons",
-    "title": "49ers GM rumor from CBS Sports should catch the attention of Dolphins, Giants, Falcons",
-    "description": "A San Francisco 49ers general manager rumor from CBS Sports should catch the attention of the Miami Dolphins, New York Giants, and Atlanta Falcons heading into the offseason.",
-    "pubDate": "2025-12-27",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/49ers-gm-rumor-cbs-sports-190545419.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "afcon-2025-teams-groups-match-schedule-bracket-for-africa-cup-of-nations-in-morocco",
-    "title": "AFCON 2025 teams, groups, match schedule, bracket for Africa Cup of Nations in Morocco",
-    "description": "The Africa Cup of Nations in Morocco runs from December 21, 2025 to January 18, 2026.",
-    "pubDate": "2025-12-27",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/afcon-2025-teams-groups-match-150300611.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "liverpool-can-39-t-miss-deal-for-perfect-ibrahima-konate-replacement",
-    "title": "Liverpool can&#39;t miss deal for PERFECT Ibrahima Konate replacement",
-    "description": "Even though French defender Ibrahima Konate is a player surrounded by uncertainty at Liverpool, his efforts on the pitch don't suggest that he's really that interested in forcing a transfer move.Of co...",
-    "pubDate": "2025-12-27",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/liverpool-cant-miss-deal-perfect-190500590.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "guardiola-comes-out-in-defence-of-laporta-and-barcelona-over-negreira-allegations",
-    "title": "Guardiola comes out in defence of Laporta and Barcelona over Negreira allegations",
-    "description": "The Negreira case has been making a lot of noise in Spanish football spheres, with the matter involving Barcelona’s payments to Jose Enriquez Negreira during his time as the vice president of the Re...",
-    "pubDate": "2025-12-27",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/guardiola-comes-defence-laporta-barcelona-190500912.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "serie-a-midfielder-keen-on-joining-manchester-united-next-summer-should-amorim-snap-him-up",
-    "title": "Serie A Midfielder Keen On Joining Manchester United Next Summer: Should Amorim Snap Him Up?",
-    "description": "In a recent segment on  ASRomaLive’s Twitch channel, journalist Francesca Teodori stated that AS Roma midfielder Manu Kone is keen on joining Manchester United next summer. Teodori said, “It’s ...",
-    "pubDate": "2025-12-27",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/serie-midfielder-keen-joining-manchester-190500452.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "serie-a-official-week-17-line-ups-pisa-vs-juventus",
-    "title": "Serie A official Week 17 line-ups: Pisa vs. Juventus",
-    "description": "Juventus opt for Lois Openda with Kenan Yildiz, Weston McKennie and returning Teun Koopmeiners for their visit to Alberto Gilardino’s Pisa.It kicks off at the Cetilar Arena at 19.45 GMT.You can foll...",
-    "pubDate": "2025-12-27",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/serie-official-week-17-line-190500637.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "arsenal-legend-offers-clear-verdict-on-former-academy-star-shining-in-premier-league",
-    "title": "Arsenal legend offers clear verdict on former academy star shining in Premier League",
-    "description": "Freddie Ljungberg has praised Dan Ballard for his development and resilience after watching the defender establish himself in the Premier League with Sunderland, describing the former Arsenal academy ...",
-    "pubDate": "2025-12-27",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/arsenal-legend-offers-clear-verdict-190500886.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "is-nigeria-v-tunisia-on-tv-tonight-channel-start-time-and-how-to-watch-afcon-2025-game-online",
-    "title": "Is Nigeria v Tunisia on TV tonight? Channel, start time and how to watch Afcon 2025 game online",
-    "description": "Everything you need to know as Nigeria and Tunisia clash after winning starts at the Africa Cup of Nations",
-    "pubDate": "2025-12-27",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/nigeria-v-tunisia-tv-tonight-155911894.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "cincinnati-reds-designate-rhp-keegan-thompson-for-assignment",
-    "title": "Cincinnati Reds designate RHP Keegan Thompson for assignment",
-    "description": "The move corresponds with the signing of JJ Bleday.",
-    "pubDate": "2025-12-27",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/cincinnati-reds-designate-rhp-keegan-190406957.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "cubs-sign-former-top-100-prospect-to-free-agent-contract",
-    "title": "Cubs sign former top-100 prospect to free agent contract",
-    "description": "Chicago could use this arm on their staff.",
-    "pubDate": "2025-12-27",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/cubs-sign-former-top-100-190223189.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "bears-rt-darnell-wright-did-not-travel-with-team-may-not-play-vs-49ers",
-    "title": "Bears RT Darnell Wright Did Not Travel With Team, May Not Play vs. 49ers",
-    "description": "Illness sidelines Bears' RT Darnell Wright. His absence jeopardizes the offensive line against the 49ers as the team scrambles with roster moves.",
-    "pubDate": "2025-12-27",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/bears-rt-darnell-wright-did-190147113.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "mavericks-vs-kings-preview-time-tv-channel-odds-and-how-to-watch",
-    "title": "Mavericks vs Kings preview: Time, TV channel, odds and how to watch",
-    "description": "The Sacramento Kings search for a win as they welcome the Dallas Mavericks in a regular season game at 5 p.m. ET (2 p.m. PT) on Saturday.",
-    "pubDate": "2025-12-27",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/mavericks-vs-kings-preview-time-190123892.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "10-brazilians-out-of-favour-in-europe-would-they-fit-your-team",
-    "title": "10 Brazilians out of favour in Europe: would they fit your team? 👀",
-    "description": "Brazilian players who are out of favor in European football often become interesting options in the transfer market.In this context, OneFootball lists here 10 Brazilians who are not undisputed starter...",
-    "pubDate": "2025-12-27",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/10-brazilians-favour-europe-fit-190100480.html",
+    "link": "https://sports.yahoo.com/articles/day-dodgers-history-yoshinobu-yamamoto-190833528.html",
     "source": "Google News"
   },
   {
