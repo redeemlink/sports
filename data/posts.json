@@ -27,6 +27,15 @@
     "source": "www.espn.com - TOP"
   },
   {
+    "slug": "source-bears-rookie-wr-burden-has-quad-injury",
+    "title": "Source: Bears rookie WR Burden has quad injury",
+    "description": "Bears rookie WR Luther Burden III suffered a quad injury Sunday night that is not thought to be serious, a source told ESPN.",
+    "pubDate": "2025-12-29",
+    "image": "",
+    "link": "https://www.espn.com/nfl/story/_/id/47443369/source-bears-rookie-wr-luther-burden-iii-quad-injury",
+    "source": "www.espn.com - TOP"
+  },
+  {
     "slug": "pats-clinch-afc-east-bills-reign-ends-with-loss",
     "title": "Pats clinch AFC East; Bills' reign ends with loss",
     "description": "The Patriots clinched their first division title since 2019 on Sunday, dismantling the Jets behind Drake Maye and then watching the Bills fall to the Eagles.",
@@ -43,15 +52,6 @@
     "image": "",
     "link": "https://www.espn.com/nfl/story/_/id/47438289/myles-garrett-steelers-worried-more-getting-win",
     "source": "Daniel Oyefusi"
-  },
-  {
-    "slug": "rivers-no-regrets-even-with-colts-0-3-in-return",
-    "title": "Rivers: No regrets, even with Colts 0-3 in return",
-    "description": "Philip Rivers says he has no regrets about unretiring even though the Colts have gone 0-3 in his starts.",
-    "pubDate": "2025-12-29",
-    "image": "",
-    "link": "https://www.espn.com/nfl/story/_/id/47438707/philip-rivers-no-regrets-even-colts-0-3-return",
-    "source": "Stephen Holder"
   },
   {
     "slug": "lebron-luka-set-the-tone-as-lakers-right-ship",
@@ -72,17 +72,26 @@
     "source": "Ryan McFadden"
   },
   {
-    "slug": "how-to-do-two-coaching-jobs-during-the-cfp",
-    "title": "👀 How to do two coaching jobs during the CFP",
-    "description": "Multiple CFP teams have coordinators taking head jobs elsewhere. For them, it's about compartmentalizing the chaos.",
+    "slug": "26-qbs-to-watch-in-cfb-transfer-portal",
+    "title": "🏈 26 QBs to watch in CFB transfer portal",
+    "description": "From top targets to top backups, we've tiered QBs ahead of the transfer portal officially opening Jan. 2.",
     "pubDate": "2025-12-29",
     "image": "",
-    "link": "https://www.espn.com/college-football/story/_/id/47420040/college-football-playoff-2025-double-duty-playcaller-new-coach-oregon-ohio-state",
-    "source": "Adam Rittenberg"
+    "link": "https://www.espn.com/college-football/story/_/id/47427877/2026-ncaa-football-transfer-portal-26-qbs-watch",
+    "source": "Max Olson"
   },
   {
-    "slug": "the-good-bad-and-ugly-of-week-17-big-wins-for-niners-eagles-but-what-happened-to-steelers-bucs-and-packers",
-    "title": "The good, bad and ugly of Week 17: Big wins for Niners, Eagles, but what happened to Steelers, Bucs and Packers?",
+    "slug": "17-weeks-255-games-and-a-much-clearer-nfl-playoff-picture-barnwell-on-what-really-mattered-week-by-week",
+    "title": "17 weeks, 255 games and a much clearer NFL playoff picture: Barnwell on what really mattered, week by week",
+    "description": "Bill Barnwell picked out what most impacted the NFL playoff hunt across the entire season, from the Lions' dud in Week 1 to the Steelers' struggles Sunday.",
+    "pubDate": "2025-12-29",
+    "image": "",
+    "link": "https://www.espn.com/nfl/story/_/id/47434363/2025-nfl-week-17-barnwell-mattered-season-schedule-impactful-games-playoff-races",
+    "source": "Bill Barnwell"
+  },
+  {
+    "slug": "the-good-bad-and-ugly-big-wins-for-niners-eagles-but-what-happened-to-steelers-others",
+    "title": "The good, bad and ugly: Big wins for Niners, Eagles, but what happened to Steelers, others?",
     "description": "Our NFL Nation reporters answer big questions from each Week 17 game. Here's what you need to know.",
     "pubDate": "2025-12-29",
     "image": "",
@@ -90,13 +99,13 @@
     "source": "NFL Nation"
   },
   {
-    "slug": "graziano-overreacts-to-nfc-south-afc-north-patriots-and-lions",
-    "title": "Graziano overreacts to NFC South, AFC North, Patriots, and Lions",
-    "description": "Are Panthers or Bucs destined to be one-and-done? We overreact to Week 17.",
+    "slug": "can-texas-tech-billionaire-booster-cody-campbell-fix-college-sports",
+    "title": "Can Texas Tech billionaire booster Cody Campbell fix college sports?",
+    "description": "Texas Tech's billionaire booster has turned the Red Raiders into a powerhouse. Can he fix college sports next?",
     "pubDate": "2025-12-29",
     "image": "",
-    "link": "https://www.espn.com/nfl/story/_/id/47435442/nfl-week-17-overreactions-buccaneers-panthers-ravens-steelers-patriots-draft-lottery",
-    "source": "Dan Graziano"
+    "link": "https://www.espn.com/college-football/story/_/id/47412557/cody-campbell-booster-texas-tech-college-sports",
+    "source": "Dan Murphy"
   },
   {
     "slug": "from-iup-to-no-1-in-the-country-curt-cignetti-s-small-school-path-to-indiana",
@@ -117,15 +126,6 @@
     "source": "Dana Lee"
   },
   {
-    "slug": "can-texas-tech-s-billionaire-booster-cody-campbell-fix-college-sports",
-    "title": "Can Texas Tech's billionaire booster Cody Campbell fix college sports?",
-    "description": "Texas Tech's billionaire booster has turned the Red Raiders into a powerhouse. Can he fix college sports next?",
-    "pubDate": "2025-12-29",
-    "image": "",
-    "link": "https://www.espn.com/college-football/story/_/id/47412557/cody-campbell-booster-texas-tech-college-sports",
-    "source": "Dan Murphy"
-  },
-  {
     "slug": "nba-season-refresher-everything-you-missed-plus-standings-and-awards-projections",
     "title": "NBA season refresher: Everything you missed, plus standings and awards projections",
     "description": "Here are the biggest storylines you missed in the first half of the 2025-26 NBA regular season, and what to watch in the New Year.",
@@ -137,7 +137,7 @@
   {
     "slug": "my-legacy-is-on-the-line-what-giannis-return-means-for-the-bucks-and-the-nba",
     "title": "'My legacy is on the line': What Giannis' return means for the Bucks -- and the NBA",
-    "description": "The 13-19 Bucks are outside the Eastern Conference play-in. Giannis is back, but will it be enough to save the season and his future in Milwaukee?",
+    "description": "Giannis is back, but will it be enough to save the Bucks' season and his future in Milwaukee?",
     "pubDate": "2025-12-29",
     "image": "",
     "link": "https://www.espn.com/nba/story/_/id/47438632/what-do-present-future-hold-bucks-giannis-antetokounmpo-returns",
@@ -178,15 +178,6 @@
     "image": "",
     "link": "https://www.espn.com/nfl/story/_/id/47100067/tracking-sacks-record-cleveland-browns-myles-garrett-denver-broncos-pace-nfl-single-season-player-team",
     "source": "Daniel Oyefusi and Jeff Legwold"
-  },
-  {
-    "slug": "26-qbs-to-watch-in-the-2026-transfer-portal",
-    "title": "26 QBs to watch in the 2026 transfer portal",
-    "description": "From top targets to top backups, we've tiered QBs ahead of the transfer portal officially opening Jan. 2.",
-    "pubDate": "2025-12-29",
-    "image": "",
-    "link": "https://www.espn.com/college-football/story/_/id/47427877/2026-ncaa-football-transfer-portal-26-qbs-watch",
-    "source": "Max Olson"
   },
   {
     "slug": "the-number-that-will-decide-2026-for-all-15-american-league-teams",
@@ -308,7 +299,7 @@
   {
     "slug": "aston-villa-s-11th-straight-win-might-be-the-most-impressive-plus-inter-must-sharpen-up",
     "title": "Aston Villa's 11th straight win might be the most impressive. Plus: Inter must sharpen up",
-    "description": "Some leagues are on break but the Premier League -- led by Villa's impressive comeback at Chelsea, their 11th straight win -- and Serie A are still in full swing. Gab Marcotti breaks down the weekend.",
+    "description": "Some leagues are on break, but the Premier League -- led by Villa's impressive comeback at Chelsea, their 11th straight win -- and Serie A are still in full swing. Gab Marcotti breaks down the weekend.",
     "pubDate": "2025-12-29",
     "image": "",
     "link": "https://www.espn.com/soccer/story/_/id/47442504/aston-villa-chelsea-premier-league-inter-milan-serie-analysis-monday-musings-gab-marcotti",
@@ -333,12 +324,12 @@
     "source": "ESPN"
   },
   {
-    "slug": "arsenal-actively-looking-at-january-signings",
-    "title": "Arsenal 'actively looking' at January signings",
-    "description": "Arsenal will be \"actively looking\" at potential signings during the January transfer window, says manager Mikel Arteta.",
+    "slug": "time-is-right-to-change-man-utd-formation-amorim",
+    "title": "Time is right to change Man Utd formation - Amorim",
+    "description": "Head coach Ruben Amorim says if he had changed Manchester United's formation because of media pressure it would have been \"the end\" for him.",
     "pubDate": "2025-12-29",
     "image": "",
-    "link": "https://www.bbc.com/sport/football/articles/cz0nkzm8d1zo?at_medium=RSS&at_campaign=rss",
+    "link": "https://www.bbc.com/sport/football/articles/c62l28499jjo?at_medium=RSS&at_campaign=rss",
     "source": "BBC Sport"
   },
   {
@@ -351,6 +342,15 @@
     "source": "BBC Sport"
   },
   {
+    "slug": "arsenal-actively-looking-at-january-signings",
+    "title": "Arsenal 'actively looking' at January signings",
+    "description": "Arsenal will be \"actively looking\" at potential signings during the January transfer window, says manager Mikel Arteta.",
+    "pubDate": "2025-12-29",
+    "image": "",
+    "link": "https://www.bbc.com/sport/football/articles/cz0nkzm8d1zo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport"
+  },
+  {
     "slug": "ronaldo-will-not-retire-until-he-scores-1-000-goals",
     "title": "Ronaldo will not retire until he scores 1,000 goals",
     "description": "Portugal captain Cristiano Ronaldo says he will not end his playing career until he scores his 1,000th career goal.",
@@ -360,21 +360,12 @@
     "source": "BBC Sport"
   },
   {
-    "slug": "time-is-right-to-change-man-utd-formation-amorim",
-    "title": "Time is right to change Man Utd formation - Amorim",
-    "description": "Head coach Ruben Amorim says if he had changed Manchester United's formation because of media pressure it would have been \"the end\" for him.",
+    "slug": "i-thought-i-was-going-to-die-after-collapse-rush",
+    "title": "I thought I was going to die after collapse - Rush",
+    "description": "Liverpool legend Ian Rush says he thought he was close to dying after contracting superflu earlier in December and spending five days in hospital.",
     "pubDate": "2025-12-29",
     "image": "",
-    "link": "https://www.bbc.com/sport/football/articles/c62l28499jjo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport"
-  },
-  {
-    "slug": "melbourne-ashes-pitch-rated-unsatisfactory-by-icc",
-    "title": "Melbourne Ashes pitch rated 'unsatisfactory' by ICC",
-    "description": "The pitch from the two-day Boxing Day Ashes Test in Melbourne is rated as \"unsatisfactory\" by the International Cricket Council.",
-    "pubDate": "2025-12-29",
-    "image": "",
-    "link": "https://www.bbc.com/sport/cricket/articles/ce3z3vl379vo?at_medium=RSS&at_campaign=rss",
+    "link": "https://www.bbc.com/sport/football/articles/ckglg42y6zjo?at_medium=RSS&at_campaign=rss",
     "source": "BBC Sport"
   },
   {
@@ -384,6 +375,15 @@
     "pubDate": "2025-12-29",
     "image": "",
     "link": "https://www.bbc.com/sport/football/articles/cn4d41p7v2zo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport"
+  },
+  {
+    "slug": "melbourne-ashes-pitch-rated-unsatisfactory-by-icc",
+    "title": "Melbourne Ashes pitch rated 'unsatisfactory' by ICC",
+    "description": "The pitch from the two-day Boxing Day Ashes Test in Melbourne is rated as \"unsatisfactory\" by the International Cricket Council.",
+    "pubDate": "2025-12-29",
+    "image": "",
+    "link": "https://www.bbc.com/sport/cricket/articles/ce3z3vl379vo?at_medium=RSS&at_campaign=rss",
     "source": "BBC Sport"
   },
   {
@@ -513,12 +513,21 @@
     "source": "BBC Sport"
   },
   {
-    "slug": "a-year-to-remember-and-a-year-to-forget-for-wales",
-    "title": "A year to remember and a year to forget for Wales ",
-    "description": "After a tumultuous 2024, Wales women endured an even more painful 2025, during which they won just one of 10 Tests.",
+    "slug": "el-passico-at-fir-park-gassama-martindale-in-focus",
+    "title": "El Passico at Fir Park, Gassama & Martindale in focus",
+    "description": "Here is what to look out for on the final round of Scottish Premiership fixtures for 2025, including Motherwell v Celtic, Djeidi Gassama's form and the pressure on David Martindale.",
     "pubDate": "2025-12-29",
     "image": "",
-    "link": "https://www.bbc.com/sport/rugby-union/articles/c4g46mem5nyo?at_medium=RSS&at_campaign=rss",
+    "link": "https://www.bbc.com/sport/football/articles/c9vjw22rxjyo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport"
+  },
+  {
+    "slug": "i-thought-i-was-going-to-die-after-collapse-rush",
+    "title": "I thought I was going to die after collapse - Rush",
+    "description": "Liverpool legend Ian Rush says he thought he was close to dying after contracting superflu earlier in December and spending five days in hospital.",
+    "pubDate": "2025-12-29",
+    "image": "",
+    "link": "https://www.bbc.com/sport/football/articles/ckglg42y6zjo?at_medium=RSS&at_campaign=rss",
     "source": "BBC Sport"
   },
   {
@@ -531,336 +540,120 @@
     "source": "BBC Sport"
   },
   {
-    "slug": "time-is-right-to-change-man-utd-formation-amorim",
-    "title": "Time is right to change Man Utd formation - Amorim",
-    "description": "Head coach Ruben Amorim says if he had changed Manchester United's formation because of media pressure it would have been \"the end\" for him.",
+    "slug": "conceicao-35m-for-nkunku-giovane-a-wildcard-today-s-news",
+    "title": "Conceicao 👀 €35m for Nkunku, Giovane a wildcard: today’s news 🔥",
+    "description": "The 17th round of Serie A concludes tonight with the clash between Roma and Genoa and the return of De Rossi to the Olimpico for the first time as an opponent. Meanwhile, clubs continue to work tirele...",
     "pubDate": "2025-12-29",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/time-change-man-utd-formation-133141331.html",
+    "link": "https://sports.yahoo.com/articles/conceicao-35m-nkunku-giovane-wildcard-143800789.html",
     "source": "Google News"
   },
   {
-    "slug": "probable-formation-roma-vs-genoa",
-    "title": "Probable Formation: Roma vs Genoa",
-    "description": "Gasperini will have a number of absences to deal with when he fills out his line-up card against Genoa.",
+    "slug": "mavs-apply-for-disabled-player-exception-on-dereck-lively-dante-exum",
+    "title": "Mavs apply for Disabled Player Exception on Dereck Lively, Dante Exum",
+    "description": "Mavs apply for Disabled Player Exception on Dereck Lively, Dante Exum",
     "pubDate": "2025-12-29",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/probable-formation-roma-vs-genoa-134234498.html",
+    "link": "https://sports.yahoo.com/articles/mavs-apply-disabled-player-exception-143759918.html",
     "source": "Google News"
   },
   {
-    "slug": "cris-collinsworth-makes-fun-of-his-patrick-mahomes-obsession-on-snf",
-    "title": "Cris Collinsworth makes fun of his Patrick Mahomes obsession on SNF",
-    "description": "Cris Collinsworth has seen the memes. In Week 17, he managed to sneak in a Patrick Mahomes reference during a Brock Purdy highlight.",
+    "slug": "dante-exum-dpe-will-be-worth-1-1m-if-approved-lively",
+    "title": "Dante Exum DPE will be worth $1.1M if approved. Lively …",
+    "description": "Dante Exum DPE will be worth $1.1M if approved. Lively …",
     "pubDate": "2025-12-29",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/cris-collinsworth-makes-fun-patrick-133939129.html",
+    "link": "https://sports.yahoo.com/articles/dante-exum-dpe-worth-1-143758840.html",
     "source": "Google News"
   },
   {
-    "slug": "bills-waive-former-georgia-bulldogs-wr-super-bowl-hero",
-    "title": "Bills waive former Georgia Bulldogs WR, Super Bowl hero",
-    "description": "The Buffalo Bills are moving on from a former Georgia Bulldogs wide receiver after a short stint with the team",
+    "slug": "quot-our-intent-is-to-build-this-team-and-continue-to-add",
+    "title": "&quot;Our intent is to build this team and continue to add, …",
+    "description": "\"Our intent is to build this team and continue to add, …",
     "pubDate": "2025-12-29",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/bills-waive-former-georgia-bulldogs-133828273.html",
+    "link": "https://sports.yahoo.com/articles/intent-build-team-continue-add-143757073.html",
     "source": "Google News"
   },
   {
-    "slug": "barcelona-make-move-to-sign-dusan-vlahovic-as-robert-lewandowski-s-replacement",
-    "title": "Barcelona make move to sign Dusan Vlahovic as Robert Lewandowski’s replacement",
-    "description": "He will be free in the summer.",
+    "slug": "i-m-about-to-be-30-years-old-and-i-need-to-make-the",
+    "title": "“I’m about to be 30 years old, and I need to make the …",
+    "description": "“I’m about to be 30 years old, and I need to make the …",
     "pubDate": "2025-12-29",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/barcelona-move-sign-dusan-vlahovic-133720015.html",
+    "link": "https://sports.yahoo.com/articles/m-30-years-old-143756746.html",
     "source": "Google News"
   },
   {
-    "slug": "ferguson-to-start-in-genoa-showdown-hermoso-recovers",
-    "title": "Ferguson to start in Genoa showdown, Hermoso recovers",
-    "description": "The air at the Olimpico is charged with electricity for the final act of matchday seventeen. The match between Roma and Genoa is not only a crucial crossroads for the Giallorossi’s pursuit of the Ch...",
+    "slug": "simmons-said-he-is-training-in-los-angeles-with-the",
+    "title": "Simmons said he is training in Los Angeles with the …",
+    "description": "Simmons said he is training in Los Angeles with the …",
     "pubDate": "2025-12-29",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/ferguson-start-genoa-showdown-hermoso-133700261.html",
+    "link": "https://sports.yahoo.com/articles/simmons-said-training-los-angeles-143755391.html",
     "source": "Google News"
   },
   {
-    "slug": "report-luther-burden-39-s-quad-injury-not-thought-to-be-serious",
-    "title": "Report: Luther Burden&#39;s quad injury not thought to be serious",
-    "description": "Bears wide receiver Luther Burden had a big game in Sunday night's loss to the 49ers, but the rookie ended the night with a quad injury.",
+    "slug": "jalen-brunson-i-kind-of-want-to-eat-up-as-much-space",
+    "title": "Jalen Brunson: I kind of want to eat up as much space …",
+    "description": "Jalen Brunson: I kind of want to eat up as much space …",
     "pubDate": "2025-12-29",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/report-luther-burdens-quad-injury-133557594.html",
+    "link": "https://sports.yahoo.com/articles/jalen-brunson-kind-want-eat-143754492.html",
     "source": "Google News"
   },
   {
-    "slug": "unpacking-future-packers-no-100-minnesota-dt-deven-eastern",
-    "title": "Unpacking Future Packers: No. 100, Minnesota DT Deven Eastern",
-    "description": "Up next in the Unpacking Future Packers Countdown is Minnesota DT Deven Eastern.",
+    "slug": "nba-executives-have-already-been-sounding-out-europe-s",
+    "title": "NBA executives have already been sounding out Europe’s …",
+    "description": "NBA executives have already been sounding out Europe’s …",
     "pubDate": "2025-12-29",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/unpacking-future-packers-no-100-133519951.html",
+    "link": "https://sports.yahoo.com/articles/nba-executives-already-sounding-europe-143753754.html",
     "source": "Google News"
   },
   {
-    "slug": "fpl-gw19-clean-sheet-odds-best-defenses-and-safest-picks-for-gameweek-19",
-    "title": "FPL GW19 Clean Sheet Odds: Best Defenses and Safest Picks for Gameweek 19",
-    "description": "In GW19, several teams stand out with strong defensive prospects, while others face tough fixtures that significantly reduce their chances of a shutout. Below are the clean sheet odds for Gameweek 19, along with each team’s opponent. FPL Gameweek 19 Clean Sheet Odds",
+    "slug": "senior-officials-from-the-international-basketball",
+    "title": "Senior officials from the International Basketball …",
+    "description": "Senior officials from the International Basketball …",
     "pubDate": "2025-12-29",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/fpl-gw19-clean-sheet-odds-133515720.html",
+    "link": "https://sports.yahoo.com/articles/senior-officials-international-basketball-143752695.html",
     "source": "Google News"
   },
   {
-    "slug": "is-drake-london-playing-tonight-injury-update-start-or-sit-advice-for-week-17",
-    "title": "Is Drake London playing tonight? Injury update, start or sit advice for Week 17",
-    "description": "Atlanta Falcons wide receiver Drake London is once again questionable to play in the Week 17 game against the Los Angeles Rams. Here's the latest update on London's status for the Monday night contest.",
+    "slug": "gronk-thinks-travis-kelce-will-approach-impending-retirement-differently-than-expected-for-chiefs-te",
+    "title": "Gronk thinks Travis Kelce will approach impending retirement differently than expected for Chiefs TE",
+    "description": "The all-time great has a take on another legend.",
     "pubDate": "2025-12-29",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/drake-london-playing-tonight-injury-133501571.html",
+    "link": "https://sports.yahoo.com/articles/gronk-thinks-travis-kelce-approach-143729074.html",
     "source": "Google News"
   },
   {
-    "slug": "rangers-week-ahead-winter-classic-highlights-3-straight-on-road",
-    "title": "Rangers Week Ahead: Winter Classic highlights 3 straight on road",
-    "description": "The New York Rangers reach the halfway mark of their season on Monday and begin the new year Friday night",
+    "slug": "team-news-manchester-united-vs-wolves",
+    "title": "Team News: Manchester United vs. Wolves",
+    "description": "Manchester United will be back at Old Trafford for their next Premier League match on Tuesday, taking on Wolverhampton Wanderers for the second time this December in the reverse fixture against the team that is still bottom of the table on a historically low two points. When the sides last met on De",
     "pubDate": "2025-12-29",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/rangers-week-ahead-winter-classic-133354820.html",
+    "link": "https://sports.yahoo.com/articles/team-news-manchester-united-vs-143658756.html",
     "source": "Google News"
   },
   {
-    "slug": "watch-patriots-wr-efton-chism-iii-gets-first-nfl-touchdown-vs-jets",
-    "title": "Watch: Patriots WR Efton Chism III gets first NFL touchdown vs. Jets",
-    "description": "Patriots wide receiver Efton Chism III caught the first touchdown of his NFL career in Sunday's game against the Jets.",
+    "slug": "nfl-playoff-picture-where-are-the-texans-playing-after-week-17",
+    "title": "NFL playoff picture: Where are the Texans playing after Week 17?",
+    "description": "Entering Week 17, the Houston Texans will still be on the outside of the division picture despite securing an 11-win season over the Chargers.",
     "pubDate": "2025-12-29",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/watch-patriots-wr-efton-chism-133340255.html",
+    "link": "https://sports.yahoo.com/articles/nfl-playoff-picture-where-texans-143540659.html",
     "source": "Google News"
   },
   {
-    "slug": "anthony-joshua-injured-and-two-killed-in-nigeria-car-crash",
-    "title": "Anthony Joshua injured and two killed in Nigeria car crash",
-    "description": "The heavyweight boxer, 36, was involved in a crash on the Lagos-Ibadan expressway on Monday",
+    "slug": "rams-draft-picks-2026-why-la-owns-falcons-39-first-round-pick-after-questionable-2025-draft-deal",
+    "title": "Rams draft picks 2026: Why LA owns Falcons&#39; first-round pick after questionable 2025 draft deal",
+    "description": "Even after making the playoffs in 2025, the Rams are set to have a potential top-15 pick in the 2026 NFL Draft thanks to the Falcons.",
     "pubDate": "2025-12-29",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/anthony-joshua-injured-two-killed-131553975.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "are-chelsea-subs-good-enough-or-should-maresca-be-blamed",
-    "title": "Are Chelsea subs good enough – or should Maresca be blamed?",
-    "description": "Chelsea dropping more points from winning positions than any other Premier League team is \"not random\" says manager Enzo Maresca as he tries \"to understand why\".",
-    "pubDate": "2025-12-29",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/chelsea-subs-good-enough-maresca-133218881.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "opening-nfl-week-18-odds-and-betting-lines-ravens-3-still-alive-at-steelers",
-    "title": "Opening NFL Week 18 Odds and Betting Lines: Ravens (-3) Still Alive at Steelers",
-    "description": "Get the opening NFL Week 18 odds with point spreads, Over/Unders, and football moneylines for every matchup starting on Jan. 3, 2026.",
-    "pubDate": "2025-12-29",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/opening-nfl-week-18-odds-024400211.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "every-word-from-ruben-amorim-8217-s-wolverhampton-wanderers-pre-match-press-conference",
-    "title": "Every word from Ruben Amorim&#8217;s Wolverhampton Wanderers pre-match press conference",
-    "description": "Ruben Amorim says there is “no chance” Bruno Fernandes will play against Wolves tomorrow.The Manchester United head coach was speaking at the pre-match press conference ahead of tomorrow’s Premi...",
-    "pubDate": "2025-12-29",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/every-word-ruben-amorim-wolverhampton-133200665.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "should-the-red-sox-sign-free-agent-pitcher-justin-verlander",
-    "title": "Should the Red Sox sign free agent pitcher Justin Verlander?",
-    "description": "The man with the Midas arm.",
-    "pubDate": "2025-12-29",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/red-sox-sign-free-agent-133157244.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "amorim-on-team-news-fernandes-and-changing-systems",
-    "title": "Amorim on team news, Fernandes and changing systems",
-    "description": "Manchester United boss Ruben Amorim has been speaking to the media before Tuesday's Premier League game against Wolves at Old Trafford (kick-off 20:15 GMT).  Amorim does not think Mason Mount, Kobbie Mainoo, Matthijs de Ligt and Harry Maguire are available for Tuesday's game: \"We are not going to ha",
-    "pubDate": "2025-12-29",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/amorim-team-news-fernandes-changing-133147631.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "time-and-date-announced-for-packers-regular-season-finale-vs-vikings",
-    "title": "Time and date announced for Packers regular season finale vs. Vikings",
-    "description": "The Packers will face the Vikings on Sunday, Jan. 4 at noon on CBS.",
-    "pubDate": "2025-12-29",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/time-date-announced-packers-regular-133058938.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "five-storylines-to-follow-for-usc-s-alamo-bowl-matchup-vs-tcu",
-    "title": "Five storylines to follow for USC’s Alamo Bowl matchup vs TCU",
-    "description": "What are some storylines to follow as the Trojans close out their 2025 campaign in San Antonio against the Horned Frogs?",
-    "pubDate": "2025-12-29",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/five-storylines-usc-alamo-bowl-133047205.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "broncos-bring-back-familiar-face-after-losing-starting-center-to-ir",
-    "title": "Broncos bring back familiar face after losing starting center to IR",
-    "description": "After losing Luke Wattenberg to IR, the Broncos poached center Sam Mustipher off the Chargers' practice squad.",
-    "pubDate": "2025-12-29",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/broncos-bring-back-familiar-face-133041348.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "jake-paul-sends-5-supportive-words-to-jutta-leerdam-after-fall",
-    "title": "Jake Paul sends 5 supportive words to Jutta Leerdam after fall",
-    "description": "Jake Paul was so supportive of his girlfriend -- now fiancee -- Jutta Leerdam.",
-    "pubDate": "2025-12-29",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/jake-paul-sends-5-supportive-133012670.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "chicago-bears-make-heartbreaking-history-in-close-loss-to-49ers",
-    "title": "Chicago Bears make heartbreaking history in close loss to 49ers",
-    "description": "This was a tough loss after a strong offensive performance.",
-    "pubDate": "2025-12-29",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/chicago-bears-heartbreaking-history-close-133002954.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "nfl-draft-raiders-on-the-vergue-of-the-top-pick-after-losing-to-giants",
-    "title": "NFL Draft: Raiders on the vergue of the top pick after losing to Giants",
-    "description": "The Raiders moved one step closer to the No. 1 pick in the 2026 NFL Draft in Week 17",
-    "pubDate": "2025-12-29",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/nfl-draft-raiders-vergue-top-133000724.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "the-good-bad-ugly-from-the-miami-dolphins-week-17-win-over-the-tampa-bay-buccaneers",
-    "title": "The Good, Bad & Ugly from the Miami Dolphins Week 17 win over the Tampa Bay Buccaneers",
-    "description": "Dolphins rookies shine in 20-17 victory over Tampa Bay Buccaneers.",
-    "pubDate": "2025-12-29",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/good-bad-ugly-miami-dolphins-133000717.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "yankees-hoping-new-coaches-are-helpful-familiar-faces-for-team-s-young-hitters",
-    "title": "Yankees hoping new coaches are helpful, familiar faces for team’s young hitters",
-    "description": "For some Yankees players, the newest faces on Aaron Boone’s coaching staff will be familiar ones. The Bombers, at Brian Cashman’s behest, made several changes to their big league coaching contingent after the team’s elimination in the ALDS. Gone are longtime bullpen coach Mike Harkey, first base/inf",
-    "pubDate": "2025-12-29",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/yankees-hoping-coaches-helpful-familiar-133000430.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "indiana-football-transfer-target-missouri-qb-beau-pribula",
-    "title": "Indiana football transfer target: Missouri QB Beau Pribula",
-    "description": "Beau Pribula sat behind Drew Allar for multiple seasons at Penn State before starting at Missouri in 2025.",
-    "pubDate": "2025-12-29",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/indiana-football-transfer-target-missouri-133000684.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "indiana-football-transfer-target-nebraska-qb-dylan-raiola",
-    "title": "Indiana football transfer target: Nebraska QB Dylan Raiola",
-    "description": "Dylan Raiola has spent the past two seasons at Nebraska and started both, including as a true freshman in 2024.",
-    "pubDate": "2025-12-29",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/indiana-football-transfer-target-nebraska-133000139.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "ruben-amorim-reveals-unseen-bruno-fernandes-impact-while-man-united-star-is-out-injured",
-    "title": "Ruben Amorim reveals unseen Bruno Fernandes impact while Man United star is out injured",
-    "description": "The Portuguese missed the Boxing Day clash with Newcastle but has since influenced the squad without contributing on the training pitch",
-    "pubDate": "2025-12-29",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/ruben-amorim-reveals-unseen-bruno-133000483.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "indiana-football-transfer-target-cincinnati-qb-brendan-sorsby",
-    "title": "Indiana football transfer target: Cincinnati QB Brendan Sorsby",
-    "description": "Brendan Sorsby was at Indiana for two seasons before transferring to Cincinnati after 2023, where he’s started ever since.",
-    "pubDate": "2025-12-29",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/indiana-football-transfer-target-cincinnati-133000771.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "mets-morning-news-countdown",
-    "title": "Mets Morning News: Countdown",
-    "description": "Your Monday morning dose of Mets and Major League Baseball news, notes, and links.",
-    "pubDate": "2025-12-29",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/mets-morning-news-countdown-133000526.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "indiana-football-transfer-target-north-texas-qb-drew-mestemaker",
-    "title": "Indiana football transfer target: North Texas QB Drew Mestemaker",
-    "description": "Drew Mestemaker made headlines this season for leading a great North Texas team as an underrecruited redshirt freshman.",
-    "pubDate": "2025-12-29",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/indiana-football-transfer-target-north-133000239.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "indiana-football-transfer-target-tcu-qb-josh-hoover",
-    "title": "Indiana football transfer target: TCU QB Josh Hoover",
-    "description": "Josh Hoover originally committed to Indiana out of high school before flipping to TCU, where he’s started for three seasons.",
-    "pubDate": "2025-12-29",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/indiana-football-transfer-target-tcu-133000930.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "nic-nemeth-explains-why-he-sees-aew-as-a-true-alternative-to-wwe",
-    "title": "Nic Nemeth Explains Why He Sees AEW As A True Alternative To WWE",
-    "description": "Former WWE star Nic Nemeth recently explained why he views AEW as the absolute alternative to the larger promotion.",
-    "pubDate": "2025-12-29",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/nic-nemeth-explains-why-sees-133000426.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "detroit-lions-stock-report-8-risers-11-fallers-vs-vikings",
-    "title": "Detroit Lions stock report: 8 risers, 11 fallers vs. Vikings",
-    "description": "A look at the Detroit Lions trending up and down after their loss to the Vikings—starting with GM Brad Holmes.",
-    "pubDate": "2025-12-29",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/detroit-lions-stock-report-8-133000802.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "the-daily-bee-oscar-bobb-interest",
-    "title": "The Daily Bee: Oscar Bobb Interest",
-    "description": "Good morning, Fear the Wall. Happy Monday, again. It’s good to see you all (see that’s a joke, I cannot actually see any of you. This is a website. Very clever of me, if you’re keeping up). It has been three days since Christmas, and I am already beginning to dread the return to the […]",
-    "pubDate": "2025-12-29",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/daily-bee-oscar-bobb-interest-133000279.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "canada-olympic-hockey-roster-projections-connor-mcdavid-macklin-celebrini-headline-best-team-for-2026-winter-games",
-    "title": "Canada Olympic hockey roster projections: Connor McDavid, Macklin Celebrini headline best team for 2026 Winter Games",
-    "description": "Who will make Team Canada's Olympic hockey roster? The Sporting News hands out its final projections ahead of the roster reveal.",
-    "pubDate": "2025-12-29",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/canada-olympic-hockey-roster-projections-132948334.html",
+    "link": "https://sports.yahoo.com/articles/rams-draft-picks-2026-why-143514284.html",
     "source": "Google News"
   },
   {
@@ -873,111 +666,327 @@
     "source": "Google News"
   },
   {
-    "slug": "luther-burden-injury-update-from-adam-schefter-has-bears-breathing-sigh-of-relief",
-    "title": "Luther Burden injury update from Adam Schefter has Bears breathing sigh of relief",
-    "description": "Chicago Bears wide receiver Luther Burden suffered an injury at the end of the Week 17 loss to the San Francisco 49ers. Thankfully, the injury doesn't appear to be serious.",
+    "slug": "why-this-season-deserved-a-better-ending",
+    "title": "Why This Season Deserved a Better Ending",
+    "description": "As we close the book on another Notre Dame football season, I keep coming back to one unavoidable conclusion: at the end of the season, Notre Dame was one of the best teams in the country. Hands down. This team lost its first two games by a combined four points. Four. Then they turned around […]",
     "pubDate": "2025-12-29",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/luther-burden-injury-adam-schefter-132706343.html",
+    "link": "https://sports.yahoo.com/articles/why-season-deserved-better-ending-143502244.html",
     "source": "Google News"
   },
   {
-    "slug": "a-couple-fixable-offensive-concerns-for-the-houston-texans",
-    "title": "A Couple fixable offensive concerns for the Houston Texans",
-    "description": "The Houston Texans have won eight straight, but they do have some offensive concerns that are actually fixable as they clinched a playoff berth on Saturday.",
+    "slug": "real-madrid-reject-napoli-8217-s-enquiry-about-franco-mastantuono",
+    "title": "Real Madrid reject Napoli&#8217;s enquiry about Franco Mastantuono",
+    "description": "Franco Mastantuono’s potential arrival in Naples has been swiftly shut down by the reigning European champions. According to Marca (via TuttoNapoli), Real Madrid have firmly rejected an enquiry from...",
     "pubDate": "2025-12-29",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/couple-fixable-offensive-concerns-houston-132703205.html",
+    "link": "https://sports.yahoo.com/articles/real-madrid-reject-napoli-enquiry-143500667.html",
     "source": "Google News"
   },
   {
-    "slug": "passmoor-wants-to-stabilise-leicester-as-legacy",
-    "title": "Passmoor wants to stabilise Leicester as legacy",
-    "description": "Leicester City manager Rick Passmoor says his aim was to \"stabilise\" the club in his first few months in charge and hopes to leave a legacy for others to follow.",
+    "slug": "mark-daniels-sunday-s-blowout-patriots-win-showed-jets-what-they-lost-when-kraft-acted-first",
+    "title": "Mark Daniels: Sunday’s blowout Patriots win showed Jets what they lost when Kraft acted first",
+    "description": "A 41-3 demolition by an injury-depleted Patriots team wasn't just a win - it was a stark illustration of how one hiring decision altered two franchises' trajectories.",
     "pubDate": "2025-12-29",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/passmoor-wants-stabilise-leicester-legacy-132644678.html",
+    "link": "https://sports.yahoo.com/articles/mark-daniels-sunday-blowout-patriots-100045250.html",
     "source": "Google News"
   },
   {
-    "slug": "former-badger-linebacker-snags-pick-six-on-first-play-of-the-game",
-    "title": "Former Badger linebacker snags pick-six on first play of the game",
-    "description": "Former Wisconsin football linebacker T.J. Edwards opened the Chicago Bears’ Week 17 contest against the San Francisco 49ers with a bang.",
+    "slug": "three-white-sox-trade-candidates-that-represent-the-end-of-an-era",
+    "title": "Three White Sox trade candidates that represent the end of an era",
+    "description": "The White Sox have set the table for an interesting trade with this offseason’s transactions. Rule 5 Draft additions and Chicago’s signings of infielder/DH Munetaka Murakami and pitcher Sean Newcomb maxes out the 40-man roster while upgrading key positions. With a flurry of new talent expected to fl",
     "pubDate": "2025-12-29",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/former-badger-linebacker-snags-pick-132629411.html",
+    "link": "https://sports.yahoo.com/articles/three-white-sox-trade-candidates-143200568.html",
     "source": "Google News"
   },
   {
-    "slug": "kickoff-date-and-time-set-for-colts-vs-texans-week-18-game",
-    "title": "Kickoff date and time set for Colts vs. Texans Week 18 game",
-    "description": "The NFL has revealed the kickoff date and time in Week 18 for the Colts vs. Texans matchup.",
+    "slug": "thelin-has-39-strong-belief-39-for-easter-road-visit",
+    "title": "Thelin has &#39;strong belief&#39; for Easter Road visit",
+    "description": "Aberdeen manager Jimmy Thelin goes into Tuesday's visit to Hibernian with \"strong belief\" as his team embark on the first of three successive away games.  The Dons have been victorious in four of their eight league games on the road this term.",
     "pubDate": "2025-12-29",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/kickoff-date-time-set-colts-132538261.html",
+    "link": "https://sports.yahoo.com/articles/thelin-strong-belief-easter-road-135439964.html",
     "source": "Google News"
   },
   {
-    "slug": "spurs-rising-star-gray-eager-to-keep-learning-after-first-senior-goal",
-    "title": "Spurs rising star Gray eager to keep learning after first senior goal",
-    "description": "Tottenham Hotspur teenager Archie Gray is determined to improve after scoring his first professional goal in a valuable 1-0 win at Crystal Palace.\"It was a difficult game for me at Forest,\" said Gray after he helped Tottenham to only a second win in their last nine Premier League matches.",
+    "slug": "how-ohio-state-women-s-hockey-has-fared-so-far-this-season",
+    "title": "How Ohio State women’s hockey has fared so far this season",
+    "description": "It’s time to check in on the Ohio State’s women’s hockey team before their holiday break ends on Friday.",
     "pubDate": "2025-12-29",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/spurs-rising-star-gray-eager-132518580.html",
+    "link": "https://sports.yahoo.com/articles/ohio-state-women-hockey-fared-143100716.html",
     "source": "Google News"
   },
   {
-    "slug": "39-interest-remains-overwhelming-39-in-buying-a-motogp-team-says-chief-sporting-officer",
-    "title": "&#39;Interest Remains Overwhelming:&#39; In Buying a MotoGP Team, Says Chief Sporting Officer",
-    "description": "In a wide-ranging interview, Carlos Ezpeleta, MotoGP's chief sporting director, gave to Motorsport, the executive said there's 'overwhelming' interest in new team owners, as well as more tracks for the calendar.",
+    "slug": "titans-report-card-how-we-graded-tennessee-in-week-17-loss-to-saints",
+    "title": "Titans report card: How we graded Tennessee in Week 17 loss to Saints",
+    "description": "The Tennessee Titans fell to the New Orleans Saints in Week 17 action, and here is how Titans Wire graded the team's performance.",
     "pubDate": "2025-12-29",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/interest-remains-overwhelming-buying-motogp-132421539.html",
+    "link": "https://sports.yahoo.com/articles/titans-report-card-graded-tennessee-143057464.html",
     "source": "Google News"
   },
   {
-    "slug": "nfc-playoff-picture-eagles-dramatic-win-bears-loss-leave-nick-sirianni-with-difficult-decision-update",
-    "title": "NFC Playoff Picture: Eagles’ dramatic win, Bears’ loss leave Nick Sirianni with difficult decision (UPDATE)",
-    "description": "The Eagles played the Buffalo Bills Sunday at Highmark Stadium in Orchard Park, N.Y. Here's how the game impacted their playoff seeding with one game remaining.",
+    "slug": "jaguars-vs-titans-week-18-opening-odds",
+    "title": "Jaguars vs Titans: Week 18 opening odds",
+    "description": "Sportsbooks like the Jaguars’ odds to beat the Titans in Week 18.",
     "pubDate": "2025-12-29",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/nfc-playoff-picture-eagles-dramatic-010900529.html",
+    "link": "https://sports.yahoo.com/articles/jaguars-vs-titans-week-18-143051052.html",
     "source": "Google News"
   },
   {
-    "slug": "epl-gw-19-fpl-player-picks",
-    "title": "EPL GW-19 FPL Player Picks",
-    "description": "Gameweek 19 arrives immediately after the previous round and marks the final gameweek of the first half of the season. It is also the only gameweek that falls across both 2025 and 2026. Managers are reminded that this is the final opportunity to use their first set of special chips, as any unused ch",
+    "slug": "wisconsin-football-starting-tight-end-declares-for-nfl-draft",
+    "title": "Wisconsin football starting tight end declares for NFL draft",
+    "description": "Wisconsin tight end Lance Mason declared for the 2026 NFL draft on Sunday.",
     "pubDate": "2025-12-29",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/epl-gw-19-fpl-player-132216700.html",
+    "link": "https://sports.yahoo.com/articles/wisconsin-football-starting-tight-end-143045038.html",
     "source": "Google News"
   },
   {
-    "slug": "vikings-fans-are-daydreaming-about-a-different-qb",
-    "title": "Vikings Fans Are Daydreaming about a Different QB",
-    "description": "The Minnesota Vikings played on Christmas Day, defeating the Detroit Lions, so fans got to experience the rest of the […]",
+    "slug": "nfl-playoff-picture-broncos-in-control-for-afc-39-s-no-1-seed",
+    "title": "NFL playoff picture: Broncos in control for AFC&#39;s No. 1 seed",
+    "description": "Going into the final week of the regular season, the Broncos remain the AFC's No. 1 seed.",
     "pubDate": "2025-12-29",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/vikings-fans-daydreaming-different-qb-132200325.html",
+    "link": "https://sports.yahoo.com/articles/nfl-playoff-picture-broncos-control-143038781.html",
     "source": "Google News"
   },
   {
-    "slug": "value-of-things-by-the-numbers",
-    "title": "Value of Things: By the Numbers",
-    "description": "What was the great, good, and bad from the Texans 20-16 victory over the Chargers?",
+    "slug": "vote-for-the-hss-north-jersey-wrestler-of-the-week-for-dec-22-28",
+    "title": "VOTE for the HSS North Jersey Wrestler of the Week for Dec. 22-28",
+    "description": "After another fun week of the high school wrestling season, it's time to look back on the best performances.",
     "pubDate": "2025-12-29",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/value-things-numbers-132200379.html",
+    "link": "https://sports.yahoo.com/articles/vote-hss-north-jersey-wrestler-143033570.html",
     "source": "Google News"
   },
   {
-    "slug": "breaking-news-lvaro-fern-ndez-parts-ways-with-sevilla",
-    "title": "🚨 Breaking news: Álvaro Fernández parts ways with Sevilla",
-    "description": "The cycle of Álvaro Fernández at Sevilla FC has come to a definitive end. This Monday, the goalkeeper from La Rioja received permission from the Nervión club to miss training and finalize an exit t...",
+    "slug": "fabrizio-romano-confirms-man-united-8217-s-8220-clear-position-8221-on-jadon-sancho-8217-s-future",
+    "title": "Fabrizio Romano confirms Man United&#8217;s &#8220;clear position&#8221; on Jadon Sancho&#8217;s future",
+    "description": "Transfer expert Fabrizio Romano has confirmed Manchester United’s stance on Jadon Sancho’s future as he nears the end of his contract.Sancho on brink of free agencySancho is currently on loan at A...",
     "pubDate": "2025-12-29",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/breaking-news-lvaro-fern-ndez-132200143.html",
+    "link": "https://sports.yahoo.com/articles/fabrizio-romano-confirms-man-united-143000985.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "good-morning-san-diego-padres-one-of-three-teams-linked-to-kazuma-okamoto-potential-minor-league-addition-could-impact-major-league-roster",
+    "title": "Good Morning San Diego: Padres one of three teams linked to Kazuma Okamoto; Potential minor league addition could impact major league roster",
+    "description": "Jackson Merrill expected to return to form in 2026",
+    "pubDate": "2025-12-29",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/good-morning-san-diego-padres-143000456.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "phnx-daily-cardinals-continue-abysmal-descent",
+    "title": "PHNX Daily: Cardinals Continue Abysmal Descent",
+    "description": "👋 GOOD MORNING – What was that…? At this point, we probably shouldn’t be too surprised to see our beloved Arizona Cardinals play this poorly, but that beatdown by the...",
+    "pubDate": "2025-12-29",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/phnx-daily-cardinals-continue-abysmal-143000024.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "lakers-39-lebron-james-has-incredible-message-for-father-time-before-birthday",
+    "title": "Lakers&#39; LeBron James has incredible message for Father Time before birthday",
+    "description": "The King is getting up there in years.",
+    "pubDate": "2025-12-29",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/lakers-lebron-james-incredible-message-143000646.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "rivals-2025-nebraska-high-school-football-player-of-the-year-honors",
+    "title": "Rivals 2025 Nebraska high school football Player of the Year honors",
+    "description": "The high school football season around the country has wrapped up and with that comes honors for coaches and players from the 2025 season. One state out of the Midwest region that is starting to produce some impressive talent and teams from around the country is Nebraska high school football. The Ne",
+    "pubDate": "2025-12-29",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/rivals-2025-nebraska-high-school-142956745.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "anthony-joshua-reportedly-injured-in-car-crash-in-nigeria-that-resulted-in-2-fatalities",
+    "title": "Anthony Joshua reportedly injured in car crash in Nigeria that resulted in 2 fatalities",
+    "description": "Anthony Joshua reportedly sustained minor injuries in the crash.",
+    "pubDate": "2025-12-29",
+    "image": "",
+    "link": "https://sports.yahoo.com/boxing/breaking-news/article/anthony-joshua-reportedly-injured-in-car-crash-in-nigeria-that-resulted-in-2-fatalities-142954062.html",
+    "source": "Chris Cwik"
+  },
+  {
+    "slug": "a-50-pack-of-tiger-stats-as-woods-hits-the-half-century-mark",
+    "title": "A 50-pack of Tiger stats as Woods hits the half-century mark",
+    "description": "Woods, who turns 50 on Tuesday, has achieved some incredible things in his historic career. Here's a list of 50 of his most impressive.",
+    "pubDate": "2025-12-29",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/50-pack-tiger-stats-woods-142938155.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "penguins-have-plenty-of-positives-after-blowout-win-over-blackhawks",
+    "title": "Penguins Have Plenty Of ‘Positives’ After Blowout Win Over Blackhawks",
+    "description": "The Pittsburgh Penguins had a stellar 7-3 win over the Chicago Blackhawks on the road on Sunday. Pittsburgh played its first game after the Holiday Break as the Penguins came out strong. The Penguins led 4-0 after the first period as Pittsburgh cruised to a lopsided win, which head coach Dan Muse wa",
+    "pubDate": "2025-12-29",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/penguins-plenty-positives-blowout-win-142927419.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "el-passico-at-fir-park-gassama-martindale-in-focus",
+    "title": "El Passico at Fir Park, Gassama & Martindale in focus",
+    "description": "Here is what to look out for on the final round of Scottish Premiership fixtures for 2025, including Motherwell v Celtic, Djeidi Gassama's form and the pressure on David Martindale.",
+    "pubDate": "2025-12-29",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/el-passico-fir-park-gassama-140544277.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "aaron-rodgers-has-39-full-confidence-39-heading-into-week-18-but-the-steelers-are-in-trouble",
+    "title": "Aaron Rodgers has &#39;full confidence&#39; heading into Week 18, but the Steelers are in trouble",
+    "description": "After their annual collapse, Pittsburgh takes on Baltimore for the AFC North title next Sunday, and the momentum is not on their side.",
+    "pubDate": "2025-12-29",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/aaron-rodgers-full-confidence-heading-142822967.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "anthony-joshua-car-crash-updates-latest-news-on-british-heavyweight-boxer-injured-in-fatal-accident",
+    "title": "Anthony Joshua car crash updates: Latest news on British heavyweight boxer injured in fatal accident",
+    "description": "British heavyweight boxer Anthony Joshua has suffered minor injuries in a car crash in Nigeria that left two people dead.",
+    "pubDate": "2025-12-29",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/anthony-joshua-car-crash-updates-142718936.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "former-pirates-pitcher-andrew-heaney-retires",
+    "title": "Former Pirates pitcher Andrew Heaney retires",
+    "description": "A former Bucco is calling it quits.",
+    "pubDate": "2025-12-29",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/former-pirates-pitcher-andrew-heaney-142648623.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "arsenal-boss-arteta-will-39-actively-look-39-at-january-signings-amid-injury-crisis",
+    "title": "Arsenal boss Arteta will &#39;actively look&#39; at January signings amid injury crisis",
+    "description": "Arsenal manager Mikel Arteta says his Premier League leaders will be \"actively looking\" at bolstering their squad during the January transfer window.Arsenal spent more than £250 million ($337 million) on eight new arrivals during the summer transfer window and Arteta is prepared to bring in further",
+    "pubDate": "2025-12-29",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/arsenal-boss-arteta-actively-look-142442539.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "coachella-valley-firebirds-flummoxed-by-henderson-in-6-3-road-loss",
+    "title": "Coachella Valley Firebirds flummoxed by Henderson in 6-3 road loss",
+    "description": "The Firebirds battled the Silver Knights in a tight game as two late empty-net goals made the score look worse than the game was",
+    "pubDate": "2025-12-29",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/coachella-valley-firebirds-flummoxed-henderson-142413817.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "vote-for-the-ez-cash-of-delaware-inc-athlete-of-the-week-for-dec-22-28",
+    "title": "Vote for the EZ Cash of Delaware, Inc. Athlete of the Week for Dec. 22-28",
+    "description": "You can now vote for the EZ Cash of Delaware, Inc. Athlete of the Week for Dec. 22-28.",
+    "pubDate": "2025-12-29",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/vote-ez-cash-delaware-inc-142334366.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "nhl-player-props-best-bets-for-today-december-29-celebrini-time",
+    "title": "NHL Player Props & Best Bets for Today, December 29: Celebrini Time",
+    "description": "Today's slate of NHL player props target Macklin Celebrini, Nathan MacKinnon, and Brad Marchand.",
+    "pubDate": "2025-12-29",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/nhl-player-props-best-bets-142300688.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "cornell-vs-michigan-state-prediction-picks-odds-for-tonight-39-s-college-basketball-game",
+    "title": "Cornell vs Michigan State Prediction, Picks & Odds for Tonight&#39;s College Basketball Game",
+    "description": "Our Cornell vs. Michigan State predictions don't expect a shootout in East Lansing tonight.",
+    "pubDate": "2025-12-29",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/cornell-vs-michigan-state-prediction-142300532.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "edwards-on-andre-suspension-man-utd-test-and-feeling-39-fed-up-39",
+    "title": "Edwards on Andre suspension, Man Utd test and feeling &#39;fed up&#39;",
+    "description": "Wolves boss Rob Edwards has been speaking to the media before Tuesday's Premier League game against Manchester United at Old Trafford (kick-off 20:15 GMT).  In terms of injury news, defender Yerson Mosquera \"felt a bit of cramp\" last time out but \"should be OK\" to feature.  The defensive midfielder",
+    "pubDate": "2025-12-29",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/edwards-andre-suspension-man-utd-142233749.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "after-brooks-koepka-39-s-decision-to-leave-liv-golf-is-bryson-dechambeau-next",
+    "title": "After Brooks Koepka&#39;s decision to leave LIV Golf, is Bryson DeChambeau next?",
+    "description": "After Brooks Koepka's decision to leave LIV Golf, the attention turns to others with expiring contracts, like Bryson DeChambeau.",
+    "pubDate": "2025-12-29",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/brooks-koepkas-decision-leave-liv-142231883.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "fantasy-basketball-waiver-wire-brook-lopez-pelle-larsson-among-top-adds-in-9-cat-standard-points-leagues-for-week-11",
+    "title": "Fantasy Basketball Waiver Wire: Brook Lopez, Pelle Larsson among top adds in 9-cat/standard points leagues for Week 11",
+    "description": "Yahoo analyst Dan Titus shares his top players to add off the fantasy basketball waiver wire for 9-cat/points leagues in Week 11.",
+    "pubDate": "2025-12-29",
+    "image": "",
+    "link": "https://sports.yahoo.com/fantasy/article/fantasy-basketball-waiver-wire-brook-lopez-pelle-larsson-among-top-adds-in-9-catstandard-points-leagues-for-week-11-142227569.html",
+    "source": "Dan Titus"
+  },
+  {
+    "slug": "another-team-enters-the-mix-for-brian-flores",
+    "title": "Another Team Enters the Mix for Brian Flores",
+    "description": "The Minnesota Vikings’ defense has barnstormed the league in the last month or so, and Brian Flores‘ head coaching profile […]",
+    "pubDate": "2025-12-29",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/another-team-enters-mix-brian-142200878.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "the-high-score-playlist-week-11-fantasy-basketball-waiver-wire-pickups-and-lineup-advice",
+    "title": "The High Score Playlist: Week 11 fantasy basketball waiver wire pickups and lineup advice",
+    "description": "Yahoo analyst Dan Titus takes you through The Playlist, his top fantasy basketball waiver wire adds to start Week 11.",
+    "pubDate": "2025-12-29",
+    "image": "",
+    "link": "https://sports.yahoo.com/fantasy/article/the-high-score-playlist-week-11-fantasy-basketball-waiver-wire-pickups-and-lineup-advice-142142387.html",
+    "source": "Dan Titus"
+  },
+  {
+    "slug": "rasmus-hojlund-8217-s-entourage-on-rise-at-napoli-8220-he-has-become-hungrier-more-consistent-8221",
+    "title": "Rasmus Hojlund&#8217;s entourage on rise at Napoli: &#8220;He has become hungrier, more consistent&#8221;",
+    "description": "Rasmus Højlund’s arrival at Napoli has been characterized by a deliberate commitment to the club’s long-term vision. Speaking to TuttoNapoli, Luca Nigriello—a scout and member of the Sport Ente...",
+    "pubDate": "2025-12-29",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/rasmus-hojlund-entourage-rise-napoli-142100543.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "in-the-lab-right-field-bpo",
+    "title": "In the Lab: Right Field BPO",
+    "description": "Can the Astros reasonably expect growth from Cam Smith and Jesus Sanchez?",
+    "pubDate": "2025-12-29",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/lab-field-bpo-142100723.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "baffert-wins-three-graded-stakes-on-santa-anita-39-s-opening-day-program",
+    "title": "Baffert wins three graded stakes on Santa Anita&#39;s Opening Day program",
+    "description": "Sunday's Santa Anita Opening day, postponed from Friday by heavy rain, was a massive success both for the track and for trainer Bob Baffert.",
+    "pubDate": "2025-12-29",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/baffert-wins-three-graded-stakes-142019794.html",
     "source": "Google News"
   },
   {
@@ -1008,15 +1017,6 @@
     "source": "BBC Sport"
   },
   {
-    "slug": "who-has-made-troy-s-premier-league-team-of-the-week",
-    "title": "Who has made Troy's Premier League team of the week?",
-    "description": "After every round of Premier League matches this season, Troy Deeney gives us his team of the week. Do you agree with his choices?",
-    "pubDate": "2025-12-28",
-    "image": "",
-    "link": "https://www.bbc.com/sport/football/articles/c4g4nn0j2v4o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport"
-  },
-  {
     "slug": "point-of-the-match-sabalenka-hits-amazing-winner-against-kyrgios",
     "title": "'Point of the match!' - Sabalenka hits 'amazing' winner against Kyrgios",
     "description": "Aryna Sabalenka hits an 'amazing' return against Nick Kyrgios at the Battle of the Sexes in Dubai.",
@@ -1044,12 +1044,12 @@
     "source": "BBC Sport"
   },
   {
-    "slug": "fulham-want-40m-rated-pepi-monday-s-gossip",
-    "title": "Fulham want £40m-rated Pepi - Monday's gossip",
-    "description": "Fulham want PSV's £40m-rated striker Ricardo Pepi, Liverpool are set to rival Manchester City for Antoine Semenyo, Tottenham have been offered Leon Goretzka by Bayern Munich, plus more.",
+    "slug": "who-has-made-troy-s-premier-league-team-of-the-week",
+    "title": "Who has made Troy's Premier League team of the week?",
+    "description": "After every round of Premier League matches this season, Troy Deeney gives us his team of the week. Do you agree with his choices?",
     "pubDate": "2025-12-28",
     "image": "",
-    "link": "https://www.bbc.com/sport/football/articles/c80x824390jo?at_medium=RSS&at_campaign=rss",
+    "link": "https://www.bbc.com/sport/football/articles/c4g4nn0j2v4o?at_medium=RSS&at_campaign=rss",
     "source": "BBC Sport"
   },
   {
@@ -1059,6 +1059,15 @@
     "pubDate": "2025-12-28",
     "image": "",
     "link": "https://www.bbc.com/sport/football/articles/c98n7032qy6o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport"
+  },
+  {
+    "slug": "fulham-want-40m-rated-pepi-monday-s-gossip",
+    "title": "Fulham want £40m-rated Pepi - Monday's gossip",
+    "description": "Fulham want PSV's £40m-rated striker Ricardo Pepi, Liverpool are set to rival Manchester City for Antoine Semenyo, Tottenham have been offered Leon Goretzka by Bayern Munich, plus more.",
+    "pubDate": "2025-12-28",
+    "image": "",
+    "link": "https://www.bbc.com/sport/football/articles/c80x824390jo?at_medium=RSS&at_campaign=rss",
     "source": "BBC Sport"
   },
   {
@@ -1080,15 +1089,6 @@
     "source": "BBC Sport"
   },
   {
-    "slug": "uncertainty-and-lack-of-form-palace-s-flat-end-to-historic-year",
-    "title": "Uncertainty and lack of form - Palace's 'flat' end to historic year",
-    "description": "After arguably the greatest year in the club's history, Crystal Palace will begin 2026 out of form and surrounded by an air of uncertainty.",
-    "pubDate": "2025-12-28",
-    "image": "",
-    "link": "https://www.bbc.com/sport/football/articles/c62lp2jpn73o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport"
-  },
-  {
     "slug": "a-stellar-legacy-on-and-off-the-field-hugh-morris-obituary",
     "title": "'A stellar legacy on and off the field' - Hugh Morris obituary",
     "description": "Hugh Morris, who has died at the age of 62, enjoyed a distinguished career in which he led from the front both on and off the cricket field.",
@@ -1098,12 +1098,12 @@
     "source": "BBC Sport"
   },
   {
-    "slug": "welsh-rugby-on-a-precipice-after-shocking-year",
-    "title": "Welsh rugby 'on a precipice' after shocking year ",
-    "description": "BBC Sport looks at another tumultuous 12 months for the men's game in Wales with Welsh rugby close to rock bottom.",
+    "slug": "uncertainty-and-lack-of-form-palace-s-flat-end-to-historic-year",
+    "title": "Uncertainty and lack of form - Palace's 'flat' end to historic year",
+    "description": "After arguably the greatest year in the club's history, Crystal Palace will begin 2026 out of form and surrounded by an air of uncertainty.",
     "pubDate": "2025-12-28",
     "image": "",
-    "link": "https://www.bbc.com/sport/rugby-union/articles/c5y2zrvw577o?at_medium=RSS&at_campaign=rss",
+    "link": "https://www.bbc.com/sport/football/articles/c62lp2jpn73o?at_medium=RSS&at_campaign=rss",
     "source": "BBC Sport"
   },
   {
@@ -1131,6 +1131,15 @@
     "pubDate": "2025-12-28",
     "image": "",
     "link": "https://www.bbc.com/sport/tennis/videos/c62npyp99rko?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport"
+  },
+  {
+    "slug": "welsh-rugby-on-a-precipice-after-shocking-year",
+    "title": "Welsh rugby 'on a precipice' after shocking year ",
+    "description": "BBC Sport looks at another tumultuous 12 months for the men's game in Wales with Welsh rugby close to rock bottom.",
+    "pubDate": "2025-12-28",
+    "image": "",
+    "link": "https://www.bbc.com/sport/rugby-union/articles/c5y2zrvw577o?at_medium=RSS&at_campaign=rss",
     "source": "BBC Sport"
   },
   {
@@ -1170,15 +1179,6 @@
     "source": "BBC Sport"
   },
   {
-    "slug": "liverpool-set-piece-problems-a-killer-van-dijk",
-    "title": "Liverpool set-piece problems a killer - Van Dijk",
-    "description": "Virgil van Dijk says that Liverpool's problems from set-pieces \"hurts\" and that the second phase is a \"killer\" for them.",
-    "pubDate": "2025-12-28",
-    "image": "",
-    "link": "https://www.bbc.com/sport/football/articles/c0jexl4y7dpo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport"
-  },
-  {
     "slug": "jota-s-widow-thanks-liverpool-fans-for-their-love",
     "title": "Jota's widow thanks Liverpool fans for their 'love'",
     "description": "Rute Cardoso says it has been an \"incredibly difficult time\" after Jota's death in a car crash.",
@@ -1194,15 +1194,6 @@
     "pubDate": "2025-12-28",
     "image": "",
     "link": "https://www.bbc.com/sport/american-football/videos/clyxe76p6wlo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport"
-  },
-  {
-    "slug": "rohl-s-rangers-in-race-but-brave-bold-backing-needed",
-    "title": "Rohl's Rangers in race - but 'brave & bold' backing needed",
-    "description": "Danny Rohl has asked for backing in the January transfer window from the Rangers board.",
-    "pubDate": "2025-12-28",
-    "image": "",
-    "link": "https://www.bbc.com/sport/football/articles/cvgr2nzkdvzo?at_medium=RSS&at_campaign=rss",
     "source": "BBC Sport"
   },
   {
