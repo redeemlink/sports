@@ -27,6 +27,15 @@
     "source": "Mike Reiss"
   },
   {
+    "slug": "burrow-on-drought-something-s-got-to-change",
+    "title": "Burrow on drought: 'Something's got to change'",
+    "description": "With the Bengals again missing the playoffs, quarterback Joe Burrow said \"something's got to change\" heading into next season.",
+    "pubDate": "2025-12-31",
+    "image": "",
+    "link": "https://www.espn.com/nfl/story/_/id/47465910/joe-burrow-bengals-drought-got-change",
+    "source": "Ben Baby"
+  },
+  {
     "slug": "sources-keller-thompson-jones-make-u-s-roster",
     "title": "Sources: Keller, Thompson, Jones make U.S. roster",
     "description": "Clayton Keller, Tage Thompson and Seth Jones have all made the U.S. Olympic roster, sources told ESPN.",
@@ -61,15 +70,6 @@
     "image": "",
     "link": "https://www.espn.com/nfl/story/_/id/47464681/colts-qb-anthony-richardson-sr-no-doubt-nfl-future",
     "source": "Stephen Holder"
-  },
-  {
-    "slug": "ducks-lanning-echoes-call-to-wrap-cfp-by-jan-1",
-    "title": "Ducks' Lanning echoes call to wrap CFP by Jan. 1",
-    "description": "Oregon coach Dan Lanning reiterated his desire to see the college football season end Jan. 1 every year.",
-    "pubDate": "2025-12-31",
-    "image": "",
-    "link": "https://www.espn.com/college-football/story/_/id/47463230/the-season-ends-jan-1-dan-lanning-reiterates-cfp-overhaul",
-    "source": "Andrea Adelson"
   },
   {
     "slug": "latest-buzz-on-the-nfl-coaching-carousel",
@@ -250,6 +250,15 @@
     "image": "",
     "link": "https://www.espn.com/college-football/story/_/id/47427877/2026-ncaa-football-transfer-portal-26-qbs-watch",
     "source": "Max Olson"
+  },
+  {
+    "slug": "caitlin-clark-talks-new-shoe-football-on-kelces-new-heights-podcast",
+    "title": "Caitlin Clark talks new shoe, football on Kelces' 'New Heights' podcast",
+    "description": "The Indiana Fever guard discussed the process of creating her signature shoe, which will debut this spring, among other topics.",
+    "pubDate": "2025-12-31",
+    "image": "",
+    "link": "https://www.espn.com/wnba/story/_/id/47465374/caitlin-clark-new-heights-podcast-kelce",
+    "source": "Michael Voepel"
   },
   {
     "slug": "messi-ronaldo-mbapp-haaland-kane-who-was-2025-s-top-goal-scorer",
@@ -756,12 +765,228 @@
     "source": "BBC Sport"
   },
   {
+    "slug": "jordan-love-had-a-full-practice-but-malik-willis-was-limited-at-wednesday-39-s-session",
+    "title": "Jordan Love had a full practice, but Malik Willis was limited at Wednesday&#39;s session",
+    "description": "The Packers should have starting quarterback Jordan Love cleared from concussion protocol by the time they kickoff against the Vikings on Sunday.",
+    "pubDate": "2025-12-31",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/jordan-love-had-full-practice-224616075.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "packers-claim-trevon-diggs-one-day-after-cowboys-waived-the-veteran-cornerback",
+    "title": "Packers claim Trevon Diggs one day after Cowboys waived the veteran cornerback",
+    "description": "Trevon Diggs was claimed by the Green Bay Packers on Wednesday, a day after the Dallas Cowboys waived the 2021 All-Pro cornerback.  This move enables Green Bay to boost its injury-riddled secondary by taking a chance on a two-time Pro Bowl selection seeking a career reset.  Diggs had an NFL-leading",
+    "pubDate": "2025-12-31",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/packers-claim-trevon-diggs-one-224604747.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "bears-39-wednesday-injury-report-luther-burden-back-at-practice",
+    "title": "Bears&#39; Wednesday injury report: Luther Burden back at practice",
+    "description": "The Bears released their first injury report ahead of their Week 18 game vs. Lions.",
+    "pubDate": "2025-12-31",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/bears-wednesday-injury-report-luther-224451234.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "oklahoma-state-suffers-stunning-collapse-to-baylor-in-big-12-women-39-s-basketball",
+    "title": "Oklahoma State suffers stunning collapse to Baylor in Big 12 women&#39;s basketball",
+    "description": "The Baylor Bears rallied from a 19-point deficit in the second half to stun the Oklahoma State Cowgirls 77-68 Wednesday at Gallagher-Iba Arena.",
+    "pubDate": "2025-12-31",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/oklahoma-state-suffers-stunning-collapse-224419435.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "2025-supermotocross-450-countdown-no-5-cooper-webb",
+    "title": "2025 SuperMotocross 450 Countdown, No. 5: Cooper Webb",
+    "description": "Cooper Webb scored an average finish of 2.53 in the Monster Energy Supercross series on his way to a third championship.",
+    "pubDate": "2025-12-31",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/2025-supermotocross-450-countdown-no-224341114.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "nfl-saturday-showdown-preview-key-figures-for-panthers-bucs-and-seahawks-49ers",
+    "title": "NFL Saturday showdown preview: Key figures for Panthers-Bucs and Seahawks-49ers",
+    "description": "Which players will help decide two huge Week 18 games on Saturday?",
+    "pubDate": "2025-12-31",
+    "image": "",
+    "link": "https://sports.yahoo.com/nfl/article/nfl-saturday-showdown-preview-key-figures-for-panthers-bucs-and-seahawks-49ers-224221456.html",
+    "source": "Frank Schwab"
+  },
+  {
+    "slug": "miami-dolphins-olb-bradley-chubb-named-afc-defensive-player-of-the-week",
+    "title": "Miami Dolphins OLB Bradley Chubb Named AFC Defensive Player of the Week",
+    "description": "It is Chubb’s second AFC Defensive Player of the Week Award in his career and first with Miami.",
+    "pubDate": "2025-12-31",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/miami-dolphins-olb-bradley-chubb-224119688.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "mbeumo-replaced-at-half-time-as-cameroon-finish-second",
+    "title": "Mbeumo replaced at half-time as Cameroon finish second",
+    "description": "Bryan Mbeumo is replaced at half-time as Cameroon beat Mozambique 2-1 but finish second in Group F at the 2025 Africa Cup of Nations.",
+    "pubDate": "2025-12-31",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/mbeumo-replaced-half-time-cameroon-213247784.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "daniel-peretz-to-southampton-manor-solomon-to-fiorentina-in-midseason-moves",
+    "title": "Daniel Peretz to Southampton, Manor Solomon to Fiorentina in midseason moves",
+    "description": "Reports say goalkeeper Daniel Peretz is nearing a loan move to Southampton, while winger Manor Solomon could switch from Villarreal to Fiorentina this month. Two Israeli internationals were reported on Wednesday to be on the verge of changing clubs, with goalkeeper Daniel Peretz set for a loan move",
+    "pubDate": "2025-12-31",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/daniel-peretz-southampton-manor-solomon-224021280.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "from-portugal-roma-in-talks-for-schjelderup",
+    "title": "From Portugal: Roma in talks for Schjelderup",
+    "description": "Roma are aiming to strengthen their attack by looking to Portugal for a possible reinforcement.According to Portuguese newspaper Record, the Giallorossi have initiated talks for Andreas Schjelderup, a...",
+    "pubDate": "2025-12-31",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/portugal-roma-talks-schjelderup-224000612.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "arne-slot-sack-plan-throws-liverpool-spending-plans-into-disarray",
+    "title": "Arne Slot sack plan throws Liverpool spending plans into DISARRAY",
+    "description": "Guehi is concerned about LiverpoolAccording to Football Insider, defender Marc Guehi has doubts over whether the Reds are the best club for him to join in the summer, with the risk of Slot losing his ...",
+    "pubDate": "2025-12-31",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/arne-slot-sack-plan-throws-224000899.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "no-13-texas-vs-no-18-michigan-live-updates-arch-manning-runs-for-td-24-20-lead",
+    "title": "No. 13 Texas vs. No. 18 Michigan live updates: Arch Manning runs for TD, 24-20 lead",
+    "description": "The Horns face the Wolverines for the third time.",
+    "pubDate": "2025-12-31",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/no-13-texas-vs-no-203020707.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "should-aaron-rodgers-retire-if-steelers-miss-playoffs",
+    "title": "Should Aaron Rodgers Retire If Steelers Miss Playoffs?",
+    "description": "On Sunday, Aaron Rodgers will play what could be the final game of his NFL career. If the Pittsburgh Steelers win their regular-season finale, they’ll clinch a playoff spot, giving Rodgers a chance to fight another day. If they lose to the Baltimore Ravens, however, the Ravens will take their postse",
+    "pubDate": "2025-12-31",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/aaron-rodgers-retire-steelers-miss-223729335.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "packers-first-injury-report-of-week-18-jordan-love-is-full-participant",
+    "title": "Packers first injury report of Week 18: Jordan Love is full participant",
+    "description": "Jordan Love practiced in full, Malik Willis has a new injury, Jayden Reed and Lukas Van Ness are sick and Zach Tom returned to practice.",
+    "pubDate": "2025-12-31",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/packers-first-injury-report-week-223610705.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "michigan-state-ol-twins-transferring-from-program",
+    "title": "Michigan State OL twins transferring from program",
+    "description": "Twins on the Michigan State offensive line have announced their departure from the program.",
+    "pubDate": "2025-12-31",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/michigan-state-ol-twins-transferring-223413169.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "burkina-faso-beat-sudan-to-finish-second-in-afcon-group",
+    "title": "Burkina Faso beat Sudan to finish second in Afcon group",
+    "description": "Burkina Faso beat Sudan to secure second place in Group E at Afcon 2025, with both sides assured of progress to the last 16 before kick-off.",
+    "pubDate": "2025-12-31",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/burkina-faso-beat-sudan-finish-180154803.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "celtics-rookie-amari-williams-registers-2nd-triple-double-in-g-league",
+    "title": "Celtics rookie Amari Williams registers 2nd triple-double in G League",
+    "description": "Celtics rookie Amari Williams notched his second triple-double in the G League, helping the Maine Celtics in a loss to the Noblesville Boom.",
+    "pubDate": "2025-12-31",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/celtics-rookie-amari-williams-registers-223303965.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "unc-s-defense-is-suffocating-and-history-is-starting-to-whisper",
+    "title": "UNC’s defense Is suffocating — and history Is starting to whisper",
+    "description": "UNC opened ACC play with another defensive gem, holding Florida State to 66 points as its historic streak continues to grow.",
+    "pubDate": "2025-12-31",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/unc-defense-suffocating-history-starting-223021040.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "afc-north-recap-week-17-browns-to-the-rescue",
+    "title": "AFC North Recap Week 17: Browns to the rescue",
+    "description": "The Browns saved the Ravens’ season in Week 17, while the Bengals notched another blowout win.",
+    "pubDate": "2025-12-31",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/afc-north-recap-week-17-223000274.html",
+    "source": "Google News"
+  },
+  {
     "slug": "mclaren-ceo-zak-brown-draws-attention-with-lighthearted-remarks-as-team-celebrates-historic-f1-season",
     "title": "McLaren CEO Zak Brown Draws Attention With Lighthearted Remarks as Team Celebrates Historic F1 Season",
     "description": "Zak Brown, the American chief executive of McLaren Racing, sparked discussion within the Formula One paddock after making playful remarks about his role within the team and the leadership style of team principal Andrea Stella. Speaking during McLaren’s Christmas celebration, Brown portrayed himself",
     "pubDate": "2025-12-31",
     "image": "",
     "link": "https://sports.yahoo.com/articles/mclaren-ceo-zak-brown-draws-223000055.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "i-39-m-so-proud-of-how-we-bounced-back-from-adversity-pep",
+    "title": "I&#39;m so proud of how we bounced back from adversity - Pep",
+    "description": "Pep Guardiola says the 2024/25 season will go down as one of the best he’s overseen because of the way the team fought back from adversity to finish third in the Premier League and therefore once ag...",
+    "pubDate": "2025-12-31",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/im-proud-bounced-back-adversity-223000045.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "pep-s-approach-to-football-is-fascinating-gvardiol",
+    "title": "Pep’s approach to football is fascinating – Gvardiol",
+    "description": "Josko Gvardiol says Pep Guardiola’s meticulous and methodical approach to football has rubbed off on him.Gvardiol started working with Guardiola in August 2023 and in that time the colossal Croatian...",
+    "pubDate": "2025-12-31",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/pep-approach-football-fascinating-gvardiol-223000771.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "lions-te-coach-tyler-roehl-explains-why-he-s-taking-iowa-state-oc-job",
+    "title": "Lions TE coach Tyler Roehl explains why he’s taking Iowa State OC job",
+    "description": "Detroit Lions TE coach Tyler Roehl explained why he’s leaving to become the Iowa State offensive coordinator.",
+    "pubDate": "2025-12-31",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/lions-te-coach-tyler-roehl-223000347.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "packers-injury-report-lb-designated-to-return-from-ir",
+    "title": "Packers Injury Report: LB designated to return from IR",
+    "description": "It looks like the Green Bay Packers want LB Nick Niemann back on the team for the postseason.",
+    "pubDate": "2025-12-31",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/packers-injury-report-lb-designated-222924769.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "trade-rumors-nets-39-michael-porter-jr-added-to-list-of-potential-targets-for-bucks",
+    "title": "Trade rumors: Nets&#39; Michael Porter Jr. added to list of potential targets for Bucks",
+    "description": "The Brooklyn Nets' Michael Porter Jr. has been added to the list of players that the Milwaukee Bucks could trade for to build around Giannis Antetokounmpo.",
+    "pubDate": "2025-12-31",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/trade-rumors-nets-michael-porter-222923795.html",
     "source": "Google News"
   },
   {
@@ -774,12 +999,30 @@
     "source": "Google News"
   },
   {
+    "slug": "who-is-rueben-bain-jr-what-to-know-of-miami-star-dl-ahead-of-cotton-bowl",
+    "title": "Who is Rueben Bain Jr.? What to know of Miami star DL ahead of Cotton Bowl",
+    "description": "Who is Rueben Bain Jr.? Here's what to know of Miami's star defensive lineman ahead of Cotton Bowl vs Ohio State in CFP quarterfinal.",
+    "pubDate": "2025-12-31",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/rueben-bain-jr-know-miami-222907369.html",
+    "source": "Google News"
+  },
+  {
     "slug": "j-j-mccarthy-has-limited-practice-on-wednesday",
     "title": "J.J. McCarthy has limited practice on Wednesday",
     "description": "Vikings quarterback J.J.",
     "pubDate": "2025-12-31",
     "image": "",
     "link": "https://sports.yahoo.com/articles/j-j-mccarthy-limited-practice-222903854.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "patriots-coach-speaks-out-for-first-time-since-stefon-diggs-christian-barmore-each-accused-of-assault",
+    "title": "Patriots Coach Speaks Out for First Time Since Stefon Diggs, Christian Barmore Each Accused of Assault",
+    "description": "\"Every day there are distractions, some smaller than others,\" Mike Vrabel told reporters on Wednesday, Dec. 31",
+    "pubDate": "2025-12-31",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/patriots-coach-speaks-first-time-222620616.html",
     "source": "Google News"
   },
   {
@@ -810,6 +1053,15 @@
     "source": "Google News"
   },
   {
+    "slug": "texas-vs-michigan-live-score-updates-highlights-from-citrus-bowl",
+    "title": "Texas vs. Michigan: live score, updates, highlights from Citrus Bowl",
+    "description": "The Wolverines and Longhorns meet in Orlando to close out 2025.",
+    "pubDate": "2025-12-31",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/texas-vs-michigan-live-score-194039964.html",
+    "source": "Google News"
+  },
+  {
     "slug": "set-to-go-two-weeks-of-tennis-mania-down-under-ahead-of-the-australian-open",
     "title": "Set to go: Two weeks of tennis mania Down Under ahead of the Australian Open",
     "description": "If it's a new year, it must be serious tennis time Down Under.  Just over six weeks since the ATP and WTA held their respective 2025 Finals, players on the men's and women's tours are arriving in Australia and New Zealand for a crammed two-week schedule of tournaments ahead of the Australian Open, t",
@@ -817,24 +1069,6 @@
     "image": "",
     "link": "https://sports.yahoo.com/articles/set-two-weeks-tennis-mania-222307193.html",
     "source": "DENNIS PASSA"
-  },
-  {
-    "slug": "mbeumo-replaced-at-half-time-as-cameroon-finish-second",
-    "title": "Mbeumo replaced at half-time as Cameroon finish second",
-    "description": "Bryan Mbeumo is replaced at half-time as Cameroon beat Mozambique 2-1 but finish second in Group F at the 2025 Africa Cup of Nations.",
-    "pubDate": "2025-12-31",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/mbeumo-replaced-half-time-cameroon-213247784.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "no-13-texas-vs-no-18-michigan-live-updates-wolverines-kick-fg-for-20-17-lead",
-    "title": "No. 13 Texas vs. No. 18 Michigan live updates: Wolverines kick FG for 20-17 lead",
-    "description": "The Horns face the Wolverines for the third time.",
-    "pubDate": "2025-12-31",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/no-13-texas-vs-no-203020707.html",
-    "source": "Google News"
   },
   {
     "slug": "freshman-offensive-lineman-entering-transfer-portal-leaving-msu",
@@ -936,6 +1170,15 @@
     "source": "Google News"
   },
   {
+    "slug": "fans-media-react-to-canada-39-s-olympic-men-39-s-roster-39-not-taking-bedard-is-an-absolute-joke-39",
+    "title": "Fans, Media React To Canada&#39;s Olympic Men&#39;s Roster: &#39;Not Taking Bedard Is An Absolute Joke&#39;",
+    "description": "Hockey pundits and fans had lots to say about Canada's men's national team for the 2026 Olympics. Many questioned the decisions, but some are very impressed with the roster.",
+    "pubDate": "2025-12-31",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/fans-media-react-canadas-olympic-221803399.html",
+    "source": "Google News"
+  },
+  {
     "slug": "cmll-caps-string-of-sellout-shows-with-historic-achievement",
     "title": "CMLL Caps String Of Sellout Shows With Historic Achievement",
     "description": "Lucha promotion CMLL caps off arguably the greatest year in their 90+ year history with a string of sellout shows, marking several historic achievements",
@@ -954,8 +1197,8 @@
     "source": "Google News"
   },
   {
-    "slug": "sizing-up-where-byu-fits-into-the-big-12-race-ahead-of-conference-openers",
-    "title": "Sizing up where BYU fits into the Big 12 race ahead of conference openers",
+    "slug": "sizing-up-where-byu-utah-fit-into-the-big-12-race-ahead-of-conference-openers",
+    "title": "Sizing up where BYU, Utah fit into the Big 12 race ahead of conference openers",
     "description": "Conference play in the Big 12 basketball race begins this weekend, with No. 10 BYU at Kansas State and rebuilding Utah hosting No. 1 Arizona in Salt Lake City.",
     "pubDate": "2025-12-31",
     "image": "",
@@ -969,240 +1212,6 @@
     "pubDate": "2025-12-31",
     "image": "",
     "link": "https://sports.yahoo.com/articles/dante-moore-elite-texas-tech-221721109.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "texas-vs-michigan-live-score-updates-highlights-from-citrus-bowl",
-    "title": "Texas vs. Michigan: live score, updates, highlights from Citrus Bowl",
-    "description": "The Wolverines and Longhorns meet in Orlando to close out 2025.",
-    "pubDate": "2025-12-31",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/texas-vs-michigan-live-score-194039964.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "going-into-finale-caleb-williams-approaches-bears-39-single-season-passing-record-4-000-yard-mark",
-    "title": "Going into finale, Caleb Williams approaches Bears&#39; single-season passing record, 4,000-yard mark",
-    "description": "Caleb Williams had all sorts of questions for the Chicago Bears before they drafted him with the No. 1 pick before last season.  For one, he wanted to know why the founding NFL franchise has never had a 4,000-yard passer.  “I don’t exactly remember what they told me or what the answer was, but a lot",
-    "pubDate": "2025-12-31",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/going-finale-caleb-williams-approaches-221605030.html",
-    "source": "ANDREW SELIGMAN"
-  },
-  {
-    "slug": "bears-power-rankings-roundup-where-chicago-lands-in-week-18",
-    "title": "Bears power rankings roundup: Where Chicago lands in Week 18",
-    "description": "The Bears are gearing up for their Week 18 regular-season finale before the playoffs. Here's where they stand amid various power rankings.",
-    "pubDate": "2025-12-31",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/bears-power-rankings-roundup-where-221518325.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "kylian-mbappe-appoints-former-manchester-city-defender-as-head-coach-of-french-club",
-    "title": "Kylian Mbappe appoints former Manchester City defender as head coach of French club",
-    "description": "Former Manchester City and France international Gael Clichy has been appointed as the new head coach of a third-tier side in his home country.The appointment comes at a pivotal time for the club, oper...",
-    "pubDate": "2025-12-31",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/kylian-mbappe-appoints-former-manchester-221500776.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "eagles-rest-candidates-for-sunday-vs-commanders",
-    "title": "Eagles rest candidates for Sunday vs Commanders",
-    "description": "The Philadelphia Eagles are expected to rest a bunch of key players on Sunday afternoon against the Washington Commanders.",
-    "pubDate": "2025-12-31",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/eagles-rest-candidates-sunday-vs-221329081.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "arkansas-dl-charlie-collins-plans-to-enter-ncaa-transfer-portal",
-    "title": "Arkansas DL Charlie Collins plans to enter NCAA Transfer Portal",
-    "description": "Arkansas sophomore DL Charlie Collins plans to enter NCAA Transfer Portal, On3’s Hayes Fawcett reports. In two seasons at Arkansas, Collins recorded 11 tackles, one TFL, and one PBU. The Razorbacks went just 9-16 over that span however, and head coach Sam Pittman was fired four games into the 2025 s",
-    "pubDate": "2025-12-31",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/arkansas-dl-charlie-collins-plans-221320661.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "colorado-backup-quarterback-to-enter-ncaa-transfer-portal",
-    "title": "Colorado backup quarterback to enter NCAA transfer portal",
-    "description": "Colorado backup quarterback Ryan Staub is set to enter the NCAA transfer portal when it opens on Friday.",
-    "pubDate": "2025-12-31",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/colorado-backup-quarterback-enter-ncaa-221319248.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "2025-afcon-round-of-16-full-fixtures-for-ivory-coast-cameroon-senegal-nigeria-morocco-egypt",
-    "title": "2025 AFCON Round of 16: Full fixtures for Ivory Coast, Cameroon, Senegal, Nigeria, Morocco, Egypt",
-    "description": "The 2025 Africa Cup of Nations round of 16 clashes have now been confirmed, following the completion of the group stage on Wednesday evening.Matches will be played between January 3 and January 6, acr...",
-    "pubDate": "2025-12-31",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/2025-afcon-round-16-full-221300588.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "new-study-reveals-paul-skenes-insane-record-with-normal-run-support",
-    "title": "New Study Reveals Paul Skenes’ Insane Record With Normal Run Support",
-    "description": "Since debuting in May 2024, Paul Skenes has been arguably the best pitcher in baseball. Unfortunately for him, the Pittsburgh Pirates’ lineup hasn’t held up its end of the bargain. The Pirates have struggled offensively during Skenes’ first two seasons, ranking 24th in scoring in 2024 and 30th last",
-    "pubDate": "2025-12-31",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/study-reveals-paul-skenes-insane-221237898.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "packers-make-7-more-roster-moves-on-wednesday",
-    "title": "Packers make 7 more roster moves on Wednesday",
-    "description": "On Tuesday, the Packers made 7 roster moves. On Wednesday, the Packers made 7 more roster moves.",
-    "pubDate": "2025-12-31",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/packers-7-more-roster-moves-221208494.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "clemson-basketball-squeaks-by-syracuse",
-    "title": "Clemson Basketball squeaks by Syracuse",
-    "description": "Tigers outlast the Orange to open ACC play with a victory.",
-    "pubDate": "2025-12-31",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/clemson-basketball-squeaks-syracuse-221122727.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "rashod-bateman-kyle-van-noy-sit-out-ravens-39-practice",
-    "title": "Rashod Bateman, Kyle Van Noy sit out Ravens&#39; practice",
-    "description": "Ravens quarterback Lamar Jackson did indeed fully participate in Wednesday's practice.",
-    "pubDate": "2025-12-31",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/rashod-bateman-kyle-van-noy-221121133.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "incredible-liverpool-target-confirms-move-will-happen",
-    "title": "Incredible Liverpool target CONFIRMS move will happen",
-    "description": "One of Liverpool's transfer targets has confirmed that a move will happen. The Reds have their golden opportunity.Liverpool are about to jump into another transfer window, with things kicking off on J...",
-    "pubDate": "2025-12-31",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/incredible-liverpool-target-confirms-move-221000579.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "san-jose-sharks-young-star-macklin-celebrini-named-to-team-canada",
-    "title": "San Jose Sharks young star Macklin Celebrini named to Team Canada",
-    "description": "San Jose Sharks' Macklin Celebrini was among 25 players named to Team Canada for Olympic Winter Games Milano Cortina in Feb. 2026. Who else made it?",
-    "pubDate": "2025-12-31",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/san-jose-sharks-young-star-220957978.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "what-to-know-about-new-packers-cornerback-trevon-diggs",
-    "title": "What to know about new Packers cornerback Trevon Diggs",
-    "description": "The Green Bay Packers have a new high-profile cornerback in the secondary with the addition of Trevon Diggs. Here's what to know about the newcomer.",
-    "pubDate": "2025-12-31",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/know-packers-cornerback-trevon-diggs-220949951.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "florida-football-wr-dallas-wilson-re-signs-with-gators-for-2026-season",
-    "title": "Florida football WR Dallas Wilson re-signs with Gators for 2026 season",
-    "description": "Florida football wide receiver Dallas Wilson will return to the UF sideline in 2026, the freshman pass catcher announced on Thursday.",
-    "pubDate": "2025-12-31",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/florida-football-wr-dallas-wilson-220825606.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "with-issuance-of-last-minute-licenses-sports-betting-will-stay-live-in-chicago",
-    "title": "With Issuance Of Last-Minute Licenses, Sports Betting Will Stay Live In Chicago",
-    "description": "No disruption of service amid new city-specific wagering tax",
-    "pubDate": "2025-12-31",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/issuance-last-minute-licenses-sports-220747412.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "godfrey-scores-14-welling-plays-key-role-in-final-seconds-and-clemson-edges-syracuse-64-61",
-    "title": "Godfrey scores 14, Welling plays key role in final seconds and Clemson edges Syracuse 64-61",
-    "description": "RJ Godfrey scored 14 points, Carter Welling made a key free throw and steal in the final seconds, and Clemson edged Syracuse 64-61 in an ACC opener on Wednesday.  Donnie Freeman's fastbreak layup got Syracuse within 63-61 points with 43 seconds remaining in the game.  William Kyle III blocked a layu",
-    "pubDate": "2025-12-31",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/godfrey-scores-14-welling-plays-220740893.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "ravens-receive-major-update-on-lamar-jackson-39-s-status-vs-steelers",
-    "title": "Ravens Receive Major Update on Lamar Jackson&#39;s Status vs Steelers",
-    "description": "In the biggest game of the year, the Baltimore Ravens got some huge news on the status of their superstar QB Lamar Jackson.",
-    "pubDate": "2025-12-31",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/ravens-receive-major-lamar-jacksons-220735366.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "hornets-39-kon-knueppel-reacts-to-39-weird-feeling-39-of-missing-first-game",
-    "title": "Hornets&#39; Kon Knueppel reacts to &#39;weird feeling&#39; of missing first game",
-    "description": "Hornets rookie Kon Knueppel returned from a one-game absence on Wednesday, and picked up right where he left off before sustaining an ankle injury.",
-    "pubDate": "2025-12-31",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/hornets-kon-knueppel-reacts-weird-220656807.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "college-football-games-on-tv-today-full-schedule-times-channels-live-streams-to-watch-new-year-39-s-eve-games",
-    "title": "College football games on TV today: Full schedule, times, channels, live streams to watch New Year&#39;s Eve games",
-    "description": "Here is everything you need to know about watching college football games on New Year's Eve and New Year's Day, including TV and streaming options for the most exciting matchups.",
-    "pubDate": "2025-12-31",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/college-football-games-tv-today-051002640.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "antoinette-padilla-mother-of-heisman-runner-up-diego-pavia-in-photos",
-    "title": "Antoinette Padilla, mother of Heisman runner-up Diego Pavia, in photos",
-    "description": "Antoinette Padilla became a story when she cheered on son Diego Pavia, the quarterback at Vanderbilt.",
-    "pubDate": "2025-12-31",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/antoinette-padilla-mother-heisman-runner-220534151.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "social-media-reacts-clemson-basketball-wins-at-syracuse-in-acc-opener",
-    "title": "Social media reacts: Clemson basketball wins at Syracuse in ACC opener",
-    "description": "Brad Brownell's Clemson Tigers survived a late Syracuse push to take down the Orange, 64-61, in their ACC opener. Here's how social media reacted.",
-    "pubDate": "2025-12-31",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/social-media-reacts-clemson-basketball-220507536.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "what-time-is-the-cotton-bowl-today-tv-channel-schedule-live-stream-to-watch-ohio-state-vs-miami-in-cfp",
-    "title": "What time is the Cotton Bowl today? TV channel, schedule, live stream to watch Ohio State vs. Miami in CFP",
-    "description": "Here is everything you need to know about Ohio State vs. Miami, including TV and streaming options for the Cotton Bowl.",
-    "pubDate": "2025-12-31",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/time-cotton-bowl-today-tv-053002938.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "tottenham-hotspur-are-eyeing-a-move-for-this-manchester-city-forward-good-fit-for-frank",
-    "title": "Tottenham Hotspur Are Eyeing A Move For This Manchester City Forward: Good Fit For Frank?",
-    "description": "In a recent interview, former scout Mick Brown claimed that Tottenham Hotspur are eyeing a move for Manchester City forward Omar Marmoush. Brown said,“Tottenham have been looking at Marmoush.“It��...",
-    "pubDate": "2025-12-31",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/tottenham-hotspur-eyeing-move-manchester-220500541.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "florida-football-rb-treyaun-webb-enters-transfer-portal",
-    "title": "Florida football RB Treyaun Webb enters transfer portal",
-    "description": "Redshirt sophomore running back Treyaun Webb will enter the transfer portal after two injury-plagued seasons at Florida.",
-    "pubDate": "2025-12-31",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/florida-football-rb-treyaun-webb-220429737.html",
     "source": "Google News"
   },
   {
