@@ -1,23 +1,5 @@
 [
   {
-    "slug": "our-guide-to-every-week-18-nfl-game-matchup-previews-predictions-and-what-s-at-stake",
-    "title": "Our guide to every Week 18 NFL game: Matchup previews, predictions and what's at stake",
-    "description": "Must-win AFC North and NFC South showdowns. No. 1 seeds on the line. We have picks, stats and more for every game.",
-    "pubDate": "2026-01-02",
-    "image": "",
-    "link": "https://www.espn.com/nfl/story/_/page/viewersguide47473045/nfl-week-18-picks-predictions-schedule-fantasy-football-odds-injuries-stats-2025",
-    "source": "NFL Nation and Seth Walder"
-  },
-  {
-    "slug": "game-plans-for-10-teams-that-need-week-18-wins",
-    "title": "Game plans for 10 teams that need Week 18 wins",
-    "description": "Ten teams are trying to secure spots, division titles or top seeds, and we found one thing each of them must do.",
-    "pubDate": "2026-01-02",
-    "image": "",
-    "link": "https://www.espn.com/nfl/story/_/id/47473320/2025-nfl-playoffs-contending-teams-keys-victory-win-clinch-week-18-games",
-    "source": "Matt Bowen"
-  },
-  {
     "slug": "steelers-watt-feels-no-limitations-set-for-return",
     "title": "Steelers' Watt feels 'no limitations,' set for return",
     "description": "T.J. Watt said he is looking forward to his return from a punctured lung and that he hasn't discussing playing on a snap count against the Ravens.",
@@ -99,6 +81,24 @@
     "source": "Kalan Hooks"
   },
   {
+    "slug": "our-guide-to-every-week-18-nfl-game-matchup-previews-predictions-and-what-s-at-stake",
+    "title": "Our guide to every Week 18 NFL game: Matchup previews, predictions and what's at stake",
+    "description": "Must-win AFC North and NFC South showdowns. No. 1 seeds on the line. We have picks, stats and more for every game.",
+    "pubDate": "2026-01-02",
+    "image": "",
+    "link": "https://www.espn.com/nfl/story/_/page/viewersguide47473045/nfl-week-18-picks-predictions-schedule-fantasy-football-odds-injuries-stats-2025",
+    "source": "NFL Nation and Seth Walder"
+  },
+  {
+    "slug": "game-plans-for-10-teams-that-need-week-18-wins",
+    "title": "Game plans for 10 teams that need Week 18 wins",
+    "description": "Ten teams are trying to secure spots, division titles or top seeds, and we found one thing each of them must do.",
+    "pubDate": "2026-01-02",
+    "image": "",
+    "link": "https://www.espn.com/nfl/story/_/id/47473320/2025-nfl-playoffs-contending-teams-keys-victory-win-clinch-week-18-games",
+    "source": "Matt Bowen"
+  },
+  {
     "slug": "college-football-transfer-portal-tracking-who-s-on-the-move",
     "title": "College football transfer portal: Tracking who's on the move",
     "description": "The transfer portal opened on Jan. 2. We're keeping tabs on players who enter.",
@@ -108,15 +108,6 @@
     "source": "ESPN Staff"
   },
   {
-    "slug": "stories-of-bills-highmark-stadium-tunnel-ahead-of-final-game-ours-is-dumb",
-    "title": "Stories of Bills' Highmark Stadium tunnel ahead of final game: 'Ours is dumb'",
-    "description": "The Bills' old tunnel will forever be a hallmark to those who experienced it -- and those players told us their stories.",
-    "pubDate": "2026-01-02",
-    "image": "",
-    "link": "https://www.espn.com/nfl/story/_/id/47472405/highmark-stadium-single-tunnel-buffalo-bills-gone",
-    "source": "Alaina Getzenberg"
-  },
-  {
     "slug": "nba-insiders-predict-2026-why-lebron-trade-sagas-expansion-news-could-rock-the-league",
     "title": "NBA insiders predict 2026: Why LeBron, trade sagas, expansion news could rock the league",
     "description": "Tim Bontemps and Brian Windhorst survey the league on the stars, sagas and storylines that will dominate 2026.",
@@ -124,6 +115,15 @@
     "image": "",
     "link": "https://www.espn.com/nba/story/_/id/47476203/nba-intel-lebron-trade-season-thunder-wemby-expansion-top-2026-storylines",
     "source": "Tim Bontemps and Brian Windhorst"
+  },
+  {
+    "slug": "stories-of-bills-highmark-stadium-tunnel-ahead-of-final-game-ours-is-dumb",
+    "title": "Stories of Bills' Highmark Stadium tunnel ahead of final game: 'Ours is dumb'",
+    "description": "The Bills' old tunnel will forever be a hallmark to those who experienced it -- and those players told us their stories.",
+    "pubDate": "2026-01-02",
+    "image": "",
+    "link": "https://www.espn.com/nfl/story/_/id/47472405/highmark-stadium-single-tunnel-buffalo-bills-gone",
+    "source": "Alaina Getzenberg"
   },
   {
     "slug": "cfp-quarterfinal-takeaways-ole-miss-wild-upset-indiana-s-dominance-and-more",
@@ -344,7 +344,7 @@
   {
     "slug": "risers-and-fallers-kawhi-leonard-dominates-the-box-score-paul-george-struggles",
     "title": "Risers and fallers: Kawhi Leonard dominates the box score, Paul George struggles",
-    "description": "Steve Alexander highlights fantasy basketball names trending upwards or downwards, with key takeaways for each.",
+    "description": "Steve Alexander highlights fantasy basketball names trending upward or downward, with key takeaways for each.",
     "pubDate": "2026-01-02",
     "image": "",
     "link": "https://www.espn.com/fantasy/basketball/story/_/id/47482043/espn-fantasy-basketball-nba-risers-fallers-rankings-trade-away",
