@@ -1,14 +1,5 @@
 [
   {
-    "slug": "qb-reed-says-he-ll-return-to-texas-a-m-for-26",
-    "title": "QB Reed says he'll return to Texas A&M for '26",
-    "description": "Marcel Reed announced Friday that he will return to Texas A&M for the 2026 season after leading the Aggies to their first CFP appearance.",
-    "pubDate": "2026-01-03",
-    "image": "",
-    "link": "https://www.espn.com/college-football/story/_/id/47486561/marcel-reed-announces-return-texas-2026",
-    "source": "Adam Rittenberg"
-  },
-  {
     "slug": "sources-ole-miss-qb-simmons-plans-portal-entry",
     "title": "Sources: Ole Miss QB Simmons plans portal entry",
     "description": "Former Ole Miss starting quarterback Austin Simmons is expected to enter the transfer portal, sources told ESPN. He is likely headed to Missouri, sources told ESPN's Pete Thamel.",
@@ -18,6 +9,15 @@
     "source": "Mark Schlabach"
   },
   {
+    "slug": "rangers-stay-perfect-outdoors-win-at-marlins-park",
+    "title": "Rangers stay perfect outdoors, win at Marlins' park",
+    "description": "Mika Zibanejad had a hat trick, Artemi Panarin scored twice and the Rangers beat the Panthers 5-1 on Friday night in the Winter Classic -- the first outdoor game played in Florida.",
+    "pubDate": "2026-01-03",
+    "image": "",
+    "link": "https://www.espn.com/nhl/story/_/id/47487746/new-york-rangers-beat-florida-panthers-nhl-first-outdoor-game-florida",
+    "source": "www.espn.com - TOP"
+  },
+  {
     "slug": "finland-stuns-u-s-in-world-junior-hockey-quarters",
     "title": "Finland stuns U.S. in world junior hockey quarters",
     "description": "Finland stunned the two-time defending champion United States 4-3 on Friday night in the world junior hockey quarterfinals.",
@@ -25,6 +25,24 @@
     "image": "",
     "link": "https://www.espn.com/olympics/story/_/id/47486479/finland-stuns-us-world-junior-hockey-quarterfinals",
     "source": "www.espn.com - TOP"
+  },
+  {
+    "slug": "nebraska-stays-undefeated-with-upset-over-msu",
+    "title": "Nebraska stays undefeated with upset over MSU",
+    "description": "Rienk Mast hit the tiebreaking 3-pointer with 1:51 left and finished with 19 points to lead No. 13 Nebraska to a 58-56 victory over No. 9 Michigan State.",
+    "pubDate": "2026-01-03",
+    "image": "",
+    "link": "https://www.espn.com/mens-college-basketball/story/_/id/47487815/no-13-nebraska-downs-no-9-michigan-st-18th-straight-win",
+    "source": "www.espn.com - TOP"
+  },
+  {
+    "slug": "qb-reed-says-he-ll-return-to-texas-a-m-for-26",
+    "title": "QB Reed says he'll return to Texas A&M for '26",
+    "description": "Marcel Reed announced Friday that he will return to Texas A&M for the 2026 season after leading the Aggies to their first CFP appearance.",
+    "pubDate": "2026-01-03",
+    "image": "",
+    "link": "https://www.espn.com/college-football/story/_/id/47486561/marcel-reed-announces-return-texas-2026",
+    "source": "Adam Rittenberg"
   },
   {
     "slug": "sources-sorsby-top-portal-qb-to-visit-ttu-lsu",
@@ -54,24 +72,6 @@
     "source": "Mike Reiss"
   },
   {
-    "slug": "source-jags-extend-van-lanen-for-3-years-51m",
-    "title": "Source: Jags extend Van Lanen for 3 years, $51M",
-    "description": "The Jaguars and offensive lineman Cole Van Lanen agreed on a three-year, $51 million extension, a source told ESPN's Adam Schefter. The deal includes $32.5 million guaranteed and could be worth up to $55.5 million with incentives.",
-    "pubDate": "2026-01-03",
-    "image": "",
-    "link": "https://www.espn.com/nfl/story/_/id/47487071/jaguars-cole-van-lanen-reach-3-year-contract-extension",
-    "source": "Michael Dirocco"
-  },
-  {
-    "slug": "mcvay-to-play-l-a-starters-regardless-of-seeding",
-    "title": "McVay to play L.A. starters regardless of seeding",
-    "description": "Even if the Rams are locked into their seed on Sunday, coach Sean McVay plans to play his healthy starters against the Cardinals.",
-    "pubDate": "2026-01-03",
-    "image": "",
-    "link": "https://www.espn.com/nfl/story/_/id/47484065/rams-starters-play-regardless-seeding-sean-mcvay-says",
-    "source": "Sarah Barshop"
-  },
-  {
     "slug": "jordan-love-ronika-stone-expecting-1st-child",
     "title": "🍼 Jordan Love, Ronika Stone expecting 1st child",
     "description": "The Green Bay Packers quarterback and pro volleyball player announced her pregnancy on New Year's day.",
@@ -90,9 +90,9 @@
     "source": "ESPN Staff"
   },
   {
-    "slug": "an-advanced-analytics-look-at-panthers-bucs-seahawks-49ers-ravens-steelers",
-    "title": "An advanced analytics look at Panthers-Bucs, Seahawks-49ers, Ravens-Steelers",
-    "description": "Baker Mayfield, the Seahawks' pressure and Zay Flowers' success vs. man coverage are key storylines.",
+    "slug": "an-advanced-analytics-look-at-panthers-bucs-seahawks-49ers-more",
+    "title": "An advanced analytics look at Panthers-Bucs, Seahawks-49ers, more",
+    "description": "Next Gen Stats looks at Baker Mayfield holding the ball too long, the Seahawks' pressure, and Zay Flowers' success vs. man.",
     "pubDate": "2026-01-03",
     "image": "",
     "link": "https://www.espn.com/nfl/story/_/id/47474662/panthers-bucs-seahawks-49ers-ravens-steelers-per-key-metrics",
@@ -144,384 +144,6 @@
     "source": "Matt Bowen"
   },
   {
-    "slug": "how-to-watch-no-10-byu-basketball-at-kansas-state",
-    "title": "How to watch no. 10 BYU Basketball at Kansas State",
-    "description": "It’s time for conference play for the BYU Basketball team. The Cougars will kick it off on the road Saturday morning at Kansas State. BYU enters Big 12 play with a 12-1 record. The squad last played on Dec. 22 at the Marriott Center against the Eastern Washington Eagles. BYU won by a final score […]",
-    "pubDate": "2026-01-03",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/watch-no-10-byu-basketball-042700096.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "chicago-bears-fan-excitement-helping-local-businesses-as-team-prepares-for-regular-season-finale",
-    "title": "Chicago Bears fan excitement helping local businesses as team prepares for regular season finale",
-    "description": "Though Caleb Williams and the Chicago Bears fell out of the running for the No. 1 seed in the NFC last week, they still have plenty on the line before the playoffs begin, and fan excitement is at an all-time high.",
-    "pubDate": "2026-01-03",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/chicago-bears-fan-excitement-helping-032158771.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "three-takeaways-from-michigan-state-basketball-39-s-loss-to-nebraska",
-    "title": "Three takeaways from Michigan State basketball&#39;s loss to Nebraska",
-    "description": "Three takeaways from Michigan State basketball's loss to Nebraska",
-    "pubDate": "2026-01-03",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/three-takeaways-michigan-state-basketballs-042303685.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "turnovers-tank-michigan-state-basketball-in-epic-battle-with-nebraska",
-    "title": "Turnovers tank Michigan State basketball in epic battle with Nebraska",
-    "description": "Michigan State basketball: Carson Cooper missed two free throws in the final second to cap a turnover-filled second half for the Spartans.",
-    "pubDate": "2026-01-03",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/turnovers-tank-michigan-state-basketball-042250564.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "michigan-state-falls-to-nebraska-58-56",
-    "title": "Michigan State Falls To Nebraska, 58-56",
-    "description": "Spartans struggle to hold onto the ball, let late lead slip away",
-    "pubDate": "2026-01-03",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/michigan-state-falls-nebraska-58-042247004.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "saints-39-planned-paris-game-may-not-happen-in-2026",
-    "title": "Saints&#39; planned Paris game may not happen in 2026",
-    "description": "The Saints will eventually play a regular-season home game in Paris.",
-    "pubDate": "2026-01-03",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/saints-planned-paris-game-may-042237534.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "sloppy-spartans-lose-tight-game-in-final-seconds-at-nebraska",
-    "title": "Sloppy Spartans lose tight game in final seconds at Nebraska",
-    "description": "Michigan State basketball takes tough loss after sloppy performance at Nebraska",
-    "pubDate": "2026-01-03",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/sloppy-spartans-lose-tight-game-042228964.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "13-stats-to-explain-cavs-112-108-nuggets",
-    "title": "13 stats to explain Cavs 112-108 Nuggets",
-    "description": "Cleveland’s defense helped them erase a nine-point fourth-quarter deficit.",
-    "pubDate": "2026-01-03",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/13-stats-explain-cavs-112-042144781.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "watch-giannis-antetokounmpo-throw-down-game-winning-alley-oop-bucks-top-hornets-122-121",
-    "title": "Watch Giannis Antetokounmpo throw down game-winning alley-oop, Bucks top Hornets 122-121",
-    "description": "Antetokounmpo scored 30 points with 10 rebounds and helps the Bucks avoid a second embarrassing loss in a row.",
-    "pubDate": "2026-01-03",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/watch-giannis-antetokounmpo-throw-down-042050164.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "morez-johnson-jr-scores-career-high-29-points-in-no-2-michigan-s-96-66-win-over-no-24-usc",
-    "title": "Morez Johnson Jr. scores career-high 29 points in No. 2 Michigan’s 96-66 win over No. 24 USC",
-    "description": "Morez Johnson Jr. scored a career-high 29 points, including 17 in the first half, and No. 2 Michigan beat No. 24 Southern California 96-66 on Friday night.",
-    "pubDate": "2026-01-03",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/morez-johnson-jr-scores-career-042035876.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "most-nfl-fans-beleive-the-chicago-bears-will-win-the-nfc-s-2-seed",
-    "title": "Most NFL fans beleive the Chicago Bears will win the NFC’s 2 seed",
-    "description": "We have your results to this week’s Bears and NFL survey questions.",
-    "pubDate": "2026-01-03",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/most-nfl-fans-beleive-chicago-041953651.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "nik-bonitto-receives-two-team-awards-from-pfwa-39-s-denver-chapter",
-    "title": "Nik Bonitto receives two team awards from PFWA&#39;s Denver chapter",
-    "description": "Nik Bonitto has been an undeniable force for the Broncos in 2025.",
-    "pubDate": "2026-01-03",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/nik-bonitto-receives-two-team-041622812.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "virginia-tech-football-a-big-return-for-2026",
-    "title": "Virginia Tech football: A big return for 2026",
-    "description": "Hokies are keeping a big-time defensive starter.",
-    "pubDate": "2026-01-03",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/virginia-tech-football-big-return-041252801.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "celtics-star-jaylen-brown-reacts-to-player-of-the-month-snub",
-    "title": "Celtics star Jaylen Brown reacts to Player of the Month snub",
-    "description": "Boston Celtics star Jaylen Brown made it clear that he didn't agree with the NBA naming Jalen Brunson the Eastern Conference Player of the Month.",
-    "pubDate": "2026-01-03",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/celtics-star-jaylen-brown-reacts-041037541.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "mika-zibanejad-39-s-hat-trick-five-point-night-helps-rangers-beat-panthers-in-nhl-winter-classic",
-    "title": "Mika Zibanejad&#39;s hat trick, five-point night helps Rangers beat Panthers in NHL Winter Classic",
-    "description": "The Rangers' stars led the way, as they defeated the Florida Panthers in the 2026 NHL Winter Classic on Friday night at loanDepot Park in Miami.",
-    "pubDate": "2026-01-03",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/mika-zibanejads-hat-trick-five-041001944.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "chiefs-39-2-time-super-bowl-champion-posts-his-goodbye-to-kansas-city-on-instagram",
-    "title": "Chiefs&#39; 2-time Super Bowl champion posts his goodbye to Kansas City on Instagram",
-    "description": "This sure feels a lot like leaving.",
-    "pubDate": "2026-01-03",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/chiefs-2-time-super-bowl-040805784.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "panthers-struggle-to-solve-shesterkin-rangers-in-winter-classic-defeat",
-    "title": "Panthers struggle to solve Shesterkin, Rangers in Winter Classic defeat",
-    "description": "Rangers dominate Winter Classic in Miami as Shesterkin stifles Panthers while Zibanejad nets a hat trick in a resounding victory.",
-    "pubDate": "2026-01-03",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/panthers-struggle-solve-shesterkin-rangers-040643881.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "iowa-state-basketball-39-s-joshua-jefferson-posts-triple-double",
-    "title": "Iowa State basketball&#39;s Joshua Jefferson posts triple-double",
-    "description": "Iowa State basketball player Joshua Jefferson posted a triple-double in the Cyclones' game against West Virginia on Friday night.",
-    "pubDate": "2026-01-03",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/iowa-state-basketballs-joshua-jefferson-040434155.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "why-navy-39-s-autozone-liberty-bowl-win-was-extra-special-for-qb-blake-horvath",
-    "title": "Why Navy&#39;s AutoZone Liberty Bowl win was extra special for QB Blake Horvath",
-    "description": "QB Blake Horvath had one of his lowest sports moments in Memphis. He capped his Navy career with a much better one in the AutoZone Liberty Bowl.",
-    "pubDate": "2026-01-03",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/why-navys-autozone-liberty-bowl-040355240.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "panthers-could-be-first-team-since-merger-to-make-playoffs-with-no-wins-as-favorites",
-    "title": "Panthers could be first team since merger to make playoffs with no wins as favorites",
-    "description": "The Panthers can make the playoffs in 2025, either by beating the Buccaneers on Saturday or by watching the Falcons beat the Saints on Sunday.",
-    "pubDate": "2026-01-03",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/panthers-could-first-team-since-040338972.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "freshman-ebuka-okorie-leads-stanford-to-an-80-76-win-over-no-16-louisville",
-    "title": "Freshman Ebuka Okorie leads Stanford to an 80-76 win over No. 16 Louisville",
-    "description": "Freshman Ebuka Okorie scored 28 points, Benny Gealer made a crucial pair of free throws with 8.2 seconds left, and Stanford beat No. 16 Louisville 80-76 on Friday.  Okorie shot 9 of 18 and went 8 of 10 on free throws in 38 minutes to pace Stanford (12-3, 1-1 Atlantic Coast Conference) to its first w",
-    "pubDate": "2026-01-03",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/freshman-ebuka-okorie-leads-stanford-040228443.html",
-    "source": "MICHAEL WAGAMAN"
-  },
-  {
-    "slug": "prep-basketball-roundup-santa-margarita-prepares-for-showdown-against-st-john-bosco",
-    "title": "Prep basketball roundup: Santa Margarita prepares for showdown against St. John Bosco",
-    "description": "Santa Margarita looks sharp in a win over defending state champion Eastvale Roosevelt ahead of Trinity League battle with St. John Bosco on Jan. 9.",
-    "pubDate": "2026-01-03",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/prep-basketball-roundup-santa-margarita-040218706.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "today-in-white-sox-history-january-2",
-    "title": "Today in White Sox History: January 2",
-    "description": "A swap of backstops goes horribly wrong for the South Siders",
-    "pubDate": "2026-01-03",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/today-white-sox-history-january-040218406.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "purple-row-after-dark-let-s-talk-about-logos",
-    "title": "Purple Row After Dark: Let’s talk about logos",
-    "description": "Is it time for the Rockies to make a change?",
-    "pubDate": "2026-01-03",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/purple-row-dark-let-talk-040000878.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "espanyol-vs-barcelona-la-liga-preview",
-    "title": "Espanyol vs Barcelona, La Liga: Preview",
-    "description": "Barça kick off the new year with a monster local derby",
-    "pubDate": "2026-01-03",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/espanyol-vs-barcelona-la-liga-040000573.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "football-tcu-db-jamel-johnson-announces-return-for-2026",
-    "title": "Football: TCU DB Jamel Johnson announces return for 2026",
-    "description": "All-Big 12 Safety to remain with Horned Frogs for senior season",
-    "pubDate": "2026-01-03",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/football-db-jamel-johnson-announces-035922670.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "panthers-39-seth-jones-leaves-winter-classic-after-being-hit-by-puck",
-    "title": "Panthers&#39; Seth Jones leaves Winter Classic after being hit by puck",
-    "description": "Florida Panthers defenseman Seth Jones, named a U.S. Olympian earlier in the day, leaves the Winter Classic after being hit by a puck.",
-    "pubDate": "2026-01-03",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/panthers-seth-jones-leaves-winter-035905113.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "player-grades-cavs-vs-nuggets-donovan-mitchell-propels-the-offense-again",
-    "title": "Player Grades: Cavs vs Nuggets – Donovan Mitchell propels the offense again",
-    "description": "Donovan Mitchell was special once again. What’s new?",
-    "pubDate": "2026-01-03",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/player-grades-cavs-vs-nuggets-035624263.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "sam-greene-announces-return-to-kentucky",
-    "title": "Sam Greene announces return to Kentucky",
-    "description": "Another player returning on defense.",
-    "pubDate": "2026-01-03",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/sam-greene-announces-return-kentucky-035507410.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "buzelis-scores-21-points-huerter-adds-20-as-bulls-beat-magic-121-114-for-2nd-straight-win",
-    "title": "Buzelis scores 21 points, Huerter adds 20 as Bulls beat Magic 121-114 for 2nd straight win",
-    "description": "Matas Buzelis scored 17 of his 21 points in the second half, Kevin Huerter added 20 points, and the Chicago Bulls rallied to beat the Orlando Magic 121-114 on Friday night for their second straight win.  Buzelis hit a pair of free throws with 22.8 seconds left to make 119-114, then pulled in his nin",
-    "pubDate": "2026-01-03",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/buzelis-scores-21-points-huerter-035432755.html",
-    "source": "MATT CARLSON"
-  },
-  {
-    "slug": "cowboys-39-week-18-plans-for-dak-prescott-vs-joe-milton-revealed-by-espn-39-s-todd-archer",
-    "title": "Cowboys&#39; Week 18 plans for Dak Prescott vs. Joe Milton revealed by ESPN&#39;s Todd Archer",
-    "description": "Dallas may mix it up a bit.",
-    "pubDate": "2026-01-03",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/cowboys-week-18-plans-dak-035411084.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "giannis-antetokounmpo-hits-winning-shot-in-close-win-over-hornets",
-    "title": "Giannis Antetokounmpo hits winning shot in close win over Hornets",
-    "description": "Giannis Antetokounmpo hits winning shot in close win over Hornets",
-    "pubDate": "2026-01-03",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/giannis-antetokounmpo-hits-winning-shot-035259743.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "this-is-giannis-antetokounmpo-39-s-158th-career-game-with",
-    "title": "This is Giannis Antetokounmpo&#39;s 158th career game with …",
-    "description": "This is Giannis Antetokounmpo's 158th career game with …",
-    "pubDate": "2026-01-03",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/giannis-antetokounmpos-158th-career-game-035258964.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "quot-deni-avdija-goes-off-for-34-points-and-10-assists-as-blazers-beat-new-orleans",
-    "title": "&quot;Deni Avdija goes off for 34 points and 10 assists as Blazers beat New Orleans",
-    "description": "\"Deni Avdija goes off for 34 points and 10 assists as Blazers beat New Orleans",
-    "pubDate": "2026-01-03",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/deni-avdija-goes-off-34-035257682.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "zion-williamson-tied-a-career-best-with-his-third",
-    "title": "Zion Williamson tied a career-best with his third …",
-    "description": "Zion Williamson tied a career-best with his third …",
-    "pubDate": "2026-01-03",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/zion-williamson-tied-career-best-035256698.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "jalen-suggs-right-knee-strain-will-be-re-evaluated",
-    "title": "Jalen Suggs (right knee strain) will be re-evaluated …",
-    "description": "Jalen Suggs (right knee strain) will be re-evaluated …",
-    "pubDate": "2026-01-03",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/jalen-suggs-knee-strain-evaluated-035255722.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "rory-mcilroy-says-he-would-welcome-brooks-koepka-back-to-pga-tour",
-    "title": "Rory McIlroy says he would welcome Brooks Koepka back to PGA Tour",
-    "description": "“What Brooks has done in the game of golf, it would be good for everyone to have him back\" on PGA Tour, says Rory McIlroy, once a leading critic of LIV.",
-    "pubDate": "2026-01-03",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/rory-mcilroy-says-welcome-brooks-035250000.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "antetokounmpo-39-s-dunk-in-closing-seconds-gives-bucks-122-121-win-over-hornets",
-    "title": "Antetokounmpo&#39;s dunk in closing seconds gives Bucks 122-121 win over Hornets",
-    "description": "Giannis Antetokounmpo dunked on a lob from Kevin Porter Jr. with 4.7 seconds remaining to give the Milwaukee Bucks a 122-121 victory over the Charlotte Hornets on Friday night.  Antetokounmpo had 30 points, 10 rebounds and five assists for his NBA-leading 158th game with at least 30 points, 10 rebou",
-    "pubDate": "2026-01-03",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/antetokounmpos-dunk-closing-seconds-gives-035131654.html",
-    "source": "STEVE MEGARGEE"
-  },
-  {
-    "slug": "lenny-dykstra-facing-drug-charges-following-traffic-stop-police-say",
-    "title": "Lenny Dykstra facing drug charges following traffic stop, police say",
-    "description": "Former MLB star Lenny Dykstra is facing drug charges after a traffic stop on Jan. 1, according to Pennsylvania State Police records.",
-    "pubDate": "2026-01-03",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/lenny-dykstra-facing-drug-charges-035106518.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "tennessee-football-dl-jayden-loftin-to-enter-transfer-portal",
-    "title": "Tennessee football DL Jayden Loftin to enter transfer portal",
-    "description": "Tennessee defensive lineman Jayden Loftin is entering the transfer portal. The former four-star recruit played one game during his freshman season.",
-    "pubDate": "2026-01-03",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/tennessee-football-dl-jayden-loftin-034944833.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "tennessee-football-dl-jayden-loftin-to-enter-transfer-portal",
-    "title": "Tennessee football DL Jayden Loftin to enter transfer portal",
-    "description": "Tennessee defensive lineman Jayden Loftin is entering the transfer portal. The former four-star recruit played one game during his freshman season.",
-    "pubDate": "2026-01-03",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/tennessee-football-dl-jayden-loftin-034944129.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "utep-women-crank-up-offense-open-cusa-with-win-against-delaware",
-    "title": "UTEP women crank up offense, open CUSA with win against Delaware",
-    "description": "The UTEP women use a big third quarter to open Conference USA with win against Delaware.",
-    "pubDate": "2026-01-03",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/utep-women-crank-offense-open-034801155.html",
-    "source": "Google News"
-  },
-  {
     "slug": "deni-avdija-has-34-points-and-11-assists-in-the-trail-blazers-39-122-109-win-over-the-pelicans",
     "title": "Deni Avdija has 34 points and 11 assists in the Trail Blazers&#39; 122-109 win over the Pelicans",
     "description": "",
@@ -529,15 +151,6 @@
     "image": "",
     "link": "https://sports.yahoo.com/articles/deni-avdija-34-points-11-034750554.html",
     "source": "BRETT MARTEL"
-  },
-  {
-    "slug": "wwe-39-s-drew-mcintyre-announces-three-stages-of-hell-match-stipulations-vs-cody-rhodes",
-    "title": "WWE&#39;s Drew McIntyre Announces Three Stages Of Hell Match Stipulations Vs. Cody Rhodes",
-    "description": "The Three Stages of Hell match will make its return for the first time in 12 years on \"WWE SmackDown\" in Berlin, Germany.",
-    "pubDate": "2026-01-03",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/wwes-drew-mcintyre-announces-three-034629754.html",
-    "source": "Google News"
   },
   {
     "slug": "nc-state-transfer-rb-hollywood-smothers-cancels-florida-state-visit-before-trip-to-alabama",
@@ -592,6 +205,393 @@
     "image": "",
     "link": "https://sports.yahoo.com/articles/purdue-rb-jaron-thomas-transfer-034353866.html",
     "source": "Google News"
+  },
+  {
+    "slug": "prescott-in-peril-cowboys-rule-out-both-running-backs-for-week-18",
+    "title": "Prescott in Peril? Cowboys rule out both running backs for Week 18",
+    "description": "The Cowboys may be playing with fire when it comes to protecting Prescott in a meaningless game.",
+    "pubDate": "2026-01-03",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/prescott-peril-cowboys-rule-both-034311374.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "trail-blazers-damian-lillard-breaks-silence-on-injury-recovery",
+    "title": "Trail Blazers’ Damian Lillard breaks silence on injury recovery",
+    "description": "How is Damian Lillard's injury recovery going since getting back with the Portland Trail Blazers?",
+    "pubDate": "2026-01-03",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/trail-blazers-damian-lillard-breaks-034116498.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "have-nba-fans-ruined-basketball-discourse-kevin-durant-thinks-so",
+    "title": "Have NBA fans ruined basketball discourse? Kevin Durant thinks so",
+    "description": "Kevin Durant called out NBA fans and the media on Twitter, saying that they've \"ruined basketball discourse\"",
+    "pubDate": "2026-01-03",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/nba-fans-ruined-basketball-discourse-034114488.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "giants-39-star-out-with-an-illness-but-found-time-to-sit-courtside-at-knicks-game-at-msg",
+    "title": "Giants&#39; star out with an illness but found time to sit courtside at Knicks game at MSG",
+    "description": "This isn't a great look.",
+    "pubDate": "2026-01-03",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/giants-star-illness-found-time-034101680.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "matas-buzelis-leads-bulls-comeback-win-over-orlando",
+    "title": "Matas Buzelis leads Bulls comeback win over Orlando",
+    "description": "Matas Buzelis leads Bulls comeback win over Orlando",
+    "pubDate": "2026-01-03",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/matas-buzelis-leads-bulls-comeback-033859142.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "david-adelman-really-proud-to-coach-this-team",
+    "title": "David Adelman: “Really proud to coach this team …",
+    "description": "David Adelman: “Really proud to coach this team …",
+    "pubDate": "2026-01-03",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/david-adelman-really-proud-coach-033858437.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "quot-execution-has-to-be-better-simple-as-that-quot-rick",
+    "title": "&quot;Execution has to be better. Simple as that,&quot; Rick …",
+    "description": "\"Execution has to be better. Simple as that,\" Rick …",
+    "pubDate": "2026-01-03",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/execution-better-simple-rick-033857644.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "cody-williams-is-sitting-courtside-with-his-parents-to",
+    "title": "Cody Williams is sitting courtside with his parents to …",
+    "description": "Cody Williams is sitting courtside with his parents to …",
+    "pubDate": "2026-01-03",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/cody-williams-sitting-courtside-parents-033856376.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "josh-hart-to-miss-at-least-another-week-with-ankle-injury",
+    "title": "Josh Hart to miss at least another week with ankle injury",
+    "description": "Josh Hart to miss at least another week with ankle injury",
+    "pubDate": "2026-01-03",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/josh-hart-miss-least-another-033855425.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "cincinnati-bearcats-defensive-coordinator-tyson-veidt-departs",
+    "title": "Cincinnati Bearcats defensive coordinator Tyson Veidt departs",
+    "description": "Cincinnati Bearcats defensive coordinator Tyson Veidt is leaving for Penn State after UC's Liberty Bowl loss to Navy",
+    "pubDate": "2026-01-03",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/cincinnati-bearcats-defensive-coordinator-tyson-033721301.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "cincinnati-bearcats-defensive-coordinator-tyson-veidt-departs",
+    "title": "Cincinnati Bearcats defensive coordinator Tyson Veidt departs",
+    "description": "Cincinnati Bearcats defensive coordinator Tyson Veidt is leaving for Penn State after UC's Liberty Bowl loss to Navy",
+    "pubDate": "2026-01-03",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/cincinnati-bearcats-defensive-coordinator-tyson-033721895.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "giulia-defeats-chelsea-green-regains-wwe-women-39-s-us-title-on-smackdown",
+    "title": "Giulia Defeats Chelsea Green, Regains WWE Women&#39;s US Title On SmackDown",
+    "description": "Giulia became a two-time Women's United States Champion with a victory over Chelsea Green on \"WWE SmackDown.\"",
+    "pubDate": "2026-01-03",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/giulia-defeats-chelsea-green-regains-033540212.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "surprising-transfer-portal-entries-puts-wvu-39-s-2026-foundation-in-question",
+    "title": "Surprising transfer portal entries puts WVU&#39;s 2026 foundation in question",
+    "description": "Jan. 2—MORGANTOWN — West Virginia was expected to lose players in the transfer portal. One or two quarterbacks were always going to leave, because you can only start one, and some backup players who can go to a different school and get playing time. In the past couple of weeks, the portal entries fo",
+    "pubDate": "2026-01-03",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/surprising-transfer-portal-entries-puts-033500013.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "starting-michigan-football-ol-andrew-sprague-enters-transfer-portal",
+    "title": "Starting Michigan Football OL Andrew Sprague enters transfer portal",
+    "description": "Another Michigan football starter has entered his name into the transfer portal, this time being starting right tackle Andrew Sprague.",
+    "pubDate": "2026-01-03",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/starting-michigan-football-ol-andrew-033340706.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "pop-tarts-bowl-ratings-reveal-harsh-truth-about-notre-dame-s-national-pull",
+    "title": "Pop-Tarts Bowl ratings reveal harsh truth about Notre Dame’s national pull",
+    "description": "This wasn't a good look for the Fighting Irish.",
+    "pubDate": "2026-01-03",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/pop-tarts-bowl-ratings-reveal-033335923.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "no-2-michigan-routs-no-24-usc-becomes-first-team-since-1996-97-to-beat-3-ranked-opponents-by-30-plus-points",
+    "title": "No. 2 Michigan routs No. 24 USC, becomes first team since 1996-97 to beat 3 ranked opponents by 30-plus points",
+    "description": "The Wolverines didn't even have their best stuff offensively, but they still flirted with another 100-point outing.",
+    "pubDate": "2026-01-03",
+    "image": "",
+    "link": "https://sports.yahoo.com/mens-college-basketball/article/no-2-michigan-routs-no-24-usc-becomes-first-team-since-1996-97-to-beat-3-ranked-opponents-by-30-plus-points-033308719.html",
+    "source": "Andy Backstrom"
+  },
+  {
+    "slug": "carper-messerly-playing-key-role-for-morgantown-girls-hoops",
+    "title": "Carper Messerly playing key role for Morgantown girls hoops",
+    "description": "Jan. 2—MORGANTOWN — Entering the 2025-2026 season, the Morgantown High girls' basketball team knew it had talent up and down its roster. Still, after the loss of star junior guard Kayli Kellogg to injury for the season, the Mohigans needed players to step up and take control. Enter junior Carper Mes",
+    "pubDate": "2026-01-03",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/carper-messerly-playing-key-role-033300614.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "knicks-39-josh-hart-doing-light-court-work-to-be-reevaluated-in-one-week",
+    "title": "Knicks&#39; Josh Hart doing light court work, to be reevaluated in one week",
+    "description": "The Knicks announced following Friday's disappointing loss to the Atlanta Hawks that Josh Hart has begun doing some light court work, and he will be reevaluated in one week.",
+    "pubDate": "2026-01-03",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/knicks-josh-hart-doing-light-033243436.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "wooden-award-flashback-duke-39-s-alana-beard-takes-home-inaugural-women-39-s-player-of-the-year-honors",
+    "title": "Wooden Award Flashback: Duke&#39;s Alana Beard takes home inaugural Women&#39;s Player of the Year honors",
+    "description": "Before Alana Beard was a WNBA champion, All-Star and Defensive Player of the Year, she became the inaugural winner of the John R. Wooden Women’s National Player of the Year award with her stellar senior season at Duke in 2003-04.",
+    "pubDate": "2026-01-03",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/wooden-award-flashback-dukes-alana-033218516.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "beede-s-breakdown-magic-end-trip-with-loss-at-bulls",
+    "title": "Beede’s Breakdown: Magic end trip with loss at Bulls",
+    "description": "Before the Magic took to the court against the Bulls inside United Center on Friday night, Orlando coach Jamahl Mosley said he wanted his team to rely on their defense to force stops and try to limit Chicago’s up-tempo offense. Orlando failed to do that when the Bulls dictated the pace throughout mo",
+    "pubDate": "2026-01-03",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/beede-breakdown-magic-end-trip-033200973.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "january-games-that-will-define-women-s-college-basketball",
+    "title": "January games that will define Women’s College Basketball",
+    "description": "Two month's into Women's College basketball, but January got more games to keep an eye out for.",
+    "pubDate": "2026-01-03",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/january-games-define-women-college-033106898.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "weekend-time-schedule",
+    "title": "Weekend Time Schedule",
+    "description": "",
+    "pubDate": "2026-01-03",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/weekend-time-schedule-033044550.html",
+    "source": "The Associated Press"
+  },
+  {
+    "slug": "bayern-munich-s-legends-cup-squad-revealed",
+    "title": "Bayern Munich’s Legends Cup squad revealed",
+    "description": "FC Bayern’s past greats are coming back to roll back the years",
+    "pubDate": "2026-01-03",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/bayern-munich-legends-cup-squad-033000477.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "which-kansas-city-royals-prospect-should-get-the-call-first",
+    "title": "Which Kansas City Royals Prospect Should Get the Call First?",
+    "description": "Which rising star could ignite the offense and earn a coveted call-up next season?",
+    "pubDate": "2026-01-03",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/kansas-city-royals-prospect-call-032944058.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "wwe-smackdown-appearance-for-jordynne-grace-reportedly-her-call-up-to-the-main-roster",
+    "title": "WWE SmackDown Appearance For Jordynne Grace Reportedly Her Call-Up To The Main Roster",
+    "description": "Jordynne Grace looks to be making a long-term stay on the \"WWE SmackDown\" brand following her appearance on Friday's show.",
+    "pubDate": "2026-01-03",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/wwe-smackdown-appearance-jordynne-grace-032936716.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "2026-pdc-darts-world-championship-draw-schedule-format-and-prize-money",
+    "title": "2026 PDC Darts World Championship: Draw, schedule, format and prize money",
+    "description": "The pinnacle of darts is just around the corner.",
+    "pubDate": "2026-01-03",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/2026-pdc-darts-world-championship-171109349.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "oregon-basketball-beats-maryland-without-injured-pg-jackson-shelstad",
+    "title": "Oregon basketball beats Maryland without injured PG Jackson Shelstad",
+    "description": "Shorthanded again, the Oregon men's basketball team overcame the absence of its floor general to get its first Big Ten win of the season.",
+    "pubDate": "2026-01-03",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/oregon-basketball-beats-maryland-without-032724280.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "rutgers-basketball-falls-to-ohio-state-80-73-despite-15-point-first-half-lead",
+    "title": "Rutgers Basketball Falls to Ohio State 80-73 Despite 15 Point First Half Lead",
+    "description": "Rutgers falls 80-73 in first game of 2026",
+    "pubDate": "2026-01-03",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/rutgers-basketball-falls-ohio-state-032658766.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "jaguars-extend-offensive-lineman-cole-van-lanen",
+    "title": "Jaguars extend offensive lineman Cole Van Lanen",
+    "description": "With a playoff appearance looming, the Jaguars are getting ahead of some offseason business.",
+    "pubDate": "2026-01-03",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/jaguars-extend-offensive-lineman-cole-032642663.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "johnson-has-another-triple-double-and-the-hawks-beat-the-knicks-111-99",
+    "title": "Johnson has another triple-double and the Hawks beat the Knicks 111-99",
+    "description": "Jalen Johnson had 18 points, 11 assists and 10 rebounds in his seventh triple-double of the season, leading the Atlanta Hawks to a 111-99 victory over the New York Knicks on Friday night.  Nickeil Alexander-Walker scored 23 points and Onyeka Okongwu had 22 for the Hawks, while both Zaccharie Risache",
+    "pubDate": "2026-01-03",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/johnson-another-triple-double-hawks-032615855.html",
+    "source": "JEFFREY BERNSTEIN"
+  },
+  {
+    "slug": "louisville-basketball-offensive-firepower-fails-to-ignite-vs-stanford",
+    "title": "Louisville basketball offensive firepower fails to ignite vs Stanford",
+    "description": "No. 13 Louisville basketball fell to host Stanford on Friday in an ACC game, as Pat Kelsey's Cardinals went 1-1 on their West Coast trip.",
+    "pubDate": "2026-01-03",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/louisville-basketball-offensive-firepower-fails-032511370.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "winners-and-losers-cavs-vs-nuggets-craig-porter-jr-hustles-his-way-to-victory",
+    "title": "Winners and Losers: Cavs vs Nuggets – Craig Porter Jr. hustles his way to victory",
+    "description": "Craig Porter Jr. was a standout tonight.",
+    "pubDate": "2026-01-03",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/winners-losers-cavs-vs-nuggets-032251404.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "chicago-bears-fan-excitement-helping-local-businesses-as-team-prepares-for-regular-season-finale",
+    "title": "Chicago Bears fan excitement helping local businesses as team prepares for regular season finale",
+    "description": "Though Caleb Williams and the Chicago Bears fell out of the running for the No. 1 seed in the NFC last week, they still have plenty on the line before the playoffs begin, and fan excitement is at an all-time high.",
+    "pubDate": "2026-01-03",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/chicago-bears-fan-excitement-helping-032158771.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "groups-for-2027-world-juniors-in-alberta-starting-to-take-shape",
+    "title": "Groups For 2027 World Juniors In Alberta Starting To Take Shape",
+    "description": "Alberta's 2027 World Juniors groups crystallize as top teams advance. Discover how rankings and venue considerations are shaping the tournament matchups.",
+    "pubDate": "2026-01-03",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/groups-2027-world-juniors-alberta-032144099.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "bruce-thornton-scores-20-moves-up-ohio-state-scoring-list-in-buckeyes-39-80-73-victory-over-rutgers",
+    "title": "Bruce Thornton scores 20, moves up Ohio State scoring list in Buckeyes&#39; 80-73 victory over Rutgers",
+    "description": "",
+    "pubDate": "2026-01-03",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/bruce-thornton-scores-20-moves-032042806.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "mostate-on-a-roll-wins-fourth-straight-79-55",
+    "title": "MoState on a roll, wins fourth straight 79-55",
+    "description": "SPRINGFIELD, Mo–The Missouri State Bears stepped back on the home hardwood on a roll Friday night. Cuonzo Martin’s Bears were looking for their fourth straight win. Mostate hosting Texas El-Paso in the first ever Conference USA home game. This is the fifth meeting all-time between the Bears and the",
+    "pubDate": "2026-01-03",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/mostate-roll-wins-fourth-straight-031919185.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "boos-rain-down-at-msg-as-hawks-punch-shorthanded-knicks-110-99",
+    "title": "Boos rain down at MSG as Hawks punch shorthanded Knicks, 110-99",
+    "description": "NEW YORK — A rare smattering of boos rained down from the Madison Square Garden crowd. The Knicks faithful can be merciless like that sometimes. Their team, after all, is in sole possession of the Eastern Conference’s No. 2 seed. They had 23 wins to just 10 losses entering Friday’s matchup against t",
+    "pubDate": "2026-01-03",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/boos-rain-down-msg-hawks-031900967.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "jaguars-and-new-left-tackle-cole-van-lanen-agree-to-3-year-extension-ap-source-says",
+    "title": "Jaguars and new left tackle Cole Van Lanen agree to 3-year extension, AP source says",
+    "description": "The Jacksonville Jaguars and new starting left tackle Cole Van Lanen agreed to terms on a three-year contract extension Friday, a person familiar with negotiations said.  ESPN and NFL Network reported the extension was worth $51 million and included $32.5 million guaranteed.  Van Lanen started the l",
+    "pubDate": "2026-01-03",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/jaguars-left-tackle-cole-van-031853557.html",
+    "source": "MARK LONG"
+  },
+  {
+    "slug": "prep-girls-wrestling-state-returners-sweep-the-competition-at-goshen-sectional",
+    "title": "PREP GIRLS WRESTLING: State returners sweep the competition at Goshen sectional",
+    "description": "GOSHEN — The first step of the IHSAA girls wrestling postseason was taken Friday when 21 wrestlers from five area schools advanced to the second round of the tournament. Led by six regional qualifiers, Wawasee finished third overall in the team portion of the Goshen sectional. The Warriors scored 15",
+    "pubDate": "2026-01-03",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/prep-girls-wrestling-state-returners-031800313.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "jalen-brunson-39-s-player-of-the-month-win-gets-surprising-reaction-from-a-former-finals-mvp",
+    "title": "Jalen Brunson&#39;s Player of the Month win gets surprising reaction from a former Finals MVP",
+    "description": "Jalen Brunson and the New York Knicks had a phenomenal December 2025, which led to him winning the Player of the Month award.",
+    "pubDate": "2026-01-03",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/jalen-brunsons-player-month-win-031653519.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "alden-gonzalez-makes-exciting-shohei-ohtani-prediction-for-2026",
+    "title": "Alden Gonzalez Makes Exciting Shohei Ohtani Prediction For 2026",
+    "description": "Los Angeles Dodgers megastar is on top of the baseball world right now, but he might rise even higher in 2026. The 31-year-old has seemingly done everything possible (and more) in Major League Baseball. Even so, ESPN’s Alden Gonzalez believes Ohtani will do something in 2026 he’s never done before.",
+    "pubDate": "2026-01-03",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/alden-gonzalez-makes-exciting-shohei-031648073.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "chargers-39-potential-playoff-matchups",
+    "title": "Chargers&#39; potential playoff matchups",
+    "description": "The Los Angeles Chargers are coming off a devastating 20-16 loss against the Houston Texans, where they missed an opportunity to play for an AFC West title in Week 18.",
+    "pubDate": "2026-01-03",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/chargers-potential-playoff-matchups-175446061.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "donovan-mitchell-scores-33-points-cavaliers-outlast-short-handed-nuggets-113-108",
+    "title": "Donovan Mitchell scores 33 points, Cavaliers outlast short-handed Nuggets 113-108",
+    "description": "Donovan Mitchell scored 33 points and Darius Garland had 18 points and eight assists as the Cleveland Cavaliers beat the short-handed Denver Nuggets 113-108 on Friday night.  De’Andre Hunter added 16 points and Jarrett Allen had eight points and 12 rebounds for the Cavaliers, who trailed 105-101 wit",
+    "pubDate": "2026-01-03",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/donovan-mitchell-scores-33-points-031535501.html",
+    "source": "BRIAN DULIK"
   },
   {
     "slug": "cfp-quarterfinal-takeaways-ole-miss-wild-upset-indiana-s-dominance-and-more",
