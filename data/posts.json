@@ -1,23 +1,5 @@
 [
   {
-    "slug": "race-for-the-nfc-s-no-1-seed-biggest-questions-for-seahawks-49ers",
-    "title": "Race for the NFC's No. 1 seed: Biggest questions for Seahawks-49ers",
-    "description": "Both teams are treating Saturday as a playoff game with the No. 1 seed's playoff bye week on the line.",
-    "pubDate": "2026-01-03",
-    "image": "",
-    "link": "https://www.espn.com/nfl/story/_/id/47484418/seattle-seahawks-san-francisco-49ers-nfc-no-1-seed-nfc-west-playoffs",
-    "source": "Nick Wagoner and Brady Henderson"
-  },
-  {
-    "slug": "advanced-analytics-look-at-panthers-bucs-seahawks-49ers-more",
-    "title": "Advanced analytics look at Panthers-Bucs, Seahawks-49ers, more",
-    "description": "Next Gen Stats looks at Baker Mayfield holding the ball too long and the Seahawks' pressure",
-    "pubDate": "2026-01-03",
-    "image": "",
-    "link": "https://www.espn.com/nfl/story/_/id/47474662/panthers-bucs-seahawks-49ers-ravens-steelers-per-key-metrics",
-    "source": "DJ Bien-Aime"
-  },
-  {
     "slug": "sources-usf-qb-brown-sets-auburn-golesh-visit",
     "title": "Sources: USF QB Brown sets Auburn, Golesh visit",
     "description": "South Florida quarterback Byrum Brown has entered the transfer portal and is scheduled to visit Auburn, where he could join former Bulls coach Alex Golesh, sources confirmed to ESPN.",
@@ -99,6 +81,24 @@
     "source": "ESPN staff"
   },
   {
+    "slug": "race-for-the-nfc-s-no-1-seed-biggest-questions-for-seahawks-49ers",
+    "title": "Race for the NFC's No. 1 seed: Biggest questions for Seahawks-49ers",
+    "description": "Both teams are treating Saturday as a playoff game with the No. 1 seed's playoff bye week on the line.",
+    "pubDate": "2026-01-03",
+    "image": "",
+    "link": "https://www.espn.com/nfl/story/_/id/47484418/seattle-seahawks-san-francisco-49ers-nfc-no-1-seed-nfc-west-playoffs",
+    "source": "Nick Wagoner and Brady Henderson"
+  },
+  {
+    "slug": "advanced-analytics-look-at-panthers-bucs-seahawks-49ers-more",
+    "title": "Advanced analytics look at Panthers-Bucs, Seahawks-49ers, more",
+    "description": "Next Gen Stats looks at Baker Mayfield holding the ball too long and the Seahawks' pressure",
+    "pubDate": "2026-01-03",
+    "image": "",
+    "link": "https://www.espn.com/nfl/story/_/id/47474662/panthers-bucs-seahawks-49ers-ravens-steelers-per-key-metrics",
+    "source": "DJ Bien-Aime"
+  },
+  {
     "slug": "college-football-transfer-portal-tracking-who-s-on-the-move",
     "title": "College football transfer portal: Tracking who's on the move",
     "description": "The transfer portal opened on Jan. 2. We're keeping tabs on players who enter.",
@@ -171,6 +171,15 @@
     "source": "Alexa Philippou and Kevin Pelton and Kendra Andrews and Michael Voepel"
   },
   {
+    "slug": "mvps-for-every-bowl-game-wake-forest-s-ashford-caps-6-year-career-with-5-td-night",
+    "title": "MVPs for every bowl game: Wake Forest's Ashford caps 6-year career with 5 TD night",
+    "description": "Our college football experts picked MVPs from all 36 non-playoff bowl games.",
+    "pubDate": "2026-01-03",
+    "image": "",
+    "link": "https://www.espn.com/college-football/story/_/id/47296811/2025-college-football-bowl-game-mvp-picks-36-matchups",
+    "source": "ESPN"
+  },
+  {
     "slug": "cfp-semifinals-first-look-previewing-the-penultimate-round",
     "title": "CFP semifinals first look: Previewing the penultimate round",
     "description": "How each team can win its semifinal game, plus key players and what we learned from the quarterfinals.",
@@ -205,15 +214,6 @@
     "image": "",
     "link": "https://www.espn.com/nfl/story/_/id/47482023/what-expect-browns-qb-shedeur-sanders-final-2025-start",
     "source": "Daniel Oyefusi"
-  },
-  {
-    "slug": "key-matchups-stats-to-know-for-pittsburgh-penguins-detroit-red-wings",
-    "title": "Key matchups, stats to know for Pittsburgh Penguins-Detroit Red Wings",
-    "description": "The two superstar-led powers collide on Saturday on ABC and the ESPN app. Here's how to tune in, and what to watch.",
-    "pubDate": "2026-01-03",
-    "image": "",
-    "link": "https://www.espn.com/nhl/story/_/id/47483329/nhl-2025-26-how-watch-preview-penguins-red-wings-stats-matchups-schedule",
-    "source": "ESPN Staff"
   },
   {
     "slug": "why-lebron-trade-sagas-expansion-news-could-rock-the-league",
@@ -315,15 +315,6 @@
     "source": "BBC Sport"
   },
   {
-    "slug": "dyche-wants-perspective-as-forest-slump-continues",
-    "title": "Dyche wants perspective as Forest slump continues",
-    "description": "A year after battling for a place in the Champions League, Nottingham Forest must ensure they avoid ending this season by sinking into the Championship.",
-    "pubDate": "2026-01-03",
-    "image": "",
-    "link": "https://www.bbc.com/sport/football/articles/cgrd0xj1r4go?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport"
-  },
-  {
     "slug": "a-lion-leading-lambs-stokes-needs-england-team-mates-to-step-up",
     "title": "'A lion leading lambs' - Stokes needs England team-mates to step up",
     "description": "At times during England's Ashes defeat in Australia it has looked like Ben Stokes is a lion leading lambs and his team-mates must step up, writes chief cricket reporter Stephan Shemilt.",
@@ -339,6 +330,15 @@
     "pubDate": "2026-01-03",
     "image": "",
     "link": "https://www.bbc.com/sport/darts/articles/ckgjnrz72y1o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport"
+  },
+  {
+    "slug": "dyche-wants-perspective-as-forest-slump-continues",
+    "title": "Dyche wants perspective as Forest slump continues",
+    "description": "A year after battling for a place in the Champions League, Nottingham Forest must ensure they avoid ending this season by sinking into the Championship.",
+    "pubDate": "2026-01-03",
+    "image": "",
+    "link": "https://www.bbc.com/sport/football/articles/cgrd0xj1r4go?at_medium=RSS&at_campaign=rss",
     "source": "BBC Sport"
   },
   {
@@ -360,24 +360,6 @@
     "source": "BBC Sport"
   },
   {
-    "slug": "blackburn-to-barcelona-dolan-s-unbelievable-journey-to-espanyol",
-    "title": "Blackburn to Barcelona - Dolan's 'unbelievable' journey to Espanyol",
-    "description": "Five years ago, Tyrhys Dolan was playing for Clitheroe - now he is preparing to face Barcelona in the Catalan derby.",
-    "pubDate": "2026-01-03",
-    "image": "",
-    "link": "https://www.bbc.com/sport/football/articles/cwy1wn866y5o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport"
-  },
-  {
-    "slug": "i-needed-them-and-they-were-there-when-young-players-find-new-homes",
-    "title": "'I needed them and they were there' - when young players find new homes",
-    "description": "BBC Sport explores how young footballers build bonds with second families when they leave home to sign for a new club on their path to the top.",
-    "pubDate": "2026-01-03",
-    "image": "",
-    "link": "https://www.bbc.com/sport/football/articles/cdj80vegz28o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport"
-  },
-  {
     "slug": "never-did-i-think-one-day-i-d-be-playing-in-spain",
     "title": "'Never did I think one day I'd be playing in Spain'",
     "description": "Espanyol winger Tyrhys Dolan speaks to Elizabeth Conway about his journey from non-league football to La Liga.",
@@ -393,6 +375,15 @@
     "pubDate": "2026-01-03",
     "image": "",
     "link": "https://www.bbc.com/sport/football/videos/c9ez348xz29o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport"
+  },
+  {
+    "slug": "blackburn-to-barcelona-dolan-s-unbelievable-journey-to-espanyol",
+    "title": "Blackburn to Barcelona - Dolan's 'unbelievable' journey to Espanyol",
+    "description": "Five years ago, Tyrhys Dolan was playing for Clitheroe - now he is preparing to face Barcelona in the Catalan derby.",
+    "pubDate": "2026-01-03",
+    "image": "",
+    "link": "https://www.bbc.com/sport/football/articles/cwy1wn866y5o?at_medium=RSS&at_campaign=rss",
     "source": "BBC Sport"
   },
   {
@@ -414,6 +405,15 @@
     "source": "BBC Sport"
   },
   {
+    "slug": "i-needed-them-and-they-were-there-when-young-players-find-new-homes",
+    "title": "'I needed them and they were there' - when young players find new homes",
+    "description": "BBC Sport explores how young footballers build bonds with second families when they leave home to sign for a new club on their path to the top.",
+    "pubDate": "2026-01-03",
+    "image": "",
+    "link": "https://www.bbc.com/sport/football/articles/cdj80vegz28o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport"
+  },
+  {
     "slug": "ipl-side-kkr-release-mustafizur-after-bcci-request",
     "title": "IPL side KKR release Mustafizur after BCCI request",
     "description": "IPL side Kolkata Knight Riders release Bangladesh bowler Mustafizur Rahman after being instructed to do so by the Board of Control for Cricket in India.",
@@ -421,6 +421,411 @@
     "image": "",
     "link": "https://www.bbc.com/sport/cricket/articles/cre2z8l5p7lo?at_medium=RSS&at_campaign=rss",
     "source": "BBC Sport"
+  },
+  {
+    "slug": "possible-wild-card-outcomes-opponents-for-49ers-and-seahawks-with-week-18-loss-or-tie",
+    "title": "Possible wild-card outcomes, opponents for 49ers and Seahawks with Week 18 loss or tie",
+    "description": "A look at the possible wild-card outcomes for the San Francisco 49ers and Seattle Seahawks if they lose the crucial Week 18 showdown on Saturday night.",
+    "pubDate": "2026-01-03",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/possible-wild-card-outcomes-opponents-171458594.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "hoban-scores-six-in-glens-win-as-blues-beat-bangor",
+    "title": "Hoban scores six in Glens win as Blues beat Bangor",
+    "description": "Striker Pat Hoban scores six goals as a rampant Glentoran thump 10-man Carrick Rangers 7-0 at Taylors Avenue while there are also wins for Linfield and Crusaders in the Irish Premiership on Saturday.",
+    "pubDate": "2026-01-03",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/hoban-scores-six-glens-win-170020078.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "transfer-portal-rankings-2026-updated-list-of-top-college-football-players-by-position-from-dj-lagway-to-dylan-raiola",
+    "title": "Transfer portal rankings 2026: Updated list of top college football players by position, from DJ Lagway to Dylan Raiola",
+    "description": "The 2026 transfer portal window opened Friday, Jan. 2, and the flurry of activity began quickly. Here are the top prospects looking for new homes.",
+    "pubDate": "2026-01-03",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/transfer-portal-rankings-2026-updated-080001462.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "real-madrid-see-19-year-old-starlet-8217-s-loan-exit-as-a-strategic-move-for-his-development",
+    "title": "Real Madrid see 19-year-old starlet&#8217;s loan exit as a strategic move for his development",
+    "description": "Real Madrid have already sanctioned a player exit in the ongoing winter transfer window, allowing Endrick to join Olympique Lyon on loan until the end of the season.The 19-year-old striker had been st...",
+    "pubDate": "2026-01-03",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/real-madrid-see-19-old-171400180.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "nfl-live-playoff-picture-2026-updated-standings-clinching-scenarios-for-week-18-bracket",
+    "title": "NFL live playoff picture 2026: Updated standings, clinching scenarios for Week 18 bracket",
+    "description": "The Sporting News is tracking the playoff standings during the Week 18 fixtures.",
+    "pubDate": "2026-01-03",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/nfl-live-playoff-picture-2026-110001736.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "finally-wolves-claims-its-first-premier-league-win-of-the-season-at-the-20th-attempt",
+    "title": "Finally! Wolves claims its first Premier League win of the season at the 20th attempt",
+    "description": "It has taken 20 games but Wolverhampton Wanderers finally have their first win in the Premier League.  A 3-0 victory over West Ham at Molineux on Saturday brought some respite for Wolves after its historically bad start to a top-flight season.  No team has taken this long to record its first win of",
+    "pubDate": "2026-01-03",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/finally-wolves-claims-first-premier-170900016.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "kansas-at-ucf-quick-preview-and-ogt",
+    "title": "Kansas at UCF: Quick Preview and OGT",
+    "description": "Darryn Peterson is, by all accounts, available to play today as the Jayhawks face the UCF Golden Knights at 1pm Jayhawk Time. The game will be broadcast on the NBC Sports Network for TV viewers, and Peacock for those with a subscription. Kansas is currently favored by 4.5 points. The spread might se",
+    "pubDate": "2026-01-03",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/kansas-ucf-quick-preview-ogt-170830841.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "explaining-every-seahawks-incentive-at-stake-in-week-18-vs-49ers",
+    "title": "Explaining every Seahawks incentive at stake in Week 18 vs. 49ers",
+    "description": "A lot of money is on the line this week.",
+    "pubDate": "2026-01-03",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/explaining-every-seahawks-incentive-stake-170649595.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "green-bay-packers-roster-jersey-numbers-for-week-18-game-vs-minnesota-vikings",
+    "title": "Green Bay Packers roster, jersey numbers for Week 18 game vs Minnesota Vikings",
+    "description": "The Green Bay Packers play the Minnesota Vikings in Week 18. Here is the complete roster, including jersey numbers, for the Packers.",
+    "pubDate": "2026-01-03",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/green-bay-packers-roster-jersey-170628515.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "bath-hold-off-exeter-fightback-for-dramatic-win",
+    "title": "Bath hold off Exeter fightback for dramatic win",
+    "description": "Arthur Green's 79th-minute try saw Bath hold-off a resilient Exeter 33-26 after the Chiefs overturned a 26-0 deficit to draw level.",
+    "pubDate": "2026-01-03",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/bath-hold-off-exeter-fightback-170623652.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "hawaii-men-s-volleyball-overwhelms-njit-in-season-opener",
+    "title": "Hawaii men’s volleyball overwhelms NJIT in season opener",
+    "description": "The second event of 2026 at Bankoh Arena at Stan Sheriff Center brought a crowd and a vibe not seen or heard since the last time Hawaii men’s volleyball took center stage. The second-ranked Rainbow Warriors opened the season in front of a raucous crowd of 5, 685 that still sounded like it was celebr",
+    "pubDate": "2026-01-03",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/hawaii-men-volleyball-overwhelms-njit-170600277.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "i-feel-very-good-a-fit-waldemar-anton-reports-from-training-camp",
+    "title": "“I feel very good” – a fit Waldemar Anton reports from training camp",
+    "description": "“I worked hard in my free time and followed my rehabilitation plan, which was also quite demanding. I’ve made a good comeback and am fit again,” said Anton, who completed an individual training ...",
+    "pubDate": "2026-01-03",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/feel-very-good-fit-waldemar-170500706.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "rainbow-warriors-will-have-long-winning-streak-tested",
+    "title": "Rainbow Warriors will have long winning streak tested",
+    "description": "The Hawaii men’s basketball team is seeking to extend a seven-game winning streak spanning 44 days in today’s road game against UC San Diego in La Jolla, Calif. After an 18-day hiatus, the Rainbow Warriors clobbered UC Riverside 88-45 on Thursday to open a two-game road trip. It was the most one-sid",
+    "pubDate": "2026-01-03",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/rainbow-warriors-long-winning-streak-170500380.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "villa-rebound-from-arsenal-defeat-as-west-ham-collapse-against-wolves",
+    "title": "Villa rebound from Arsenal defeat as West Ham collapse against Wolves",
+    "description": "Aston Villa bounced back from a chastening defeat at Arsenal to beat Nottingham Forest 3-1 on Saturday and climb to second in the Premier League as West Ham collapsed against basement club Wolves.Forest, who have now suffered four straight league defeats, remain one place above the relegation zone,",
+    "pubDate": "2026-01-03",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/villa-rebound-arsenal-defeat-west-170450688.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "lsu-football-hosting-prized-transfer-portal-wide-receiver-on-visit",
+    "title": "LSU football hosting prized transfer portal wide receiver on visit",
+    "description": "LSU football is hosting one of the transfer portal's top-ranked pass catchers. Here's more on the talented wide receiver.",
+    "pubDate": "2026-01-03",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/lsu-football-hosting-prized-transfer-170333474.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "texas-hosting-florida-state-transfer-s-edwin-joseph",
+    "title": "Texas hosting Florida State transfer S Edwin Joseph",
+    "description": "The Florida product started 10 games for the Seminoles in 2025.",
+    "pubDate": "2026-01-03",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/texas-hosting-florida-state-transfer-170255995.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "reports-say-panthers-39-oc-dc-drawing-outside-interest-for-larger-roles",
+    "title": "Reports say Panthers&#39; OC, DC drawing outside interest for larger roles",
+    "description": "Reports have indicated that Panthers OC Brad Idzik and DC Ejiro Evero are under consideration for larger roles elsewhere.",
+    "pubDate": "2026-01-03",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/reports-panthers-oc-dc-drawing-170109883.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "shai-gilgeous-alexander-reacts-to-being-named-si-39-s-2025-sportsperson-of-the-year",
+    "title": "Shai Gilgeous-Alexander reacts to being named SI&#39;s 2025 Sportsperson of the Year",
+    "description": "Shai Gilgeous-Alexander reacts to being named SI's 2025 Sportsperson of the Year.",
+    "pubDate": "2026-01-03",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/shai-gilgeous-alexander-reacts-being-170103931.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "gleison-bremer-reaches-100-appearances-for-juventus",
+    "title": "Gleison Bremer reaches 100 appearances for Juventus",
+    "description": "A special milestone has been reached by Gleison Bremer, who kicks off his 2026 by reaching 100 appearances for Juventus against Lecce.The Brazilian defender, born in 1997, joined Juventus in the sum...",
+    "pubDate": "2026-01-03",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/gleison-bremer-reaches-100-appearances-170100983.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "kansas-basketball-vs-ucf-live-score-updates-jayhawks-open-big-12-play",
+    "title": "Kansas basketball vs UCF live score updates: Jayhawks open Big 12 play",
+    "description": "Kansas basketball’s Big 12 Conference slate begins Saturday with a game on the road against UCF. Follow along for updates from this league matchup.",
+    "pubDate": "2026-01-03",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/kansas-basketball-vs-ucf-live-170034969.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "world-darts-championship-2025-26-final-free-live-stream-how-to-watch-luke-littler-vs-gian-van-veen-start-time-and-tv-channel",
+    "title": "World Darts Championship 2025/26 final free live stream: How to watch Luke Littler vs. Gian van Veen, start time and TV channel",
+    "description": "How to watch Luke Littler vs. Gian van Veen free live stream: The World Darts Championship 2025/26 final gets underway today with plenty of prize money on the line.",
+    "pubDate": "2026-01-03",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/world-darts-championship-2025-26-170002905.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "chelsea-striker-with-5-goals-in-12-games-apologises-to-fans-for-stamford-bridge-spell",
+    "title": "Chelsea striker with 5 goals in 12 games apologises to fans for Stamford Bridge spell",
+    "description": "Rudy Galetti is known more as a transfer story merchant, but on his Substack today he has a really interesting interview with David Datro Fofana, one of the many failed experiments of this current Che...",
+    "pubDate": "2026-01-03",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/chelsea-striker-5-goals-12-170000108.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "manchester-city-vs-chelsea-premier-league-match-preview-team-news-head-to-head-how-to-watch",
+    "title": "Manchester City vs Chelsea (Premier League): Match Preview, Team News, Head to Head, How to Watch ",
+    "description": "Manchester City host Chelsea in Premier League action for their first home game of 2026 as they continue to hunt down Arsenal for pole position and the top-flight title.The Blues kicked off the calend...",
+    "pubDate": "2026-01-03",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/manchester-city-vs-chelsea-premier-170000401.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "survey-results-ny-giants-fans-split-on-the-team-s-future",
+    "title": "Survey results: NY Giants fans split on the team’s future",
+    "description": "Half of NY Giants fans are confident that the team is headed in the right direction as the season ends",
+    "pubDate": "2026-01-03",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/survey-results-ny-giants-fans-170000041.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "michael-olise-arrives-late-to-bayern-munich-team-training",
+    "title": "Michael Olise arrives late to Bayern Munich team training",
+    "description": "FC Bayern and Vincent Kompany won’t like this very much",
+    "pubDate": "2026-01-03",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/michael-olise-arrives-bayern-munich-170000500.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "preview-fulham-vs-liverpool",
+    "title": "Preview: Fulham vs. Liverpool",
+    "description": "After the midweek goalless draw, Liverpool head to Craven Cottage to take on Fulham.",
+    "pubDate": "2026-01-03",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/preview-fulham-vs-liverpool-170000233.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "current-nfl-playoff-matchups-for-the-2025-nfl-postseason",
+    "title": "Current NFL playoff matchups for the 2025 NFL postseason",
+    "description": "The NFL will settle the 2026 playoff bracket in Week 18. We have the up-to-date matchups as we work through Saturday and Sunday to close out the regular season.",
+    "pubDate": "2026-01-03",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/current-nfl-playoff-matchups-2025-170000416.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "nfl-playoff-picture-what-does-seahawks-49ers-mean-for-nfc-standings-in-week-18",
+    "title": "NFL playoff picture: What does Seahawks-49ers mean for NFC standings in Week 18",
+    "description": "The Seahawks travel to face the 49ers on Saturday. We break down what the game means for the NFL playoff picture in Week 18.",
+    "pubDate": "2026-01-03",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/nfl-playoff-picture-does-seahawks-170000663.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "commanders-vs-eagles-nfl-week-18-how-to-watch-tv-schedule-online-stream-injury-report-and-more",
+    "title": "Commanders vs Eagles NFL Week 18: How to watch, TV schedule, online stream, injury report and more",
+    "description": "How to watch, listen to, and stream the Washington Commanders vs Philadelphia Eagles",
+    "pubDate": "2026-01-03",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/commanders-vs-eagles-nfl-week-170000330.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "espanyol-vs-barcelona-la-liga-tv-streaming-live-thread",
+    "title": "Espanyol vs Barcelona, La Liga: TV & Streaming, Live Thread",
+    "description": "Join us for the first Barcelona adventure of 2026!",
+    "pubDate": "2026-01-03",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/espanyol-vs-barcelona-la-liga-170000486.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "mailbag-what-new-year-s-resolutions-should-the-ufc-make",
+    "title": "Mailbag: What New Year’s Resolutions should the UFC make?",
+    "description": "Answering reader questions about the UFC, Jiri Prochazka, and Israel Adesanya.",
+    "pubDate": "2026-01-03",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/mailbag-resolutions-ufc-170000872.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "50-most-notable-yankees-free-agent-signings-david-cone",
+    "title": "50 Most Notable Yankees Free Agent Signings: David Cone",
+    "description": "David Cone was a Yankee late in his career, but he still made a lasting impact on championship teams.",
+    "pubDate": "2026-01-03",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/50-most-notable-yankees-free-170000434.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "elsa-pelgander-joins-djurgarden-on-a-permanent-transfer",
+    "title": "Elsa Pelgander joins Djurgarden on a permanent transfer",
+    "description": "Juventus Women's First Team player Elsa Pelgander has joined Djurgarden on a permanent basis.After a year-long loan spell from January to now, the transfer of the 19-year-old Swedish midfielder is o...",
+    "pubDate": "2026-01-03",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/elsa-pelgander-joins-djurgarden-permanent-170000050.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "premier-league-leaders-arsenal-visit-bournemouth-after-wolves-win-for-first-time",
+    "title": "Premier League: Leaders Arsenal visit Bournemouth after Wolves win for first time",
+    "description": "Follow live text as leaders Arsenal visit Bournemouth after Aston Villa, Wolves and Brighton win.",
+    "pubDate": "2026-01-03",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/premier-league-villa-host-forest-135125546.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "lakers-takeaways-jake-laravia-sets-the-tone-in-starting-lineup-during-win-over-grizzlies",
+    "title": "Lakers takeaways: Jake LaRavia sets the tone in starting lineup during win over Grizzlies",
+    "description": "While LeBron James and Luka Doncic led the Lakers in scoring, Jake LaRavia brought energy needed during a win over the Grizzlies at Crypto.com Arena.",
+    "pubDate": "2026-01-03",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/lakers-takeaways-jake-laravia-sets-165857054.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "wolves-3-0-west-ham-rob-edwards-in-the-win-column-as-mane-dazzles-the-molineux",
+    "title": "Wolves 3-0 West Ham: Rob Edwards in the win column as Mane dazzles the Molineux",
+    "description": "It's been a long time coming, but Wolves have their first win of the Premier League season and have done so while piling pressure on bottom three rival West Ham United.",
+    "pubDate": "2026-01-03",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/wolves-3-0-west-ham-165800572.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "duke-vs-florida-state-prediction-picks-odds-for-today-39-s-college-basketball-game",
+    "title": "Duke vs Florida State Prediction, Picks & Odds for Today&#39;s College Basketball Game",
+    "description": "Get the best Duke vs. Florida State predictions ahead of Saturday's ACC clash in Tallahassee. Free college basketball picks for January 3.",
+    "pubDate": "2026-01-03",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/duke-vs-florida-state-prediction-165700967.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "lsu-tigers-39-leading-rb-caden-durham-to-enter-transfer-portal",
+    "title": "LSU Tigers&#39; leading RB Caden Durham to enter transfer portal",
+    "description": "The LSU Tigers' leading RB from the 2025 season, Caden Durham, has announced that he will enter the transfer portal this offseason.",
+    "pubDate": "2026-01-03",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/lsu-tigers-leading-rb-caden-165646003.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "brighton-2-0-burnley-seagulls-get-back-to-winning-ways",
+    "title": "Brighton 2-0 Burnley: Seagulls get back to winning ways",
+    "description": "Brighton cruised to victory against struggling Burnley.",
+    "pubDate": "2026-01-03",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/watch-brighton-vs-burnley-live-120000821.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "northwestern-football-is-building-for-more-but-not-at-the-cost-of-its-core-values",
+    "title": "Northwestern football is building for more, but not at the cost of its core values",
+    "description": "The ‘Cats are coming off a bowl win, but have sights set on bigger horizons.",
+    "pubDate": "2026-01-03",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/northwestern-football-building-more-not-165511533.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "danilo-juventus-is-my-home-and-i-wouldn-t-think-twice-if-called-to-new-role",
+    "title": "Danilo: ‘Juventus is my home and I wouldn’t think twice’ if called to new role",
+    "description": "Danilo admits ‘Juventus is my home, so I wouldn’t think twice if called’ back to the club in a new role after retirement, and hit out at those who pushed him away.The game with Lecce kicks off a...",
+    "pubDate": "2026-01-03",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/danilo-juventus-home-wouldn-t-165500694.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "espn-offers-its-bracketology-outlook-for-florida-basketball-sec",
+    "title": "ESPN offers its bracketology outlook for Florida basketball, SEC",
+    "description": "Here's what ESPN bracketology expert Joe Lunardi projects for Florida basketball and the rest of the SEC for this year's NCAA Tournament.",
+    "pubDate": "2026-01-03",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/espn-offers-bracketology-outlook-florida-165434135.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "this-premier-league-club-finally-win-their-first-match-of-the-season",
+    "title": "This Premier League club finally win their first match of the season 🥳",
+    "description": "Bring out the champagne!2026, the year of all possibilities?Rock bottom of the Premier League, with only three measly points on the board before this Saturday, Wolverhampton has just secured their fir...",
+    "pubDate": "2026-01-03",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/premier-league-club-finally-wins-165400124.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "former-usf-quarterback-byrum-brown-visiting-auburn-alex-golesh",
+    "title": "Former USF quarterback Byrum Brown visiting Auburn, Alex Golesh",
+    "description": "As widely expected, former USF record-setting quarterback Byrum Brown, by far the most prominent Bull to enter the NCAA transfer portal, is visiting Auburn this weekend. Brown will reunite — at least for a few hours — with new Tigers coach (and former USF boss) Alex Golesh, whose frantically paced b",
+    "pubDate": "2026-01-03",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/former-usf-quarterback-byrum-brown-165259989.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "seahawks-vs-49ers-weather-forecast-offers-multiple-concerns-for-nfc-west-foes",
+    "title": "Seahawks vs. 49ers weather forecast offers multiple concerns for NFC West foes",
+    "description": "The Seattle Seahawks and San Francisco 49ers will battle for all the marbles on Saturday night. Here's a look at how the weather could impact both teams.",
+    "pubDate": "2026-01-03",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/seahawks-vs-49ers-weather-forecast-165145197.html",
+    "source": "Google News"
   },
   {
     "slug": "39-we-are-together-with-the-board-39-nancy-defiant-after-celtic-loss",
@@ -441,6 +846,15 @@
     "source": "Google News"
   },
   {
+    "slug": "transfer-portal-rankings-top-25-quarterbacks-to-watch",
+    "title": "Transfer Portal Rankings: Top 25 quarterbacks to watch",
+    "description": "The NCAA transfer portal is open, and thousands of student-athletes have flooded its gates since midnight ET on Jan. 2. This includes many big-time college football players, including some major talent at the quarterback position. This past season, many QBs found success at their new schools after h",
+    "pubDate": "2026-01-03",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/transfer-portal-rankings-top-25-165010679.html",
+    "source": "Google News"
+  },
+  {
     "slug": "tottenham-hotspur-vs-sunderland-match-preview-latest-team-news-and-how-to-watch",
     "title": "Tottenham Hotspur vs Sunderland: Match Preview, Latest Team News and How to Watch",
     "description": "Tottenham vs Sunderland preview and predictionTottenham’s winter grind shows little sign of easing as Sunderland arrive in north London, carrying confidence, organisation and recent proof that they ...",
@@ -450,426 +864,12 @@
     "source": "Google News"
   },
   {
-    "slug": "real-madrid-and-ac-milan-icon-luka-modric-reveals-secret-to-longevity",
-    "title": "Real Madrid and AC Milan icon Luka Modric reveals secret to longevity",
-    "description": "Few players can claim to have done it as well as Luka Modric, and even fewer for as long as the Croatian. The 40-year-old appears to be enjoying his football again in Serie A at AC Milan after leaving...",
+    "slug": "report-liverpool-8216-in-contact-8217-over-potential-deal-for-real-madrid-star",
+    "title": "Report: Liverpool &#8216;in contact&#8217; over potential deal for Real Madrid star",
+    "description": "Liverpool Interest in Camavinga Meets Firm Madrid ResistanceSpeculation around Liverpool’s midfield plans has resurfaced once again, with Eduardo Camavinga’s name returning to the conversation. Ac...",
     "pubDate": "2026-01-03",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/real-madrid-ac-milan-icon-164900413.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "robby-ashford-leads-wake-forest-past-mississippi-state-43-29-in-duke-s-mayo-bowl",
-    "title": "Robby Ashford leads Wake Forest past Mississippi State 43-29 in Duke’s Mayo Bowl",
-    "description": "Wake Forest finished the season winning seven of its final nine games, this one sending coach Jake Dickert to a celebratory mayonnaise bath.",
-    "pubDate": "2026-01-03",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/robby-ashford-leads-wake-forest-164702865.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "best-reactions-to-iowa-women-39-s-basketball-win-vs-nebraska",
-    "title": "Best reactions to Iowa women&#39;s basketball win vs. Nebraska",
-    "description": "If you missed it on New Year's Day, here's some of the best reactions to Iowa women's basketball's holiday win over Nebraska.",
-    "pubDate": "2026-01-03",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/best-reactions-iowa-womens-basketball-164515096.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "alonso-wants-28-year-old-midfielder-at-real-madrid-after-missing-out-on-premier-league-star",
-    "title": "Alonso wants 28-year-old midfielder at Real Madrid after missing out on Premier League star",
-    "description": "The January transfer window is already underway, and there is expected to be little activity at Real Madrid in the weeks to come.Beyond the loan exit of Endrick to Olympique Lyon, Real Madrid are unli...",
-    "pubDate": "2026-01-03",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/alonso-wants-28-old-midfielder-164400503.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "dyche-wants-perspective-as-forest-slump-continues",
-    "title": "Dyche wants perspective as Forest slump continues",
-    "description": "A year after battling for a place in the Champions League, Nottingham Forest must ensure they avoid ending this season by sinking into the Championship.",
-    "pubDate": "2026-01-03",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/dyche-wants-perspective-forest-slump-164319987.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "tennessee-titans-head-coaching-search-what-about-klint-kubiak",
-    "title": "Tennessee Titans head coaching search: What about Klint Kubiak?",
-    "description": "The Tennessee Titans are in search of a head coach, and Seattle Seahawks offensive coordinator Klint Kubiak could be a good fit.",
-    "pubDate": "2026-01-03",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/tennessee-titans-head-coaching-search-164318681.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "lsu-running-back-caden-durham-plans-to-enter-ncaa-transfer-portal",
-    "title": "LSU running back Caden Durham plans to enter NCAA Transfer Portal",
-    "description": "LSU running back Caden Durham plans to enter the NCAA Transfer Portal, per CBS Sports’ Matt Zenitz. On3’s Pete Nakos confirmed the report. He just finished up his sophomore season with the Tigers. Over the course of two seasons in Baton Rouge, Durham ran for 1,258 yards and nine touchdowns on 251 ca",
-    "pubDate": "2026-01-03",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/lsu-running-back-caden-durham-164154655.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "rider-wrestler-has-been-knocked-out-cold-twice-but-has-clear-headed-all-american-goal",
-    "title": "Rider wrestler has been knocked out cold twice, but has clear-headed All-American goal",
-    "description": "Eli Griffin has run into some tough luck this season but it hasn't stopped him from having a tremdendous senior year.",
-    "pubDate": "2026-01-03",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/rider-wrestler-knocked-cold-twice-154115859.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "chicago-bulls-legend-ron-harper-blasts-nba-s-streaming-situation",
-    "title": "Chicago Bulls legend Ron Harper blasts NBA’s streaming situation",
-    "description": "Chicago Bulls legend Ron Harper has a message for the NBA.",
-    "pubDate": "2026-01-03",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/chicago-bulls-legend-ron-harper-164007378.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "spalletti-david-is-unfortunately-not-confident-enough-yet-at-juventus",
-    "title": "Spalletti: ‘David is unfortunately not confident enough yet’ at Juventus",
-    "description": "Juventus coach Luciano Spalletti explains his surprising choices against Lecce this evening, warning Jonathan David ‘isn’t confident enough to show all his quality’ right now.It kicks off at the...",
-    "pubDate": "2026-01-03",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/spalletti-david-unfortunately-not-confident-164000374.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "how-to-watch-newcastle-united-vs-crystal-palace-live-stream-tv-channel-team-news-prediction",
-    "title": "How to watch Newcastle United vs Crystal Palace live: Stream, TV channel, team news, prediction",
-    "description": "Can these two teams kick on in their push for European qualification?",
-    "pubDate": "2026-01-03",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/watch-newcastle-united-vs-crystal-163953478.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "quinn-hughes-makes-never-before-done-nhl-history-thanks-to-trade-from-canucks-to-wild",
-    "title": "Quinn Hughes makes never-before-done NHL history thanks to trade from Canucks to Wild",
-    "description": "Hughes is certainly one of the best on the ice wherever he plays.",
-    "pubDate": "2026-01-03",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/quinn-hughes-makes-never-done-163736484.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "exclusive-canadian-midfield-starlet-ismael-kone-shows-no-intentions-to-depart-sassuolo-mid-season-amidst-attracting-suitors",
-    "title": "Exclusive: Canadian midfield starlet Ismael Kone shows no intentions to depart Sassuolo mid-season amidst attracting suitors",
-    "description": "With former Marseille and Canadian international midfielder having taken the Serie A by storm since having joined the Nerroverdi only six months ago, Get Italian Football News can exclusively reveal...",
-    "pubDate": "2026-01-03",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/exclusive-canadian-midfield-starlet-ismael-163700222.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "arizona-cardinals-need-too-address-o-line",
-    "title": "Arizona Cardinals need too address O-line",
-    "description": "To compete at a high level in the NFL, Cardinals offensive line must be addressed",
-    "pubDate": "2026-01-03",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/arizona-cardinals-too-address-o-163651092.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "buccaneers-vs-panthers-weather-forecast-has-one-concerning-detail",
-    "title": "Buccaneers vs. Panthers weather forecast has one concerning detail",
-    "description": "A look at the weather forecast for the crucial Week 18 game between the Tampa Bay Buccaneers and Carolina Panthers at Raymond James Stadium.",
-    "pubDate": "2026-01-03",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/buccaneers-vs-panthers-weather-forecast-163550033.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "guendouzi-targeted-by-fenerbahce-as-lazio-sell-castellanos-to-west-ham",
-    "title": "Guendouzi targeted by Fenerbahce as Lazio sell Castellanos to West Ham",
-    "description": "Fenerbahce have reportedly made a formal proposal to Lazio for midfielder Matteo Guendouzi, while Taty Castellanos is ready to complete his €30m move to West Ham United.The Aquile have had some of t...",
-    "pubDate": "2026-01-03",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/guendouzi-targeted-fenerbahce-lazio-sell-163500831.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "am-rica-confirm-mach-s-signing",
-    "title": "🚨 América confirm Machís signing",
-    "description": "América de Cali has made a statement at the start of the 2026 transfer market. Through its official channels, the team from Valle del Cauca confirmed the signing of Darwin Machís, a 32-year-old Vene...",
-    "pubDate": "2026-01-03",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/am-rica-confirm-mach-signing-163400940.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "3-causes-for-concern-as-bears-battle-lions-in-week-18",
-    "title": "3 causes for concern as Bears battle Lions in Week 18",
-    "description": "Here are the top causes for concern as the Chicago Bears host the Detroit Lions in the final game of the 2025 regular season.",
-    "pubDate": "2026-01-03",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/3-causes-concern-bears-battle-163328589.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "cymru-premier-nomads-come-from-behind-to-beat-barry",
-    "title": "Cymru Premier: Nomads come from behind to beat Barry",
-    "description": "Connah's Quay Nomads kept pressure on Cymru Premier leaders The New Saints as they came from behind late on to beat Barry Town United.",
-    "pubDate": "2026-01-03",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/cymru-premier-nomads-come-behind-163245877.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "brooks-koepka-in-tgl-rory-mcilroy-39-would-love-him-to-play-39",
-    "title": "Brooks Koepka in TGL? Rory McIlroy &#39;would love him to play&#39;",
-    "description": "Could Brooks Koepka make his next start as a fill-in for TGL?",
-    "pubDate": "2026-01-03",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/brooks-koepka-tgl-rory-mcilroy-163100432.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "5-things-to-know-about-the-49ers-ahead-of-week-18-rematch",
-    "title": "5 things to know about the 49ers ahead of Week 18 rematch",
-    "description": "Take another journey behind enemy lines!",
-    "pubDate": "2026-01-03",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/5-things-know-49ers-ahead-163028199.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "frank-cairone-s-raw-stuff-makes-him-a-brewers-breakout-candidate-for-2026",
-    "title": "Frank Cairone’s Raw Stuff Makes Him a Brewers Breakout Candidate for 2026",
-    "description": "Brewers prospect Frank Cairone boasts elite spin and high-90s velocity. This young lefty's raw talent offers a glimpse into Milwaukee's future pitching dominance.",
-    "pubDate": "2026-01-03",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/frank-cairone-raw-stuff-makes-163003047.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "dominating-the-line-of-scrimmage-will-be-imperative-for-notre-dame-39-s-defense-in-the-2026-playoffs",
-    "title": "Dominating The Line Of Scrimmage Will Be Imperative For Notre Dame&#39;s Defense In The 2026 Playoffs",
-    "description": "Winning the trenches is the Irish path to a championship. Discover how stifling the run and pressuring the passer unlocks Notre Dame's 2026 playoff destiny.",
-    "pubDate": "2026-01-03",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/dominating-line-scrimmage-imperative-notre-163001716.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "two-canadiens-prospects-make-semifinals",
-    "title": "Two Canadiens Prospects Make Semifinals",
-    "description": "Montreal Canadiens' prospects Michael Hage and Aatos Koivu are both through to the World Junior Championship semifinal, but one plays a much bigger role than the other.",
-    "pubDate": "2026-01-03",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/two-canadiens-prospects-semifinals-163000830.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "mike-mcdaniel-talks-troy-aikman-joining-miami-dolphins-gm-search",
-    "title": "Mike McDaniel talks Troy Aikman joining Miami Dolphins GM search",
-    "description": "Miami Dolphins head coach Mike McDaniel met with the media on Friday. He was asked about the addition of Troy Aikman to the team’s search for a new GM.",
-    "pubDate": "2026-01-03",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/mike-mcdaniel-talks-troy-aikman-163000001.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "big-incentives-on-the-line-for-several-49ers-vs-the-seahawks",
-    "title": "Big incentives on the line for several 49ers vs. the Seahawks",
-    "description": "Two wideouts could see some extra cash in Week 18.",
-    "pubDate": "2026-01-03",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/big-incentives-line-several-49ers-163000300.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "villanova-at-butler-game-chat",
-    "title": "Villanova at Butler: Game Chat",
-    "description": "The 2026 schedule starts at Hinkle",
-    "pubDate": "2026-01-03",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/villanova-butler-game-chat-163000267.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "chelsea-winger-could-be-stuck-in-transfer-hell-until-2027-after-latest-rejection",
-    "title": "Chelsea winger could be stuck in transfer hell until 2027 after latest rejection",
-    "description": "We’re trying to distract ourselves from another catastrophe at Chelsea, after the club and Enzo Maresca parted ways this week.One person who won’t be too concerned with that news is Raheem Sterlin...",
-    "pubDate": "2026-01-03",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/chelsea-winger-could-stuck-transfer-163000113.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "wife-of-dodgers-pitcher-alex-vesia-addresses-death-of-couple-39-s-newborn",
-    "title": "Wife of Dodgers pitcher Alex Vesia addresses death of couple&#39;s newborn",
-    "description": "Dodgers pitcher Alex Vesia’s wife Kayla spoke out on social media following the loss of their baby daughter during last year's World Series.",
-    "pubDate": "2026-01-03",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/wife-dodgers-pitcher-alex-vesia-162955611.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "week-18-injury-report-for-the-minnesota-vikings-against-the-packers",
-    "title": "Week 18 Injury Report for the Minnesota Vikings against the Packers",
-    "description": "The Vikings' final injury report for the 2025 season is out ahead of their matchup with the Packers.",
-    "pubDate": "2026-01-03",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/week-18-injury-report-minnesota-162947828.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "outs-on-the-bases",
-    "title": "Outs On The Bases",
-    "description": "Let me be the 47th person to wish you a Happy New Year and welcome you to 2026. Like many of you, I spent some time reflecting on 2025 in the waning days of the year, and part of that reflection came to baseball. I found myself dissatisfied with how the 2025 season played out […]",
-    "pubDate": "2026-01-03",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/outs-bases-162929548.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "girls-39-sectional-wrestling-results-see-who-advanced-from-indy-area-schools",
-    "title": "Girls&#39; sectional wrestling results. See who advanced from Indy-area schools",
-    "description": "High school girls' sectional meets were Friday. See who advanced to regional round from Central Indiana schools.",
-    "pubDate": "2026-01-03",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/girls-sectional-wrestling-results-see-162922596.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "girls-39-sectional-wrestling-results-see-who-advanced-from-indy-area-schools",
-    "title": "Girls&#39; sectional wrestling results. See who advanced from Indy-area schools",
-    "description": "High school girls' sectional meets were Friday. See who advanced to regional round from Central Indiana schools.",
-    "pubDate": "2026-01-03",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/girls-sectional-wrestling-results-see-162922910.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "aston-villa-s-unlikely-title-tilt-powered-by-premier-league-s-most-devastating-duo",
-    "title": "Aston Villa’s unlikely title tilt powered by Premier League’s most devastating duo",
-    "description": "Of all the driving forces behind Aston Villa’s progress, perhaps the most important laid the foundations for a win which ensured their name cannot completely be erased from the Premier League title conversation just yet.",
-    "pubDate": "2026-01-03",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/watkins-rogers-confirm-status-league-150105562.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "thunder-made-basketball-history-not-done-since-chicago-packers-in-1962",
-    "title": "Thunder made basketball history not done since Chicago Packers in 1962",
-    "description": "OKC was hooping, as usual.",
-    "pubDate": "2026-01-03",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/thunder-made-basketball-history-not-162648438.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "shreyas-iyer-returns-for-india-s-odi-series-against-new-zealand",
-    "title": "Shreyas Iyer returns for India’s ODI series against New Zealand",
-    "description": "",
-    "pubDate": "2026-01-03",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/shreyas-iyer-returns-india-odi-162640207.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "pierre-luc-dubois-skating-again-capitals-forward-takes-critical-step-forward-in-recovery",
-    "title": "Pierre-Luc Dubois Skating Again, Capitals Forward Takes Critical Step Forward In Recovery",
-    "description": "The Capitals saw Pierre-Luc Dubois take a big step forward in his recovery.",
-    "pubDate": "2026-01-03",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/pierre-luc-dubois-skating-again-162616732.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "ravens-39-oc-todd-monken-must-use-a-run-heavy-scheme-to-avoid-a-loss-in-pittsburgh",
-    "title": "Ravens&#39; OC Todd Monken must use a run-heavy scheme to avoid a loss in Pittsburgh",
-    "description": "Baltimore Ravens offensive coordinator Todd Monken has the keys to the offense but he won't move forward if his mind remains in neutral.",
-    "pubDate": "2026-01-03",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/ravens-oc-todd-monken-must-162552464.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "northeastern-commit-leading-the-way-for-sioux-city",
-    "title": "Northeastern Commit Leading The Way For Sioux City",
-    "description": "Pennsylvania Product Filling Up The Net Before Heading To Hockey East",
-    "pubDate": "2026-01-03",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/northeastern-commit-leading-way-sioux-162525677.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "bruins-vs-canucks-prediction-picks-same-game-parlay-for-tonight-s-nhl-game",
-    "title": "Bruins vs Canucks Prediction, Picks & Same-Game Parlay for Tonight’s NHL Game",
-    "description": "Get the best Bruins vs. Canucks predictions ahead of their Saturday clash at Rogers Arena. Free NHL picks for January 3.",
-    "pubDate": "2026-01-03",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/bruins-vs-canucks-prediction-picks-162400557.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "line-ups-confirmed-arsenal-face-a-tough-trip-to-bournemouth",
-    "title": "🚨 Line-ups confirmed: Arsenal face a tough trip to Bournemouth",
-    "description": "Arsenal visits Bournemouth this afternoon at the Vitality Stadium with a clear mission: to consolidate their five-point lead at the top of the Premier League. After closing 2025 clinically with four c...",
-    "pubDate": "2026-01-03",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/line-ups-confirmed-arsenal-face-162400784.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "steelers-near-the-top-in-one-of-the-worst-stats-on-offense",
-    "title": "Steelers near the top in one of the worst stats on offense",
-    "description": "The Steelers offense has been a running joke all season long and this stat just further illustrates the problems.",
-    "pubDate": "2026-01-03",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/steelers-near-top-one-worst-162336164.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "the-question-for-dolphins-is-how-much-finality-finale-at-patriots-brings",
-    "title": "The question for Dolphins is how much finality finale at Patriots brings",
-    "description": "MIAMI GARDENS — It was around this time last year when the Miami Dolphins went up north for their finale to the 2024 season. Star wide receiver Tyreek Hill, after the Dolphins lost to the New York Jets and were eliminated from their last-gasp hope of making the playoffs, had a locker-room outburst p",
-    "pubDate": "2026-01-03",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/dolphins-much-finality-finale-patriots-162300957.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "this-rams-ol-combo-leads-the-nfl-in-pressure-rate-allowed",
-    "title": "This Rams OL combo leads the NFL in pressure rate allowed",
-    "description": "The Los Angeles Rams have one of the best pass-blocking offensive lines when all their starters play.",
-    "pubDate": "2026-01-03",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/rams-ol-combo-leads-nfl-162215745.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "3-bold-predictions-for-the-minnesota-vikings-vs-packers-in-week-18",
-    "title": "3 Bold predictions for the Minnesota Vikings vs. Packers in Week 18",
-    "description": "The Minnesota Vikings have a chance to take advantage of a Green Bay Packers squad that will rest several starters in Week 18.",
-    "pubDate": "2026-01-03",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/3-bold-predictions-minnesota-vikings-162147599.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "notre-dame-men-s-lacrosse-2026-season-loading",
-    "title": "Notre Dame Men’s Lacrosse – 2026 Season Loading…",
-    "description": "What’s going on with the Notre Dame men’s lacrosse team right now?",
-    "pubDate": "2026-01-03",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/notre-dame-men-lacrosse-2026-162145203.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "1st-period-goal-all-jacks-need-in-win-over-elk-river",
-    "title": "1st period goal all Jacks need in win over Elk River",
-    "description": "Jan. 3—ELK RIVER — With Christian Hill in between the pipes for the Bemidji High School boys hockey team, all the Lumberjacks need is one goal. And that's all they got Friday night in Elk River, as the Jacks defeated Elk River/Zimmerman 1-0. Griffon Dewar was the lone goal scorer, scoring with four",
-    "pubDate": "2026-01-03",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/1st-period-goal-jacks-win-162100428.html",
+    "link": "https://sports.yahoo.com/articles/report-liverpool-contact-over-potential-165000534.html",
     "source": "Google News"
   },
   {
@@ -954,15 +954,6 @@
     "source": "BBC Sport"
   },
   {
-    "slug": "bristol-top-as-sale-beaten-by-ravouvou-s-late-try",
-    "title": "Bristol top as Sale beaten by Ravouvou's late try",
-    "description": "Kalaveti Ravouvou's try eight minutes from time earns Bristol Bears a hard-fought win over Sale Sharks at Ashton Gate to take them top of The Prem.",
-    "pubDate": "2026-01-02",
-    "image": "",
-    "link": "https://www.bbc.com/sport/rugby-union/articles/cz6yx8285llo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport"
-  },
-  {
     "slug": "we-need-to-protect-players-how-can-tennis-avoid-breaking-point",
     "title": "'We need to protect players' - how can tennis avoid breaking point?",
     "description": "With the 2026 tennis season kicking off, BBC Sport analyses why many top players are complaining about burnout and what could be done to prevent it.",
@@ -981,21 +972,21 @@
     "source": "BBC Sport"
   },
   {
-    "slug": "ulster-thump-munster-to-move-second-in-urc",
-    "title": "Ulster thump Munster to move second in URC",
-    "description": "Ulster move second in the United Rugby Championship with a 28-3 victory over Munster in Belfast.",
-    "pubDate": "2026-01-02",
-    "image": "",
-    "link": "https://www.bbc.com/sport/rugby-union/articles/cdjne0nje9lo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport"
-  },
-  {
     "slug": "frank-understands-and-shares-spurs-fans-frustrations",
     "title": "Frank 'understands and shares' Spurs fans' frustrations",
     "description": "Thomas Frank says he understands and shares the frustration of Tottenham fans after he was booed following Thursday's Premier League draw at Brentford.",
     "pubDate": "2026-01-02",
     "image": "",
     "link": "https://www.bbc.com/sport/football/articles/cjrz3gzlv1eo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport"
+  },
+  {
+    "slug": "ulster-thump-munster-to-move-second-in-urc",
+    "title": "Ulster thump Munster to move second in URC",
+    "description": "Ulster move second in the United Rugby Championship with a 28-3 victory over Munster in Belfast.",
+    "pubDate": "2026-01-02",
+    "image": "",
+    "link": "https://www.bbc.com/sport/rugby-union/articles/cdjne0nje9lo?at_medium=RSS&at_campaign=rss",
     "source": "BBC Sport"
   },
   {
@@ -1023,15 +1014,6 @@
     "pubDate": "2026-01-02",
     "image": "",
     "link": "https://www.bbc.com/news/articles/cn5l3y5dk55o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport"
-  },
-  {
-    "slug": "boulter-turns-to-sharapova-s-former-coach-joyce",
-    "title": "Boulter turns to Sharapova's former coach Joyce",
-    "description": "Katie Boulter turns to Michael Joyce, former coach of Maria Sharapova, as she attempts to climb back up the world rankings.",
-    "pubDate": "2026-01-02",
-    "image": "",
-    "link": "https://www.bbc.com/sport/tennis/articles/cdjnepdrx90o?at_medium=RSS&at_campaign=rss",
     "source": "BBC Sport"
   },
   {
