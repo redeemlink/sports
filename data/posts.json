@@ -9,13 +9,13 @@
     "source": "Ryan McFadden"
   },
   {
-    "slug": "what-does-carroll-s-exit-mean-for-raiders-geno-smith",
-    "title": "What does Carroll's exit mean for Raiders, Geno Smith?",
-    "description": "With Pete Carroll fired, what does that mean for the Raiders' No. 1 pick? How desirable is the job?",
+    "slug": "sources-cards-fire-gannon-after-15-36-record",
+    "title": "Sources: Cards fire Gannon after 15-36 record",
+    "description": "The Cardinals fired third-year head coach Jonathan Gannon, sources told ESPN's Adam Schefter on Monday.",
     "pubDate": "2026-01-05",
     "image": "",
-    "link": "https://www.espn.com/nfl/story/_/id/47505106/las-vegas-raiders-pete-carroll-part-ways-whats-next-mark-davis-draft",
-    "source": "Ryan McFadden, Ben Solak, Dan Graziano, Matt Miller"
+    "link": "https://www.espn.com/nfl/story/_/id/47512424/sources-cardinals-fire-jonathan-gannon-15-36-record",
+    "source": "Josh Weinfuss"
   },
   {
     "slug": "browns-fire-coach-stefanski-will-keep-gm-berry",
@@ -144,15 +144,6 @@
     "source": "Bill Barnwell"
   },
   {
-    "slug": "steelers-escape-ravens-late-push-win-afc-north-title",
-    "title": "Steelers escape Ravens' late push, win AFC North title",
-    "description": "In a rock fight that morphed into a fourth-quarter track meet, Pittsburgh edges Baltimore to advance.",
-    "pubDate": "2026-01-05",
-    "image": "",
-    "link": "https://www.espn.com/nfl/story/_/id/47506780/pittsburgh-steelers-escape-baltimore-ravens-late-push-win-afc-north-title-week-18-playoffs",
-    "source": "Jamison Hensley and Brooke Pryor"
-  },
-  {
     "slug": "offseason-guide-for-eliminated-nfl-teams",
     "title": "Offseason guide for eliminated NFL teams",
     "description": "What must each do to have a better season in 2026? We have outlooks, early buzz and predictions.",
@@ -160,6 +151,15 @@
     "image": "",
     "link": "https://www.espn.com/nfl/story/_/id/47454831/2026-nfl-offseason-guide-every-team-priorities-free-agents-draft-predictions",
     "source": "NFL Nation, Jeremy Fowler, Dan Graziano, Matt Miller, Jordan Reid, Aaron Schatz and Ben Solak"
+  },
+  {
+    "slug": "steelers-escape-ravens-late-push-win-afc-north-title",
+    "title": "Steelers escape Ravens' late push, win AFC North title",
+    "description": "In a rock fight that morphed into a fourth-quarter track meet, Pittsburgh edges Baltimore to advance.",
+    "pubDate": "2026-01-05",
+    "image": "",
+    "link": "https://www.espn.com/nfl/story/_/id/47506780/pittsburgh-steelers-escape-baltimore-ravens-late-push-win-afc-north-title-week-18-playoffs",
+    "source": "Jamison Hensley and Brooke Pryor"
   },
   {
     "slug": "man-united-must-go-big-and-hire-a-superstar-manager-after-firing-ruben-amorim",
@@ -396,21 +396,21 @@
     "source": "BBC Sport"
   },
   {
-    "slug": "celtic-sack-manager-nancy-after-eight-games",
-    "title": "Celtic sack manager Nancy after eight games",
-    "description": "Celtic sack manager Wilfried Nancy, with Saturday's 3-1 defeat by Rangers his sixth loss in just eight matches, with head of football operations Paul Tisdale also removed from his post.",
-    "pubDate": "2026-01-05",
-    "image": "",
-    "link": "https://www.bbc.com/sport/football/articles/ckgk9g2500no?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport"
-  },
-  {
     "slug": "amorim-s-toxic-exit-the-latest-chaotic-chapter-in-ratcliffe-s-reign",
     "title": "'Amorim's toxic exit the latest chaotic chapter in Ratcliffe's reign'",
     "description": "Ruben Amorim's acrimonious exit is the latest example of Manchester United's chaos and instability under Sir Jim Ratcliffe, says Phil McNulty.",
     "pubDate": "2026-01-05",
     "image": "",
     "link": "https://www.bbc.com/sport/football/articles/cx2gnjkmppdo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport"
+  },
+  {
+    "slug": "celtic-sack-manager-nancy-after-eight-games",
+    "title": "Celtic sack manager Nancy after eight games",
+    "description": "Celtic sack manager Wilfried Nancy, with Saturday's 3-1 defeat by Rangers his sixth loss in just eight matches, with head of football operations Paul Tisdale also removed from his post.",
+    "pubDate": "2026-01-05",
+    "image": "",
+    "link": "https://www.bbc.com/sport/football/articles/ckgk9g2500no?at_medium=RSS&at_campaign=rss",
     "source": "BBC Sport"
   },
   {
@@ -432,12 +432,12 @@
     "source": "BBC Sport"
   },
   {
-    "slug": "returning-raducanu-unable-to-prevent-gb-s-united-cup-exit",
-    "title": "Returning Raducanu unable to prevent GB's United Cup exit",
-    "description": "Emma Raducanu loses on her return from a foot injury as Great Britain are eliminated from the United Cup with a group-stage defeat by Greece.",
+    "slug": "sheffield-united-deny-deliberately-delaying-cusack-inquest",
+    "title": "Sheffield United deny deliberately delaying Cusack inquest",
+    "description": "Sheffield United deny deliberately delaying the inquest into the death of their former women's team captain Maddy Cusack.",
     "pubDate": "2026-01-05",
     "image": "",
-    "link": "https://www.bbc.com/sport/tennis/articles/cwy8pexd5xko?at_medium=RSS&at_campaign=rss",
+    "link": "https://www.bbc.com/sport/football/articles/c98jle3190eo?at_medium=RSS&at_campaign=rss",
     "source": "BBC Sport"
   },
   {
@@ -447,6 +447,15 @@
     "pubDate": "2026-01-05",
     "image": "",
     "link": "https://www.bbc.com/sport/american-football/articles/c0erwxely9vo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport"
+  },
+  {
+    "slug": "returning-raducanu-unable-to-prevent-gb-s-united-cup-exit",
+    "title": "Returning Raducanu unable to prevent GB's United Cup exit",
+    "description": "Emma Raducanu loses on her return from a foot injury as Great Britain are eliminated from the United Cup with a group-stage defeat by Greece.",
+    "pubDate": "2026-01-05",
+    "image": "",
+    "link": "https://www.bbc.com/sport/tennis/articles/cwy8pexd5xko?at_medium=RSS&at_campaign=rss",
     "source": "BBC Sport"
   },
   {
@@ -783,453 +792,453 @@
     "source": "BBC Sport"
   },
   {
-    "slug": "jalen-buckley-to-return-to-western-michigan-for-2026",
-    "title": "Jalen Buckley to return to Western Michigan for 2026",
-    "description": "The two-time 1,000-yard rusher is running it back in Kalamazoo next season.",
+    "slug": "dolphins-pff-grades-best-and-worst-performers-vs-patriots",
+    "title": "Dolphins PFF grades: Best and worst performers vs. Patriots",
+    "description": "The Dolphins finished their season with a disastrous performance on both sides of the football.",
     "pubDate": "2026-01-05",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/jalen-buckley-return-western-michigan-164931390.html",
+    "link": "https://sports.yahoo.com/articles/dolphins-pff-grades-best-worst-172204801.html",
     "source": "Google News"
   },
   {
-    "slug": "nfl-2026-coaching-tracker-titans-request-steve-spagnuolo-interview",
-    "title": "NFL 2026 coaching tracker: Titans request Steve Spagnuolo interview",
-    "description": "We’re keeping you up to date on all the news from the NFL’s 2026 coaching carousel.",
+    "slug": "9-las-vegas-raiders-head-coaching-options-after-pete-carroll-firing",
+    "title": "9 Las Vegas Raiders head coaching options after Pete Carroll firing",
+    "description": "Here are some potential head coaches the Raiders should be looking at.",
     "pubDate": "2026-01-05",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/nfl-2026-coaching-tracker-titans-164626697.html",
+    "link": "https://sports.yahoo.com/articles/9-las-vegas-raiders-head-172154536.html",
     "source": "Google News"
   },
   {
-    "slug": "longhorns-ol-dj-campbell-declares-for-the-nfl-draft",
-    "title": "Longhorns OL DJ Campbell declares for the NFL Draft",
-    "description": "DJ Campbell makes key desicion about his future. The Texas Longhorns offensive lineman will enter the 2026 NFL Draft.",
+    "slug": "which-nfl-coaches-have-been-fired-black-monday-2025",
+    "title": "Which NFL coaches have been fired? Black Monday 2025",
+    "description": "Which NFL coaches have been fired? A few teams have already opened up head coaching positions on Black Monday.",
     "pubDate": "2026-01-05",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/longhorns-ol-dj-campbell-declares-164527288.html",
+    "link": "https://sports.yahoo.com/articles/nfl-coaches-fired-black-monday-172135341.html",
     "source": "Google News"
   },
   {
-    "slug": "devonta-smith-grateful-for-chance-to-hit-1-000-yards",
-    "title": "DeVonta Smith grateful for chance to hit 1,000 yards",
-    "description": "The Eagles WR explains why hitting the milestone was so important to him and head coach Nick Sirianni.",
+    "slug": "vikes-views-nincompoop-of-the-year",
+    "title": "Vikes Views: Nincompoop of the Year",
+    "description": "The Minnesota Vikings season has come to an end. It’s a season that ended on a five-game win streak that feels a little superficial. The results weren’t what the team wanted. Coming off a 14-3 season, a 5 win drop is always going to be disappointing. J.J. McCarthy missed more games and the QB positi",
     "pubDate": "2026-01-05",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/devonta-smith-grateful-chance-hit-164510983.html",
+    "link": "https://sports.yahoo.com/articles/vikes-views-nincompoop-172057257.html",
     "source": "Google News"
   },
   {
-    "slug": "raiders-fire-pete-carroll-after-3-14-season-and-will-look-for-a-new-coach-for-third-straight-year",
-    "title": "Raiders fire Pete Carroll after 3-14 season and will look for a new coach for third straight year",
-    "description": "The Las Vegas Raiders fired Pete Carroll on Monday after just one year, meaning they will enter their third consecutive season with a new coach in charge.  Carroll expressed high hopes upon taking over, saying he was used to double-digit victories and he expected the same in Las Vegas.  Now the ques",
+    "slug": "dolphins-to-interview-packers-exec-jon-eric-sullivan-for-gm-job",
+    "title": "Dolphins to interview Packers exec Jon-Eric Sullivan for GM job",
+    "description": "The Dolphins requested an interview with Packers personnel executive Jon-Eric Sullivan for their open GM job.",
     "pubDate": "2026-01-05",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/raiders-fire-pete-carroll-3-164408898.html",
-    "source": "MARK ANDERSON"
-  },
-  {
-    "slug": "qb-rocco-becht-following-matt-campbell-to-penn-state-with-grunkemeyer-reportedly-heading-to-va-tech",
-    "title": "QB Rocco Becht following Matt Campbell to Penn State with Grunkemeyer reportedly heading to Va. Tech",
-    "description": "Rocco Becht has announced he will follow coach Matt Campbell from Iowa State to Penn State, giving the Nittany Lions a veteran quarterback to replace Ethan Grunkemeyer.  Becht stated his decision in a social media post late Sunday.  Grunkemeyer posted at about the same time that he would enter the t",
-    "pubDate": "2026-01-05",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/qb-rocco-becht-following-matt-164400683.html",
-    "source": "The Associated Press"
-  },
-  {
-    "slug": "jaguars-beat-the-titans-here-are-the-food-deals-freebies-fans-can-get-for-the-win",
-    "title": "Jaguars beat the Titans: Here are the food deals, freebies fans can get for the win",
-    "description": "The Jacksonville Jaguars beat the Tennessee Titans on Sunday, clinching the AFC South title.",
-    "pubDate": "2026-01-05",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/jaguars-beat-titans-food-deals-164313420.html",
+    "link": "https://sports.yahoo.com/articles/dolphins-interview-packers-exec-jon-172052819.html",
     "source": "Google News"
   },
   {
-    "slug": "four-star-michigan-db-requests-release-from-national-letter-of-intent",
-    "title": "Four-star Michigan DB requests release from national letter of intent",
-    "description": "The hits keep coming for Michigan football - Andre Clarke Jr., a 4-star from Richmond, VA (Hermitage), has asked out of his national letter of intent.",
+    "slug": "dolphins-request-to-interview-pair-of-49ers-execs-for-gm-opening",
+    "title": "Dolphins request to interview pair of 49ers execs for GM opening",
+    "description": "The 49ers are pretty content with general manager John Lynch, so it's no surprise that another team is looking to interview guys who work for him.",
     "pubDate": "2026-01-05",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/four-star-michigan-db-requests-164247309.html",
+    "link": "https://sports.yahoo.com/articles/dolphins-request-interview-pair-49ers-172041825.html",
     "source": "Google News"
   },
   {
-    "slug": "florida-state-football-edge-amaree-williams-will-enter-transfer-portal",
-    "title": "Florida State football: Edge Amaree Williams will enter transfer portal",
-    "description": "The Seminoles lose a major talent",
+    "slug": "florida-football-adds-former-jmu-te-lacota-dippre-via-transfer-portal",
+    "title": "Florida football adds former JMU TE Lacota Dippre via transfer portal",
+    "description": "Florida football adds James Madison transfer tight end Lacota Dippre through the transfer portal. Dippre started 13 games at TE for JMU last season.",
     "pubDate": "2026-01-05",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/florida-state-football-edge-amaree-164246631.html",
+    "link": "https://sports.yahoo.com/articles/florida-football-adds-former-jmu-172039795.html",
     "source": "Google News"
   },
   {
-    "slug": "espn-believes-former-browns-hc-kevin-stefanski-will-be-hired-fast",
-    "title": "ESPN believes former Browns HC Kevin Stefanski will be hired fast",
-    "description": "One ESPN Analyst believes someone will hire former Browns head coach Kevin Stefanski in the near future.",
+    "slug": "unrivaled-begins-which-wnba-players-are-lacing-up-how-to-watch",
+    "title": "Unrivaled begins: which WNBA players are lacing up, how to watch",
+    "description": "The 3-on-3 women’s basketball league begins its second season on Monday — here’s who is playing and how to watch.",
     "pubDate": "2026-01-05",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/espn-believes-former-browns-hc-164218339.html",
+    "link": "https://sports.yahoo.com/articles/unrivaled-begins-wnba-players-lacing-172032730.html",
     "source": "Google News"
   },
   {
-    "slug": "celtic-sack-manager-nancy-after-eight-games",
-    "title": "Celtic sack manager Nancy after eight games",
-    "description": "Celtic sacked manager Wilfried Nancy on Monday after just eight games in charge of the Scottish champions -- during which his team suffered six defeats.\"Celtic Football Club today announces that it has decided to terminate the contract of manager Wilfried Nancy with immediate effect,\" said a club st",
+    "slug": "barcelona-rule-out-move-for-premier-league-club-captain-available-for-free-in-summer",
+    "title": "Barcelona rule out move for Premier League club captain available for free in summer",
+    "description": "It is no secret that Barcelona are on the hunt for defensive reinforcements, either in the ongoing January transfer window or in the coming summer.The club are determined to find replacements for Andr...",
     "pubDate": "2026-01-05",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/celtic-sack-manager-nancy-eight-155732052.html",
+    "link": "https://sports.yahoo.com/articles/barcelona-rule-move-premier-league-172000324.html",
     "source": "Google News"
   },
   {
-    "slug": "cancelo-asks-for-more-time-in-wait-for-barcelona-even-as-inter-and-al-hilal-reach-agreement",
-    "title": "Cancelo asks for more time in wait for Barcelona even as Inter and Al Hilal reach agreement",
-    "description": "The future of Joao Cancelo has been a subject of much discussion this week, with the defender on the verge of leaving Al Hilal.Barcelona have emerged as one of the potential destinations, with the pla...",
+    "slug": "dolphins-gm-candidates-start-to-emerge",
+    "title": "Dolphins GM candidates start to emerge",
+    "description": "The Miami Dolphins are starting their GM hunt with several interview requests reported.",
     "pubDate": "2026-01-05",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/cancelo-asks-more-time-wait-164000182.html",
+    "link": "https://sports.yahoo.com/articles/dolphins-gm-candidates-start-emerge-171946987.html",
     "source": "Google News"
   },
   {
-    "slug": "daily-slop-5-jan-26-with-30-free-agents-and-uncertainty-with-offensive-defensive-coordinators-commanders-face-a-critical-offseason-in-26",
-    "title": "Daily Slop: 5 Jan 26 – With 30 free agents and uncertainty with offensive & defensive coordinators, Commanders face a critical offseason in ‘26",
-    "description": "A collection of articles, podcasts & tweets from around the web to keep you in touch with the Commanders, the NFC East, the NFL and sports in general, and a sprinkling of other stuff",
+    "slug": "patriots-mike-vrabel-issues-less-than-ideal-injury-updates",
+    "title": "Patriots’ Mike Vrabel Issues Less-Than-Ideal Injury Updates",
+    "description": "The New England Patriots could be shorthanded entering their wild-card matchup with the Los Angeles Chargers. Mike Vrabel issued some less-than-ideal injury updates during his press conference on Monday, sharing that it was too soon to tell whether we would see the returns of linebackers Harold Land",
     "pubDate": "2026-01-05",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/daily-slop-5-jan-26-163959536.html",
+    "link": "https://sports.yahoo.com/articles/patriots-mike-vrabel-issues-less-171907725.html",
     "source": "Google News"
   },
   {
-    "slug": "injury-updates-on-davante-adams-quentin-lake-and-other-rams-for-playoffs",
-    "title": "Injury updates on Davante Adams, Quentin Lake and other Rams for playoffs",
-    "description": "Sean McVay shared updates on injured Rams, including Davante Adams and Quentin Lake, who are both expected to play on Saturday.",
+    "slug": "cardinals-coach-jonathan-gannon-fired-following-dismal-third-season-that-ended-with-3-14-record",
+    "title": "Cardinals coach Jonathan Gannon fired following dismal third season that ended with 3-14 record",
+    "description": "Arizona Cardinals coach Jonathan Gannon was fired following a dismal third season that started with high expectations but quickly collapsed thanks to injuries, embarrassing gaffes and a long string of losses that became increasingly noncompetitive.  The Cardinals made the announcement on Monday.  Ge",
     "pubDate": "2026-01-05",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/injury-updates-davante-adams-quentin-163958473.html",
+    "link": "https://sports.yahoo.com/articles/cardinals-coach-jonathan-gannon-fired-171902873.html",
+    "source": "DAVID BRANDT"
+  },
+  {
+    "slug": "mason-williams-commits-to-ohio-state-after-entering-transfer-portal",
+    "title": "Mason Williams commits to Ohio State after entering transfer portal",
+    "description": "Former Mogadore High School football star Mason Williams has committed to one of the nation's top programs after an All-MAC season at Ohio.",
+    "pubDate": "2026-01-05",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/mason-williams-commits-ohio-state-171850885.html",
     "source": "Google News"
   },
   {
-    "slug": "indiana-lands-commitment-from-kansas-state-edge-rusher-chiddi-obiazor",
-    "title": "Indiana lands commitment from Kansas State edge rusher Chiddi Obiazor",
-    "description": "Indiana adds yet another edge rusher through the transfer portal in Kansas State’s Chiddi Obiazor.",
+    "slug": "early-predictions-for-jaguars-vs-bills-afc-wild-card-matchup",
+    "title": "Early predictions for Jaguars vs. Bills AFC wild-card matchup",
+    "description": "Here are few early predictions for the Jacksonville Jaguars vs. Bills AFC wild-card matchup.",
     "pubDate": "2026-01-05",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/indiana-lands-commitment-kansas-state-163955039.html",
+    "link": "https://sports.yahoo.com/articles/early-predictions-jaguars-vs-bills-171839831.html",
     "source": "Google News"
   },
   {
-    "slug": "browns-owner-jimmy-haslam-makes-interesting-comment-about-jim-schwartz",
-    "title": "Browns owner Jimmy Haslam makes interesting comment about Jim Schwartz",
-    "description": "Browns owner Jimmy Haslam made an eyebrow raising comment about defensive coordinator Jim Schwartz after the Kevin Stefanski firing.",
+    "slug": "coleton-price-commits-to-kentucky-football",
+    "title": "Coleton Price commits to Kentucky Football",
+    "description": "One of the best players in the transfer portal picks the Wildcats!",
     "pubDate": "2026-01-05",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/browns-owner-jimmy-haslam-makes-163906798.html",
+    "link": "https://sports.yahoo.com/articles/coleton-price-commits-kentucky-football-171829698.html",
     "source": "Google News"
   },
   {
-    "slug": "las-vegas-raiders-fire-coach-pete-carroll-after-team-finishes-3-14-in-his-lone-season",
-    "title": "Las Vegas Raiders fire coach Pete Carroll after team finishes 3-14 in his lone season",
+    "slug": "recapping-indiana-football-s-monster-sunday-in-the-transfer-portal",
+    "title": "Recapping Indiana football’s monster Sunday in the transfer portal",
+    "description": "The Hoosiers had a fantastic day recruiting out of the transfer portal on Sunday. Here’s who they landed.",
+    "pubDate": "2026-01-05",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/recapping-indiana-football-monster-sunday-171818834.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "miami-dolphins-open-search-for-general-manager-here-are-the-names",
+    "title": "Miami Dolphins open search for general manager. Here are the names",
+    "description": "Among the candidates the Dolphins will be interviewing are assistant general managers and people heading up NFL player personnel and scouting departments for other teams.",
+    "pubDate": "2026-01-05",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/miami-dolphins-open-search-general-171817526.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "carolina-panthers-gear-up-for-first-playoff-showdown-since-2017",
+    "title": "Carolina Panthers gear up for first playoff showdown since 2017",
+    "description": "The Carolina Panthers will face the Los Angeles Rams in their first playoff game since 2017, carrying the title of NFC South champions and enjoying home field advantage at Bank of America Stadium.",
+    "pubDate": "2026-01-05",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/carolina-panthers-gear-first-playoff-132535039.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "utah-transfer-rb-raycine-guillory-commits-to-lsu",
+    "title": "Utah transfer RB Raycine Guillory commits to LSU",
+    "description": "Former Utah running back Raycine Guillory has committed to LSU, via the NCAA Transfer Portal, per On3’s Pete Nakos. At the time of his commitment to LSU, Guillory was the No. 60 running back in On3’s 2026 Transfer Portal Player Rankings. Guillory only spent one season at Utah. He made just one appea",
+    "pubDate": "2026-01-05",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/utah-transfer-rb-raycine-guillory-171757895.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "browns-might-need-a-qb-change-amid-brutal-shedeur-sanders-statistic",
+    "title": "Browns might need a QB change amid brutal Shedeur Sanders statistic",
+    "description": "This isn't helping Shedeuer Sander's case to be the starter in 2026.",
+    "pubDate": "2026-01-05",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/browns-might-qb-change-amid-171729456.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "lions-nfl-mock-draft-2026-what-experts-are-saying-about-first-round",
+    "title": "Lions NFL mock draft 2026: What experts are saying about first round",
+    "description": "Many NFL experts believe the Detroit Lions will be taking a defensive player with the No. 17 overall pick in the 2026 NFL Draft.",
+    "pubDate": "2026-01-05",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/lions-nfl-mock-draft-2026-171707539.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "ap-top-25-duke-39-s-win-over-notre-dame-extends-win-streak-solidifies-comeback-from-rough-start-to-the-season",
+    "title": "AP Top 25: Duke&#39;s win over Notre Dame extends win streak, solidifies comeback from rough start to the season",
+    "description": "Eight teams were upset over the past two weeks of games, including five to unranked opponents, so we have some movement in the AP poll.",
+    "pubDate": "2026-01-05",
+    "image": "",
+    "link": "https://sports.yahoo.com/womens-college-basketball/article/ap-top-25-dukes-win-over-notre-dame-extends-win-streak-solidifies-comeback-from-rough-start-to-the-season-171620439.html",
+    "source": "Cassandra Negley"
+  },
+  {
+    "slug": "former-iowa-state-safety-jamison-patton-commits-to-penn-state",
+    "title": "Former Iowa State Safety Jamison Patton Commits to Penn State",
+    "description": "Patton will play his final season in State College",
+    "pubDate": "2026-01-05",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/former-iowa-state-safety-jamison-171612713.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "39-ominous-start-but-not-surprising-for-a-squad-down-to-bare-bones-39",
+    "title": "&#39;Ominous start but not surprising for a squad down to bare bones&#39;",
+    "description": "For Crystal Palace, it has undoubtedly been an ominous start to 2026, at least in terms of results.  Second only to Alan Pardew's sprint-start in 2015-16, which collapsed soon after.  The injury list and Ismaila Sarr's Afcon absence remain a burden, and the fresh links of Oliver Glasner to Mancheste",
+    "pubDate": "2026-01-05",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/ominous-start-not-surprising-squad-171559168.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "sean-mcvay-davante-adams-quentin-lake-likely-to-return-for-saturday-vs-panthers",
+    "title": "Sean McVay: Davante Adams, Quentin Lake likely to return for Saturday vs. Panthers",
+    "description": "The Rams are getting some significant players back as they prepare to face the Panthers for the first game of the 2025 postseason.",
+    "pubDate": "2026-01-05",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/sean-mcvay-davante-adams-quentin-171553578.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "iowa-football-qb-mark-gronowski-accepts-east-west-shrine-bowl-invite",
+    "title": "Iowa football QB Mark Gronowski accepts East-West Shrine Bowl invite",
+    "description": "Mark Gronowski, after leading Iowa to a nine-win season, is going to be taking part in the East-West Shrine Bowl.",
+    "pubDate": "2026-01-05",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/iowa-football-qb-mark-gronowski-171532983.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "mikel-brown-jr-out-for-duke-game",
+    "title": "Mikel Brown Jr. out for Duke game",
+    "description": "Louisville will be without its star freshman point guard for the biggest home ACC game of the season. Pat Kelsey revealed Monday morning that Mikel Brown Jr. will once again be out when U of L hosts No. 5 Duke Tuesday inside the KFC Yum Center. A lingering back injury has kept Brown off the […]",
+    "pubDate": "2026-01-05",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/mikel-brown-jr-duke-game-171519309.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "sunderland-39-s-sadiki-stays-humble-as-dr-congo-target-afcon-quarters",
+    "title": "Sunderland&#39;s Sadiki stays humble as DR Congo target AFCON quarters",
+    "description": "Noah Sadiki insists he has not yet proven himself among the stars of the Premier League as the Sunderland revelation aims to lead the Democratic Republic of Congo into the quarter-finals of the Africa Cup of Nations.Sadiki has nevertheless been outstanding for a Sunderland team that has exceeded all",
+    "pubDate": "2026-01-05",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/sunderlands-sadiki-stays-humble-dr-171514654.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "dolphins-gm-search-tracker-every-update-on-miami-39-s-executive-hunt",
+    "title": "Dolphins GM search tracker: Every update on Miami&#39;s executive hunt",
+    "description": "The Dolphins are wasting no time lining up interviews for their GM vacancy.",
+    "pubDate": "2026-01-05",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/dolphins-gm-search-tracker-every-171505635.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "why-did-cardinals-fire-jonathan-gannon-arizona-parts-ways-with-coach-after-three-disappointing-seasons",
+    "title": "Why did Cardinals fire Jonathan Gannon? Arizona parts ways with coach after three disappointing seasons",
+    "description": "Here is more on why the Cardinals fired Jonathan Gannon.",
+    "pubDate": "2026-01-05",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/why-did-cardinals-fire-jonathan-171431222.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "former-wwe-star-killer-kross-says-aaa-booker-wants-him-in-promotion",
+    "title": "Former WWE Star Killer Kross Says AAA Booker Wants Him In Promotion",
+    "description": "Killer Kross says that Konnan is still interested in him joining the WWE-affiliated AAA.",
+    "pubDate": "2026-01-05",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/former-wwe-star-killer-kross-171426025.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "arizona-cardinals-coach-jonathan-gannon-has-been-fired-following-a-dismal-third-season",
+    "title": "Arizona Cardinals coach Jonathan Gannon has been fired following a dismal third season",
     "description": "",
     "pubDate": "2026-01-05",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/las-vegas-raiders-fire-coach-163834107.html",
+    "link": "https://sports.yahoo.com/articles/arizona-cardinals-coach-jonathan-gannon-171349389.html",
     "source": "Google News"
   },
   {
-    "slug": "vegas-residency-has-ended-pete-carroll-no-longer-raiders-head-coach",
-    "title": "Vegas Residency has ended: Pete Carroll no longer Raiders head coach",
-    "description": "Carroll was supposed to be an upgrade from previous Raiders coaches and at least be respectable. That did not happen.",
+    "slug": "boxing-schedule-and-results-2026",
+    "title": "Boxing schedule and results 2026",
+    "description": "Schedule and results for the biggest boxing fights in 2026.",
     "pubDate": "2026-01-05",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/vegas-residency-ended-pete-carroll-163816324.html",
+    "link": "https://sports.yahoo.com/articles/boxing-schedule-results-2026-171339070.html",
     "source": "Google News"
   },
   {
-    "slug": "who-could-be-in-the-frame-have-your-say",
-    "title": "Who could be in the frame? Have your say",
-    "description": "The search for Manchester United's next manager is on.  After only 14 months in charge, Ruben Amorim was sacked on Monday following his latest criticism of the club's hierarchy.  United are sixth in the Premier League and in contention for Champions League football next season.",
+    "slug": "inland-lakes-football-39-s-bradford-hanel-earn-mhsfca-all-state-honors",
+    "title": "Inland Lakes football&#39;s Bradford, Hanel earn MHSFCA all-state honors",
+    "description": "A pair of Inland Lakes football players recently earned nods on the Michigan High School Football Coaches Association 8-player all-state team.",
     "pubDate": "2026-01-05",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/could-frame-163722669.html",
+    "link": "https://sports.yahoo.com/articles/inland-lakes-footballs-bradford-hanel-171336786.html",
     "source": "Google News"
   },
   {
-    "slug": "oklahoma-transfers-michael-hawkins-maliek-hawkins-commit-to-west-virginia",
-    "title": "Oklahoma transfers Michael Hawkins, Maliek Hawkins commit to West Virginia",
-    "description": "West Virginia has landed a daily double out of the NCAA Transfer Portal, securing commitments from Oklahoma transfers Michael Hawkins and Maliek Hawkins, according to ESPN. The brothers, who both announced plans to hit free agency last month, are the fourth and fifth additions out of the portal for",
+    "slug": "barcelona-make-official-bid-to-sign-joan-cancelo-on-loan",
+    "title": "Barcelona make official bid to sign Joan Cancelo on loan",
+    "description": "Moves are being made!",
     "pubDate": "2026-01-05",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/oklahoma-transfers-michael-hawkins-maliek-163721773.html",
+    "link": "https://sports.yahoo.com/articles/barcelona-official-bid-sign-joan-171211018.html",
     "source": "Google News"
   },
   {
-    "slug": "celtic-sack-wilfried-nancy-after-record-breaking-month-of-misery",
-    "title": "Celtic sack Wilfried Nancy after record-breaking month of misery",
-    "description": "Celtic have dismissed Wilfried Nancy after just 33 days in charge, bringing an abrupt end to the shortest permanent managerial reign in the club’s history.The 48-year-old was removed from his positi...",
+    "slug": "msu-transfer-edge-reportedly-visiting-trio-of-power-4-schools",
+    "title": "MSU transfer EDGE reportedly visiting trio of power 4 schools",
+    "description": "A Michigan State transfer edge rusher has locked in a number of visits to power four schools",
     "pubDate": "2026-01-05",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/celtic-sack-wilfried-nancy-record-163700815.html",
+    "link": "https://sports.yahoo.com/articles/msu-transfer-edge-reportedly-visiting-171137745.html",
     "source": "Google News"
   },
   {
-    "slug": "steelers-player-predicted-tyler-loop-s-stunning-missed-field-goal",
-    "title": "Steelers Player Predicted Tyler Loop’s Stunning Missed Field Goal",
-    "description": "Sunday night’s showdown between the Baltimore Ravens and Pittsburgh Steelers was a nailbiter, going down to the wire. The Steelers pulled ahead on Aaron Rodgers’ clutch 26-yard touchdown pass to Calvin Austin III, but Chris Boswell shockingly missed the extra point, leaving Pittsburgh’s defense to h",
+    "slug": "eagles-2026-opponents",
+    "title": "Eagles 2026 opponents",
+    "description": "Here are the 14 teams that Philadelphia will play next season.",
     "pubDate": "2026-01-05",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/steelers-player-predicted-tyler-loop-163648235.html",
+    "link": "https://sports.yahoo.com/articles/eagles-2026-opponents-171136454.html",
     "source": "Google News"
   },
   {
-    "slug": "wwe-39-s-shinsuke-nakamura-confirms-attempt-to-retire-hiroshi-tanahashi-in-njpw",
-    "title": "WWE&#39;s Shinsuke Nakamura Confirms Attempt To Retire Hiroshi Tanahashi In NJPW",
-    "description": "WWE's Shinsuke Nakamura has revealed he did everything he could to be at Hiroshi Tanahashi' retirement match at NJPW Wrestle Kingdom 20.",
+    "slug": "mid-atlantic-sportswatch-daily-listings",
+    "title": "Mid-Atlantic Sportswatch Daily Listings",
+    "description": "",
     "pubDate": "2026-01-05",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/wwes-shinsuke-nakamura-confirms-attempt-163633575.html",
+    "link": "https://sports.yahoo.com/articles/mid-atlantic-sportswatch-daily-listings-171123239.html",
+    "source": "The Associated Press"
+  },
+  {
+    "slug": "cardinals-fire-jonathan-gannon",
+    "title": "Cardinals fire Jonathan Gannon",
+    "description": "Arizona is moving on from its head coach after three seasons.",
+    "pubDate": "2026-01-05",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/cardinals-fire-jonathan-gannon-171120734.html",
     "source": "Google News"
   },
   {
-    "slug": "real-teenager-endrick-targets-brazil-return-from-lyon-loan",
-    "title": "Real teenager Endrick targets Brazil return from Lyon loan",
-    "description": "Brazilian starlet Endrick said on Monday that he hoped his loan switch to Lyon would help spark a return to the national side, in time for the World Cup.\"My aim is to help Lyon, to play and to win,\" Endrick told reporters ahead of his likely debut for the Ligue 1 side against Lille in the French Cup",
+    "slug": "pennsylvania-sportswatch-daily-listings",
+    "title": "Pennsylvania Sportswatch Daily Listings",
+    "description": "",
     "pubDate": "2026-01-05",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/real-teenager-endrick-targets-brazil-163615199.html",
+    "link": "https://sports.yahoo.com/articles/pennsylvania-sportswatch-daily-listings-171115378.html",
+    "source": "The Associated Press"
+  },
+  {
+    "slug": "new-england-sportswatch-daily-listings",
+    "title": "New England Sportswatch Daily Listings",
+    "description": "",
+    "pubDate": "2026-01-05",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/england-sportswatch-daily-listings-171107989.html",
+    "source": "The Associated Press"
+  },
+  {
+    "slug": "birmingham-winger-hansson-joins-excelsior-rotterdam",
+    "title": "Birmingham winger Hansson joins Excelsior Rotterdam",
+    "description": "Birmingham City winger Emil Hansson joins Dutch Eredivisie side Excelsior Rotterdam for an undisclosed fee.",
+    "pubDate": "2026-01-05",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/birmingham-winger-hansson-joins-excelsior-171106645.html",
     "source": "Google News"
   },
   {
-    "slug": "stoke-39-s-lipsiuc-extends-loan-stay-with-solihull",
-    "title": "Stoke&#39;s Lipsiuc extends loan stay with Solihull",
-    "description": "Solihull Moors extend their loan deal for Stoke City's Darius Lipsiuc until the end of the season.",
+    "slug": "5-raiders-head-coach-candidates-to-replace-pete-carroll",
+    "title": "5 Raiders head coach candidates to replace Pete Carroll",
+    "description": "With Pete Carroll out, here are five top candidates for the Las Vegas Raiders head coaching job.",
     "pubDate": "2026-01-05",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/stokes-lipsiuc-extends-loan-stay-163614111.html",
+    "link": "https://sports.yahoo.com/articles/5-raiders-head-coach-candidates-171106096.html",
     "source": "Google News"
   },
   {
-    "slug": "the-morning-after-the-bears-39-disappointing-loss-vs-lions-in-week-18",
-    "title": "The Morning After...the Bears&#39; disappointing loss vs. Lions in Week 18",
-    "description": "The Bears came out flat against the Lions, suffering a 19-16 defeat. Our staff shares their thoughts on the disappointing loss.",
+    "slug": "swiss-soccer-awards-gala-postponed-during-mourning-for-fatal-fire-at-crans-montana",
+    "title": "Swiss soccer awards gala postponed during mourning for fatal fire at Crans-Montana",
+    "description": "Swiss soccer's annual awards ceremony scheduled for next week was postponed Monday as the nation mourns the fatal fire tragedy on New Year’s Day at a bar in Crans-Montana.  The Swiss Football League said jointly with the national soccer federation “holding the event is not appropriate” in Bern on Ja",
     "pubDate": "2026-01-05",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/morning-bears-disappointing-loss-vs-163554865.html",
+    "link": "https://sports.yahoo.com/articles/swiss-soccer-awards-gala-postponed-171103381.html",
     "source": "Google News"
   },
   {
-    "slug": "russell-wilson-reveals-he-had-undisclosed-hamstring-tear-before-week-2-at-dallas",
-    "title": "Russell Wilson reveals he had undisclosed hamstring tear before Week 2 at Dallas",
-    "description": "Russell Wilson is giving the New York Giants a parting gift.",
+    "slug": "michigan-sportswatch-daily-listings",
+    "title": "Michigan Sportswatch Daily Listings",
+    "description": "",
     "pubDate": "2026-01-05",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/russell-wilson-reveals-had-undisclosed-163508354.html",
+    "link": "https://sports.yahoo.com/articles/michigan-sportswatch-daily-listings-171059734.html",
+    "source": "The Associated Press"
+  },
+  {
+    "slug": "fantasy-basketball-high-score-perfect-lineup-for-week-11-joel-embiid-makes-first-appearance-of-the-season",
+    "title": "Fantasy Basketball High Score Perfect Lineup for Week 11: Joel Embiid makes first appearance of the season",
+    "description": "We're looking at the top six scores from Yahoo High Score to form the Week 11 perfect fantasy basketball lineup.",
+    "pubDate": "2026-01-05",
+    "image": "",
+    "link": "https://sports.yahoo.com/fantasy/article/fantasy-basketball-high-score-perfect-lineup-for-week-11-joel-embiid-makes-first-appearance-of-the-season-171056100.html",
+    "source": "Ben Zweiman"
+  },
+  {
+    "slug": "watch-rhamondre-stevenson-shows-off-dual-threat-skills-with-td-catch",
+    "title": "Watch: Rhamondre Stevenson shows off dual-threat skills with TD catch",
+    "description": "Patriots running back Rhamondre Stevenson can win on the ground and through the air, as evident by his touchdown reception on the Dolphins.",
+    "pubDate": "2026-01-05",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/watch-rhamondre-stevenson-shows-off-171055757.html",
     "source": "Google News"
   },
   {
-    "slug": "chiefs-39-chris-jones-is-convinced-travis-kelce-will-play-another-season-39-i-got-faith-in-my-dawg-39",
-    "title": "Chiefs&#39; Chris Jones Is Convinced Travis Kelce Will Play Another Season: &#39;I Got Faith in My Dawg&#39;",
-    "description": "Travis Kelce played his final game of the season with the Kansas City Chiefs on Jan. 4, and potentially his last ever amid talk he'll retire this year",
+    "slug": "cincinnati-bearcats-get-ex-notre-dame-la-salle-hs-rb-gi-39-bran-payne",
+    "title": "Cincinnati Bearcats get ex-Notre Dame, La Salle HS RB Gi&#39;Bran Payne",
+    "description": "Gi'Bran Payne, running back from Notre Dame, La Salle High School returns home to Cincinnati Bearcats",
     "pubDate": "2026-01-05",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/chiefs-chris-jones-convinced-travis-163448964.html",
+    "link": "https://sports.yahoo.com/articles/cincinnati-bearcats-ex-notre-dame-171030780.html",
     "source": "Google News"
   },
   {
-    "slug": "birmingham-pair-extend-brackley-loans",
-    "title": "Birmingham pair extend Brackley loans",
-    "description": "Brackley Town extend the loans of Birmingham City's Ben Wodskou and Byron Pendleton for the rest of the season.",
+    "slug": "cancelo-battle-is-on-barcelona-respond-to-first-inter-offer",
+    "title": "Cancelo battle is on: Barcelona respond to first Inter offer",
+    "description": "The battle is on for Joao Cancelo, as after Inter reached a verbal agreement with Al-Hilal, now Barcelona have reportedly made their first offer.The winger has been effectively frozen out in the Saudi...",
     "pubDate": "2026-01-05",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/birmingham-pair-extend-brackley-loans-163442962.html",
+    "link": "https://sports.yahoo.com/articles/cancelo-battle-barcelona-respond-first-171000569.html",
     "source": "Google News"
   },
   {
-    "slug": "nfl-head-coach-firings-tracker-2026-full-list-of-moves-on-black-monday-live-updates",
-    "title": "NFL head coach firings tracker 2026: Full list of moves on Black Monday (Live updates)",
-    "description": "It’s Black Monday and some NFL teams will make changes to their personnel. MassLive will have live updates throughout the day of all the news and rumors.",
+    "slug": "wilfried-nancy-record-at-celtic-how-french-manager-lasted-just-eight-games-in-scotland",
+    "title": "Wilfried Nancy record at Celtic: How French manager lasted just eight games in Scotland",
+    "description": "Wilfried Nancy's time at Celtic was the shortest of any permanent manager in the club's history.",
     "pubDate": "2026-01-05",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/nfl-head-coach-firings-tracker-140240630.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "39-pure-relief-pure-joy-absolute-bliss-39",
-    "title": "&#39;Pure relief, pure joy, absolute bliss&#39;",
-    "description": "Mateus Mane has injected something we've been crying out for: energy and directness.  Credit is also due to Hwang Hee-chan and Jhon Arias, because both have had plenty of criticism thrown their way.  Rob Edwards tweaked the system and, crucially, pushed them into more central roles.",
-    "pubDate": "2026-01-05",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/pure-relief-pure-joy-absolute-163422151.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "steelers-given-brutal-ranking-on-super-bowl-contenders-list",
-    "title": "Steelers Given Brutal Ranking On Super Bowl Contenders List",
-    "description": "The Pittsburgh Steelers are riding high after winning the AFC North by virtue of a Week 18 nail-biting victory vs. the Baltimore Ravens on Sunday. Pittsburgh finished in first place in the division for the first time since the 2020 campaign but ended the regular season with a mediocre 10-7 record fo",
-    "pubDate": "2026-01-05",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/steelers-given-brutal-ranking-super-163418904.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "seahawks-rams-favored-in-super-bowl-odds-stafford-passes-maye-in-mvp-race",
-    "title": "Seahawks, Rams Favored in Super Bowl Odds; Stafford Passes Maye in MVP Race",
-    "description": "Oddsmakers install NFC West rivals as teams to beat in NFL playoffs. Stafford reinstalled as MVP favorite after another 4-TD performance.",
-    "pubDate": "2026-01-05",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/seahawks-rams-favored-super-bowl-163400704.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "community-prospect-rankings-are-near",
-    "title": "Community Prospect Rankings are near!",
-    "description": "Get your popcorn ready!",
-    "pubDate": "2026-01-05",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/community-prospect-rankings-near-163307043.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "39-determination-and-togetherness-39-maintains-momentum",
-    "title": "&#39;Determination and togetherness&#39; maintains momentum",
-    "description": "No matter what anyone told us would happen negatively to Sunderland since the season started, we just keep on ignoring it and cracking on.  Afcon will soon be over, we will have players returning to Wearside, and there is also the small matter of the transfer window where Sunderland are expected to",
-    "pubDate": "2026-01-05",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/determination-togetherness-maintains-momentum-163247490.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "who-are-ri-39-s-best-boys-basketball-teams-here-are-our-updated-rankings",
-    "title": "Who are RI&#39;s best boys basketball teams? Here are our updated rankings",
-    "description": "Who are the best high school basketball teams in Rhode Island right now? Here's how the Journal ranked the top five teams in Division I, II and III after Week 3.",
-    "pubDate": "2026-01-05",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/ris-best-boys-basketball-teams-163205792.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "after-latest-losing-season-arizona-cardinals-have-three-of-the-worst-head-coaches-in-nfl-history",
-    "title": "After latest losing season, Arizona Cardinals have three of the worst head coaches in NFL history",
-    "description": "Jonathan Gannon is among the worst coaches in NFL history now.",
-    "pubDate": "2026-01-05",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/latest-losing-season-arizona-cardinals-163202059.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "grading-the-buccaneers-offense-by-position-based-on-the-2025-season",
-    "title": "Grading the Buccaneers offense by position based on the 2025 season",
-    "description": "The Bucs offense will need to look revamped in 2026, but what did it look like in 2025?",
-    "pubDate": "2026-01-05",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/grading-buccaneers-offense-position-based-163152116.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "rumor-opens-door-to-pit-pirates-soon-landing-all-star-ace-to-pair-with-paul-skenes",
-    "title": "Rumor Opens Door to PIT Pirates Soon Landing All-Star Ace to Pair With Paul Skenes",
-    "description": "A new rumor seemingly opens the door to the Pittsburgh Pirates potentially acquiring an All-Star ace to team up with […]",
-    "pubDate": "2026-01-05",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/rumor-opens-door-pit-pirates-162821295.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "nfl-playoff-power-ranks-everyone-kinda-stinks-the-playoffs-will-be-great",
-    "title": "NFL playoff power ranks: Everyone kinda stinks, the playoffs will be great",
-    "description": "Every one of the 14 teams in the 2026 NFL playoff field is vulnerable. Whose fatal flaw will hurt them the least?",
-    "pubDate": "2026-01-05",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/nfl-playoff-power-ranks-everyone-163121629.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "former-vikings-coach-fired-on-black-monday",
-    "title": "Former Vikings Coach Fired on Black Monday",
-    "description": "Every year, a handful of NFL coaches lose their jobs on the Monday after the regular season, and former Minnesota […]",
-    "pubDate": "2026-01-05",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/former-vikings-coach-fired-black-163100389.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "new-york-giants-39-malik-nabers-won-39-t-commit-to-week-1-return-in-2026",
-    "title": "New York Giants&#39; Malik Nabers won&#39;t commit to Week 1 return in 2026",
-    "description": "New York Giants WR Malik Nabers won't commit to a Week 1 return in 2026 despite saying his rehab is \"right on track.\"",
-    "pubDate": "2026-01-05",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/york-giants-malik-nabers-wont-163029187.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "chad-morris-officially-named-clemson-s-new-offensive-coordinator",
-    "title": "Chad Morris officially named Clemson’s new offensive coordinator",
-    "description": "Clemson makes it official, Chad Morris is the Tigers new offensive coordinator.",
-    "pubDate": "2026-01-05",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/chad-morris-officially-named-clemson-163025493.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "fulham-39-evolution-39-helped-by-players-from-past",
-    "title": "Fulham &#39;evolution&#39; helped by players from past",
-    "description": "In each of our past two matches, Fulham have salvaged a point thanks to players whom many would have dismissed as past their best.  Tom Cairney hit a sweet strike at Selhurst Park to ensure we kicked off the new year with a point, then on Sunday, Harrison Reed scored a goal-of-the-season contender s",
-    "pubDate": "2026-01-05",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/fulham-evolution-helped-players-past-163010118.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "why-did-the-raiders-fire-pete-carroll-las-vegas-lets-go-of-head-coach-after-one-disastrous-season",
-    "title": "Why did the Raiders fire Pete Carroll? Las Vegas lets go of head coach after one disastrous season",
-    "description": "Pete Carroll was jettisoned after just one year in Las Vegas. Here's why things didn't work out.",
-    "pubDate": "2026-01-05",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/why-did-raiders-fire-pete-163006860.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "california-circuit-finals-close-the-year-in-red-bluff",
-    "title": "California Circuit Finals Close the Year in Red Bluff",
-    "description": "The California Circuit Finals wrapped up New Year’s Eve in Red Bluff, where average and year-end champions secured their place at the 2026 NFR Open.",
-    "pubDate": "2026-01-05",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/california-circuit-finals-close-red-163004032.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "report-inter-milan-set-to-lodge-5-5m-offer-for-hajduk-split-prodigy",
-    "title": "Report – Inter Milan Set To Lodge €5.5m Offer For Hajduk Split Prodigy",
-    "description": "Serie A pacesetters Inter Milan have reportedly stepped up efforts to sign Hajduk Split teenager Branimir Mlacic.According to FCInter1908, the Nerazzurri are ready to table a €5.5 million offer for ...",
-    "pubDate": "2026-01-05",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/report-inter-milan-set-lodge-163000514.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "wayne-rooney-says-something-about-liam-rosenior-which-will-help-chelsea-fans-relax-about-risky-appointment",
-    "title": "Wayne Rooney says something about Liam Rosenior which will help Chelsea fans relax about risky appointment",
-    "description": "Wayne Rooney was speaking on his podcast today about Liam Rosenior, his former assistant at Derby who is about to get his big break with a move to manage Chelsea.Details will prove to players that Ros...",
-    "pubDate": "2026-01-05",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/wayne-rooney-says-something-liam-163000000.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "horizon-league-dec-29-jan-4-recap",
-    "title": "Horizon League Dec. 29-Jan. 4 recap",
-    "description": "Heavyweight clashes headline week one of official conference play",
-    "pubDate": "2026-01-05",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/horizon-league-dec-29-jan-163000284.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "bully-ray-is-conflicted-about-ethan-page-graduating-from-wwe-nxt",
-    "title": "Bully Ray Is Conflicted About Ethan Page Graduating From WWE NXT",
-    "description": "Bully Ray has discussed Ethan Page's future, saying he hopes the NXT star succeeds and eventually reaches the WWE main roster, but also stay in NXT.",
-    "pubDate": "2026-01-05",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/bully-ray-conflicted-ethan-page-163000957.html",
+    "link": "https://sports.yahoo.com/articles/wilfried-nancy-record-celtic-french-170955963.html",
     "source": "Google News"
   },
   {
