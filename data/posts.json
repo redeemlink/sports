@@ -1,14 +1,5 @@
 [
   {
-    "slug": "follow-live-ravens-steelers-battling-in-winner-take-all-afc-north-clash",
-    "title": "Follow live: Ravens, Steelers battling in winner-take-all AFC North clash",
-    "description": "null",
-    "pubDate": "2026-01-05",
-    "image": "",
-    "link": "https://www.espn.com/nfl/story/_/id/47501855/nfl-week-18-highlights-touchdowns-plays-moments-sunday",
-    "source": "NFL Nation"
-  },
-  {
     "slug": "falcons-fire-morris-fontenot-despite-hot-finish",
     "title": "Falcons fire Morris, Fontenot despite hot finish",
     "description": "The Falcons have fired coach Raheem Morris and general manager Terry Fontenot after two straight disappointing seasons.",
@@ -16,6 +7,15 @@
     "image": "",
     "link": "https://www.espn.com/nfl/story/_/id/47507975/source-falcons-move-raheem-morris-coach",
     "source": "Marc Raimondi"
+  },
+  {
+    "slug": "steelers-take-afc-north-as-ravens-fg-sails-wide",
+    "title": "Steelers take AFC North as Ravens FG sails wide",
+    "description": "The Steelers won the AFC North title and secured last NFL playoff spot with a dramatic 26-24 win over Ravens on Sunday night.",
+    "pubDate": "2026-01-05",
+    "image": "",
+    "link": "https://www.espn.com/nfl/story/_/id/47509668/steelers-take-afc-north-title-ravens-miss-last-second-fg",
+    "source": "Brooke Pryor"
   },
   {
     "slug": "qb-sorsby-top-player-in-portal-commits-to-ttu",
@@ -27,13 +27,31 @@
     "source": "Pete Thamel"
   },
   {
+    "slug": "johnson-rips-bears-offense-after-loss-to-lions",
+    "title": "Johnson rips Bears' offense after loss to Lions",
+    "description": "Bears coach Ben Johnson wasn't happy with his team's offense in a 19-16 loss to the Lions while QB Caleb Williams admitted Chicago came out \"flat.\"",
+    "pubDate": "2026-01-05",
+    "image": "",
+    "link": "https://www.espn.com/nfl/story/_/id/47508941/ben-johnson-rips-bears-offense-loss-lions",
+    "source": "Courtney Cronin"
+  },
+  {
     "slug": "eagles-stand-by-rest-call-despite-losing-2-seed",
     "title": "Eagles stand by rest call despite losing 2-seed",
-    "description": "Eagles coach Nick Sirianni stood by the decision to rest most of his starters in a Week 18 loss to the Commanders despite it costing them a chance for the No. 2 seed.",
+    "description": "Eagles coach Nick Sirianni stood by the decision to rest most of his starters in a Week 18 loss to the Commanders despite it costing Philadelphia a chance for the No. 2 seed.",
     "pubDate": "2026-01-05",
     "image": "",
     "link": "https://www.espn.com/nfl/story/_/id/47508337/eagles-stand-decision-rest-fall-no-3-seed",
     "source": "Tim McManus"
+  },
+  {
+    "slug": "kelce-on-when-he-ll-decide-future-who-knows",
+    "title": "Kelce on when he'll decide future: 'Who knows?'",
+    "description": "Chiefs tight end Travis Kelce said following the team's 14-12 season-ending loss to the Raiders on Sunday that he is undecided on his future and when he will make a decision.",
+    "pubDate": "2026-01-05",
+    "image": "",
+    "link": "https://www.espn.com/nfl/story/_/id/47509138/chiefs-travis-kelce-undecided-future-line-decision-season-ending-loss-raiders",
+    "source": "Nate Taylor"
   },
   {
     "slug": "sources-tcu-s-hoover-picks-iu-after-campus-visit",
@@ -54,33 +72,6 @@
     "source": "Pete Thamel"
   },
   {
-    "slug": "broncos-take-care-of-business-secure-no-1-seed",
-    "title": "Broncos take care of business, secure No. 1 seed",
-    "description": "The Broncos secured the AFC's top playoff seed with a 19-3 win over the Chargers' bevy of backups Sunday, a victory fueled by Ja'Quan McMillian's 45-yard interception return for a touchdown.",
-    "pubDate": "2026-01-05",
-    "image": "",
-    "link": "https://www.espn.com/nfl/story/_/id/47507514/broncos-top-chargers-secure-afc-no-1-seed-playoffs",
-    "source": "Jeff Legwold"
-  },
-  {
-    "slug": "colts-coach-gm-to-return-despite-25-collapse",
-    "title": "Colts' coach, GM to return despite '25 collapse",
-    "description": "Colts general manager Chris Ballard and coach Shane Steichen will return in their roles next season.",
-    "pubDate": "2026-01-05",
-    "image": "",
-    "link": "https://www.espn.com/nfl/story/_/id/47506569/colts-coach-shane-steichen-gm-chris-ballard-return-2026",
-    "source": "Stephen Holder"
-  },
-  {
-    "slug": "sack-king-garrett-gets-no-23-to-set-nfl-record",
-    "title": "'Sack king' Garrett gets No. 23 to set NFL record",
-    "description": "Browns defensive end Myles Garrett set the NFL's single-season sack record Sunday with a sack of Joe Burrow to give him 23.",
-    "pubDate": "2026-01-05",
-    "image": "",
-    "link": "https://www.espn.com/nfl/story/_/id/47503855/browns-myles-garrett-gets-sack-no-23-set-nfl-season-record",
-    "source": "Daniel Oyefusi"
-  },
-  {
     "slug": "nfl-playoff-scenarios-how-teams-can-clinch",
     "title": "🏈 NFL playoff scenarios: How teams can clinch",
     "description": "Two spots remain open in the playoffs, while both No. 1 seeds are up for grabs. Here's everything to know about clinching scenarios for Week 18.",
@@ -90,8 +81,8 @@
     "source": "ESPN staff"
   },
   {
-    "slug": "the-nfl-playoffs-are-nearly-here-our-guide-to-13-of-14-teams-as-we-wait-for-ravens-steelers",
-    "title": "The NFL playoffs are nearly here! Our guide to 13 of 14 teams as we wait for Ravens-Steelers",
+    "slug": "the-nfl-playoffs-are-here-our-guide-to-all-14-teams-from-favorites-to-underdogs",
+    "title": "The NFL playoffs are here! Our guide to all 14 teams, from favorites to underdogs",
     "description": "The 2025 NFL playoff field is just about set, and an exciting wild-card round looms. Here's everything to know about the teams vying to win Super Bowl LX.",
     "pubDate": "2026-01-05",
     "image": "",
@@ -117,13 +108,13 @@
     "source": "NFL Nation, Jeremy Fowler, Dan Graziano, Matt Miller, Jordan Reid, Aaron Schatz and Ben Solak"
   },
   {
-    "slug": "legendary-mahomes-parsons-lead-congratulations-for-garrett",
-    "title": "'Legendary': Mahomes, Parsons lead congratulations for Garrett",
-    "description": "Cleveland's defensive end received congratulations from around the sports world.",
+    "slug": "sack-records-garrett-makes-history-broncos-d-four-shy-of-team-record",
+    "title": "Sack records: Garrett makes history; Broncos' D four shy of team record",
+    "description": "The Browns' vet edge rusher breaks the single-season sack record, and the Broncos' defense comes up short.",
     "pubDate": "2026-01-05",
     "image": "",
-    "link": "https://www.espn.com/nfl/story/_/id/47504255/myles-garrett-sack-record-nfl-congratulations-social-media-reaction",
-    "source": "Anthony Gharib"
+    "link": "https://www.espn.com/nfl/story/_/id/47100067/tracking-sacks-record-cleveland-browns-myles-garrett-denver-broncos-pace-nfl-single-season-player-team",
+    "source": "Daniel Oyefusi and Jeff Legwold"
   },
   {
     "slug": "falcons-fire-raheem-morris-after-two-seasons",
@@ -243,6 +234,15 @@
     "source": "BBC Sport"
   },
   {
+    "slug": "root-recieves-standing-ovation-as-sublime-innings-comes-to-an-end",
+    "title": "Root recieves standing ovation as sublime innings comes to an end",
+    "description": "Joe Root's excellent first innings comes to an end as he's caught and bowled by Michael Neser for 160, to leave England on 384-9 on day two of the fifth Ashes Test in Sydney.",
+    "pubDate": "2026-01-05",
+    "image": "",
+    "link": "https://www.bbc.com/sport/cricket/videos/c89qxyj59v0o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport"
+  },
+  {
     "slug": "he-s-done-it-again-root-reaches-second-century-of-ashes-series",
     "title": "'He's done it again!' - Root reaches second century of Ashes series",
     "description": "Joe Root scores his second century of the 2025/26 Ashes series as England move on to 265-5 against Australia on day two of the fifth Ashes Test in Sydney.",
@@ -270,233 +270,116 @@
     "source": "BBC Sport"
   },
   {
-    "slug": "arizona-cardinals-2026-opponents-home-away-matchups-confirmed",
-    "title": "Arizona Cardinals 2026 opponents: Home, away matchups confirmed",
-    "description": "We know who the Arizona Cardinals opponents for 2026 will be.",
+    "slug": "2025-nfl-playoff-odds-betting-odds-for-every-nfl-playoff-game",
+    "title": "2025 NFL playoff odds, betting: Odds for every NFL playoff game",
+    "description": "The Bills are road favorites against the Jaguars in the wild-card round of the NFL playoffs.",
     "pubDate": "2026-01-05",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/arizona-cardinals-2026-opponents-home-034522895.html",
+    "link": "https://sports.yahoo.com/nfl/betting/article/2025-nfl-playoff-odds-betting-odds-for-every-nfl-playoff-game-044730703.html",
+    "source": "Ben Fawkes"
+  },
+  {
+    "slug": "rui-hachimura-will-miss-at-least-two-more-games",
+    "title": "Rui Hachimura will miss at least two more games",
+    "description": "The Lakers will be without starting forward Rui Hachimura for at least a little while longer.",
+    "pubDate": "2026-01-05",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/rui-hachimura-miss-least-two-044439992.html",
     "source": "Google News"
   },
   {
-    "slug": "kyle-hamilton-exits-ravens-matchup-vs-steelers-with-a-concussion",
-    "title": "Kyle Hamilton exits Ravens matchup vs. Steelers with a concussion",
-    "description": "The All-Pro safety was ruled out with a concussion after colliding with teammate Alohi Gilman",
+    "slug": "the-good-the-bad-the-ugly-from-the-vikings-39-win-over-the-packers",
+    "title": "The Good, The Bad, The Ugly from the Vikings&#39; win over the Packers",
+    "description": "The Minnesota Vikings beat the Green Bay Packers in a meaningless Week 18 victory.",
     "pubDate": "2026-01-05",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/kyle-hamilton-exits-ravens-matchup-034246684.html",
+    "link": "https://sports.yahoo.com/articles/good-bad-ugly-vikings-win-044344249.html",
     "source": "Google News"
   },
   {
-    "slug": "steelers-or-ravens-vs-texans-first-round-playoff-date-revealed",
-    "title": "Steelers or Ravens vs. Texans first-round playoff date revealed",
-    "description": "The date for the Pittsburgh Steelers’ or Baltimore Ravens’ playoff matchup against the Houston Texans has been revealed.",
+    "slug": "nfl-reveals-wild-card-schedule-when-is-texans-vs-steelers",
+    "title": "NFL reveals wild-card schedule: When is Texans vs. Steelers?",
+    "description": "The Houston Texans now know their opponent and kickoff time for wild-card weekend.",
     "pubDate": "2026-01-05",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/steelers-ravens-vs-texans-first-034137045.html",
+    "link": "https://sports.yahoo.com/articles/nfl-reveals-wild-card-schedule-044119358.html",
     "source": "Google News"
   },
   {
-    "slug": "recap-avalanche-lose-landeskog-and-third-game-in-regulation",
-    "title": "Recap: Avalanche lose Landeskog and third game in regulation",
-    "description": "It was not a good time in Florida.",
+    "slug": "2026-nfl-draft-order-detroit-lions-first-round-pick-officially-set",
+    "title": "2026 NFL Draft order: Detroit Lions first-round pick officially set",
+    "description": "The Detroit Lions now know where they will pick in the first round of the 2026 NFL Draft.",
     "pubDate": "2026-01-05",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/recap-avalanche-lose-landeskog-third-034000735.html",
+    "link": "https://sports.yahoo.com/articles/2026-nfl-draft-order-detroit-044110939.html",
     "source": "Google News"
   },
   {
-    "slug": "eagles-starters-react-to-sitting-vs-commanders-as-no-2-seed-slips-away-i-wish-i-would-have-played",
-    "title": "Eagles starters react to sitting vs. Commanders as No. 2 seed slips away: ‘I wish I would have played’",
-    "description": "Eagles starters comment on not playing vs. Commanders.",
+    "slug": "instant-takeaways-from-the-vikings-39-win-over-the-packers-in-week-18",
+    "title": "Instant Takeaways from the Vikings&#39; win over the Packers in Week 18",
+    "description": "The Minnesota Vikings finished the 2025 season with a five-game win streak after beating the Green Bay Packers in Week 18.",
     "pubDate": "2026-01-05",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/eagles-starters-react-sitting-vs-033953334.html",
+    "link": "https://sports.yahoo.com/articles/instant-takeaways-vikings-win-over-044033788.html",
     "source": "Google News"
   },
   {
-    "slug": "texas-football-transfer-portal-disappointment-as-rb-target-stays-put",
-    "title": "Texas Football transfer portal disappointment as RB target stays put",
-    "description": "Texas transfer portal target Issac Brown has decided to stay at Louisville. The running back will not enter the portal afteral.",
+    "slug": "wild-card-weekend-schedule-officially-set",
+    "title": "Wild Card Weekend schedule officially set",
+    "description": "Which teams will be playing at what times while the Seahawks anxiously await?",
     "pubDate": "2026-01-05",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/texas-football-transfer-portal-disappointment-033921404.html",
+    "link": "https://sports.yahoo.com/articles/wild-card-weekend-schedule-officially-044000619.html",
     "source": "Google News"
   },
   {
-    "slug": "the-zac-taylor-era-with-cincinnati-bengals-should-end-even-if-it-won-t-in-2026",
-    "title": "The Zac Taylor era with Cincinnati Bengals should end, even if it won’t in 2026",
-    "description": "The Bengals should replace Zac Taylor with the coach that beat him in Week 18.",
+    "slug": "steelers-defeat-ravens-26-24-in-sunday-showdown-secure-playoff-spot",
+    "title": "Steelers defeat Ravens 26-24 in Sunday showdown, secure playoff spot",
+    "description": "The Pittsburgh Steelers defeated the Ravens 26-24 on Sunday.",
     "pubDate": "2026-01-05",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/zac-taylor-era-cincinnati-bengals-033912942.html",
+    "link": "https://sports.yahoo.com/articles/steelers-defeat-ravens-26-24-043929216.html",
     "source": "Google News"
   },
   {
-    "slug": "top-5-plays-from-rams-week-18-win-over-cardinals",
-    "title": "Top 5 plays from Rams week 18 win over Cardinals",
-    "description": "Matthew Stafford added to MVP resume with these top plays in Week 18 over Cardinals",
+    "slug": "when-will-the-miami-dolphins-select-in-the-2026-nfl-draft-breaking-down-the-order-as-the-regular-season-ends",
+    "title": "When will the Miami Dolphins select in the 2026 NFL Draft? Breaking down the order as the regular season ends",
+    "description": "Breaking down the 2026 NFL Draft’s first-round order as the regular season comes to an end.",
     "pubDate": "2026-01-05",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/top-5-plays-rams-week-033726464.html",
+    "link": "https://sports.yahoo.com/articles/miami-dolphins-select-2026-nfl-043922017.html",
     "source": "Google News"
   },
   {
-    "slug": "wilkerson-39-s-22-conway-39-s-20-help-indiana-power-past-washington-90-80",
-    "title": "Wilkerson&#39;s 22, Conway&#39;s 20 help Indiana power past Washington 90-80.",
-    "description": "",
+    "slug": "who-pittsburgh-steelers-will-play-in-wild-card-round-of-nfl-playoffs",
+    "title": "Who Pittsburgh Steelers will play in wild-card round of NFL playoffs",
+    "description": "Who will the Pittsburgh Steelers play in the wild-card round of the 2025 NFL playoffs? Find all the answers on the NFL playoff picture here.",
     "pubDate": "2026-01-05",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/wilkersons-22-conways-20-help-033725661.html",
+    "link": "https://sports.yahoo.com/articles/pittsburgh-steelers-play-wild-card-043759390.html",
     "source": "Google News"
   },
   {
-    "slug": "the-bus-delivers-hurricanes-3-devils-1",
-    "title": "“The Bus” Delivers – Hurricanes 3, Devils 1",
-    "description": "Brandon Bussi made 28 saves on 29 shots and the Carolina Hurricanes held on to a lead as they defeated the New Jersey Devils on Sunday night, 3-1 at the Prudential Center. Bussi improved his record to 14-2-1 in his first NHL season. It was the second game of a back-to-back situation for the Canes, [",
+    "slug": "indiana-men-s-basketball-found-a-way-to-outrebound-washington-that-s-huge",
+    "title": "Indiana men’s basketball found a way to outrebound Washington. That’s huge.",
+    "description": "Did head coach Darian DeVries solve something in Indiana’s win over Washington?",
     "pubDate": "2026-01-05",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/bus-delivers-hurricanes-3-devils-033656193.html",
+    "link": "https://sports.yahoo.com/articles/indiana-men-basketball-found-way-043730771.html",
     "source": "Google News"
   },
   {
-    "slug": "underwood-or-pawlowski-analyzing-the-cleveland-guardians-broadcast-quarterbacks",
-    "title": "Underwood or Pawlowski? Analyzing the Cleveland Guardians’ Broadcast “Quarterbacks”",
-    "description": "Not Another Quarterback Competition in Cleveland – by Mario Crescibene Clevelanders are conditioned to flinch at the words “Quarterback Competition.” It’s a phrase usually reserved for training camp soap operas at Berea or the latest Browns injury report. But with the NFL playoffs starting and the c",
+    "slug": "james-cook-is-the-2025-nfl-rushing-leader",
+    "title": "James Cook is the 2025 NFL rushing leader",
+    "description": "The Buffalo Bills running back held off a late push to lead the NFL in rushing yards.",
     "pubDate": "2026-01-05",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/underwood-pawlowski-analyzing-cleveland-guardians-033619265.html",
+    "link": "https://sports.yahoo.com/articles/james-cook-enters-week-18-120000095.html",
     "source": "Google News"
   },
   {
-    "slug": "wvu-adds-unlv-transfer-linebacker",
-    "title": "WVU adds UNLV transfer linebacker",
-    "description": "Jan. 4—West Virginia picked up its second transfer this cycle, and it's second defensive player. UCLA and UNLV linebacker Isaiah Patterson announced his commitment to the Mountaineers on social media. This comes on the same day Patterson took an official visit with Rich Rodriguez, Zac Alley and staf",
-    "pubDate": "2026-01-05",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/wvu-adds-unlv-transfer-linebacker-033600997.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "falcons-fire-coach-raheem-morris-gm-terry-fontenot-after-8-9-season",
-    "title": "Falcons fire coach Raheem Morris, GM Terry Fontenot after 8-9 season",
-    "description": "ATLANTA — The Atlanta Falcons fired coach Raheem Morris and general manager Terry Fontenot on Sunday night, announcing the moves hours after the team completed its second straight 8-9 finish under Morris and eighth consecutive losing season. Morris said after Sunday’s 19-17 win over the New Orleans",
-    "pubDate": "2026-01-05",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/falcons-fire-coach-raheem-morris-033528985.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "cincinnati-transfer-qb-brendan-sorsby-commits-to-texas-tech",
-    "title": "Cincinnati transfer QB Brendan Sorsby commits to Texas Tech",
-    "description": "Former Cincinnati redshirt junior quarterback Brendan Sorsby has committed to transfer to Big 12 rival Texas Tech out of the portal. Sorsby, a former Indiana transfer, will have one season of collegiate eligibility remaining and would replace graduating Red Raiders QB Behren Morton. Sorsby is curren",
-    "pubDate": "2026-01-05",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/cincinnati-transfer-qb-brendan-sorsby-033521334.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "39-brainless-39-smith-wicket-39-sums-up-39-england-39-s-ashes",
-    "title": "&#39;Brainless&#39; Smith wicket &#39;sums up&#39; England&#39;s Ashes",
-    "description": "England wicketkeeper Jamie Smith's dismissal by Australia part-timer Marnus Labuschagne is called \"one of the worst\" ever in Tests and \"completely brainless\".",
-    "pubDate": "2026-01-05",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/brainless-smith-wicket-sums-englands-033517823.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "2026-nfl-draft-where-are-the-jets-39-two-first-round-picks-finalized",
-    "title": "2026 NFL draft: Where are the Jets&#39; two first-round picks finalized?",
-    "description": "We now know where the Jets will have their two top picks at the 2026 NFL draft are.",
-    "pubDate": "2026-01-05",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/2026-nfl-draft-where-jets-033506856.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "wvu-women-39-s-basketball-scores-last-minute-basket-to-beat-kansas-state",
-    "title": "WVU women&#39;s basketball scores last-minute basket to beat Kansas State",
-    "description": "Jan. 4—West Virginia women's basketball had another second-half comeback to pick up its third Big 12 win. The Mountaineers took the lead in the final minute to beat Kansas State 60-58, moving to a perfect 3-0 in conference play and winning both games on the road to start 2026. WVU moved to 13-2 on t",
-    "pubDate": "2026-01-05",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/wvu-womens-basketball-scores-last-033500151.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "report-wvu-signs-usc-transfer-receiver-prince-strachan",
-    "title": "REPORT: WVU signs USC transfer receiver Prince Strachan",
-    "description": "Jan. 4—West Virginia made its first offensive addition in the transfer portal, signing a Power Four wide receiver. Southern California wide receiver Prince Strachan reportedly has committed to the Mountaineers, according to numerous reports. Strachan is the third transfer for Rich Rodriguez and the",
-    "pubDate": "2026-01-05",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/report-wvu-signs-usc-transfer-033500137.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "crosby-sets-up-tying-goal-scores-in-ot-as-penguins-rally-past-blue-jackets-5-4",
-    "title": "Crosby sets up tying goal, scores in OT as Penguins rally past Blue Jackets 5-4",
-    "description": "Sidney Crosby set up Ricard Rakell’s tying goal with 13.7 seconds left in regulation, then scored at 2:22 of overtime to give the Pittsburgh Penguins a 5-4 comeback victory over the Columbus Blue Jackets on Sunday.  The Penguins overcame a three-goal deficit to win their fifth straight game overall",
-    "pubDate": "2026-01-05",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/crosby-sets-tying-goal-scores-033428218.html",
-    "source": "The Associated Press"
-  },
-  {
-    "slug": "norman-powell-continues-his-all-star-campaign-this-season-39-hopefully-it-happens-for-me-39",
-    "title": "Norman Powell continues his All-Star campaign this season &#39;Hopefully it happens for me&#39;",
-    "description": "Norman Powell is playing All-Star-level basketball yet again, and he feels this should be the year.",
-    "pubDate": "2026-01-05",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/norman-powell-continues-star-campaign-033307498.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "league-source-seahawks-about-to-sign-lt-charles-cross-on-rich-4-year-extension",
-    "title": "League source: Seahawks about to sign LT Charles Cross on rich, 4-year extension",
-    "description": "The announcement could come Monday on a deal with $75 million guaranteed. It’s the richest for a non-quarterback Seattle’s ever given.",
-    "pubDate": "2026-01-05",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/league-source-seahawks-sign-lt-033301828.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "t-j-watt-interception-helps-give-steelers-13-10-third-quarter-lead",
-    "title": "T.J. Watt interception helps give Steelers 13-10 third-quarter lead",
-    "description": "Sometimes, odd things tend to happen for the Steelers when they’re playing at home.",
-    "pubDate": "2026-01-05",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/t-j-watt-interception-helps-033202775.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "wisconsin-adds-former-oklahoma-state-starter-shamar-rigby-to-bolster-receiving-corps",
-    "title": "Wisconsin adds former Oklahoma State starter Shamar Rigby to bolster receiving corps",
-    "description": "The addition of former Oklahoma State receiver Shamar Rigby begins to address the losses UW suffered at the position since the end of the season.",
-    "pubDate": "2026-01-05",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/wisconsin-adds-former-oklahoma-state-033150934.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "brisbane-international-schedule-results-scores-draw-order-of-play-for-2026-tennis-tournament",
-    "title": "Brisbane International schedule, results, scores, draw, order of play for 2026 tennis tournament",
-    "description": "All the latest results, scores and schedules from the 2026 Brisbane International",
-    "pubDate": "2026-01-05",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/brisbane-international-schedule-results-scores-230209573.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "ravens-s-kyle-hamilton-ruled-out-of-ravens-steelers-showdown-with-concussion-steelers-immediately-take-advantage",
-    "title": "Ravens S Kyle Hamilton ruled out of Ravens-Steelers showdown with concussion; Steelers immediately take advantage",
-    "description": "Hamilton was carted off after a sideline concussion evaluation. The Steelers then scored their first touchdown of the game after posting just a field goal in the first half.",
-    "pubDate": "2026-01-05",
-    "image": "",
-    "link": "https://sports.yahoo.com/nfl/breaking-news/article/ravens-s-kyle-hamilton-ruled-out-of-ravens-steelers-showdown-with-concussion-steelers-immediately-take-advantage-033111970.html",
-    "source": "Jason Owens"
-  },
-  {
-    "slug": "the-ashes-classy-root-passes-150-but-jacks-and-carse-fall-quickly",
-    "title": "The Ashes: Classy Root passes 150 but Jacks and Carse fall quickly",
+    "slug": "the-ashes-aussies-make-rapid-start-in-reply-to-england-39-s-384-all-out",
+    "title": "The Ashes: Aussies make rapid start in reply to England&#39;s 384 all out",
     "description": "Follow live text, radio commentary and in-play video clips as Australia host England on day two of the fifth Ashes Test in Sydney.",
     "pubDate": "2026-01-05",
     "image": "",
@@ -504,219 +387,336 @@
     "source": "Google News"
   },
   {
-    "slug": "training-report-more-absences-from-bayern-munich-practice",
-    "title": "Training Report: More absences from Bayern Munich practice",
-    "description": "FC Bayern is looking to get healthy!",
+    "slug": "bills-39-james-cook-gets-final-update-to-nfl-rushing-title-battle-with-derrick-henry-jonathan-taylor",
+    "title": "Bills&#39; James Cook gets final update to NFL rushing title battle with Derrick Henry, Jonathan Taylor",
+    "description": "The race is now complete.",
     "pubDate": "2026-01-05",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/training-report-more-absences-bayern-033000007.html",
+    "link": "https://sports.yahoo.com/articles/bills-james-cook-gets-final-043655321.html",
     "source": "Google News"
   },
   {
-    "slug": "jets-drop-season-finale-in-35-8-drubbing-from-bills-backups",
-    "title": "Jets drop season finale in 35-8 drubbing from Bills’ backups",
-    "description": "ORCHARD PARK, N.Y. — The New York Jets’ miserable 2025 season mercifully came to an end Sunday. Mitchell Trubisky‘s 259 yards and four touchdowns helped the Buffalo Bills (12-5) roll past the Jets (3-14) 35-8 in what will likely be the final game at Highmark Stadium. The Jets lost their final five g",
+    "slug": "broncos-2026-schedule-full-list-of-opponents-now-finalized",
+    "title": "Broncos 2026 schedule: Full list of opponents now finalized",
+    "description": "After winning the AFC West in 2025, the Broncos know their full list of opponents for the 2026 NFL season.",
     "pubDate": "2026-01-05",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/jets-drop-season-finale-35-032900698.html",
+    "link": "https://sports.yahoo.com/articles/broncos-2026-schedule-full-list-043540627.html",
     "source": "Google News"
   },
   {
-    "slug": "colts-39-riley-leonard-makes-history-only-done-by-peyton-manning-and-andrew-luck",
-    "title": "Colts&#39; Riley Leonard makes history only done by Peyton Manning and Andrew Luck",
-    "description": "The rookie did something pretty special.",
-    "pubDate": "2026-01-05",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/colts-riley-leonard-makes-history-032832449.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "5-things-we-learned-from-indiana-men-s-basketball-s-90-80-win-over-washington",
-    "title": "5 things we learned from Indiana men’s basketball’s 90-80 win over Washington",
-    "description": "Indiana beat Washington thanks to Tayton Conerway’s aggression, bench contributions and strong passing from Conor Enright.",
-    "pubDate": "2026-01-05",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/5-things-learned-indiana-men-032811909.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "monday-39-s-time-schedule",
-    "title": "Monday&#39;s Time Schedule",
+    "slug": "pittsburgh-steelers-win-afc-north-title-and-secure-last-nfl-playoff-spot-with-26-24-win-over-baltimore-ravens",
+    "title": "Pittsburgh Steelers win AFC North title and secure last NFL playoff spot with 26-24 win over Baltimore Ravens",
     "description": "",
     "pubDate": "2026-01-05",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/mondays-time-schedule-032738585.html",
+    "link": "https://sports.yahoo.com/articles/pittsburgh-steelers-win-afc-north-043517571.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "dallas-cowboys-2026-opponents-home-away-matchups-confirmed",
+    "title": "Dallas Cowboys 2026 opponents: Home, away matchups confirmed",
+    "description": "Here are the 2026 Dallas Cowboys opponents.",
+    "pubDate": "2026-01-05",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/dallas-cowboys-2026-opponents-home-043517731.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "derrick-henry-somehow-doesn-t-nab-the-nfl-rushing-title-in-week-18",
+    "title": "Derrick Henry somehow doesn’t nab the NFL rushing title in Week 18",
+    "description": "RB Derrick Henry couldn’t quite win the NFL rushing crown in 2025.",
+    "pubDate": "2026-01-05",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/close-derrick-henry-nfl-rushing-224207977.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "suns-head-coach-jordan-ott-commends-devin-booker-for-his-unselfishness-as-a-playmaker",
+    "title": "Suns head coach Jordan Ott commends Devin Booker for his unselfishness as a playmaker",
+    "description": "Devin Booker hit a game-winner against the OKC Thunder, but his unselfishness also stood out in the game.",
+    "pubDate": "2026-01-05",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/suns-head-coach-jordan-ott-043228242.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "how-steelers-39-chris-boswell-did-the-near-impossible-with-crucial-missed-extra-point-vs-ravens",
+    "title": "How Steelers&#39; Chris Boswell did the near-impossible with crucial missed extra point vs. Ravens",
+    "description": "No way this really happened.",
+    "pubDate": "2026-01-05",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/steelers-chris-boswell-did-near-043046749.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "dayton-men-s-basketball-starts-a-10-season-with-2-close-wins",
+    "title": "Dayton men’s basketball starts A-10 season with 2 close wins",
+    "description": "The Dayton Flyers began the Atlantic 10 season with two close wins last week.",
+    "pubDate": "2026-01-05",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/dayton-men-basketball-starts-10-043000029.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "husker-wrestling-true-freshman-cade-ziola-makes-soldier-salute-final",
+    "title": "Husker Wrestling: True Freshman Cade Ziola Makes Soldier Salute Final",
+    "description": "Nebraska sent some freshmen and backups to the Soldier Salute hosted by Iowa",
+    "pubDate": "2026-01-05",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/husker-wrestling-true-freshman-cade-043000223.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "indiana-lands-commitment-from-notre-dame-defensive-end-joshua-burnham",
+    "title": "Indiana lands commitment from Notre Dame defensive end Joshua Burnham",
+    "description": "Indiana added onto its defense even further on Sunday night, adding a former Notre Dame edge rusher to its rotation.",
+    "pubDate": "2026-01-05",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/indiana-lands-commitment-notre-dame-042916640.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "virginia-tech-football-former-penn-state-dl-daniel-jennings-commits-to-hokies",
+    "title": "Virginia Tech football: Former Penn State DL Daniel Jennings commits to Hokies",
+    "description": "The Hokies add their first commitment from the transfer portal.",
+    "pubDate": "2026-01-05",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/virginia-tech-football-former-penn-042815310.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "blaha-wisconsin-river-falls-beats-defending-champion-north-central-24-14-for-d-iii-title",
+    "title": "Blaha, Wisconsin-River Falls beats defending champion North Central 24-14 for D-III title",
+    "description": "Kaleb Blaha threw a touchdown pass and added two second-half rushing TDs to help Wisconsin-River Falls beat defending national champion North Central 24-14 on Sunday night at Hall of Fame Stadium to win the first Division III title in program history.  The Cardinals, who have held the top spot in 44",
+    "pubDate": "2026-01-05",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/blaha-wisconsin-river-falls-beats-042648535.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "gabe-vincent-could-return-for-lakers-on-upcoming-two-game-road-trip",
+    "title": "Gabe Vincent could return for Lakers on upcoming two-game road trip",
+    "description": "The Lakers could get one of their rotation players back within days.",
+    "pubDate": "2026-01-05",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/gabe-vincent-could-return-lakers-042531464.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "ike-scores-16-as-no-7-gonzaga-rolls-past-loyola-marymount-for-ninth-straight-win",
+    "title": "Ike scores 16 as No. 7 Gonzaga rolls past Loyola Marymount for ninth straight win",
+    "description": "Graham Ike scored 16 points as No. 7 Gonzaga overcame early shooting trouble to beat Loyola Marymount 82-47 on Sunday night for its ninth consecutive victory.  Mario Saint-Supery added 13 points and Jalen Warley 12 points for Gonzaga (16-1, 4-0 West Coast Conference), which was coming off an 80-72 o",
+    "pubDate": "2026-01-05",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/ike-scores-16-no-7-042331611.html",
     "source": "The Associated Press"
   },
   {
-    "slug": "jerry-jeudy-posts-cryptic-post-on-social-media-following-the-season-finale",
-    "title": "Jerry Jeudy posts cryptic post on social media following the season finale",
-    "description": "Cleveland Browns' wide receiver Jerry Jeudy posts a cryptic post on X about the dynamics affecting the team.",
+    "slug": "lakers-insider-clears-up-conflicting-report-on-luka-doncic-39-s-health",
+    "title": "Lakers insider clears up conflicting report on Luka Doncic&#39;s health",
+    "description": "Is Los Angeles Lakers star Luka Doncic still dealing with health concerns? A team insider weighs in.",
     "pubDate": "2026-01-05",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/jerry-jeudy-posts-cryptic-post-032732434.html",
+    "link": "https://sports.yahoo.com/articles/lakers-insider-clears-conflicting-report-041937520.html",
     "source": "Google News"
   },
   {
-    "slug": "patriots-players-heap-praise-on-mike-vrabel-after-superb-regular-season",
-    "title": "Patriots Players Heap Praise On Mike Vrabel After Superb Regular Season",
-    "description": "New England Patriots head coach Mike Vrabel isn’t one to take credit… Vrabel likes to deflect, which is what he has done throughout a remarkable first season at the helm at One Patriot Place — often sharing his admiration and appreciation for the likes of quarterback Drake Maye, wide receiver Stefon",
+    "slug": "brendan-sorsby-stays-in-big-12-transfers-to-texas-tech-over-lsu",
+    "title": "Brendan Sorsby stays in Big 12, transfers to Texas Tech over LSU",
+    "description": "Cincinnati QB heads to Lubbock and snubs Lane Kiffin's Tigers.",
     "pubDate": "2026-01-05",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/patriots-players-heap-praise-mike-032658775.html",
+    "link": "https://sports.yahoo.com/articles/brendan-sorsby-stays-big-12-041932598.html",
     "source": "Google News"
   },
   {
-    "slug": "poulin-stars-for-victoire-leading-late-game-comeback",
-    "title": "Poulin Stars For Victoire Leading Late Game Comeback",
-    "description": "It's been heard many times before, but Marie-Philip Poulin was the architect and hero in a comeback win. This time it was in front of 10,172 fans on home ice with the Montreal Victoire.",
+    "slug": "we-came-off-flat-chicago-bears-defense-shares-blame-in-sunday-s-19-16-loss-to-the-detroit-lions",
+    "title": "‘We came off flat’: Chicago Bears defense shares blame in Sunday’s 19-16 loss to the Detroit Lions",
+    "description": "The Chicago Bears defense continued a worrying trend heading into the playoffs, allowing an opponent more than 400 yards of offense for a second straight week during Sunday’s 19-16 loss to the Detroit Lions. The Lions put up 433 yards of offense a week after the Bears defense allowed 496 yards to th",
     "pubDate": "2026-01-05",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/poulin-stars-victoire-leading-game-032517849.html",
+    "link": "https://sports.yahoo.com/articles/came-off-flat-chicago-bears-041900891.html",
     "source": "Google News"
   },
   {
-    "slug": "nfl-world-reacts-to-falcons-firing-raheem-morris-and-terry-fontenot",
-    "title": "NFL world reacts to Falcons firing Raheem Morris and Terry Fontenot",
-    "description": "Fans on social media had plenty to say after the Falcons fired Raheem Morris and Terry Fontenot",
+    "slug": "brendan-sorsby-a-top-qb-in-the-transfer-portal-reportedly-chooses-texas-tech-over-lane-kiffin-lsu",
+    "title": "Brendan Sorsby, a top QB in the transfer portal, reportedly chooses Texas Tech over Lane Kiffin, LSU",
+    "description": "Sorsby reportedly made the decision after weekend visits with Texas Tech and LSU.",
     "pubDate": "2026-01-05",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/nfl-world-reacts-falcons-firing-032438174.html",
+    "link": "https://sports.yahoo.com/college-football/breaking-news/article/brendan-sorsby-a-top-qb-in-the-transfer-portal-reportedly-chooses-texas-tech-over-lane-kiffin-lsu-041753092.html",
+    "source": "Jason Owens"
+  },
+  {
+    "slug": "river-falls-completes-cinderella-re-invention-wins-ncaa-diii-title",
+    "title": "River Falls completes Cinderella re-invention, wins NCAA DIII title",
+    "description": "Quarterback Kaleb Blaha dazzled again, and UW-River Falls topped undefeated North Central to win the program's first NCAA Division III football title.",
+    "pubDate": "2026-01-05",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/river-falls-completes-cinderella-invention-041637855.html",
     "source": "Google News"
   },
   {
-    "slug": "special-teams-trio-commit-to-texas-football-from-ncaa-transfer-portal",
-    "title": "Special teams trio commit to Texas Football from NCAA Transfer Portal",
-    "description": "In one day, Texas Football signed a kicker, a punter and a long snapper from the NCAA Transfer Portal.",
+    "slug": "former-cincinnati-bearcats-qb-brendan-sorsby-to-play-at-texas-tech",
+    "title": "Former Cincinnati Bearcats QB Brendan Sorsby to play at Texas Tech",
+    "description": "Former Cincinnati Bearcats quarterback Brendan Sorsby will play for Texas Tech in 2026.",
     "pubDate": "2026-01-05",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/special-teams-trio-commit-texas-032437209.html",
+    "link": "https://sports.yahoo.com/articles/former-cincinnati-bearcats-qb-brendan-041559046.html",
     "source": "Google News"
   },
   {
-    "slug": "the-nfl-has-announced-its-wild-card-weekend-schedule",
-    "title": "The NFL has announced its Wild-Card Weekend schedule",
-    "description": "The following is the schedule of dates, times, and venues for the NFL's Wild Card Weekend starting January 10th.",
+    "slug": "myleigh-bradshaw-christus-orthopedics-and-sports-medicine-institute-athlete-of-the-week",
+    "title": "Myleigh Bradshaw: CHRISTUS Orthopedics and Sports Medicine Institute Athlete of the Week",
+    "description": "TYLER, Texas (KETK) — Myleigh Bradshaw is our CHRISTUS Orthopedics and Sports Medicine Institute Athlete of the Week. She is a student-athlete from Chapel Hill High School. Watch the video above to see all that she has accomplished, and once again congrats to Myleigh.",
     "pubDate": "2026-01-05",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/nfl-announced-wild-card-weekend-032411135.html",
+    "link": "https://sports.yahoo.com/articles/myleigh-bradshaw-christus-orthopedics-sports-041542073.html",
     "source": "Google News"
   },
   {
-    "slug": "dodgers-predicted-to-create-super-bullpen-by-making-blockbuster-trade-for-6-5-million-all-star-to-pair-with-edwin-diaz",
-    "title": "Dodgers predicted to create super bullpen by making blockbuster trade for $6.5 million All-Star to pair with Edwin Diaz",
-    "description": "This would give the Dodgers the best pitching staff in the league, hands down.",
+    "slug": "bayern-munich-phenom-lennart-karl-s-real-madrid-comment-are-not-that-bad",
+    "title": "Bayern Munich phenom Lennart Karl’s Real Madrid comment are not that bad",
+    "description": "Take a step back and it becomes far less serious for FC Bayern.",
     "pubDate": "2026-01-05",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/dodgers-predicted-create-super-bullpen-032253142.html",
+    "link": "https://sports.yahoo.com/articles/bayern-munich-phenom-lennart-karl-213000376.html",
     "source": "Google News"
   },
   {
-    "slug": "steelers-td-ties-score-at-10-10-in-third-quarter-kyle-hamilton-heads-to-locker-room-on-a-cart",
-    "title": "Steelers TD ties score at 10-10 in third quarter, Kyle Hamilton heads to locker room on a cart",
-    "description": "The Steelers have tied the game that will determine the AFC North winner with a long drive to start the second half.",
+    "slug": "report-tcu-qb-transfer-josh-hoover-commits-to-indiana",
+    "title": "REPORT: TCU QB transfer Josh Hoover commits to Indiana",
+    "description": "The redshirt junior departs after four years in Fort Worth.",
     "pubDate": "2026-01-05",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/steelers-td-ties-score-10-032205020.html",
+    "link": "https://sports.yahoo.com/articles/report-tcu-qb-transfer-josh-041335029.html",
     "source": "Google News"
   },
   {
-    "slug": "lsu-transfer-ahmad-breaux-commits-to-kentucky-football",
-    "title": "LSU transfer Ahmad Breaux commits to Kentucky Football",
-    "description": "Kentucky scores a commitment from a fellow SEC team.",
+    "slug": "3-takeaways-from-indiana-men-s-basketball-s-90-80-win-over-washington",
+    "title": "3 Takeaways from Indiana men’s basketball’s 90-80 win over Washington",
+    "description": "Indiana had to find new ways to win against Hannes Steinbach and Washington at Assembly Hall. Here’s three.",
     "pubDate": "2026-01-05",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/lsu-transfer-ahmad-breaux-commits-032122306.html",
+    "link": "https://sports.yahoo.com/articles/3-takeaways-indiana-men-basketball-041331806.html",
     "source": "Google News"
   },
   {
-    "slug": "instant-analysis-from-commanders-39-24-17-week-18-win-over-eagles",
-    "title": "Instant analysis from Commanders&#39; 24-17 Week 18 win over Eagles",
-    "description": "A recap of how the Commanders beat the Eagles in Week 18.",
+    "slug": "notre-dame-loses-to-duke-on-the-road-82-68",
+    "title": "Notre Dame loses to Duke on the road, 82-68",
+    "description": "The Irish got off on the wrong foot and never got in a position to overcome their bad start.",
     "pubDate": "2026-01-05",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/instant-analysis-commanders-24-17-032113774.html",
+    "link": "https://sports.yahoo.com/articles/notre-dame-loses-duke-road-041248364.html",
     "source": "Google News"
   },
   {
-    "slug": "chicago-celebrates-derrick-rose-day-ahead-of-bulls-jersey-retirement-ceremony-this-month",
-    "title": "Chicago celebrates Derrick Rose Day ahead of Bulls jersey retirement ceremony this month",
-    "description": "With his Chicago Bulls jersey retirement just a few week away, fans got an early chance to celebrate Derrick Rose on Sunday.",
+    "slug": "c-j-ham-time-for-me-to-be-with-my-family",
+    "title": "C.J. Ham: ‘time for me to be with my family’",
+    "description": "MINNEAPOLIS (KELO) — Former Augustana fullback C.J. Ham appears to be calling it a career after 10 seasons with the Minnesota Vikings organization. Upon receiving a game ball following the Vikings’ season-ending 16-3 win over the Green Bay Packers, Ham said it’s time for him to step away. “I know it",
     "pubDate": "2026-01-05",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/chicago-celebrates-derrick-rose-day-032035404.html",
+    "link": "https://sports.yahoo.com/articles/c-j-ham-time-family-041212891.html",
     "source": "Google News"
   },
   {
-    "slug": "stefon-diggs-posts-his-7th-1-000-yard-season-after-week-of-legal-trouble-off-the-field",
-    "title": "Stefon Diggs posts his 7th 1,000-yard season after week of legal trouble off the field",
-    "description": "Stefon Diggs said he kept his mind on football after authorities revealed this week that the Patriots wide receiver had been charged with strangulation and other criminal offenses related to an alleged dispute with his former private chef.  Diggs credited that focus with helping him notch a personal",
+    "slug": "former-sooners-wide-receiver-commits-to-sec-school",
+    "title": "Former Sooners wide receiver commits to SEC school",
+    "description": "Former OU wide receiver Jayden Gibson will transfer to South Carolina.",
     "pubDate": "2026-01-05",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/stefon-diggs-posts-7th-1-032005096.html",
-    "source": "BRENDAN McGAIR"
-  },
-  {
-    "slug": "falcons-39-kyle-pitts-has-one-of-the-weirdest-streaks-in-the-nfl-over-last-5-years",
-    "title": "Falcons&#39; Kyle Pitts has one of the weirdest streaks in the NFL over last 5 years",
-    "description": "This is a pretty wild coincidence.",
-    "pubDate": "2026-01-05",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/falcons-kyle-pitts-one-weirdest-031951984.html",
+    "link": "https://sports.yahoo.com/articles/former-sooners-wide-receiver-commits-041141693.html",
     "source": "Google News"
   },
   {
-    "slug": "seattle-seahawks-playoff-schedule-seattle-could-know-first-opponent-by-saturday",
-    "title": "Seattle Seahawks playoff schedule: Seattle could know first opponent by Saturday",
-    "description": "Here are the Divisional Round scenarios for the top-seeded Seattle Seahawks.",
+    "slug": "chargers-player-has-some-choice-nsfw-words-for-broncos-following-week-18-game",
+    "title": "Chargers player has some choice NSFW words for Broncos following Week 18 game",
+    "description": "Take a look at what this Chargers defender had to say.",
     "pubDate": "2026-01-05",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/seattle-seahawks-playoff-schedule-seattle-031947250.html",
+    "link": "https://sports.yahoo.com/articles/chargers-player-choice-nsfw-words-040928977.html",
     "source": "Google News"
   },
   {
-    "slug": "nfl-playoff-schedule-bracket-wild-card-game-times-seedings",
-    "title": "NFL playoff schedule bracket, wild-card game times, seedings",
-    "description": "The NFL playoff schedule has been released, with wild-card round game times and seeds for the bracket.",
+    "slug": "graham-ike-scores-16-points-as-no-7-gonzaga-routs-loyola-marymount-82-47",
+    "title": "Graham Ike scores 16 points as No. 7 Gonzaga routs Loyola Marymount 82-47",
+    "description": "Graham Ike scored 16 points as No. 7 Gonzaga overcame early shooting trouble to beat Loyola Marymount 82-47 on Sunday night for its ninth consecutive victory.  Mario Saint-Supery added 13 points and Jalen Warley 12 points for Gonzaga (16-1, 4-0 West Coast Conference), which was coming off an 80-72 o",
     "pubDate": "2026-01-05",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/nfl-playoff-schedule-bracket-wild-031928314.html",
+    "link": "https://sports.yahoo.com/articles/graham-ike-scores-16-points-040902551.html",
     "source": "Google News"
   },
   {
-    "slug": "2026-nfl-wild-card-round-schedule-times-dates-matchups",
-    "title": "2026 NFL Wild Card Round schedule: Times, dates, matchups",
-    "description": "The AFC North Winner will host the Houston Texans on Monday Night Jan 12",
+    "slug": "chiefs-kingdom-reacts-to-first-losing-season-in-over-a-decade",
+    "title": "Chiefs Kingdom reacts to first losing season in over a decade",
+    "description": "Going into the season with Super Bowl expectations, the revenge tour turned into a 6-11 season and a trip to Cancun for the Kansas City Chiefs and the Red Kingdom.",
     "pubDate": "2026-01-05",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/2026-nfl-wild-card-round-031850922.html",
+    "link": "https://sports.yahoo.com/articles/chiefs-kingdom-reacts-first-losing-040832393.html",
     "source": "Google News"
   },
   {
-    "slug": "falcons-reportedly-make-multiple-firings-including-head-coach-raheem-morris",
-    "title": "Falcons Reportedly Make Multiple Firings, Including Head Coach Raheem Morris",
-    "description": "The Atlanta Falcons are firing head coach Raheem Morris, per ESPN’s Adam Schefter. Morris first joined the Falcons in 2015 as assistant head coach and passing game coordinator, later shifting to wide receivers coach and then defensive coordinator by 2020. That year, he stepped up as interim head coa",
+    "slug": "cricket-australia-boss-hits-out-at-39-archaic-39-bad-light-rules",
+    "title": "Cricket Australia boss hits out at &#39;archaic&#39; bad light rules",
+    "description": "Frustrated Cricket Australia boss Todd Greenberg vowed Monday to take up \"archaic\" bad light rules with the sport's governing body after a third of the opening day at the fifth Ashes Test was lost.\"There's a lot of things that I get frustrated with in cricket but bad light's one of them,\" Greenberg",
     "pubDate": "2026-01-05",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/falcons-reportedly-multiple-firings-including-031816692.html",
+    "link": "https://sports.yahoo.com/articles/cricket-australia-boss-hits-archaic-040829891.html",
     "source": "Google News"
   },
   {
-    "slug": "clippers-39-wing-derrick-jones-jr-suffers-grade-2-mcl-sprain-to-be-re-evaluated-in-six-weeks",
-    "title": "Clippers&#39; wing Derrick Jones Jr. suffers Grade 2 MCL sprain, to be re-evaluated in six weeks",
-    "description": "This is the second injury to this same knee this season, but Jones was playing fantastic ball when healthy.",
+    "slug": "2030-world-juniors-to-brno-czechia",
+    "title": "2030 World Juniors To Brno, Czechia?",
+    "description": "Brno emerges as a strong contender for the 2030 World Juniors, fueled by a new arena and a passionate hockey fanbase.",
     "pubDate": "2026-01-05",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/clippers-wing-derrick-jones-jr-031809654.html",
+    "link": "https://sports.yahoo.com/articles/2030-world-juniors-brno-czechia-040604005.html",
     "source": "Google News"
   },
   {
-    "slug": "msu-hockey-beats-ntdp-eyes-set-for-second-half-of-big-ten-play",
-    "title": "MSU hockey beats NTDP, eyes set for second half of Big Ten play",
-    "description": "Despite only having nine healthy forwards, MSU was able to net four goals in a 4-2 win over the US NTDP",
+    "slug": "opening-nfl-wild-card-odds-and-betting-lines-rams-are-biggest-favorite",
+    "title": "Opening NFL Wild Card Odds and Betting Lines: Rams Are Biggest Favorite",
+    "description": "Get the opening NFL Wild Card Weekend odds with point spreads, Over/Unders, and football moneylines for every matchup starting on Jan. 10, 2026.",
     "pubDate": "2026-01-05",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/msu-hockey-beats-ntdp-eyes-031737433.html",
+    "link": "https://sports.yahoo.com/articles/opening-nfl-wild-card-odds-201300706.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "arizona-defensive-back-genesis-smith-declares-for-nfl-draft",
+    "title": "Arizona defensive back Genesis Smith declares for NFL Draft",
+    "description": "Arizona defensive back Genesis Smith officially declared for the NFL Draft Sunday evening, two days after opting out of the Wildcats’ Holiday Bowl appearance. “To my teammates, who will forever be my brothers, thank you for making this experience unforgettable,” Smith said in a social media post ann",
+    "pubDate": "2026-01-05",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/arizona-defensive-back-genesis-smith-040327227.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "lamar-jackson-evades-sack-tosses-50-yard-go-ahead-td-in-fourth-quarter",
+    "title": "Lamar Jackson evades sack, tosses 50-yard, go-ahead TD in fourth quarter",
+    "description": "Lamar Jackson just went full Lamar Jackson.",
+    "pubDate": "2026-01-05",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/lamar-jackson-evades-sack-tosses-040231152.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "football-louisiana-tech-safety-jacob-fields-signs-with-tcu",
+    "title": "Football: Louisiana Tech safety Jacob Fields signs with TCU",
+    "description": "The Horned Frogs make their first big splash on defense this offseason.",
+    "pubDate": "2026-01-05",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/football-louisiana-tech-safety-jacob-040128023.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "brendan-sorsby-signs-with-texas-tech-who-makes-first-big-move-for-2026",
+    "title": "Brendan Sorsby signs with Texas Tech, who makes first big move for 2026",
+    "description": "Texas Tech billionaire booster Cody Campbell promised to double down, makes first big move by signing star portal QB Brendan Sorsby.",
+    "pubDate": "2026-01-05",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/texas-tech-makes-first-big-040033711.html",
     "source": "Google News"
   },
   {
@@ -1170,15 +1170,6 @@
     "source": "BBC Sport"
   },
   {
-    "slug": "expected-chelsea-boss-rosenior-has-served-his-apprenticeship",
-    "title": "Expected Chelsea boss Rosenior has 'served his apprenticeship' ",
-    "description": "Match of the Day pundits discuss the expected appointment of Liam Rosenior as Chelsea head coach following the departure of Enzo Maresca amid internal tensions at the club.",
-    "pubDate": "2026-01-04",
-    "image": "",
-    "link": "https://www.bbc.com/sport/football/videos/c0mkvzj1wm3o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport"
-  },
-  {
     "slug": "i-accept-this-decision-thelin-sacked-by-aberdeen",
     "title": "'I accept this decision' - Thelin sacked by Aberdeen",
     "description": "Aberdeen sack manager Jimmy Thelin following a five-match winless run and just eight months on from the club's Scottish Cup win.",
@@ -1194,6 +1185,15 @@
     "pubDate": "2026-01-04",
     "image": "",
     "link": "https://www.bbc.com/sport/football/articles/c70l41z982eo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport"
+  },
+  {
+    "slug": "expected-chelsea-boss-rosenior-has-served-his-apprenticeship",
+    "title": "Expected Chelsea boss Rosenior has 'served his apprenticeship' ",
+    "description": "Match of the Day pundits discuss the expected appointment of Liam Rosenior as Chelsea head coach following the departure of Enzo Maresca amid internal tensions at the club.",
+    "pubDate": "2026-01-04",
+    "image": "",
+    "link": "https://www.bbc.com/sport/football/videos/c0mkvzj1wm3o?at_medium=RSS&at_campaign=rss",
     "source": "BBC Sport"
   },
   {
@@ -1257,15 +1257,6 @@
     "pubDate": "2026-01-03",
     "image": "",
     "link": "https://www.bbc.com/sport/football/videos/cp3zn9geyn2o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport"
-  },
-  {
-    "slug": "rice-and-gabriel-character-impresses-arteta",
-    "title": "Rice and Gabriel character impresses Arteta",
-    "description": "Arsenal manager Mikel Arteta praises Gabriel Magalhaes and Declan Rice's mentality, and says Arsenal showed maturity in their 3-2 win against Bournemouth at Vitality Stadium.",
-    "pubDate": "2026-01-03",
-    "image": "",
-    "link": "https://www.bbc.com/sport/football/videos/cz9vwpn5eypo?at_medium=RSS&at_campaign=rss",
     "source": "BBC Sport"
   },
   {
