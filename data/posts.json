@@ -153,6 +153,15 @@
     "source": "Joe Lunardi"
   },
   {
+    "slug": "ap-top-25-poll-reaction-michigan-state-kansas-stumble",
+    "title": "AP Top 25 poll reaction: Michigan State, Kansas stumble",
+    "description": "Nebraska cracks the top 10. SMU and UCF replace Florida and USC. See more changes after the two-week hiatus.",
+    "pubDate": "2026-01-06",
+    "image": "",
+    "link": "https://www.espn.com/mens-college-basketball/story/_/id/47513590/ap-mens-college-basketball-top-25-poll-reaction-2025-2026-week-9",
+    "source": "ESPN"
+  },
+  {
     "slug": "our-latest-mlb-offseason-intel-which-top-free-agent-will-sign-next-is-a-blockbuster-trade-brewing",
     "title": "Our latest MLB offseason intel: Which top free agent will sign next? Is a blockbuster trade brewing?",
     "description": "Here's what we're hearing about Ketel Marte, Alex Bregman, Bo Bichette and much more as the hot stove heats back up.",
@@ -169,6 +178,24 @@
     "image": "",
     "link": "https://www.espn.com/mlb/story/_/id/46994593/2025-26-mlb-offseason-grades-free-agency-trade-analysis",
     "source": "Bradford Doolittle and David Schoenfield"
+  },
+  {
+    "slug": "women-s-bracketology-kentucky-is-biggest-winner-as-upsets-shake-up-top-16",
+    "title": "Women's Bracketology: Kentucky is biggest winner as upsets shake up top 16",
+    "description": "The new year has brought some big upsets, a shake-up of the top 16 seeds and a new-look Bracketology.",
+    "pubDate": "2026-01-06",
+    "image": "",
+    "link": "https://www.espn.com/espn/feature/story/_/id/30423107/ncaa-women-bracketology-2026-women-college-basketball-projections",
+    "source": "Charlie Creme"
+  },
+  {
+    "slug": "ap-top-25-poll-reaction-what-to-know-about-every-team",
+    "title": "AP Top 25 poll reaction: What to know about every team",
+    "description": "The new women's AP Top 25 poll is out. Here's what's next for every team in the standings.",
+    "pubDate": "2026-01-06",
+    "image": "",
+    "link": "https://www.espn.com/womens-college-basketball/story/_/id/47434095/ap-women-college-basketball-2025-2026-top-25-poll-reaction-week-8",
+    "source": "ESPN Staff"
   },
   {
     "slug": "why-matthew-stafford-s-command-of-the-huddle-gives-rams-an-edge",
@@ -243,30 +270,21 @@
     "source": "Anthony Gharib"
   },
   {
-    "slug": "ranking-the-best-qbs-in-the-transfer-portal",
-    "title": "Ranking the best QBs in the transfer portal",
-    "description": "A look at the top quarterbacks who are on the move this offseason.",
+    "slug": "how-long-will-a-quarterback-stay-a-college-football-transfer-portal-conundrum",
+    "title": "How long will a quarterback stay? A college football transfer portal conundrum",
+    "description": "Jaron-Keawe Sagapolutele stayed at Cal, but more often than not, college quarterbacks are on the move",
     "pubDate": "2026-01-06",
     "image": "",
-    "link": "https://www.espn.com/college-football/story/_/id/47506851/2026-ncaa-football-transfer-portal-best-quarterbacks",
-    "source": "Max Olson"
+    "link": "https://www.espn.com/college-football/story/_/id/47513563/college-football-transfer-portal-california-golden-bears-quarterback",
+    "source": "Kyle Bonagura"
   },
   {
-    "slug": "college-football-transfer-portal-tracking-who-s-on-the-move",
-    "title": "College football transfer portal: Tracking who's on the move",
+    "slug": "tracking-live-who-s-on-the-move",
+    "title": "Tracking live who's on the move",
     "description": "The transfer portal opened Jan. 2. We're keeping tabs on players who enter and where they're headed.",
     "pubDate": "2026-01-06",
     "image": "",
     "link": "https://www.espn.com/college-football/story/_/id/47352662/college-football-transfer-portal-2026-live-news-updates-rankings-more",
-    "source": "ESPN Staff"
-  },
-  {
-    "slug": "women-s-ap-top-25-poll-reaction-what-to-know-about-every-team",
-    "title": "Women's AP Top 25 poll reaction: What to know about every team",
-    "description": "The new women's AP Top 25 poll is out. Here's what's next for every team in the standings.",
-    "pubDate": "2026-01-06",
-    "image": "",
-    "link": "https://www.espn.com/womens-college-basketball/story/_/id/47434095/ap-women-college-basketball-2025-2026-top-25-poll-reaction-week-8",
     "source": "ESPN Staff"
   },
   {
@@ -306,12 +324,39 @@
     "source": "Graham Hunter"
   },
   {
-    "slug": "men-s-ap-top-25-poll-reaction-michigan-state-kansas-stumble",
-    "title": "Men's AP Top 25 poll reaction: Michigan State, Kansas stumble",
-    "description": "Nebraska cracks the top 10. SMU and UCF replace Florida and USC. See more changes after the two-week hiatus.",
+    "slug": "sc-next-top-25-the-best-high-school-boys-basketball-teams-in-2025-26",
+    "title": "SC Next Top 25: The best high school boys' basketball teams in 2025-26",
+    "description": "Link Academy (Miss.) takes the No. 1 spot to start the calendar year, with Spire Academy (Ohio) making the biggest jump to No. 2 in January.",
     "pubDate": "2026-01-06",
     "image": "",
-    "link": "https://www.espn.com/mens-college-basketball/story/_/id/47513590/ap-mens-college-basketball-top-25-poll-reaction-2025-2026-week-9",
+    "link": "https://www.espn.com/mens-college-basketball/story/_/id/47000950/boys-high-school-basketball-sc-next-top-25-2025-2026-high-school-rankings",
+    "source": "Paul Biancardi"
+  },
+  {
+    "slug": "sc-next-top-25-the-best-high-school-girls-basketball-teams-in-2025-26",
+    "title": "SC Next Top 25: The best high school girls' basketball teams in 2025-26",
+    "description": "Ontario Christian (Calif.) stays atop the 2025-26 SC Next girls' high school rankings as the showcase of the month is the Hoophall Classic.",
+    "pubDate": "2026-01-06",
+    "image": "",
+    "link": "https://www.espn.com/womens-college-basketball/story/_/id/47001234/girls-high-school-basketball-sc-next-top-25-2025-2026-high-school-rankings",
+    "source": "Shane Laflin"
+  },
+  {
+    "slug": "nfl-futures-seahawks-enter-playoffs-as-super-bowl-favorites-rams-right-behind",
+    "title": "NFL futures: Seahawks enter playoffs as Super Bowl favorites, Rams right behind",
+    "description": "Odds for all 14 playoffs teams to advance to and to win Super Bowl LX.",
+    "pubDate": "2026-01-06",
+    "image": "",
+    "link": "https://www.espn.com/espn/betting/story/_/id/43748901/super-bowl-2026-odds-win-nfl-betting",
+    "source": "ESPN"
+  },
+  {
+    "slug": "early-wild-card-bets-how-to-bet-packers-bears-bills-jaguars",
+    "title": "Early wild card bets: How to bet Packers-Bears, Bills-Jaguars",
+    "description": "Here are games we are eyeing for bets going into wild-card weekend.",
+    "pubDate": "2026-01-06",
+    "image": "",
+    "link": "https://www.espn.com/espn/betting/story/_/id/47499394/2025-nfl-playoffs-wild-card-betting-odds-props-early-picks-predictions-first-bet",
     "source": "ESPN"
   },
   {
@@ -1116,24 +1161,6 @@
     "source": "Kendra Andrews"
   },
   {
-    "slug": "sc-next-top-25-the-best-high-school-boys-basketball-teams-in-2025-26",
-    "title": "SC Next Top 25: The best high school boys' basketball teams in 2025-26",
-    "description": "Link Academy (Miss.) takes the No. 1 spot to start the calendar year, with Spire Academy (Ohio) making the biggest jump to No. 2 in January.",
-    "pubDate": "2026-01-05",
-    "image": "",
-    "link": "https://www.espn.com/mens-college-basketball/story/_/id/47000950/boys-high-school-basketball-sc-next-top-25-2025-2026-high-school-rankings",
-    "source": "Paul Biancardi"
-  },
-  {
-    "slug": "sc-next-top-25-the-best-high-school-girls-basketball-teams-in-2025-26",
-    "title": "SC Next Top 25: The best high school girls' basketball teams in 2025-26",
-    "description": "Ontario Christian (Calif.) stays atop the 2025-26 SC Next girls' high school rankings as the showcase of the month is the Hoophall Classic.",
-    "pubDate": "2026-01-05",
-    "image": "",
-    "link": "https://www.espn.com/womens-college-basketball/story/_/id/47001234/girls-high-school-basketball-sc-next-top-25-2025-2026-high-school-rankings",
-    "source": "Shane Laflin"
-  },
-  {
     "slug": "pro-wrestling-awards-2025-dominik-mysterio-stephanie-vaquer-and-an-aew-resurgence",
     "title": "Pro wrestling awards 2025: Dominik Mysterio, Stephanie Vaquer and an AEW resurgence",
     "description": "Pro wrestling insiders identify their top stars and biggest moments of 2025 in WWE, AEW and other top promotions.",
@@ -1141,24 +1168,6 @@
     "image": "",
     "link": "https://www.espn.com/professional-wrestling/story/_/id/47512508/pro-wrestling-awards-2025-dominick-mysterio-stephanie-vaquer-aew-resurgence",
     "source": "Andreas Hale and Sachin Chandan"
-  },
-  {
-    "slug": "nfl-futures-seahawks-enter-playoffs-as-super-bowl-favorites-rams-right-behind",
-    "title": "NFL futures: Seahawks enter playoffs as Super Bowl favorites, Rams right behind",
-    "description": "Odds for all 14 playoffs teams to advance to and to win Super Bowl LX.",
-    "pubDate": "2026-01-05",
-    "image": "",
-    "link": "https://www.espn.com/espn/betting/story/_/id/43748901/super-bowl-2026-odds-win-nfl-betting",
-    "source": "ESPN"
-  },
-  {
-    "slug": "early-wild-card-bets-how-to-bet-packers-bears-bills-jaguars",
-    "title": "Early wild card bets: How to bet Packers-Bears, Bills-Jaguars",
-    "description": "Here are games we are eyeing for bets going into wild-card weekend.",
-    "pubDate": "2026-01-05",
-    "image": "",
-    "link": "https://www.espn.com/espn/betting/story/_/id/47499394/2025-nfl-playoffs-wild-card-betting-odds-props-early-picks-predictions-first-bet",
-    "source": "ESPN"
   },
   {
     "slug": "make-these-fights-ufc-makhachev-topuria-jones-pereira-and-more",
