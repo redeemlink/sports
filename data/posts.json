@@ -18,9 +18,9 @@
     "source": "Shams Charania"
   },
   {
-    "slug": "sources-cubs-marlins-close-to-cabrera-trade",
-    "title": "Sources: Cubs, Marlins close to Cabrera trade",
-    "description": "The Cubs are finalizing a trade to acquire pitcher Edward Cabrera from the Marlins, sources confirmed to ESPN.",
+    "slug": "sources-cubs-land-cabrera-trade-top-prospect",
+    "title": "Sources: Cubs land Cabrera, trade top prospect",
+    "description": "The Cubs have acquired pitcher Edward Cabrera in a trade with the Marlins that sends top prospect Owen Caissie to Miami, sources told ESPN.",
     "pubDate": "2026-01-07",
     "image": "",
     "link": "https://www.espn.com/mlb/story/_/id/47539960/sources-cubs-close-landing-edward-cabrera-trade-marlins",
@@ -36,6 +36,15 @@
     "source": "Todd Archer"
   },
   {
+    "slug": "3-arrested-in-connection-with-s-sanders-burglary",
+    "title": "3 arrested in connection with S. Sanders burglary",
+    "description": "Three suspects have been arrested in connection with a burglary that took place at the home of Browns QB Shedeur Sanders in November. A fourth suspect remains at large.",
+    "pubDate": "2026-01-07",
+    "image": "",
+    "link": "https://www.espn.com/nfl/story/_/id/47542209/3-arrested-nov-break-shedeur-sanders-residence",
+    "source": "Daniel Oyefusi"
+  },
+  {
     "slug": "saints-committed-to-shough-as-starting-qb-in-26",
     "title": "Saints committed to Shough as starting QB in '26",
     "description": "The Saints are preparing to move ahead with Tyler Shough as their starting quarterback in 2026.",
@@ -43,15 +52,6 @@
     "image": "",
     "link": "https://www.espn.com/nfl/story/_/id/47541318/saints-committed-tyler-shough-starting-qb-2026",
     "source": "Katherine Terrell"
-  },
-  {
-    "slug": "qb-williams-hits-portal-despite-signed-uw-deal",
-    "title": "QB Williams hits portal despite signed UW deal",
-    "description": "Washington quarterback Demond Williams Jr. said on social media Tuesday night that he is entering the transfer portal, a move that comes just days after he agreed to return to the Huskies for the 2026 season.",
-    "pubDate": "2026-01-07",
-    "image": "",
-    "link": "https://www.espn.com/college-football/story/_/id/47534773/despite-deal-washington-demond-williams-jr-transfer",
-    "source": "www.espn.com - TOP"
   },
   {
     "slug": "cristobal-blame-the-adults-for-portal-trickery",
@@ -90,24 +90,6 @@
     "source": "Jordan Reid"
   },
   {
-    "slug": "one-big-thing-we-re-hearing-on-every-nfl-team-s-coaching-situation-hot-seats-candidates-more",
-    "title": "One big thing we're hearing on every NFL team's coaching situation: Hot seats, candidates, more",
-    "description": "We have the latest buzz on all 32 coaching staffs, including Mike Tomlin's future with the Steelers.",
-    "pubDate": "2026-01-07",
-    "image": "",
-    "link": "https://www.espn.com/nfl/story/_/id/47515440/2025-nfl-coach-coordinator-hiring-firing-candidates-intel-buzz-32-teams",
-    "source": "Jeremy Fowler"
-  },
-  {
-    "slug": "wait-the-ravens-moved-on-from-harbaugh-answering-seven-questions-about-the-move",
-    "title": "Wait, the Ravens moved on from Harbaugh?! Answering seven questions about the move",
-    "description": "After 18 seasons in Baltimore, the Ravens fired John Harbaugh.",
-    "pubDate": "2026-01-07",
-    "image": "",
-    "link": "https://www.espn.com/nfl/story/_/id/47531700/baltimore-ravens-fire-coach-john-harbaugh-whats-next-faq",
-    "source": "Multiple contributors"
-  },
-  {
     "slug": "roster-overhaul-six-pillars-and-the-pittsburgh-steelers-inside-the-kings-latest-revamp",
     "title": "Roster overhaul, six pillars and the Pittsburgh Steelers: Inside the Kings' latest revamp",
     "description": "The Kings fired Mike Brown this time last season, but one year later don't seem any closer to finding their way.",
@@ -124,6 +106,24 @@
     "image": "",
     "link": "https://www.espn.com/nba/story/_/id/47527857/nba-power-rankings-all-30-teams-one-month-trade-deadline-updates-hawks-mavericks-grizzlies",
     "source": "NBA insiders"
+  },
+  {
+    "slug": "one-big-thing-we-re-hearing-on-every-nfl-team-s-coaching-situation-hot-seats-candidates-more",
+    "title": "One big thing we're hearing on every NFL team's coaching situation: Hot seats, candidates, more",
+    "description": "We have the latest buzz on all 32 coaching staffs, including Mike Tomlin's future with the Steelers.",
+    "pubDate": "2026-01-07",
+    "image": "",
+    "link": "https://www.espn.com/nfl/story/_/id/47515440/2025-nfl-coach-coordinator-hiring-firing-candidates-intel-buzz-32-teams",
+    "source": "Jeremy Fowler"
+  },
+  {
+    "slug": "wait-the-ravens-moved-on-from-harbaugh-answering-seven-questions-about-the-move",
+    "title": "Wait, the Ravens moved on from Harbaugh?! Answering seven questions about the move",
+    "description": "After 18 seasons in Baltimore, the Ravens fired John Harbaugh.",
+    "pubDate": "2026-01-07",
+    "image": "",
+    "link": "https://www.espn.com/nfl/story/_/id/47531700/baltimore-ravens-fire-coach-john-harbaugh-whats-next-faq",
+    "source": "Multiple contributors"
   },
   {
     "slug": "facing-the-texans-this-postseason-broncos-seahawks-good-luck-solak-on-the-three-elite-nfl-defenses",
@@ -261,6 +261,15 @@
     "source": "Charlie Creme"
   },
   {
+    "slug": "this-is-one-of-the-big-moments-in-college-football-demond-williams-jr-s-case-will-test-if-contracts-can-be-enforced",
+    "title": "'This is one of the big moments in college football': Demond Williams Jr.'s case will test if contracts can be enforced",
+    "description": "Williams entered the transfer portal days after signing a contract to return to Washington.",
+    "pubDate": "2026-01-07",
+    "image": "",
+    "link": "https://www.espn.com/college-football/story/_/id/47541426/demond-williams-jr-case-test-viability-signed-contracts-college-sports",
+    "source": "Pete Thamel"
+  },
+  {
     "slug": "ranking-the-25-best-freshmen-from-the-college-football-season",
     "title": "Ranking the 25 best freshmen from the college football season",
     "description": "Some of the top first-year players are helping CFP teams. Others have set up bright futures.",
@@ -268,15 +277,6 @@
     "image": "",
     "link": "https://www.espn.com/college-football/story/_/id/47515679/25-best-freshman-college-football-season",
     "source": "Billy Tucker"
-  },
-  {
-    "slug": "from-no-1-to-nowhere-ranking-the-biggest-disasters-of-the-2025-season",
-    "title": "From No. 1 to nowhere: Ranking the biggest disasters of the 2025 season",
-    "description": "From Clemson and Colorado to UCLA and UMass, these teams are happy to put 2025 behind them.",
-    "pubDate": "2026-01-07",
-    "image": "",
-    "link": "https://www.espn.com/college-football/story/_/id/47501281/ranking-college-football-disappointments-2025-season",
-    "source": "Bill Connelly"
   },
   {
     "slug": "standouts-and-biggest-surprises-both-good-and-bad-from-the-2026-world-juniors",
@@ -765,13 +765,22 @@
     "source": "BBC Sport"
   },
   {
-    "slug": "nba-cup-hangover-why-winning-in-vegas-means-losing-in-january-trae-young-trade-watch",
-    "title": "NBA Cup hangover: why winning in Vegas means losing in January + Trae Young trade watch",
-    "description": "Tom Haberstroh and Dan Devine discuss why NBA Cup champions consistently face a decline in the Cup’s immediate aftermath.",
+    "slug": "barca-rout-athletic-to-reach-spanish-super-cup-final",
+    "title": "Barca rout Athletic to reach Spanish Super Cup final",
+    "description": "Raphinha netted twice as Barcelona strolled into the Spanish Super Cup final with a dominant 5-0 semi-final win over Athletic Bilbao on Wednesday in Saudi Arabia.Last season Barca went on to win La Liga and the Copa del Rey after Flick's side won the Spanish Super Cup for the first trophy of the Ger",
     "pubDate": "2026-01-07",
     "image": "",
-    "link": "https://sports.yahoo.com/nba/article/nba-cup-hangover-why-winning-in-vegas-means-losing-in-january--trae-young-trade-watch-204519382.html",
-    "source": "Tom Haberstroh,Dan Devine"
+    "link": "https://sports.yahoo.com/articles/barca-rout-athletic-reach-spanish-205311622.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "baseball-hall-of-fame-voting-update-carlos-beltr-n-and-andruw-jones-on-track-for-induction-will-anyone-else-join-them",
+    "title": "Baseball Hall of Fame voting update: Carlos Beltrán and Andruw Jones on track for induction — will anyone else join them?",
+    "description": "Jeff Kent is already in the 2026 Hall of Fame class. The rest of the inductees will be announced Jan. 20.",
+    "pubDate": "2026-01-07",
+    "image": "",
+    "link": "https://sports.yahoo.com/mlb/article/baseball-hall-of-fame-voting-update-carlos-beltran-and-andruw-jones-on-track-for-induction--will-anyone-else-join-them-205118918.html",
+    "source": "Jack Baer"
   },
   {
     "slug": "navy-all-american-bowl-2026-live-updates-from-practice-2",
@@ -783,12 +792,210 @@
     "source": "Google News"
   },
   {
+    "slug": "texas-set-to-host-oklahoma-state-transfer-edge-wendell-gregory",
+    "title": "Texas set to host Oklahoma State transfer EDGE Wendell Gregory",
+    "description": "The Georgia product is one of the most coveted edge players in the portal.",
+    "pubDate": "2026-01-07",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/texas-set-host-oklahoma-state-204944283.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "barcelona-5-0-athletic-club-spanish-super-cup-recap",
+    "title": "Barcelona 5-0 Athletic Club, Spanish Super Cup: Recap",
+    "description": "A fantastic win to book a spot in the final",
+    "pubDate": "2026-01-07",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/barcelona-5-0-athletic-club-204912704.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "thriving-in-the-nil-era-ole-miss-turns-into-an-unlikely-college-football-powerhouse",
+    "title": "Thriving in the NIL era, Ole Miss turns into an unlikely college football powerhouse",
+    "description": "Keith Carter had a premium vantage point at the Sugar Bowl for arguably the biggest moment in Mississippi's college football history, standing directly behind the goalposts as Lucas Carneiro's 47-yard field goal split the uprights.  The Ole Miss athletic director scooped up the football and tucked i",
+    "pubDate": "2026-01-07",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/thriving-nil-era-ole-miss-204909966.html",
+    "source": "DAVID BRANDT"
+  },
+  {
+    "slug": "former-steelers-cornerback-signs-with-commanders",
+    "title": "Former Steelers cornerback signs with Commanders",
+    "description": "A former Pittsburgh Steelers cornerback signed with the Washington Commanders following the 2025 regular season.",
+    "pubDate": "2026-01-07",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/former-steelers-cornerback-signs-commanders-204829245.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "american-hockey-league-professional-hockey-players-39-association-tentatively-agree-on-a-new-cba",
+    "title": "American Hockey League, Professional Hockey Players&#39; Association tentatively agree on a new CBA",
+    "description": "The American Hockey League and the Professional Hockey Players’ Association reached a tentative agreement Wednesday on a new collective bargaining agreement.  It must still be ratified by the AHL’s Board of Governors and the union's membership in the U.S. and Canada-based developmental league just b",
+    "pubDate": "2026-01-07",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/american-hockey-league-professional-hockey-204803438.html",
+    "source": "The Associated Press"
+  },
+  {
+    "slug": "former-us-team-midfielder-chris-armas-named-head-coach-of-the-kansas-city-current",
+    "title": "Former US team midfielder Chris Armas named head coach of the Kansas City Current",
+    "description": "Former Colorado Rapids coach and U.S. team midfielder Chris Armas has been named head coach of the Kansas City Current, the team announced Wednesday.  Armas replaces coach Vlatko Andonovski, who was named to a new position as the club's global sporting director following the 2025 season.",
+    "pubDate": "2026-01-07",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/former-us-team-midfielder-chris-204642588.html",
+    "source": "ANNE M. PETERSON"
+  },
+  {
+    "slug": "report-buccaneers-retain-todd-bowles-as-head-coach-for-2026",
+    "title": "REPORT: Buccaneers retain Todd Bowles as head coach for 2026",
+    "description": "The Buccaneers have opted to retain their head coach for a fifth season.",
+    "pubDate": "2026-01-07",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/report-buccaneers-retain-todd-bowles-204642497.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "on-nick-saban-39-s-coaching-tree-and-the-cfp-it-sprouted-goodbread",
+    "title": "On Nick Saban&#39;s coaching tree, and the CFP it sprouted | Goodbread",
+    "description": "No matter which coach wins the College Football Playoff, it will be someone whose career was touched by Nick Saban. A closer look at the branches.",
+    "pubDate": "2026-01-07",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/nick-sabans-coaching-tree-cfp-204629124.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "chargers-begin-practice-week-without-key-offensive-player",
+    "title": "Chargers begin practice week without key offensive player",
+    "description": "Chargers running back Omarion Hampton did not practice Wednesday due to an ankle injury.",
+    "pubDate": "2026-01-07",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/chargers-begin-practice-week-without-204609914.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "will-rams-avenge-their-week-13-with-wild-card-win-at-carolina",
+    "title": "Will Rams avenge their Week 13 with wild card win at Carolina?",
+    "description": "Rams begin Lombardi pursuit with road rematch in Carolina",
+    "pubDate": "2026-01-07",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/rams-avenge-week-13-wild-204600746.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "former-clemson-football-receiver-enters-transfer-portal-a-second-time",
+    "title": "Former Clemson football receiver enters transfer portal a second time",
+    "description": "This former Clemson player is back in the NCAA transfer portal after only one season with the team he left the Tigers for.",
+    "pubDate": "2026-01-07",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/former-clemson-football-receiver-enters-204558295.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "mike-vrabel-sheds-light-on-teams-eyeing-patriots-assistants-for-job-openings",
+    "title": "Mike Vrabel Sheds Light On Teams Eyeing Patriots’ Assistants For Job Openings",
+    "description": "The New England Patriots conducted one of the league’s most dramatic turnarounds in 2025. After finishing last season 4-13 with just 289 points scored on offense, head coach Mike Vrabel’s brand new staff produced a 14-3 record as the highest scoring team in the AFC. It is expected that the high-flyi",
+    "pubDate": "2026-01-07",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/mike-vrabel-sheds-light-teams-204527216.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "nba-cup-hangover-why-winning-in-vegas-means-losing-in-january-trae-young-trade-watch",
+    "title": "NBA Cup hangover: why winning in Vegas means losing in January + Trae Young trade watch",
+    "description": "Tom Haberstroh and Dan Devine discuss why NBA Cup champions consistently face a decline in the Cup’s immediate aftermath.",
+    "pubDate": "2026-01-07",
+    "image": "",
+    "link": "https://sports.yahoo.com/nba/article/nba-cup-hangover-why-winning-in-vegas-means-losing-in-january--trae-young-trade-watch-204519382.html",
+    "source": "Tom Haberstroh,Dan Devine"
+  },
+  {
+    "slug": "coco-gauff-defends-her-claim-that-american-fans-are-the-worst-at-supporting-u-s-players-overseas",
+    "title": "Coco Gauff Defends Her Claim That American Fans Are ‘the Worst’ at Supporting U.S. Players Overseas",
+    "description": "\"I feel like we’re definitely, in the tennis department, the worst,\" Gauff said of U.S. tennis fans during a United Cup press conference",
+    "pubDate": "2026-01-07",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/coco-gauff-defends-her-claim-204516003.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "alabama-lands-commitment-from-top-transfer-portal-defensive-lineman",
+    "title": "Alabama lands commitment from top transfer portal defensive lineman",
+    "description": "Alabama has landed a commitment from Devan Thompkins, one of the top defensive linemen in the transfer portal.",
+    "pubDate": "2026-01-07",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/alabama-lands-commitment-top-transfer-204514517.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "jude-bellingham-we-want-vin-cius-to-be-the-best-version-of-himself-again",
+    "title": "Jude Bellingham:“We want Vinícius to be the best version of himself again”",
+    "description": "He addressed the media before the Madrid derby",
+    "pubDate": "2026-01-07",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/jude-bellingham-want-vin-cius-204359830.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "former-utsa-wr-devin-mccuin-commits-to-ohio-state",
+    "title": "Former UTSA WR Devin McCuin commits to Ohio State",
+    "description": "Former UTSA wide receiver Devin McCuin committed to Ohio State out of the NCAA transfer portal, On3 has learned. He spent three seasons at the school. McCuin finished the 2025 season with 65 catches for 726 yards, eight touchdowns and 11.2 yards per catch. In his career, McCuin has 152 catches for 1",
+    "pubDate": "2026-01-07",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/former-utsa-wr-devin-mccuin-204329202.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "omarion-hampton-will-not-practice-wednesday",
+    "title": "Omarion Hampton will not practice Wednesday",
+    "description": "The Chargers played without running back Omarion Hampton in Week 18 and they'll kick off their practice week without him as well.",
+    "pubDate": "2026-01-07",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/omarion-hampton-not-practice-wednesday-204244835.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "why-orioles-dfa-39-d-jhonkensy-noel-2-days-after-getting-him-from-guardians",
+    "title": "Why Orioles DFA&#39;d Jhonkensy Noel 2 days after getting him from Guardians",
+    "description": "This actually has a chance at making sense.",
+    "pubDate": "2026-01-07",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/why-orioles-dfad-jhonkensy-noel-204228578.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "liverpool-sign-bk-h-cken-keeper-falk-on-loan",
+    "title": "Liverpool sign BK Häcken keeper Falk on loan",
+    "description": "Liverpool have completed the signing of BK Häcken goalkeeper Jennifer Falk on a loan deal which will run until the end of the season.WSL Full-Time were informed of the news via an official club press...",
+    "pubDate": "2026-01-07",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/liverpool-sign-bk-h-cken-204200872.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "louisville-lands-a-commitment-from-former-south-carolina-ol-cason-henry",
+    "title": "Louisville lands a commitment from former South Carolina OL Cason Henry",
+    "description": "Kentucky was in it, but the Wildcats finished third. It came down to Louisville and Ole Miss for former South Carolina offensive lineman Cason Henry. He took visits to both schools this week, and in the end, the ACC beat the SEC. Henry chose the Cardinals. “Both are fantastic programs with elite off",
+    "pubDate": "2026-01-07",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/louisville-lands-commitment-former-south-204015151.html",
+    "source": "Google News"
+  },
+  {
     "slug": "talented-texas-longhorns-lb-elijah-barnes-enters-transfer-portal",
     "title": "Talented Texas Longhorns LB Elijah Barnes enters transfer portal",
     "description": "Elijah Barnes embarks on a new chapter. The talented linebacker will leave the Texas Longhorns and enter the transfer portal.",
     "pubDate": "2026-01-07",
     "image": "",
     "link": "https://sports.yahoo.com/articles/talented-texas-longhorns-lb-elijah-204009551.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "is-travis-kelce-retiring-in-2026-chiefs-te-gives-interesting-update",
+    "title": "Is Travis Kelce retiring in 2026? Chiefs TE gives interesting update",
+    "description": "Could Kelce return for a 14th NFL season?",
+    "pubDate": "2026-01-07",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/travis-kelce-retiring-2026-chiefs-204008978.html",
     "source": "Google News"
   },
   {
@@ -828,6 +1035,42 @@
     "source": "Chris Cwik"
   },
   {
+    "slug": "wizards-get-massive-update-from-nba-insider-regarding-possible-trae-young-blockbuster-trade",
+    "title": "Wizards get massive update from NBA insider regarding possible Trae Young blockbuster trade",
+    "description": "The Wizards might be back.",
+    "pubDate": "2026-01-07",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/wizards-massive-nba-insider-regarding-203913923.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "browns-2026-opponents-revealed-why-a-39-last-place-schedule-39-could-be-a-game-changer",
+    "title": "Browns 2026 opponents revealed: Why a &#39;last-place schedule&#39; could be a game-changer",
+    "description": "The Browns have revealed their 2026 opponents. Check out the can't miss match-ups and easy strength of schedule details!",
+    "pubDate": "2026-01-07",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/browns-2026-opponents-revealed-why-203827547.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "if-not-the-gm-or-coach-devils-must-shake-up-the-core",
+    "title": "If Not the GM or Coach, Devils Must Shake Up the Core",
+    "description": "When both general manager, Tom Fitzgerald, and head coach, Sheldon Keefe were both at the Prudential Center on Wednesday for […]",
+    "pubDate": "2026-01-07",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/not-gm-coach-devils-must-203737457.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "athletics-still-have-some-work-to-do-if-they-want-to-get-their-offseason-grade-up",
+    "title": "Athletics still have some work to do if they want to get their offseason grade up",
+    "description": "The A's still have some holes they need to fill this winter.",
+    "pubDate": "2026-01-07",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/athletics-still-want-offseason-grade-203711031.html",
+    "source": "Google News"
+  },
+  {
     "slug": "lt-trent-williams-wr-ricky-pearsall-will-not-practice-wednesday",
     "title": "LT Trent Williams, WR Ricky Pearsall will not practice Wednesday",
     "description": "The 49ers missed left tackle Trent Williams in the Week 18 loss to the Seahawks that has them playing a wild-card game instead of advancing to the divisional round with a bye.",
@@ -837,12 +1080,39 @@
     "source": "Google News"
   },
   {
+    "slug": "for-some-reason-he-gary-neville-left-absolutely-dumbfounded-by-what-he-just-saw-from-senior-man-utd-man",
+    "title": "’For some reason, he…’: Gary Neville left absolutely dumbfounded by what he just saw from senior Man Utd man",
+    "description": "Burnley lead Manchester United 1-0 at Turf Moor inside the first 15 minutes of action.Following an even opening from the two sides, Burnley found an unlikely breakthrough via Bashir Humphreys, whose c...",
+    "pubDate": "2026-01-07",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/reason-gary-neville-left-absolutely-203700197.html",
+    "source": "Google News"
+  },
+  {
     "slug": "everton-1-0-wolves-live-how-to-watch-second-half-underway",
     "title": "Everton 1-0 Wolves: Live & How to Watch | Second half underway",
     "description": "The Toffees are looking to get back to winning ways against Wolves",
     "pubDate": "2026-01-07",
     "image": "",
     "link": "https://sports.yahoo.com/articles/everton-vs-wolves-starting-lineups-163000677.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "nbcuniversal-peacock-tout-legendary-february-trifecta-of-winter-olympics-super-bowl-nba-all-star-weekend",
+    "title": "NBCUniversal, Peacock Tout “Legendary February” Trifecta Of Winter Olympics, Super Bowl, NBA All-Star Weekend",
+    "description": "NBCUniversal and Peacock are busting out next month with a trinity of live sports in the Milan Cortina Winter Olympics, Super Bowl LX and the NBA All-Star Weekend in rapid succession over ten days. “It’s the 100th anniversary of NBC this year, so what a way to start off,” said Mike Cavanagh, the co-",
+    "pubDate": "2026-01-07",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/nbcuniversal-peacock-tout-legendary-february-203648780.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "phillies-39-rob-thomson-reveals-great-zack-wheeler-injury-update",
+    "title": "Phillies&#39; Rob Thomson reveals great Zack Wheeler injury update",
+    "description": "This is a good sign for Zack Wheeler.",
+    "pubDate": "2026-01-07",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/phillies-rob-thomson-reveals-great-203626174.html",
     "source": "Google News"
   },
   {
@@ -936,282 +1206,12 @@
     "source": "Google News"
   },
   {
-    "slug": "tottenham-great-martin-chivers-dies-at-age-80",
-    "title": "Tottenham great Martin Chivers dies at age 80",
-    "description": "",
+    "slug": "shane-baz-excited-to-call-camden-yards-home-after-trade-to-orioles",
+    "title": "Shane Baz Excited to Call Camden Yards Home After Trade to Orioles",
+    "description": "New Oriole Shane Baz embraces Camden Yards.",
     "pubDate": "2026-01-07",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/tottenham-great-martin-chivers-dies-203202069.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "dolphins-anthony-weaver-lands-interview-with-franchise-he-played-coached-for",
-    "title": "Dolphins’ Anthony Weaver lands interview with franchise he played, coached for",
-    "description": "We could soon be living in a world where the Baltimore Ravens moved on from coach John Harbaugh to replace him with his former defensive line coach who was passed up for their defensive coordinator job when it came open two years ago. Miami Dolphins defensive coordinator Anthony Weaver has been requ",
-    "pubDate": "2026-01-07",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/dolphins-anthony-weaver-lands-interview-203100389.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "who-39-s-a-lock-to-remain-ufc-champ-through-2026-these-are-our-picks",
-    "title": "Who&#39;s a lock to remain UFC champ through 2026? These are our picks",
-    "description": "Of the current UFC champions, we pick who's our lock to make it through the year still holding their title.",
-    "pubDate": "2026-01-07",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/whos-lock-remain-ufc-champ-203041159.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "vic-fangio-shares-fond-memories-of-his-four-year-stint-with-the-49ers",
-    "title": "Vic Fangio shares fond memories of his four-year stint with the 49ers",
-    "description": "Vic Fangio had some good times in the Bay Area, but he now looks to beat the 49ers in the Wild card Round.",
-    "pubDate": "2026-01-07",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/vic-fangio-shares-fond-memories-203027029.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "patriots-rb-rhamondre-stevenson-named-afc-offensive-player-of-the-week",
-    "title": "Patriots RB Rhamondre Stevenson named AFC Offensive Player of the Week",
-    "description": "Patriots running back Rhamondre Stevenson was named the AFC Offensive Player of the Week on Wednesday.",
-    "pubDate": "2026-01-07",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/patriots-rb-rhamondre-stevenson-named-203025421.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "top-five-canes-i-d-bring-back-for-the-fiesta-bowl",
-    "title": "Top five Canes I’d bring back for the Fiesta Bowl",
-    "description": "The Fiesta Bowl is now just one single sleep away, y’all. Miami and Ole Miss are that close to duking it out for one of those two incredible Cinderella stories to advance into the national championship spotlight. I’ve played the game over and over again in my mind. I’ve thought about Miami’s strengt",
-    "pubDate": "2026-01-07",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/top-five-canes-d-bring-203000203.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "one-matchup-will-especially-be-key-for-the-49ers-versus-the-eagles",
-    "title": "One matchup will especially be key for the 49ers versus the Eagles",
-    "description": "49ers HC Kyle Shanahan shared his thoughts about the offensive line",
-    "pubDate": "2026-01-07",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/one-matchup-especially-key-49ers-203000161.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "5-former-rams-will-start-for-panthers-in-saturday-39-s-playoff-game",
-    "title": "5 former Rams will start for Panthers in Saturday&#39;s playoff game",
-    "description": "When the Rams face the Panthers on Saturday, there will be 5 of their own former starters on the other side.",
-    "pubDate": "2026-01-07",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/5-former-rams-start-panthers-202956788.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "georgia-cb-ondre-evans-enters-ncaa-transfer-portal-with-do-not-contact-tag",
-    "title": "Georgia CB Ondre Evans enters NCAA Transfer Portal with do-not-contact tag",
-    "description": "Georgia redshirt freshman cornerback Ondre Evans has entered the NCAA Transfer Portal with a do-not-contact tag, according to On3’s Pete Nakos. He’ll have three seasons of collegiate eligibility remaining. Evans hits the portal after failing to see the field in his first two seasons in Athens. That’",
-    "pubDate": "2026-01-07",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/georgia-cb-ondre-evans-enters-202551781.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "orioles-claim-former-giants-top-prospect-from-pirates",
-    "title": "Orioles claim former Giants top prospect from Pirates",
-    "description": "Baltimore is taking a flier on the infielder.",
-    "pubDate": "2026-01-07",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/orioles-claim-former-giants-top-202924670.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "wolves-willing-to-sell-striker-strand-larsen",
-    "title": "Wolves willing to sell striker Strand Larsen",
-    "description": "Wolves are open to selling striker Jorgen Strand Larsen this month, amid interest from Nottingham Forest.",
-    "pubDate": "2026-01-07",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/wolves-willing-sell-striker-strand-162822240.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "john-harbaugh-to-washington-commanders-named-best-fit-for-fired-coach",
-    "title": "John Harbaugh to Washington? Commanders named best fit for fired coach",
-    "description": "The Washington Commanders have a head coach, but one analyst believes John Harbaugh should be brought in anyway.",
-    "pubDate": "2026-01-07",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/john-harbaugh-washington-commanders-named-202908972.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "dodgers-reacts-survey-available-free-agents",
-    "title": "Dodgers Reacts Survey: Available free agents",
-    "description": "Welcome to SB Nation Reacts, a survey of fans across the MLB. Throughout the year we ask questions of the most plugged-in Dodgers fans and fans across the country. Sign up here to participate in the weekly emailed surveys. There are still a few top-tier free agents still available on the open market",
-    "pubDate": "2026-01-07",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/dodgers-reacts-survey-available-free-202842239.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "ravens-fire-john-harbaugh-look-at-klint-kubiak-as-a-head-coaching-candidate",
-    "title": "Ravens fire John Harbaugh, look at Klint Kubiak as a head coaching candidate",
-    "description": "The Ravens’ search for John Harbaugh’s replacement involves an interview with Seahawks offensive coordinator Klint Kubiak.",
-    "pubDate": "2026-01-07",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/ravens-fire-john-harbaugh-look-202813834.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "2025-nfl-playoffs-betting-odds-los-angeles-rams-10-5-at-panthers-are-largest-road-favorites-in-the-super-bowl-era",
-    "title": "2025 NFL Playoffs betting, odds: Los Angeles Rams (-10.5 at Panthers) are largest road favorites in the Super Bowl era",
-    "description": "The Rams are historic road favorites against the Carolina Panthers in Saturday's wild-card game.",
-    "pubDate": "2026-01-07",
-    "image": "",
-    "link": "https://sports.yahoo.com/nfl/betting/article/2025-nfl-playoffs-betting-odds-los-angeles-rams--105-at-panthers-are-largest-road-favorites-in-the-super-bowl-era-202750527.html",
-    "source": "Ben Fawkes"
-  },
-  {
-    "slug": "phillies-39-reasoning-for-not-signing-top-japanese-free-agents-will-frustrate-fans",
-    "title": "Phillies&#39; reasoning for not signing top Japanese free agents will frustrate fans",
-    "description": "This won't sit well with Phillies fans.",
-    "pubDate": "2026-01-07",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/phillies-reasoning-not-signing-top-202629345.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "kalimuendo-joins-frankfurt-from-forest",
-    "title": "Kalimuendo joins Frankfurt from Forest",
-    "description": "Striker Arnaud Kalimuendo has joined Eintracht Frankfurt on an initial loan deal.  The Bundesliga club have an option to make the move permanent for about £23m.  Forest are keen on Wolves forward Jorgen Strand Larsen as they look for more firepower in January.",
-    "pubDate": "2026-01-07",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/kalimuendo-joins-frankfurt-forest-201938183.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "browns-head-coaching-tracker-stay-up-to-date-with-every-move",
-    "title": "Browns head coaching tracker: Stay up-to-date with every move",
-    "description": "As the Browns look for a new head coach, stay active with every piece of information here!",
-    "pubDate": "2026-01-07",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/browns-head-coaching-tracker-stay-202454930.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "kai-trump-undergoes-surgery-to-address-injury-affecting-golf-swing",
-    "title": "Kai Trump undergoes surgery to address injury affecting golf swing",
-    "description": "Trump, the eldest grandchild of U.S. President Donald J. Trump, announced she'd undergone surgery to address injuries affecting her golf swing.",
-    "pubDate": "2026-01-07",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/kai-trump-undergoes-surgery-repair-202442637.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "kai-trump-undergoes-surgery-to-repair-injury-affecting-golf-swing",
-    "title": "Kai Trump undergoes surgery to repair injury affecting golf swing",
-    "description": "Trump, the eldest grandchild of U.S. President Donald J. Trump, announced she'd undergone surgery to address injuries affecting her golf swing.",
-    "pubDate": "2026-01-07",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/kai-trump-undergoes-surgery-repair-202442159.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "49ers-39-kyle-shanahan-shares-thoughts-on-signing-another-qb",
-    "title": "49ers&#39; Kyle Shanahan shares thoughts on signing another QB",
-    "description": "San Francisco could choose to play it safe.",
-    "pubDate": "2026-01-07",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/49ers-kyle-shanahan-shares-thoughts-202414156.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "ufc-houston-adds-thrilling-supporting-act",
-    "title": "UFC Houston adds thrilling supporting act",
-    "description": "An important featherweight bout is headed to UFC Houston.",
-    "pubDate": "2026-01-07",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/ufc-houston-adds-thrilling-supporting-202359040.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "seahawks-open-21-day-practice-window-for-te-elijah-arroyo",
-    "title": "Seahawks open 21-day practice window for TE Elijah Arroyo",
-    "description": "The Seahawks designated rookie tight end Elijah Arroyo for return to practice ahead of Wednesday's session.",
-    "pubDate": "2026-01-07",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/seahawks-open-21-day-practice-202355851.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "pff-5-lowest-graded-bills-players-on-defense-in-week-18-vs-jets",
-    "title": "PFF: 5 lowest-graded Bills players on defense in Week 18 vs. Jets",
-    "description": "The five lowest-graded Buffalo Bills players on defense in their 35-8 win over the New York Jets in Week 18, according to Pro Football Focus.",
-    "pubDate": "2026-01-07",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/pff-5-lowest-graded-bills-202339875.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "notre-dame-football-great-nick-eddy-a-1966-national-champion-dies-at-81",
-    "title": "Notre Dame football great Nick Eddy, a 1966 national champion, dies at 81",
-    "description": "Nick Eddy's third-place Heisman finish in 1966 remained the highest by a Notre Dame running back until Jeremiyah Love matched that result last month.",
-    "pubDate": "2026-01-07",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/notre-dame-football-great-nick-202313575.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "us-figure-skating-championships-live-updates-today-39-s-schedule-lineup",
-    "title": "US figure skating championships live updates: Today&#39;s schedule, lineup",
-    "description": "The 2026 U.S. figure skating championships begin with the pairs and women performing their short programs. Follow for full coverage.",
-    "pubDate": "2026-01-07",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/us-figure-skating-championships-live-202258671.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "chris-perkins-dolphins-rookies-like-nil-but-acknowledge-it-could-ruin-cultures",
-    "title": "Chris Perkins: Dolphins rookies like NIL but acknowledge it could ‘ruin cultures’",
-    "description": "MIAMI GARDENS — Miami Dolphins rookies unanimously say NIL (Name, Image, Likeness) money for college football players is a good idea. At the same time, the Dolphins rookies tell me a freshman salary cap is a necessity. “I just feel like sometimes those kids are getting too much money and they haven’",
-    "pubDate": "2026-01-07",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/chris-perkins-dolphins-rookies-nil-202200381.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "3-matchups-to-watch-in-chargers-39-wild-card-game-vs-patriots",
-    "title": "3 matchups to watch in Chargers&#39; wild-card game vs. Patriots",
-    "description": "Here are three critical matchups in the Sunday night showdown between the Chargers and Patriots that could decide the game.",
-    "pubDate": "2026-01-07",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/3-matchups-watch-chargers-wild-202125304.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "ben-johnson-sounds-off-on-bears-qb-caleb-williams-39-growth",
-    "title": "Ben Johnson sounds off on Bears QB Caleb Williams&#39; growth",
-    "description": "Bears head coach Ben Johnson opened up about the growth of QB Caleb Williams from the beginning of the season to now.",
-    "pubDate": "2026-01-07",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/ben-johnson-sounds-off-bears-202029758.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "lane-johnson-participates-in-eagles-practice-ahead-of-matchup-vs-49ers",
-    "title": "Lane Johnson participates in Eagles practice ahead of matchup vs. 49ers",
-    "description": "Lane Johnson returned to Eagles practice on Wednesday and participated for the first time since missing six games with a Lisfranc injury",
-    "pubDate": "2026-01-07",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/lane-johnson-participates-eagles-practice-202009851.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "parma-vs-inter-milan-chivu-wants-his-side-fully-focused-on-tonight-s-match-when-you-start-planning-ahead-you-get-caught-out",
-    "title": "Parma Vs Inter Milan – Chivu Wants His Side Fully Focused On Tonight’s Match: “When You Start Planning Ahead, You Get Caught Out”",
-    "description": "Inter Milan head coach Cristian Chivu claimed his side won’t think about the upcoming clash against Napoli ahead of tonight’s game at Parma.Speaking to DAZN via FCInterNews, the 45-year-old urged ...",
-    "pubDate": "2026-01-07",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/parma-vs-inter-milan-chivu-202000243.html",
+    "link": "https://sports.yahoo.com/articles/shane-baz-excited-call-camden-203224654.html",
     "source": "Google News"
   },
   {
