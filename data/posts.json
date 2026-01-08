@@ -9,6 +9,15 @@
     "source": "Shams Charania"
   },
   {
+    "slug": "chiefs-aware-of-abuse-allegations-by-rice-s-ex",
+    "title": "Chiefs 'aware' of abuse allegations by Rice's ex",
+    "description": "The Chiefs acknowledged Wednesday that they are aware of domestic violence allegations made by a woman who is the ex-girlfriend of Rashee Rice, with the team saying it's in communication with the league and will have no additional comment at this time.",
+    "pubDate": "2026-01-08",
+    "image": "",
+    "link": "https://www.espn.com/nfl/story/_/id/47546818/chiefs-aware-abuse-allegations-made-rashee-rice-ex-girlfriend",
+    "source": "Nate Taylor"
+  },
+  {
     "slug": "jim-harbaugh-hails-john-hopes-he-s-nfc-bound",
     "title": "Jim Harbaugh hails John, hopes he's NFC-bound",
     "description": "Jim Harbaugh doesn't expect his older brother John to be out of a job very long but just hopes his next landing spot isn't in the AFC, where the Chargers reside. \"As I told him, whatever team he goes to is going to be formidable,\" Jim said.",
@@ -34,15 +43,6 @@
     "image": "",
     "link": "https://www.espn.com/mlb/story/_/id/47546030/sources-rockies-add-michael-lorenzen-rotation-8m-deal",
     "source": "Jeff Passan"
-  },
-  {
-    "slug": "lebron-ruled-out-vs-spurs-with-multiple-injuries",
-    "title": "LeBron ruled out vs. Spurs with multiple injuries",
-    "description": "Lakers star LeBron James will not play against the Spurs on Wednesday -- the second game of a back-to-back -- with the team citing multiple injuries.",
-    "pubDate": "2026-01-08",
-    "image": "",
-    "link": "https://www.espn.com/nba/story/_/id/47544724/lakers-lebron-james-ruled-vs-spurs-multiple-injuries",
-    "source": "Dave McMenamin"
   },
   {
     "slug": "cubs-land-cabrera-trade-top-prospect-to-marlins",
@@ -115,6 +115,24 @@
     "image": "",
     "link": "https://www.espn.com/nba/story/_/id/47527857/nba-power-rankings-all-30-teams-one-month-trade-deadline-updates-hawks-mavericks-grizzlies",
     "source": "NBA insiders"
+  },
+  {
+    "slug": "wetzel-welcome-to-a-new-college-football-world-where-the-sec-is-no-longer-undisputed-king",
+    "title": "Wetzel: Welcome to a new college football world, where the SEC is no longer undisputed king",
+    "description": "The Big Ten is guaranteed to be playing for a third straight national title. Can the SEC find a way to dominate this new era like it did the previous one?",
+    "pubDate": "2026-01-08",
+    "image": "",
+    "link": "https://www.espn.com/college-football/story/_/id/47531081/wetzel-how-nil-transfers-rev-share-brought-sec-football-back-pack",
+    "source": "Dan Wetzel"
+  },
+  {
+    "slug": "why-these-semifinals-are-just-what-college-football-needed",
+    "title": "Why these semifinals are just what college football needed",
+    "description": "Tired of the same dominant teams winning it all? These semifinal matchups are for you.",
+    "pubDate": "2026-01-08",
+    "image": "",
+    "link": "https://www.espn.com/college-football/story/_/id/47530768/college-football-playoff-semifinals-enlivened-new-blood-indiana-oregon-miami-ole-miss",
+    "source": "Ryan McGee"
   },
   {
     "slug": "ty-simpson-declares-for-the-nfl-draft-what-does-it-mean-for-the-qb-class-alabama-s-next-moves",
@@ -261,21 +279,48 @@
     "source": "ESPN"
   },
   {
-    "slug": "a-wonderful-innings-bethell-s-brilliant-knock-ended-by-starc",
-    "title": "'A wonderful innings' - Bethell's brilliant knock ended by Starc",
-    "description": "Jacob Bethell's memorable innings comes to an end as he's caught for 154 by Alex Carey, off the bowling of Mitchell Starc to leave England 328-9, with a lead of 146 on day five of the fifth Ashes Test in Sydney.",
+    "slug": "whoever-signed-off-england-s-tour-has-to-go-agnew-column",
+    "title": "'Whoever signed off England's tour has to go' - Agnew column",
+    "description": "England's 4-1 Ashes defeat is the most disappointing I have covered and whoever signed off on the tourists' preparation has to go, writes Jonathan Agnew.",
     "pubDate": "2026-01-08",
     "image": "",
-    "link": "https://www.bbc.com/sport/cricket/videos/cwy1pqjdggpo?at_medium=RSS&at_campaign=rss",
+    "link": "https://www.bbc.com/sport/cricket/articles/c3r1wg5407lo?at_medium=RSS&at_campaign=rss",
     "source": "BBC Sport"
   },
   {
-    "slug": "it-s-had-a-shocker-snicko-controversy-strikes-england-again",
-    "title": "'It's had a shocker' - Snicko controversy strikes England again",
-    "description": "England find themselves on the wrong side of another controversial Snicko decision after Jake Weatherald is given not out despite there appearing to be a murmur on the Snicko technology, as the ball passes the bat - with Weatherald on 16 and Australia 33-0, chasing 160 to win the fifth and final Ash",
+    "slug": "england-beaten-to-give-australia-4-1-ashes-win",
+    "title": "England beaten to give Australia 4-1 Ashes win",
+    "description": "Australia complete a nervy five-wicket victory over England on day five of the final Ashes Test in Sydney to seal a 4-1 series win.",
     "pubDate": "2026-01-08",
     "image": "",
-    "link": "https://www.bbc.com/sport/cricket/videos/cn0kyde95w8o?at_medium=RSS&at_campaign=rss",
+    "link": "https://www.bbc.com/sport/cricket/articles/c74vmppny9go?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport"
+  },
+  {
+    "slug": "england-futures-at-risk-but-head-an-all-format-star-ashes-player-ratings",
+    "title": "England futures at risk but Head an all-format star - Ashes player ratings",
+    "description": "Find out who got a 10 and who is facing an uncertain international future with our Ashes player ratings.",
+    "pubDate": "2026-01-08",
+    "image": "",
+    "link": "https://www.bbc.com/sport/cricket/articles/c4gw9wep4ymo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport"
+  },
+  {
+    "slug": "best-player-moment-back-spasm-our-ashes-awards",
+    "title": "Best player, moment & back spasm - our Ashes awards",
+    "description": "Best player, best moment, best back spasm and services to tourism. Who wins BBC chief cricket reporter Stephan Shemilt's Ashes awards?",
+    "pubDate": "2026-01-08",
+    "image": "",
+    "link": "https://www.bbc.com/sport/cricket/articles/cy8yp48z9y1o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport"
+  },
+  {
+    "slug": "carey-hits-four-to-seal-five-wicket-win-for-australia",
+    "title": "Carey hits four to seal five-wicket win for Australia",
+    "description": "Alex Carey secures victory in style for Australia, as he hits a four to seal a five-wicket win against England on day five of the fifth Ashes Test in Sydney, as Australia win the series 4-1.",
+    "pubDate": "2026-01-08",
+    "image": "",
+    "link": "https://www.bbc.com/sport/cricket/videos/c77k8lld756o?at_medium=RSS&at_campaign=rss",
     "source": "BBC Sport"
   },
   {
@@ -297,12 +342,48 @@
     "source": "BBC Sport"
   },
   {
+    "slug": "who-made-your-ashes-team-of-the-series",
+    "title": "Who made your Ashes team of the series?",
+    "description": "Find out which players made the cut into the BBC Sport team of the series for the Ashes.",
+    "pubDate": "2026-01-08",
+    "image": "",
+    "link": "https://www.bbc.com/sport/cricket/articles/c87rdwe703zo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport"
+  },
+  {
     "slug": "brilliant-brazilian-and-defying-the-odds-brentford-s-european-charge",
     "title": "Brilliant Brazilian and defying the odds - Brentford's European charge",
     "description": "With four wins in five games, and a Brazilian striker banging in the goals, Brentford fans are dreaming of the Champions League.",
     "pubDate": "2026-01-08",
     "image": "",
     "link": "https://www.bbc.com/sport/football/articles/clynelwgdd4o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport"
+  },
+  {
+    "slug": "carey-hits-four-to-seal-five-wicket-win-for-australia",
+    "title": "Carey hits four to seal five-wicket win for Australia",
+    "description": "Alex Carey secures victory in style for Australia, as he hits a four to seal a five-wicket win against England on day five of the fifth Ashes Test in Sydney, as Australia win the series 4-1.",
+    "pubDate": "2026-01-08",
+    "image": "",
+    "link": "https://www.bbc.com/sport/cricket/videos/c77k8lld756o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport"
+  },
+  {
+    "slug": "he-s-a-yard-short-labuschagne-run-out-as-england-show-late-fight",
+    "title": "'He's a yard short!' - Labuschagne run out as England show late fight",
+    "description": "Marnus Labuschagne is run out for 37 after some excellent fielding from Matthew Potts as Australia fall to 121-5, chasing 160 to win on day five of the fifth Ashes Test in Sydney.",
+    "pubDate": "2026-01-08",
+    "image": "",
+    "link": "https://www.bbc.com/sport/cricket/videos/cwy8wy45wgno?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport"
+  },
+  {
+    "slug": "that-has-spun-a-mile-smith-stunned-by-brilliant-jacks-delivery",
+    "title": "'That has spun a mile' - Smith stunned by brilliant Jacks delivery",
+    "description": "Australia captain Steve Smith is left stunned as he's bowled by a brilliant delivery from Will Jacks for 12, leaving Australia on 92-3, needing 68 runs to win the fifth and final Ashes Test in Sydney.",
+    "pubDate": "2026-01-08",
+    "image": "",
+    "link": "https://www.bbc.com/sport/cricket/videos/c5y2dy8w7e1o?at_medium=RSS&at_campaign=rss",
     "source": "BBC Sport"
   },
   {
@@ -342,453 +423,453 @@
     "source": "BBC Sport"
   },
   {
-    "slug": "trae-young-trade-grades-did-the-hawks-do-ok-despite-not-getting-any-draft-assets",
-    "title": "Trae Young trade grades: Did the Hawks do OK despite not getting any draft assets?",
-    "description": "Young doesn't have the value he once did, making the deal all about the details and a fresh start.",
+    "slug": "godfrey-39-s-17-points-and-clemson-39-s-strong-defense-lead-to-74-70-win-over-no-24-smu",
+    "title": "Godfrey&#39;s 17 points and Clemson&#39;s strong defense lead to 74-70 win over No. 24 SMU",
+    "description": "RJ Godfrey scored 17 points and Clemson held down No. 24 SMU in a 74-70 victory Wednesday night.  The Tigers (13-3) have started 3-0 in the Atlantic Coast Conference for a second consecutive season.  SMU (12-3, 1-1) came in averaging 91.5 points per game — tops in the ACC and 14th nationally — but c",
     "pubDate": "2026-01-08",
     "image": "",
-    "link": "https://sports.yahoo.com/nba/article/trae-young-trade-grades-did-the-hawks-do-ok-despite-not-getting-any-draft-assets-031918406.html",
-    "source": "Morten Stig Jensen"
+    "link": "https://sports.yahoo.com/articles/godfreys-17-points-clemsons-strong-045053870.html",
+    "source": "PETE IACOBELLI"
   },
   {
-    "slug": "she-is-never-satisfied-lauren-harris-drops-38-as-faith-christian-rolls-in-smal-opener",
-    "title": "‘She is never satisfied’: Lauren Harris drops 38 as Faith Christian rolls in SMAL opener",
-    "description": "Faith Christian School girls basketball coach Geoff Harris said his daughter Lauren Harris, the team’s best player and perhaps No. 1 across the entire Yuba-Sutter region, is always striving to be better. Harris dropped 38 on Tuesday and outscored Sacramento Adventist by herself in the first half to",
+    "slug": "celtics-star-jaylen-brown-opens-up-about-frustrations-with-officials-after-loss-to-nuggets",
+    "title": "Celtics star Jaylen Brown opens up about frustrations with officials after loss to Nuggets",
+    "description": "Boston Celtics star Jaylen Brown couldn't deny the fact that the officiating (or lack thereof) got to him during a narrow loss to the Denver Nuggets.",
     "pubDate": "2026-01-08",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/she-never-satisfied-lauren-harris-031900699.html",
+    "link": "https://sports.yahoo.com/articles/celtics-star-jaylen-brown-opens-045053252.html",
     "source": "Google News"
   },
   {
-    "slug": "former-usc-wide-receiver-dj-jordan-commits-to-arizona",
-    "title": "Former USC wide receiver DJ Jordan commits to Arizona",
-    "description": "Arizona’s transfer portal strategy last offseason put an emphasis on experience, with the vast majority of players added to the roster having started at their previous schools. But others, like offensive lineman Tristan Bounds and receiver Tre Spivey, had breakout seasons as first-time starters The",
-    "pubDate": "2026-01-08",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/former-usc-wide-receiver-dj-031700405.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "packers-jon-eric-sullivan-advances-to-finalist-for-dolphins-gm-opening",
-    "title": "Packers’ Jon-Eric Sullivan advances to finalist for Dolphins GM opening",
-    "description": "The Miami Dolphins are down to four general manager candidates, but haven’t decided whether to keep HC Mike McDaniel.",
-    "pubDate": "2026-01-08",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/packers-jon-eric-sullivan-advances-031616256.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "xavier-drops-third-straight-but-makes-it-more-painful-somehow",
-    "title": "Xavier drops third straight, but makes it more painful somehow",
-    "description": "We’ll get it out there early that this was not a banner day from Dr. Naismith’s game. Well, it may have been, but we were all busy watching whatever the heck that was and missed any real sport being played. Where do you start on this one? Marquette is not a good team this year, […]",
-    "pubDate": "2026-01-08",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/xavier-drops-third-straight-makes-031549401.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "chiefs-acknowledge-domestic-violence-allegation-against-rashee-rice",
-    "title": "Chiefs acknowledge domestic violence allegation against Rashee Rice",
-    "description": "Rice's six-game suspension from 2025 could result in enhanced penalties.",
-    "pubDate": "2026-01-08",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/chiefs-acknowledge-domestic-violence-allegation-031549213.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "purple-row-after-dark-rockies-sign-rhp-michael-lorenzen",
-    "title": "Purple Row After Dark: Rockies sign RHP Michael Lorenzen",
-    "description": "The new Rockies front office has signed their first big league free agent in the veteran righty.",
-    "pubDate": "2026-01-08",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/purple-row-dark-rockies-sign-031516583.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "no-13-tcu-women-scored-last-9-points-to-beat-oklahoma-state-69-61",
-    "title": "No. 13 TCU women scored last 9 points to beat Oklahoma State 69-61",
+    "slug": "no-1-arizona-remains-unbeaten-with-101-76-win-over-kansas-state",
+    "title": "No. 1 Arizona remains unbeaten with 101-76 win over Kansas State",
     "description": "",
     "pubDate": "2026-01-08",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/no-13-tcu-women-scored-031503316.html",
+    "link": "https://sports.yahoo.com/articles/no-1-arizona-remains-unbeaten-045017253.html",
+    "source": "BRIAN J. PEDERSEN"
+  },
+  {
+    "slug": "berks-bowling-cameron-peffel-rolls-706-series-in-muhlenberg-s-win-wilson-downs-twin-valley",
+    "title": "Berks bowling: Cameron Peffel rolls 706 series in Muhlenberg’s win; Wilson downs Twin Valley",
+    "description": "Cameron Peffel had a 706 series to lead Muhlenberg to a 3-0 high school boys bowling victory over Antietam on Wednesday at Heisters Lanes. Peffel had games of 253, 207 and 246. The Muhls scored 2,619 to Antietam’s 1,807. Also for the Muhls, Brian Mogel had a 540 series. Muhlenberg also won the girls",
+    "pubDate": "2026-01-08",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/berks-bowling-cameron-peffel-rolls-044700564.html",
     "source": "Google News"
   },
   {
-    "slug": "manchester-city-held-by-brighton-1-1-reaction-media",
-    "title": "Manchester City Held by Brighton, 1-1: Reaction & Media",
-    "description": "A missed opportunity.",
+    "slug": "jaloni-cambridge-scores-career-high-41-points-no-19-ohio-state-tops-illinois-78-69",
+    "title": "Jaloni Cambridge scores career-high 41 points, No. 19 Ohio State tops Illinois 78-69",
+    "description": "Jaloni Cambridge scored a career-high 41 points, 29 in the second half.",
     "pubDate": "2026-01-08",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/manchester-city-held-brighton-1-031500279.html",
+    "link": "https://sports.yahoo.com/articles/jaloni-cambridge-scores-career-high-044652347.html",
     "source": "Google News"
   },
   {
-    "slug": "trae-young-trade-grades-for-wizards-and-hawks-after-deal-for-all-star-point-guard",
-    "title": "Trae Young trade grades for Wizards and Hawks after deal for All-Star point guard",
-    "description": "Let’s grade the Trae Young trade for both the Wizards and Hawks.",
+    "slug": "kansas-city-chiefs-are-39-aware-39-of-domestic-violence-allegations-from-rashee-rice-39-s-ex-girlfriend-team-says",
+    "title": "Kansas City Chiefs Are &#39;Aware&#39; of Domestic Violence Allegations from Rashee Rice&#39;s Ex-Girlfriend, Team Says",
+    "description": "Rice's ex-girlfriend did not include the name of her alleged abuser in an Instagram post on Wednesday, Jan. 7",
     "pubDate": "2026-01-08",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/trae-young-trade-grades-wizards-031457163.html",
+    "link": "https://sports.yahoo.com/articles/kansas-city-chiefs-aware-domestic-044256960.html",
     "source": "Google News"
   },
   {
-    "slug": "jesus-vallejo-let-s-hope-real-madrid-arrive-tired-from-so-many-super-cups",
-    "title": "Jesus Vallejo: “Let’s hope Real Madrid arrive tired from so many Super Cups”",
-    "description": "Vallejo Embraces the Surprise as Albacete Draw Real Madrid in Copa del Rey",
+    "slug": "no-4-uconn-rallies-past-providence-late-for-103-98-victory-in-overtime",
+    "title": "No. 4 UConn rallies past Providence late for 103-98 victory in overtime",
+    "description": "Braylon Mullins scored eight of his career-high 24 points in overtime and fourth-ranked UConn rallied past Providence 103-98 on Wednesday night for its 11th consecutive victory.",
     "pubDate": "2026-01-08",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/jesus-vallejo-let-hope-real-031456028.html",
+    "link": "https://sports.yahoo.com/articles/no-4-uconn-rallies-past-044230314.html",
     "source": "Google News"
   },
   {
-    "slug": "cfp-semifinal-how-to-watch-ole-miss-vs-miami",
-    "title": "CFP Semifinal: How to watch Ole Miss vs. Miami",
-    "description": "Go ahead and call in sick for Friday",
+    "slug": "cardinals-named-least-desirable-head-coach-opening-in-2026",
+    "title": "Cardinals named least desirable head coach opening in 2026",
+    "description": "The Arizona Cardinals are one of seven teams looking for a new head coach, but one analyst doesn't think too highly of the team's situation.",
     "pubDate": "2026-01-08",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/cfp-semifinal-watch-ole-miss-031308475.html",
+    "link": "https://sports.yahoo.com/articles/cardinals-named-least-desirable-head-044208181.html",
     "source": "Google News"
   },
   {
-    "slug": "hawks-ace-young-heading-to-wizards",
-    "title": "Hawks ace Young heading to Wizards",
-    "description": "Atlanta Hawks star Trae Young is being traded to the Washington Wizards in a deal that sends CJ McCollum and Corey Kispert in the other direction, ESPN reported on Wednesday.ESPN said Young had been keen to join the Wizards, where he will be reunited with Washington executive Travis Schlenk, who dra",
+    "slug": "amber-glenn-alysa-liu-show-why-us-women-can-end-olympic-medal-drought",
+    "title": "Amber Glenn, Alysa Liu show why US women can end Olympic medal drought",
+    "description": "Amber Glenn and Alysa Liu turned in record-breaking scores at the U.S. figure skating championships for their short programs.",
     "pubDate": "2026-01-08",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/hawks-ace-young-heading-wizards-031240179.html",
+    "link": "https://sports.yahoo.com/articles/amber-glenn-alysa-liu-show-043944677.html",
     "source": "Google News"
   },
   {
-    "slug": "dallas-stars-game-notes-good-bounces-stout-defending-amp-a-much-needed-bounceback-in-win-at-capitals",
-    "title": "Dallas Stars game notes: Good bounces, stout defending, &amp; a much-needed bounceback in win at Capitals",
-    "description": "The Dallas Stars ended a six-game losing streak with an impressive 4-1 win against the Washington Capitals at Capital One Arena on Wednesday. Stars lines Nathan Bastian draws back in...",
-    "pubDate": "2026-01-08",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/dallas-stars-game-notes-good-031232958.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "dj-lagway-dave-aranda-spotted-at-baylor-iowa-state-men-s-basketball-game-during-transfer-portal-visit",
-    "title": "DJ Lagway, Dave Aranda spotted at Baylor-Iowa State men’s basketball game during transfer portal visit",
-    "description": "DJ Lagway is currently on his visit to Baylor, and it appears as though he’s getting some one on one time with Bears head coach Dave Aranda. Lagway was spotted with Aranda during Wednesday’s Baylor men’s basketball game vs. No. 3 Iowa State. The two were shown on the broadcast late in the second hal",
-    "pubDate": "2026-01-08",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/dj-lagway-dave-aranda-spotted-031224923.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "twitter-hammers-mark-pope-and-mitch-barnhart-after-kentucky-s-epic-collapse-vs-missouri",
-    "title": "Twitter hammers Mark Pope and Mitch Barnhart after Kentucky’s epic collapse vs. Missouri",
-    "description": "These two are crushing Kentucky men’s basketball.",
-    "pubDate": "2026-01-08",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/twitter-hammers-mark-pope-mitch-031032004.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "koke-tomorrow-real-madrid-will-face-atl-tico-who-will-give-their-all",
-    "title": "Koke: “Tomorrow Real Madrid will face Atlético, who will give their all”",
-    "description": "Koke and Simeone spoke ahead of tomorrow’s Derby",
-    "pubDate": "2026-01-08",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/koke-tomorrow-real-madrid-face-030955285.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "hawks-turned-the-luka-doncic-trade-into-trae-young-into-cj-mccollum",
-    "title": "Hawks turned the Luka Doncic trade into Trae Young into CJ McCollum",
-    "description": "This was quite the downturn.",
-    "pubDate": "2026-01-08",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/hawks-turned-luka-doncic-trade-030736289.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "morocco-under-huge-pressure-as-hosts-face-cup-of-nations-heat",
-    "title": "Morocco under huge pressure as hosts face Cup of Nations heat",
-    "description": "Morocco are on a mission to win the Africa Cup of Nations in front of their own fans but the hosts must avoid buckling under the enormous weight of pressure as they face Cameroon in the quarter-finals on Friday.\"I always remember because I grew up in France, that in 1998 when they won the World Cup,",
-    "pubDate": "2026-01-08",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/morocco-under-huge-pressure-hosts-030642251.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "losing-jourdan-lewis-to-jaguars-was-39-serious-loss-39-for-jerry-jones-cowboys",
-    "title": "Losing Jourdan Lewis to Jaguars was &#39;serious loss&#39; for Jerry Jones, Cowboys",
-    "description": "Cowboys' owner Jerry Jones discussed the impact of losing CB Jourdan Lewis in free agency to the Jaguars.",
-    "pubDate": "2026-01-08",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/losing-jourdan-lewis-jaguars-serious-030449316.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "kristian-winfield-the-knicks-just-needed-jalen-brunson-to-move-the-ball",
-    "title": "Kristian Winfield: The Knicks just needed Jalen Brunson to move the ball",
-    "description": "Jalen Brunson is driving the ball, but his intention is to pass, not to score. It’s the Knicks’ first offensive possession in their Wednesday night matchup against the Los Angeles Clippers at Madison Square Garden, and New York — riding a season-worst four-game losing streak — desperately needs a vi",
-    "pubDate": "2026-01-08",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/kristian-winfield-knicks-just-needed-030400177.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "report-atlanta-trades-trae-young-to-washington-for-cj-mccollum-corey-kispert",
-    "title": "Report: Atlanta trades Trae Young to Washington for CJ McCollum, Corey Kispert",
-    "description": "Young goes to his preferred destination, getting the ball in his hands on a young team that should be entertaining.",
-    "pubDate": "2026-01-08",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/report-atlanta-trades-trae-young-030239199.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "nhl-39-s-newest-team-to-host-avalanche-in-2027-winter-classic",
-    "title": "NHL&#39;s newest team to host Avalanche in 2027 Winter Classic",
-    "description": "The Utah Mammoth will host the 2027 NHL Winter Classic against the Colorado Avalanche at Rice-Eccles Stadium, the on-campus football venue at the University of Utah.",
-    "pubDate": "2026-01-08",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/nhls-newest-team-host-avalanche-030121217.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "lakers-warriors-among-teams-interested-in-bobby-portis",
-    "title": "Lakers, Warriors among teams interested in Bobby Portis",
-    "description": "Portis is expected to have many suitors ahead of the trade deadline.",
-    "pubDate": "2026-01-08",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/lakers-warriors-among-teams-interested-030120509.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "report-two-significant-utah-players-have-entered-the-transfer-portal",
-    "title": "Report: Two significant Utah players have entered the transfer portal",
-    "description": "JJ Buchanan had a breakout season, particularly toward the end of the year.",
-    "pubDate": "2026-01-08",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/report-young-utes-offensive-talent-221304886.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "daniel-cormier-confident-he-39-d-beat-jon-jones-10-0-in-wrestling-match",
-    "title": "Daniel Cormier confident he&#39;d beat Jon Jones 10-0 in wrestling match",
-    "description": "Daniel Cormier and Jon Jones are more cordial today than when they were fighting against each other in the UFC, but the competitive fire still burns.",
-    "pubDate": "2026-01-08",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/daniel-cormier-confident-hed-beat-030039520.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "hawks-agree-to-trade-high-scoring-guard-trae-young-to-wizards-ap-source-says",
-    "title": "Hawks agree to trade high-scoring guard Trae Young to Wizards, AP source says",
-    "description": "Trae Young's tenure in Atlanta is over, with the Hawks agreeing to trade the high-scoring and frequently criticized guard to the Washington Wizards for a package including veteran CJ McCollum, a person with knowledge of the move said Wednesday night.  Corey Kispert is also headed from Washington to",
-    "pubDate": "2026-01-08",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/hawks-agree-trade-high-scoring-030037028.html",
-    "source": "TIM REYNOLDS"
-  },
-  {
-    "slug": "rams-take-lb-and-te-in-bizarre-2026-mock-draft",
-    "title": "Rams take LB and TE in bizarre 2026 mock draft",
-    "description": "The Rams have a lot of options on the table in the first round of the 2026 NFL draft.",
-    "pubDate": "2026-01-08",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/rams-lb-te-bizarre-2026-030031066.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "houston-rockets-jersey-history-no-5-dave-feitl-1986-1987-90-91",
-    "title": "Houston Rockets jersey history No. 5 - Dave Feitl (1986-1987, 90-91)",
-    "description": "During his time suiting up for the Rockets, Feitl wore only jersey No. 5 and put up 3.2 points and 1.9 rebounds per game.",
-    "pubDate": "2026-01-08",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/houston-rockets-jersey-history-no-030024958.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "bucks-cut-ties-with-all-american-guard-before-key-nba-deadline",
-    "title": "Bucks cut ties with All-American guard before key NBA deadline",
-    "description": "Milwaukee had to make this move.",
-    "pubDate": "2026-01-08",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/bucks-cut-ties-american-guard-025849125.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "knicks-snap-four-game-losing-streak-with-123-111-win-over-clippers",
-    "title": "Knicks snap four-game losing streak with 123-111 win over Clippers",
-    "description": "The Knicks looked like themselves again on Wednesday night, beating the Los Angeles Clippers, 123-111, to snap their four-game losing streak.",
-    "pubDate": "2026-01-08",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/knicks-snap-four-game-losing-025844383.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "atlanta-hawks-trade-star-trae-young-sources-say",
-    "title": "Atlanta Hawks trade star Trae Young, sources say",
-    "description": "Sources have confirmed to ESPN that Atlanta Hawks star Trae Young has been traded.",
-    "pubDate": "2026-01-08",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/atlanta-hawks-trade-star-trae-024036793.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "chris-shula-says-he-39-s-focused-on-fixing-the-rams-39-defense-not-his-likely-head-coaching-candidacy",
-    "title": "Chris Shula says he&#39;s focused on fixing the Rams&#39; defense, not his likely head coaching candidacy",
-    "description": "Chris Shula is the son of a former NFL head coach and the grandson of the winningest coach in league history.  For the past nine seasons, he has been an assistant coach to Sean McVay, the youngest head coach in the Super Bowl era, the youngest coach ever to win a Super Bowl — and his best friend.  S",
-    "pubDate": "2026-01-08",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/chris-shula-says-hes-focused-025517175.html",
-    "source": "GREG BEACHAM"
-  },
-  {
-    "slug": "the-ashes-australia-wobble-but-under-20-runs-away-from-win",
-    "title": "The Ashes: Australia wobble but under 20 runs away from win",
-    "description": "Follow live text, radio commentary and in-play video clips as Australia host England on day five of the fifth Ashes Test in Sydney.",
-    "pubDate": "2026-01-08",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/ashes-bethell-looks-set-aussies-225042593.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "rattray-and-keller-score-as-boston-fleet-holds-off-seattle-torrent-2-1",
-    "title": "Rattray and Keller score as Boston Fleet holds off Seattle Torrent, 2-1",
-    "description": "Jamie Lee Rattray and Megan Keller each scored for the Boston Fleet in a 2-1 win over the Seattle Torrent on Wednesday night.  Rattray, who scored in her second straight game, found the back of the net in the first period on a 2-on-0.  Keller scored on the power play 18 seconds into the third period",
-    "pubDate": "2026-01-08",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/rattray-keller-score-boston-fleet-025429716.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "trae-young-trade-grades-who-won-the-hawks-wizards-deal",
-    "title": "Trae Young trade grades: Who won the Hawks-Wizards deal?",
-    "description": "The Trae Young trade from the Atlanta Hawks to the Washington Wizards is complete, with Cory Kispert and CJ McCollum dealt. So who won?",
-    "pubDate": "2026-01-08",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/trae-young-trade-grades-won-025326588.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "quickley-39-s-3-pointer-at-the-buzzer-sends-the-raptors-past-the-hornets-97-96-for-5th-win-in-6-games",
-    "title": "Quickley&#39;s 3-pointer at the buzzer sends the Raptors past the Hornets 97-96 for 5th win in 6 games",
-    "description": "Immanuel Quickley hit a 3-pointer from the top of the key at the buzzer and the Toronto Raptors rallied from a 10-point deficit in the fourth quarter to beat the Charlotte Hornets 97-96 on Wednesday night.  RJ Barrett finished with 28 points and seven rebounds, while Quickley added 21 points.  Scott",
-    "pubDate": "2026-01-08",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/quickleys-3-pointer-buzzer-sends-025317949.html",
-    "source": "CAL REED"
-  },
-  {
-    "slug": "shorthanded-nuggets-overcome-6-plus-minute-scoring-drought-end-7-game-road-trip-with-win-over-surging-celtics",
-    "title": "Shorthanded Nuggets overcome 6-plus-minute scoring drought, end 7-game road trip with win over surging Celtics",
-    "description": "Jamal Murray stacked a career-high 17 assists, continuing to fill the playmaking void left by the injured Nikola Jokić.",
-    "pubDate": "2026-01-08",
-    "image": "",
-    "link": "https://sports.yahoo.com/nba/breaking-news/article/shorthanded-nuggets-overcome-6-plus-minute-scoring-drought-end-7-game-road-trip-with-win-over-surging-celtics-025312681.html",
-    "source": "Andy Backstrom"
-  },
-  {
-    "slug": "immanuel-quickley-hits-game-winning-three-against-hornets",
-    "title": "Immanuel Quickley hits game winning three against Hornets",
-    "description": "Immanuel Quickley hits game winning three against Hornets",
-    "pubDate": "2026-01-08",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/immanuel-quickley-hits-game-winning-025259072.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "it-39-s-the-11th-in-raptors-franchise-history-including",
-    "title": "It&#39;s the 11th in Raptors franchise history (including …",
-    "description": "It's the 11th in Raptors franchise history (including …",
-    "pubDate": "2026-01-08",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/11th-raptors-franchise-history-including-025258490.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "trae-young-saying-his-goodbyes-to-the-hawks-staff",
-    "title": "Trae Young saying his goodbyes to the Hawks staff",
-    "description": "Trae Young saying his goodbyes to the Hawks staff",
-    "pubDate": "2026-01-08",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/trae-young-saying-goodbyes-hawks-025257430.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "but-the-thinking-here-is-a-point-guard-of-young-s",
-    "title": "But the thinking here is a point guard of Young’s …",
-    "description": "But the thinking here is a point guard of Young’s …",
-    "pubDate": "2026-01-08",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/thinking-point-guard-young-025256352.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "the-bonus-is-reduced-to-394-440-because-his-salary",
-    "title": "The bonus is reduced to $394,440 because his salary …",
-    "description": "The bonus is reduced to $394,440 because his salary …",
-    "pubDate": "2026-01-08",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/bonus-reduced-394-440-because-025255843.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "knicks-will-get-washington-39-s-2026-first-round-pick-if",
-    "title": "Knicks will get Washington&#39;s 2026 first-round pick if …",
-    "description": "Knicks will get Washington's 2026 first-round pick if …",
-    "pubDate": "2026-01-08",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/knicks-washingtons-2026-first-round-025254105.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "nuggets-beat-the-celtics-114-110-in-boston",
-    "title": "Nuggets beat the Celtics 114-110 in Boston.",
-    "description": "Nuggets beat the Celtics 114-110 in Boston.",
-    "pubDate": "2026-01-08",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/nuggets-beat-celtics-114-110-025253021.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "lakers-make-final-decision-on-lebron-james-39-status-versus-spurs",
-    "title": "Lakers make final decision on LeBron James&#39; status versus Spurs",
-    "description": "Will LeBron James play against the Spurs on Wednesday?",
-    "pubDate": "2026-01-08",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/lakers-final-decision-lebron-james-025212711.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "missouri-beats-kentucky-73-68-for-first-win-in-lexington",
-    "title": "Missouri beats Kentucky 73-68 for first win in Lexington",
-    "description": "Mark Mitchell and Jayden Stone combined for 41 points, and Missouri ended the game with a 15-2 run to beat Kentucky 73-68 on Wednesday night for the Tigers' first win in Lexington.  Missouri (12-3), which entered 0-9 at Rupp Arena, is also 2-0 for the first time in Southeastern Conference play.  It",
-    "pubDate": "2026-01-08",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/missouri-beats-kentucky-73-68-025127275.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "atlanta-hawks-agree-to-trade-four-time-all-star-guard-trae-young-to-washington-wizards-ap-source-says",
-    "title": "Atlanta Hawks agree to trade four-time All-Star guard Trae Young to Washington Wizards, AP source says",
+    "slug": "no-15-arkansas-uses-balanced-scoring-to-beat-mississippi-94-87-in-sec-matchup",
+    "title": "No. 15 Arkansas uses balanced scoring to beat Mississippi 94-87 in SEC matchup",
     "description": "",
     "pubDate": "2026-01-08",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/atlanta-hawks-agree-trade-four-025120754.html",
+    "link": "https://sports.yahoo.com/articles/no-15-arkansas-uses-balanced-043708228.html",
+    "source": "CHRIS BURROWS"
+  },
+  {
+    "slug": "brayden-burries-motiejus-krivas-pace-unbeaten-arizona-past-kansas-state",
+    "title": "Brayden Burries, Motiejus Krivas pace unbeaten Arizona past Kansas State",
+    "description": "Arizona’s first season in the Big 12 Conference saw it beat 13 of 15 opponents. Add Kansas State to that list. Brayden Burries matched his career high with 28 points and Motiejus Krivas scored a career-best 25 to lead No. 1 Arizona to a 101-76 win over the other Wildcats on Wednesday night at McKale",
+    "pubDate": "2026-01-08",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/brayden-burries-motiejus-krivas-pace-043708982.html",
     "source": "Google News"
   },
   {
-    "slug": "2026-nfl-draft-updated-raiders-7-round-mock-draft",
-    "title": "2026 NFL draft: Updated Raiders 7-round mock draft",
-    "description": "In our Raiders seven-round mock draft, we start the roster rebuild by landing a franchise quarterback and anchor on the defensive line.",
+    "slug": "pete-golding-sends-blunt-message-to-lane-kiffin-about-ole-miss-39-cfp-run",
+    "title": "Pete Golding sends blunt message to Lane Kiffin about Ole Miss&#39; CFP run",
+    "description": "The new coach didn't hold back.",
     "pubDate": "2026-01-08",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/2026-nfl-draft-updated-raiders-024951199.html",
+    "link": "https://sports.yahoo.com/articles/pete-golding-sends-blunt-message-043655153.html",
     "source": "Google News"
   },
   {
-    "slug": "bear-bachmeier-announces-his-return-to-byu-for-2026",
-    "title": "Bear Bachmeier announces his return to BYU for 2026",
-    "description": "Unsurprisingly, Bear Bachmeier is staying put in Provo.",
+    "slug": "no-23-uva-basketball-routs-cal-in-second-acc-blowout",
+    "title": "No. 23 UVA basketball routs Cal in second ACC blowout",
+    "description": "The Virginia Cavaliers picked up their second ACC victory late on Wednesday night, beating the Cal Golden Bears 84-60 behind a dominant second half. Shooting guard Malik Thomas carried the ‘Hoos, scoring 20 points on 7-for-12 shooting from the floor and a 4-for-8 mark from behind the arc. Thomas’ pe",
     "pubDate": "2026-01-08",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/bear-bachmeier-announces-return-byu-024931253.html",
+    "link": "https://sports.yahoo.com/articles/no-23-uva-basketball-routs-043634127.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "former-rival-criticizes-patriots-for-suspicious-issues-at-gillette-stadium",
+    "title": "Former Rival Criticizes Patriots For Suspicious Issues At Gillette Stadium",
+    "description": "Sunday night’s battle between the Baltimore Ravens and Pittsburgh Steelers was a wild one. The NFL regular-season finale had everything, ending in a dramatic 26-24 victory for the Steelers after Ravens rookie kicker Tyler Loop missed the game-winning field goal as time expired. The game nearly went",
+    "pubDate": "2026-01-08",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/former-rival-criticizes-patriots-suspicious-043620614.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "malik-thomas-scores-20-and-no-23-virginia-moves-to-9-0-at-home-with-84-60-win-over-cal",
+    "title": "Malik Thomas scores 20 and No. 23 Virginia moves to 9-0 at home with 84-60 win over Cal",
+    "description": "Malik Thomas scored 20 points and No. 23 Virginia beat California 84-60 in its Atlantic Coast Conference home opener Wednesday night, scoring at least 80 points for the 14th time in 15 games this season.  Johann Grunloh, Thijs De Ridder, Sam Lewis and Ugonna Onyenso each added 12 for the Cavaliers (",
+    "pubDate": "2026-01-08",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/malik-thomas-scores-20-no-043618378.html",
+    "source": "MIKE BARBER"
+  },
+  {
+    "slug": "this-historic-lebron-james-streak-is-about-to-end",
+    "title": "This historic LeBron James streak is about to end",
+    "description": "It will mark the end of an incredible run.",
+    "pubDate": "2026-01-08",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/historic-lebron-james-streak-end-043552359.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "clemson-knocks-off-smu-74-70",
+    "title": "Clemson Knocks Off SMU 74-70",
+    "description": "A late 9 PM tip-off saved the best for last on Wednesday. Jake Wahlin helped Clemson open with a quick 9-4 lead with five points of his own, but SMU settled quickly and tied it up at 13-13. Clemson then went on a 12-0 run sparked by Carter Welling, who collected an offensive rebound and […]",
+    "pubDate": "2026-01-08",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/clemson-knocks-off-smu-74-043428159.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "39-whoever-signed-off-england-39-s-tour-has-to-go-39-agnew-column",
+    "title": "&#39;Whoever signed off England&#39;s tour has to go&#39; - Agnew column",
+    "description": "England's 4-1 Ashes defeat is the most disappointing I have covered and whoever signed off on the tourists' preparation has to go, writes Jonathan Agnew.",
+    "pubDate": "2026-01-08",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/whoever-signed-off-englands-tour-043425397.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "brisbane-international-scores-schedule-results-order-of-play-for-2026-tennis-tournament",
+    "title": "Brisbane International scores, schedule, results, order of play for 2026 tennis tournament",
+    "description": "All the latest results, scores and schedules from the 2026 Brisbane International",
+    "pubDate": "2026-01-08",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/brisbane-international-schedule-results-scores-230209573.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "kansas-state-basketball-vs-arizona-takeaways-as-k-state-gets-outclassed",
+    "title": "Kansas State basketball vs Arizona takeaways as K-State gets outclassed",
+    "description": "Arizona showed why it might be the best team in the country. Kansas State had no answers to begin its Arizona road trip.",
+    "pubDate": "2026-01-08",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/kansas-state-basketball-vs-arizona-043125429.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "missouri-coach-says-leonard-hamilton-belongs-in-hall-of-fame",
+    "title": "Missouri coach says Leonard Hamilton belongs in Hall of Fame",
+    "description": "Missouri coach Dennis Gates called for Leonard Hamilton's Hall of Fame inclusion Wednesday after Mizzou's 73-68 win over Kentucky at Rupp Arena.",
+    "pubDate": "2026-01-08",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/missouri-coach-says-leonard-hamilton-043032542.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "australia-win-final-test-to-seal-4-1-ashes-triumph-over-england",
+    "title": "Australia win final Test to seal 4-1 Ashes triumph over England",
+    "description": "Australia won the final Ashes Test against England by five wickets on Thursday to seal a dominant 4-1 victory after a gruelling series, sending the retiring Usman Khawaja out on a high.Australia lost openers Travis Head (29) and Jake Weatherald (34), along with captain Steve Smith (12) and Khawaja,",
+    "pubDate": "2026-01-08",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/australia-win-final-test-complete-040319443.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "alexa-grasso-vs-maycee-barber-2-in-the-works-for-ufc-seattle",
+    "title": "Alexa Grasso vs. Maycee Barber 2 in the works for UFC Seattle",
+    "description": "A rematch between two top ranked flyweights is expected for March",
+    "pubDate": "2026-01-08",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/alexa-grasso-vs-maycee-barber-042815794.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "chargers-vs-patriots-la-opens-practice-with-lengthy-injury-report",
+    "title": "Chargers vs. Patriots: LA opens practice with lengthy injury report",
+    "description": "The Chargers opened up their week of practice with a lengthy list of injuries ahead of their NFL wild-card matchup against the Patriots.",
+    "pubDate": "2026-01-08",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/chargers-vs-patriots-la-opens-042737196.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "graterol-garrett-and-wesneski-agree-to-contracts-leaving-166-set-to-swap-salaries-with-teams",
+    "title": "Graterol, Garrett and Wesneski agree to contracts, leaving 166 set to swap salaries with teams",
+    "description": "Brusdar Graterol, Braxton Garrett and Hayden Wesneski agreed to one-year contracts that avoided arbitration, leaving 166 major league players set to exchange proposed salaries with their teams Thursday in a group headed by Tarik Skubal and Randy Arozarena.  Graterol agreed Wednesday with the Los Ang",
+    "pubDate": "2026-01-08",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/graterol-garrett-wesneski-agree-contracts-042641459.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "england-beaten-to-give-australia-4-1-ashes-win",
+    "title": "England beaten to give Australia 4-1 Ashes win",
+    "description": "Australia complete a nervy five-wicket victory over England on day five of the final Ashes Test in Sydney to seal a 4-1 series win.",
+    "pubDate": "2026-01-08",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/england-beaten-australia-4-1-033623947.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "3-takeaways-from-no-9-byu-s-blowout-win-over-arizona-state",
+    "title": "3 takeaways from No. 9 BYU’s blowout win over Arizona State",
+    "description": "BYU throttled Arizona State 104-76 Wednesday night at the Marriott Center.",
+    "pubDate": "2026-01-08",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/3-takeaways-no-9-byu-042311979.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "saunders-scores-career-high-31-points-as-no-9-byu-routs-arizona-state-104-76",
+    "title": "Saunders scores career-high 31 points as No. 9 BYU routs Arizona State 104-76",
+    "description": "",
+    "pubDate": "2026-01-08",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/saunders-scores-career-high-31-042131404.html",
+    "source": "JOHN COON"
+  },
+  {
+    "slug": "uw-qb-enters-transfer-portal-signed-multi-million-dollar-contract-with-school-days-earlier",
+    "title": "UW QB enters transfer portal, signed multi-million-dollar contract with school days earlier",
+    "description": "University of Washington star quarterback Demond Williams Jr. announced he is entering the transfer portal, just four days after signing a multi-million-dollar contract to stay with the Huskies.",
+    "pubDate": "2026-01-08",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/uw-qb-enters-transfer-portal-042051654.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "byu-tops-century-mark-in-blowout-win-over-arizona-state",
+    "title": "BYU Tops Century Mark in Blowout Win Over Arizona State",
+    "description": "BYU jumped out to a quick start and were never seriously threatened in a 104-76 win over Arizona State Wednesday in BYU’s Big 12 home opener. BYU’s big three dominated, led by a career high 31 points from Richie Saunders and career high 27 from Rob Wright. AJ Dybantsa rounded things out with 23 poin",
+    "pubDate": "2026-01-08",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/byu-tops-century-mark-blowout-041926635.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "huskies-now-1-3-in-big-ten-play-after-loss-to-4-purdue",
+    "title": "Huskies now 1-3 in Big Ten play after loss to #4 Purdue",
+    "description": "Washington (9-6, 1-3 Big Ten) entered the calendar year with two prime opportunities to turn the tide and flip narratives. Instead, an uncomfortable truth grew louder. This team isn’t good enough to make the NCAA Tournament. Following a pair of double-digit defeats on the road against Indiana and No",
+    "pubDate": "2026-01-08",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/huskies-now-1-3-big-041914643.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "gilgeous-alexander-to-the-rescue-as-thunder-sink-jazz-in-overtime",
+    "title": "Gilgeous-Alexander to the rescue as Thunder sink Jazz in overtime",
+    "description": "Shai Gilgeous-Alexander rescued the Oklahoma City Thunder with a game-tying buzzer-beater before finishing with 46 points in a 129-125 overtime victory against the Utah Jazz on Wednesday. Asked about his game-tying buzzer-beater, Gilgeous-Alexander added: \"That's what I practice for.",
+    "pubDate": "2026-01-08",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/gilgeous-alexander-rescue-thunder-sink-041859574.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "bill-russell-39-s-legacy-in-boston-why-he-39-s-the-most-important-celtic-ever",
+    "title": "Bill Russell&#39;s legacy in Boston: Why he&#39;s the most important Celtic ever",
+    "description": "Here's a breakdown of Bill Russell's career, showcasing how he became one of the world's most important figures in sports and beyond.",
+    "pubDate": "2026-01-08",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/bill-russells-legacy-boston-why-041845375.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "arkansas-tops-ole-miss-basketball-rebs-fall-to-0-2",
+    "title": "Arkansas tops Ole Miss basketball, Rebs fall to 0-2",
+    "description": "Let’s go ahead and call this a rebuilding year",
+    "pubDate": "2026-01-08",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/arkansas-tops-ole-miss-basketball-041825571.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "rancik-scores-19-dak-adds-16-and-12-rebounds-as-colorado-beats-utah-85-73",
+    "title": "Rancik scores 19, Dak adds 16 and 12 rebounds as Colorado beats Utah 85-73",
+    "description": "",
+    "pubDate": "2026-01-08",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/rancik-scores-19-dak-adds-041820855.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "doesn-t-matter-still-counts-marquette-66-xavier-65",
+    "title": "DOESN’T MATTER, STILL COUNTS: Marquette 66, Xavier 65",
+    "description": "The Golden Eagles gave up a 25-11 run to waste a 13 point lead, missed free throws all over the place, but pulled it out at the end.",
+    "pubDate": "2026-01-08",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/doesn-t-matter-still-counts-041755245.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "late-game-heroics-give-colgate-another-patriot-league-win",
+    "title": "Late game heroics give Colgate another Patriot League win",
+    "description": "HAMILTON, N.Y. (WUTR) – Career win 250 for Matt Langel came in the exact way you would expect for Colgate this season- on a game-winning shot against the American University Eagles. The Raiders won 64-62. The Raiders were down by nine to start the second half and were down by as many as 10, but […]",
+    "pubDate": "2026-01-08",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/game-heroics-colgate-another-patriot-041725221.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "purdue-81-washington-73-postgame-video",
+    "title": "Purdue 81, Washington 73: Postgame Video",
+    "description": "Purdue moves to 4-0 with a comfortable Big Ten win.",
+    "pubDate": "2026-01-08",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/purdue-81-washington-73-postgame-041647079.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "shai-gilgeous-alexander-39-s-buzzer-beater-forces-ot-as-thunder-survive-another-upset-scare-vs-jazz",
+    "title": "Shai Gilgeous-Alexander&#39;s buzzer-beater forces OT as Thunder survive another upset scare vs. Jazz",
+    "description": "SGA finished with 46 points and improved OKC's record to 31-7.",
+    "pubDate": "2026-01-08",
+    "image": "",
+    "link": "https://sports.yahoo.com/nba/article/shai-gilgeous-alexanders-buzzer-beater-forces-ot-as-thunder-survive-another-upset-scare-vs-jazz-041547758.html",
+    "source": "Jack Baer"
+  },
+  {
+    "slug": "best-player-moment-back-spasm-our-ashes-awards",
+    "title": "Best player, moment & back spasm - our Ashes awards",
+    "description": "Best player, best moment, best back spasm and services to tourism. Who wins BBC chief cricket reporter Stephan Shemilt's Ashes awards?",
+    "pubDate": "2026-01-08",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/best-player-moment-back-spasm-035403122.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "england-futures-at-risk-but-head-an-all-format-star-ashes-player-ratings",
+    "title": "England futures at risk but Head an all-format star - Ashes player ratings",
+    "description": "Find out who got a 10 and who is facing an uncertain international future with our Ashes player ratings.",
+    "pubDate": "2026-01-08",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/england-futures-risk-head-format-033343346.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "who-made-your-ashes-team-of-the-series",
+    "title": "Who made your Ashes team of the series?",
+    "description": "Find out which players made the cut into the BBC Sport team of the series for the Ashes.",
+    "pubDate": "2026-01-08",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/made-ashes-team-series-033947426.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "florida-state-football-recruiting-transfer-portal-tracker-and-ongoing-thread",
+    "title": "Florida State football recruiting: Transfer Portal Tracker and Ongoing Thread",
+    "description": "Your one-stop shop for FSU’s Transfer Portal activity",
+    "pubDate": "2026-01-08",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/florida-state-football-recruiting-transfer-131513275.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "high-school-roundup-scores-and-recaps-from-wednesday-39-s-games-across-ri",
+    "title": "High School Roundup: Scores and recaps from Wednesday&#39;s games across RI",
+    "description": "Here's who won Wednesday's high school games, and Thursday's full schedule",
+    "pubDate": "2026-01-08",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/high-school-roundup-scores-recaps-041442087.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "loopy-godinez-vs-tatiana-suarez-booked-for-april-39-s-ufc-327-event",
+    "title": "Loopy Godinez vs. Tatiana Suarez booked for April&#39;s UFC 327 event",
+    "description": "A potential strawweight title eliminator will go down at UFC 327 in April.",
+    "pubDate": "2026-01-08",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/loopy-godinez-vs-tatiana-suarez-041438346.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "kelly-oubre-jr-reacts-to-his-return-after-sixers-knock-off-wizards",
+    "title": "Kelly Oubre Jr. reacts to his return after Sixers knock off Wizards",
+    "description": "Kelly Oubre Jr. reacts to his return to the floor after the Philadelphia 76ers defeated the Washington Wizards at home.",
+    "pubDate": "2026-01-08",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/kelly-oubre-jr-reacts-return-041353903.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "utah-survives-its-early-struggles-late-rally-from-kansas-to-earn-big-12-road-win",
+    "title": "Utah survives its early struggles, late rally from Kansas to earn Big 12 road win",
+    "description": "Utes trailed by 10 early in second quarter before Gavin Petersen’s squad turned things around and eventually made some big 3s.",
+    "pubDate": "2026-01-08",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/utah-survives-early-struggles-rally-041315069.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "ex-maryland-player-tafara-gapare-disputes-exit-from-villanova-kevin-willard",
+    "title": "Ex-Maryland player Tafara Gapare disputes exit from Villanova, Kevin Willard",
+    "description": "Tafara Gapare followed men’s basketball coach Kevin Willard from Maryland to Villanova. But their relationship soured quickly in what was supposed to be forward’s final college season. On Tuesday, Villanova announced that Gapare “elected to depart” the program and would not return. He had missed the",
+    "pubDate": "2026-01-08",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/ex-maryland-player-tafara-gapare-041300437.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "immanuel-quickley-hits-the-game-winner-against-the-charlotte-hornets",
+    "title": "Immanuel Quickley hits the game-winner against the Charlotte Hornets",
+    "description": "The Raptors pull off the win while their star players get hurt",
+    "pubDate": "2026-01-08",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/immanuel-quickley-hits-game-winner-041147156.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "labaron-philon-exits-second-half-of-alabama-basketball-vs-vanderbilt",
+    "title": "Labaron Philon exits second half of Alabama basketball vs Vanderbilt",
+    "description": "Alabama basketball's starting point guard Labaron Philon is nowhere to be found in the second half at Vanderbilt. What we know.",
+    "pubDate": "2026-01-08",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/labaron-philon-exits-second-half-041031698.html",
     "source": "Google News"
   },
   {
@@ -817,24 +898,6 @@
     "image": "",
     "link": "https://www.espn.com/nfl/story/_/id/47529152/2025-nfl-playoffs-best-defenses-broncos-texans-seahawks",
     "source": "Ben Solak"
-  },
-  {
-    "slug": "wetzel-welcome-to-a-new-college-football-world-where-the-sec-is-no-longer-undisputed-king",
-    "title": "Wetzel: Welcome to a new college football world, where the SEC is no longer undisputed king",
-    "description": "The Big Ten is guaranteed to be playing for a third straight national title. Can the SEC find a way to dominate this new era like it did the previous one?",
-    "pubDate": "2026-01-07",
-    "image": "",
-    "link": "https://www.espn.com/college-football/story/_/id/47531081/wetzel-how-nil-transfers-rev-share-brought-sec-football-back-pack",
-    "source": "Dan Wetzel"
-  },
-  {
-    "slug": "why-these-semifinals-are-just-what-college-football-needed",
-    "title": "Why these semifinals are just what college football needed",
-    "description": "Tired of the same dominant teams winning it all? These semifinal matchups are for you.",
-    "pubDate": "2026-01-07",
-    "image": "",
-    "link": "https://www.espn.com/college-football/story/_/id/47530768/college-football-playoff-semifinals-enlivened-new-blood-indiana-oregon-miami-ole-miss",
-    "source": "Ryan McGee"
   },
   {
     "slug": "who-are-mlb-s-top-young-stars-ranking-baseball-s-best-players-at-every-age-from-16-to-25",
@@ -952,15 +1015,6 @@
     "image": "",
     "link": "https://www.espn.com/fantasy/basketball/story/_/id/47539834/fantasy-basketball-pickups-nba-trends-joel-embiid-aaron-gordon",
     "source": "Eric Moody"
-  },
-  {
-    "slug": "mccullum-and-key-given-chance-to-retain-roles",
-    "title": "McCullum and Key given chance to retain roles",
-    "description": "Head coach Brendon McCullum and director of cricket Rob Key will be given the chance to stay on and show they can improve the England set-up.",
-    "pubDate": "2026-01-07",
-    "image": "",
-    "link": "https://www.bbc.com/sport/cricket/articles/cd0yjkvxk43o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport"
   },
   {
     "slug": "discipline-consistency-harmony-rosenior-s-to-do-list-at-chelsea",
@@ -1134,15 +1188,6 @@
     "source": "BBC Sport"
   },
   {
-    "slug": "defensively-we-are-more-stable-than-ever-guardiola",
-    "title": "Defensively, we are more stable than ever - Guardiola",
-    "description": "Manchester City boss Pep Guardiola is pleased with his side's defensive performance highlighting Max Alleyne as \"exceptional\" in their 1-1 draw at home to Brighton.",
-    "pubDate": "2026-01-07",
-    "image": "",
-    "link": "https://www.bbc.com/sport/football/videos/c79rd4qr8d2o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport"
-  },
-  {
     "slug": "why-the-nfl-play-offs-are-the-most-unusual-in-years",
     "title": "Why the NFL play-offs are the 'most unusual' in years",
     "description": "Even NFL veterans are struggling to call this season's play-offs, with so many big names out and an array of young stars ready to battle for Super Bowl glory.",
@@ -1233,15 +1278,6 @@
     "source": "BBC Sport"
   },
   {
-    "slug": "exeter-ask-man-city-for-bigger-share-of-fa-cup-money",
-    "title": "Exeter ask Man City for bigger share of FA Cup money",
-    "description": "Exeter City Supporters' Trust calls on Manchester City to give the club a greater share of the gate receipts from Saturday's FA Cup tie.",
-    "pubDate": "2026-01-07",
-    "image": "",
-    "link": "https://www.bbc.com/sport/football/articles/c1m75jvvpz4o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport"
-  },
-  {
     "slug": "mps-to-question-wru-bosses-over-game-s-future",
     "title": "MPs to question WRU bosses over game's future",
     "description": "The WRU chief executive and chair Welsh have been called to face the Welsh Affairs Committee over controversial changes to the professional game.",
@@ -1260,6 +1296,15 @@
     "source": "BBC Sport"
   },
   {
+    "slug": "defensively-we-are-more-stable-than-ever-guardiola",
+    "title": "Defensively, we are more stable than ever - Guardiola",
+    "description": "Manchester City boss Pep Guardiola is pleased with his side's defensive performance highlighting Max Alleyne as \"exceptional\" in their 1-1 draw at home to Brighton.",
+    "pubDate": "2026-01-07",
+    "image": "",
+    "link": "https://www.bbc.com/sport/football/videos/c79rd4qr8d2o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport"
+  },
+  {
     "slug": "keane-s-actions-not-deliberate-moyes-on-red-card",
     "title": "Keane's actions not deliberate - Moyes on red card",
     "description": "Everton manager David Moyes was not happy with the decision for Michael Keane to be sent off as it was \"not a deliberate action\", but has no sympathy for Jack Grealish who received two quick yellow cards for dissent.",
@@ -1275,24 +1320,6 @@
     "pubDate": "2026-01-07",
     "image": "",
     "link": "https://www.bbc.com/sport/football/videos/cy4gm97plgno?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport"
-  },
-  {
-    "slug": "bethell-scores-stunning-century-but-england-edge-towards-defeat",
-    "title": "Bethell scores stunning century but England edge towards defeat",
-    "description": "Jacob Bethell's stunning maiden first-class century gave England an Ashes silver lining but could not prevent the tourists from sliding towards defeat in the fifth Test against Australia.",
-    "pubDate": "2026-01-07",
-    "image": "",
-    "link": "https://www.bbc.com/sport/cricket/videos/cew854r0j1do?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport"
-  },
-  {
-    "slug": "magnificent-innings-bethell-makes-first-test-century",
-    "title": "'Magnificent innings' - Bethell makes first Test century",
-    "description": "Watch the best of Jacob Bethell as he makes his maiden first-class century on day four of the fifth Ashes Test in Sydney.",
-    "pubDate": "2026-01-07",
-    "image": "",
-    "link": "https://www.bbc.com/sport/cricket/videos/c3dm5ppky4jo?at_medium=RSS&at_campaign=rss",
     "source": "BBC Sport"
   },
   {
@@ -1320,6 +1347,24 @@
     "pubDate": "2026-01-07",
     "image": "",
     "link": "https://www.bbc.com/sport/articles/cz0plzp343no?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport"
+  },
+  {
+    "slug": "bethell-scores-stunning-century-but-england-edge-towards-defeat",
+    "title": "Bethell scores stunning century but England edge towards defeat",
+    "description": "Jacob Bethell's stunning maiden first-class century gave England an Ashes silver lining but could not prevent the tourists from sliding towards defeat in the fifth Test against Australia.",
+    "pubDate": "2026-01-07",
+    "image": "",
+    "link": "https://www.bbc.com/sport/cricket/videos/cew854r0j1do?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport"
+  },
+  {
+    "slug": "magnificent-innings-bethell-makes-first-test-century",
+    "title": "'Magnificent innings' - Bethell makes first Test century",
+    "description": "Watch the best of Jacob Bethell as he makes his maiden first-class century on day four of the fifth Ashes Test in Sydney.",
+    "pubDate": "2026-01-07",
+    "image": "",
+    "link": "https://www.bbc.com/sport/cricket/videos/c3dm5ppky4jo?at_medium=RSS&at_campaign=rss",
     "source": "BBC Sport"
   },
   {
@@ -1401,33 +1446,6 @@
     "pubDate": "2026-01-06",
     "image": "",
     "link": "https://www.bbc.com/sport/cricket/videos/cx2xyqy13r2o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport"
-  },
-  {
-    "slug": "west-ham-relegation-fight-not-over-nuno",
-    "title": "West Ham relegation fight 'not over' - Nuno",
-    "description": "West Ham manager Nuno Espirito Santo reflects on his side's defeat by Nottingham Forest, insisting their relegation fight is \"not over\" with the Hammers seven points adrift of safety.",
-    "pubDate": "2026-01-06",
-    "image": "",
-    "link": "https://www.bbc.com/sport/football/videos/c77krn5pl32o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport"
-  },
-  {
-    "slug": "we-had-the-mentality-to-get-the-job-done-dyche",
-    "title": "We had the mentality to get the job done - Dyche",
-    "description": "Nottingham Forest manager Sean Dyche was happy with the \"grit and determination\" his side showed to come from behind to beat relegation-threatened West Ham.",
-    "pubDate": "2026-01-06",
-    "image": "",
-    "link": "https://www.bbc.com/sport/football/videos/cr4k6nvx99do?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport"
-  },
-  {
-    "slug": "rosenior-ready-for-chelsea-job",
-    "title": "Rosenior 'ready' for Chelsea job",
-    "description": "Speaking in his last press conference as Strasbourg manager, Liam Rosenior says taking the job at Chelsea is the right move for his career. \nThe 41-year-old has spent the last 18-months at the Blues' sister club Strasbourg after he was sacked from Hull City in 2024.",
-    "pubDate": "2026-01-06",
-    "image": "",
-    "link": "https://www.bbc.com/sport/football/videos/cr4k6x643n5o?at_medium=RSS&at_campaign=rss",
     "source": "BBC Sport"
   },
   {
