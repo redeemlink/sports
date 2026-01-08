@@ -36,6 +36,15 @@
     "source": "www.espn.com - TOP"
   },
   {
+    "slug": "spurs-sochan-polite-exchange-with-vanderbilt",
+    "title": "Spurs' Sochan: 'Polite exchange' with Vanderbilt",
+    "description": "Spurs forward Jeremy Sochan downplayed the severity of a postgame incident Wednesday that involved Lakers forward Jarred Vanderbilt poking him in the face.",
+    "pubDate": "2026-01-08",
+    "image": "",
+    "link": "https://www.espn.com/nba/story/_/id/47547923/spurs-sochan-downplays-confrontation-lakers-vanderbilt",
+    "source": "Michael C. Wright"
+  },
+  {
     "slug": "lipsey-touted-as-best-pg-in-nation-after-isu-win",
     "title": "Lipsey touted as best PG in nation after ISU win",
     "description": "Iowa State coach T.J. Otzelberger declared Tamin Lipsey the nation's best point guard after he led the Cyclones past Baylor and to the first 15-0 start in program history Wednesday night.",
@@ -61,15 +70,6 @@
     "image": "",
     "link": "https://www.espn.com/mlb/story/_/id/47546030/sources-rockies-add-michael-lorenzen-rotation-8m-deal",
     "source": "Jeff Passan"
-  },
-  {
-    "slug": "jerry-jones-goal-is-to-retire-with-most-sb-wins",
-    "title": "Jerry Jones: Goal is to retire with most SB wins",
-    "description": "Cowboys owner Jerry Jones said Wednesday that his goal in life is to the retire as the owner with the most Super Bowl wins and that he has \"work to do\" to catch the Patriots' Robert Kraft.",
-    "pubDate": "2026-01-08",
-    "image": "",
-    "link": "https://www.espn.com/nfl/story/_/id/47541693/cowboys-jerry-jones-goal-retire-most-super-bowl-wins",
-    "source": "Todd Archer"
   },
   {
     "slug": "hof-goalie-hall-who-started-502-in-a-row-dies",
@@ -351,6 +351,15 @@
     "source": "BBC Sport"
   },
   {
+    "slug": "leeds-and-wales-legend-yorath-dies-aged-75",
+    "title": "Leeds and Wales legend Yorath dies aged 75",
+    "description": "Former Leeds United and Wales midfielder Terry Yorath has died at the age of 75.",
+    "pubDate": "2026-01-08",
+    "image": "",
+    "link": "https://www.bbc.com/sport/football/articles/ce8e5rg2dyxo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport"
+  },
+  {
     "slug": "an-arsenal-coffee-cup-and-more-pain-for-under-pressure-frank",
     "title": "An Arsenal coffee cup and more pain for under-pressure Frank",
     "description": "Spurs boss Thomas Frank under more pressure and scrutiny after holding Arsenal-branded cup before 3-2 defeat by Bournemouth that left side 14th in Premier League.",
@@ -369,6 +378,15 @@
     "source": "BBC Sport"
   },
   {
+    "slug": "the-nfl-record-breaker-who-never-planned-to-play-the-sport",
+    "title": "The NFL record-breaker who never planned to play the sport",
+    "description": "Jacksonville Jaguars kicker Cam Little holds the record for the NFL's longest field goal - not bad for someone who never planned to play the sport.",
+    "pubDate": "2026-01-08",
+    "image": "",
+    "link": "https://www.bbc.com/sport/american-football/articles/ce8gdp60nrpo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport"
+  },
+  {
     "slug": "who-made-your-ashes-team-of-the-series",
     "title": "Who made your Ashes team of the series?",
     "description": "Find out which players made the cut into the BBC Sport team of the series for the Ashes.",
@@ -378,12 +396,12 @@
     "source": "BBC Sport"
   },
   {
-    "slug": "the-nfl-record-breaker-who-never-planned-to-play-the-sport",
-    "title": "The NFL record-breaker who never planned to play the sport",
-    "description": "Jacksonville Jaguars kicker Cam Little holds the record for the NFL's longest field goal - not bad for someone who never planned to play the sport.",
+    "slug": "players-not-protected-over-schedule-sabalenka",
+    "title": "Players 'not protected' over schedule - Sabalenka",
+    "description": "World number one Aryna Sabalenka says tennis authorities \"follow their interests\" with regards to the tennis calendar and are not \"focusing on protecting all of us\".",
     "pubDate": "2026-01-08",
     "image": "",
-    "link": "https://www.bbc.com/sport/american-football/articles/ce8gdp60nrpo?at_medium=RSS&at_campaign=rss",
+    "link": "https://www.bbc.com/sport/tennis/articles/cy8p39nypjzo?at_medium=RSS&at_campaign=rss",
     "source": "BBC Sport"
   },
   {
@@ -486,6 +504,24 @@
     "source": "BBC Sport"
   },
   {
+    "slug": "england-beaten-to-give-australia-4-1-ashes-win",
+    "title": "England beaten to give Australia 4-1 Ashes win",
+    "description": "Australia complete a nervy five-wicket victory over England on day five of the final Ashes Test in Sydney to seal a 4-1 series win.",
+    "pubDate": "2026-01-08",
+    "image": "",
+    "link": "https://www.bbc.com/sport/cricket/articles/c74vmppny9go?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport"
+  },
+  {
+    "slug": "leeds-and-wales-legend-yorath-dies-aged-75",
+    "title": "Leeds and Wales legend Yorath dies aged 75",
+    "description": "Former Leeds United and Wales midfielder Terry Yorath has died at the age of 75.",
+    "pubDate": "2026-01-08",
+    "image": "",
+    "link": "https://www.bbc.com/sport/football/articles/ce8e5rg2dyxo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport"
+  },
+  {
     "slug": "wilson-will-have-his-pick-of-clubs-motd-s-murphy",
     "title": "Wilson will have his 'pick of clubs' - MOTD's Murphy",
     "description": "Match of the Day's Danny Murphy analyses Fulham's Harry Wilson's current form and \"intelligent\" winning performance against Chelsea.",
@@ -493,6 +529,312 @@
     "image": "",
     "link": "https://www.bbc.com/sport/football/videos/ckgkrj2rnpxo?at_medium=RSS&at_campaign=rss",
     "source": "BBC Sport"
+  },
+  {
+    "slug": "r-diger-a-doubt-for-tonight-s-derby-in-the-supercopa",
+    "title": "🤕 Rüdiger a doubt for tonight’s derby in the Supercopa",
+    "description": "Real Madrid faces a last-minute setback ahead of the Spanish Super Cup semifinal against Atlético de Madrid. Antonio Rüdiger is a doubt for the derby taking place tonight.According to Cadena COPE, t...",
+    "pubDate": "2026-01-08",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/r-diger-doubt-tonight-derby-083100051.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "commanders-sign-three-players-to-reserve-future-contracts",
+    "title": "Commanders sign three players to reserve/future contracts",
+    "description": "The Washington Commanders are already working on the offseason roster despite coaching upheaval.",
+    "pubDate": "2026-01-08",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/commanders-sign-three-players-future-083019980.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "pep-guardiola-confirms-savinho-injury-as-manchester-city-mull-over-january-replacement",
+    "title": "Pep Guardiola confirms Savinho injury as Manchester City mull over January replacement",
+    "description": "Manchester City manager Pep Guardiola has confirmed that Savinho is set for six to eight weeks on the sidelines with a calf injury.The 21-year-old attacker was missing from the matchday squad for City...",
+    "pubDate": "2026-01-08",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/pep-guardiola-confirms-savinho-injury-083000161.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "three-well-known-players-who-have-played-for-real-madrid-and-atletico-madrid-in-recent-history",
+    "title": "Three well-known players who have played for Real Madrid and Atletico Madrid in recent history",
+    "description": "Crossing the Madrid divide is never simple, as Real Madrid and Atletico Madrid are more than just neighbours. They represent two very different football identities, fan bases and cultures. Over the ...",
+    "pubDate": "2026-01-08",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/three-well-known-players-played-082900222.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "weekly-sports-quiz-how-many-managers-have-man-utd-had-since-ferguson",
+    "title": "Weekly sports quiz: How many managers have Man Utd had since Ferguson?",
+    "description": "How much attention have you paid to what's happened in the world of sport over the past seven days?",
+    "pubDate": "2026-01-08",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/weekly-sports-quiz-many-managers-082654513.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "a-warrior-touched-by-tragedy-terry-yorath-obituary",
+    "title": "A warrior touched by tragedy - Terry Yorath obituary",
+    "description": "Former Wales captain and manager Terry Yorath, who has died aged 75, had a glittering career, but his life was deeply affected by two tragedies.",
+    "pubDate": "2026-01-08",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/warrior-touched-tragedy-terry-yorath-082556160.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "best-bundesliga-wingers-of-the-2025-26-season-so-far",
+    "title": "Best Bundesliga wingers of the 2025/26 season so far",
+    "description": "Every six months, Kicker publishes a ranking of the best players in the Bundesliga, as well as the best German players abroad, divided into a number of categories.The German football magazine has now ...",
+    "pubDate": "2026-01-08",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/best-bundesliga-wingers-2025-26-082500580.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "leeds-and-wales-legend-yorath-dies-aged-75",
+    "title": "Leeds and Wales legend Yorath dies aged 75",
+    "description": "Former Leeds United and Wales midfielder Terry Yorath has died at the age of 75.",
+    "pubDate": "2026-01-08",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/leeds-wales-legend-yorath-dies-082347826.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "transfers-january-2026",
+    "title": "Transfers - January 2026",
+    "description": "Check out the significant signings and departures in the Premier League, Scottish Premiership, EFL and Women's Super League.",
+    "pubDate": "2026-01-08",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/transfers-january-2026-120041116.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "bournemouth-eye-loan-move-for-arsenal-star-ethan-nwaneri",
+    "title": "Bournemouth eye loan move for Arsenal star Ethan Nwaneri",
+    "description": "Bournemouth are interested in signing Arsenal star Ethan Nwaneri in the winter transfer window. According to The Independent’s Miguel Delaney, the Cherries are looking to secure a loan move for the...",
+    "pubDate": "2026-01-08",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/bournemouth-eye-loan-move-arsenal-082100543.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "carson-beck-family-tree-meet-sister-kylie-ex-nba-cheerleader-mom-and-more-about-florida-roots",
+    "title": "Carson Beck family tree: Meet sister Kylie, ex-NBA cheerleader mom and more about Florida roots",
+    "description": "Carson Beck's family isn't shy about showing their support for the Miami QB.",
+    "pubDate": "2026-01-08",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/carson-beck-family-tree-meet-082001195.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "thomas-loaned-to-dunfermline-after-new-robins-deal",
+    "title": "Thomas loaned to Dunfermline after new Robins deal",
+    "description": "Bristol City forward Olly Thomas signs a two-and-a-half-year contract extension with the Championship side and moves on loan to Dunfermline.",
+    "pubDate": "2026-01-08",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/thomas-loaned-dunfermline-robins-deal-081750616.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "8220-completely-wide-of-mark-8221-8211-fabrizio-romano-shuts-down-chelsea-transfer-rumour",
+    "title": "&#8220;Completely wide of mark&#8221; &#8211; Fabrizio Romano shuts down Chelsea transfer rumour",
+    "description": "Reports of Chelsea making a move for Real Madrid star Vinicius Junior are wide of the mark according to Fabrizio Romano.The Blues heavily invested in the squad last summer, and made five new attacking...",
+    "pubDate": "2026-01-08",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/completely-wide-mark-fabrizio-romano-081500286.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "two-defenders-seem-to-have-their-cards-marked-at-manchester-city",
+    "title": "Two defenders seem to have their cards marked at Manchester City",
+    "description": "Manchester City entered this season with Ruben Dias, Josko Gvardiol, John Stones and Nathan Ake as the four senior centre-backs in Pep Guardiola’s squad. Dias and Gvardiol are City’s first-choice ...",
+    "pubDate": "2026-01-08",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/two-defenders-seem-cards-marked-081400003.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "semenyo-has-acted-as-39-top-level-professional-39-corsie",
+    "title": "Semenyo has acted as &#39;top-level professional&#39; - Corsie",
+    "description": "It is a model example of when you play for a side that you're proud to play for, you've worked hard to come through and contributed to their success of last season but you're in a position in the league table and had a bad run of games - but you've still done everything, you've contributed and had g",
+    "pubDate": "2026-01-08",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/semenyo-acted-top-level-professional-081138190.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "best-attacking-midfielders-in-the-bundesliga-of-the-2025-26-season-so-far",
+    "title": "Best attacking midfielders in the Bundesliga of the 2025/26 season so far",
+    "description": "Every six months, Kicker publishes a ranking of the best players in the Bundesliga, as well as the best German players abroad, divided into a number of categories.The German football magazine has now ...",
+    "pubDate": "2026-01-08",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/best-attacking-midfielders-bundesliga-2025-081100157.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "players-39-not-protected-39-over-schedule-sabalenka",
+    "title": "Players &#39;not protected&#39; over schedule - Sabalenka",
+    "description": "World number one Aryna Sabalenka says tennis authorities \"follow their interests\" with regards to the tennis calendar and are not \"focusing on protecting all of us\".",
+    "pubDate": "2026-01-08",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/players-not-protected-over-schedule-080622885.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "rangers-near-deal-for-midfielder-chukwuani-gossip",
+    "title": "Rangers near deal for midfielder Chukwuani - gossip",
+    "description": "Rangers make offers for midfielder and left-back, while Hearts chase Uganda winger...",
+    "pubDate": "2026-01-08",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/rangers-near-deal-midfielder-chukwuani-080617744.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "brook-apologises-after-nightclub-altercation",
+    "title": "Brook apologises after nightclub altercation",
+    "description": "England's Harry Brook apologises after being involved in an altercation with a nightclub bouncer the night before an ODI on the tour of New Zealand that preceded the Ashes.",
+    "pubDate": "2026-01-08",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/brook-apologises-nightclub-altercation-073430525.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "algeria-and-the-africa-cup-of-nations-quarter-finals-what-do-the-numbers-say",
+    "title": "Algeria and the Africa Cup of Nations quarter-finals: what do the numbers say?",
+    "description": "Algeria's record in the quarter-finalsAlgeria/@CAFAlgeria will face Nigeria on Saturday, January 10, in the quarter-finals of the Africa Cup of Nations (AFCON 2025).The \"Fennecs\" punched their ticket ...",
+    "pubDate": "2026-01-08",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/algeria-africa-cup-nations-quarter-080500987.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "bills-rushing-champ-faces-biggest-test-yet-in-afc-wild-card-clash",
+    "title": "Bills rushing champ faces biggest test yet in AFC wild-card clash",
+    "description": "Buffalo's No. 1-ranked run game will be put to the test against Jacksonville's No. 1-ranked defense, the ultimate strength on strength matchup.",
+    "pubDate": "2026-01-08",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/bills-rushing-champ-faces-biggest-080110305.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "jaguars-one-of-healthiest-playoff-teams-after-hiring-strength-coach-fired-by-bills",
+    "title": "Jaguars one of healthiest playoff teams after hiring strength coach fired by Bills",
+    "description": "The Bills fired longtime strength coach Eric Ciano in February. The Jaguars hired him immediately, and now they meet in the playoffs.",
+    "pubDate": "2026-01-08",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/jaguars-one-healthiest-playoff-teams-080053037.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "what-channel-is-rangers-vs-sabres-on-today-time-tv-streaming",
+    "title": "What channel is Rangers vs Sabres on today: Time, TV, streaming",
+    "description": "Here's how to watch the Rangers game, including time, TV schedule and streaming information.",
+    "pubDate": "2026-01-08",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/channel-rangers-vs-sabres-today-080015657.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "what-channel-is-texas-vs-auburn-women-39-s-basketball-on-time-tv-schedule-live-stream-to-watch-sec-game",
+    "title": "What channel is Texas vs. Auburn women&#39;s basketball on? Time, TV schedule, live stream to watch SEC game",
+    "description": "Texas faces Auburn in a women's basketball game. Here's how to watch the SEC matchup with TV channel and start time information.",
+    "pubDate": "2026-01-08",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/channel-texas-vs-auburn-womens-080002656.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "atletico-and-real-madrid-put-on-notice-as-raphinha-issues-clear-warning-8211-8216-we-are-ready-for-whoever-comes-8217",
+    "title": "Atletico and Real Madrid put on notice as Raphinha issues clear warning &#8211; &#8216;We are ready for whoever comes&#8217;",
+    "description": "Raphinha once again proved why he remains a crucial figure in Hansi Flick’s Barcelona as the Brazilian winger delivered a decisive performance in the Spanish Super Cup semi-final against Athletic Cl...",
+    "pubDate": "2026-01-08",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/atletico-real-madrid-put-notice-080000743.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "karl-s-jr-bayern-munich-to-make-play-for-phenom-s-little-brother",
+    "title": "Karl’s Jr.? Bayern Munich to make play for phenom’s little brother",
+    "description": "FC Bayern could be looking to bring in Lennart Karl’s sibling.",
+    "pubDate": "2026-01-08",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/karl-jr-bayern-munich-play-080000067.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "ufc-pimps-pressured-injured-strickland-to-fight-ddp-with-broke-shoulder",
+    "title": "UFC ‘Pimps’ Pressured Injured Strickland To Fight DDP With ‘Broke Shoulder’",
+    "description": "Sean Strickland hasn’t fought in nearly a year. That’s an unusual layoff for the former UFC Middleweight champion, who is typically quite active and fights multiple times per year. A suspension over summer probably didn’t help get him booked, and Strickland’s last appearance was a title rematch vers",
+    "pubDate": "2026-01-08",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/ufc-pimps-pressured-injured-strickland-080000934.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "vini-s-moment-a-mad-match-and-5-stories-to-start-your-day",
+    "title": "☕️🥐 Vini’s moment, a mad match and 5️⃣ stories to start your day",
+    "description": "On a Thursday marked by the Madrid derby in the Spanish Super Cup semifinal, here are the five news stories that could shape the football conversation. 👏 Who can defeat this Barça?Flick and his t...",
+    "pubDate": "2026-01-08",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/vini-moment-mad-match-5-075900043.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "why-arsenal-s-clash-with-liverpool-is-more-than-just-a-big-game",
+    "title": "Why Arsenal’s clash with Liverpool is more than just ‘a big game’",
+    "description": "Arsenal’s own internal psychodrama has been decisive in their previous unsuccessful title tilts but victory over Liverpool could finally put it to bed",
+    "pubDate": "2026-01-08",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/why-arsenal-clash-liverpool-more-075836601.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "full-2026-rolex-24-at-daytona-entry-list",
+    "title": "Full 2026 Rolex 24 at Daytona entry list",
+    "description": "The 64th running of the Rolex 24 at Daytona will feature a 60-car grid following the late withdrawal of Team Tonis' LMP2 entry. Read on to see all the teams and drivers entered for the event on 22-25 January 2026.",
+    "pubDate": "2026-01-08",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/full-2026-rolex-24-daytona-195236084.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "arizona-8217-s-latest-win-over-k-state-shows-elite-level-of-2025-26-roster",
+    "title": "Arizona&#8217;s Latest Win Over K-State Shows ELITE Level Of 2025-26 Roster",
+    "description": "The Arizona Wildcats pulled off another home win taking down Kansas State 101-76. The win was Arizona’s 10th straight win by at least 19 points. Tommy Lloyd took to the...",
+    "pubDate": "2026-01-08",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/arizona-latest-win-over-k-075516114.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "watch-local-high-school-boy-s-basketball-buzzer-beater-gets-national-attention",
+    "title": "WATCH: Local high school boy’s basketball buzzer-beater gets national attention",
+    "description": "A local high school boys’ basketball game buzzer-beater is getting national attention.",
+    "pubDate": "2026-01-08",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/watch-local-high-school-boy-075447064.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "real-madrid-suffer-huge-setback-as-key-defender-becomes-a-doubt-for-atletico-clash",
+    "title": "Real Madrid suffer huge setback as key defender becomes a doubt for Atletico clash",
+    "description": "Real Madrid’s preparations for the Spanish Super Cup semi-final against Atletico Madrid have been hit by an unexpected setback, with Antonio Rudiger now a serious doubt for the crucial encounter. A...",
+    "pubDate": "2026-01-08",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/real-madrid-suffer-huge-setback-075100323.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "one-man-united-star-did-something-no-other-player-has-managed-in-21-matches-this-season-he-s-turning-a-corner",
+    "title": "One Man United star did something no other player has managed in 21 matches this season, he’s turning a corner",
+    "description": "Benjamin Sesko doubled his goal for the season in just 90 minutes last night as he earned Manchester United their point against Burnley.Heading into the clash with the Clarets, the Slovenian had not f...",
+    "pubDate": "2026-01-08",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/one-man-united-star-did-075000347.html",
+    "source": "Google News"
   },
   {
     "slug": "39-whoever-signed-off-england-39-s-tour-has-to-go-39-agnew-column",
@@ -510,15 +852,6 @@
     "pubDate": "2026-01-08",
     "image": "",
     "link": "https://sports.yahoo.com/articles/areas-improve-mccullum-wont-told-045617816.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "brook-apologises-after-nightclub-altercation",
-    "title": "Brook apologises after nightclub altercation",
-    "description": "England's Harry Brook apologises after being involved in an altercation with a nightclub bouncer the night before an ODI on the tour of New Zealand that preceded the Ashes.",
-    "pubDate": "2026-01-08",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/brook-apologises-nightclub-altercation-073430525.html",
     "source": "Google News"
   },
   {
@@ -546,6 +879,15 @@
     "pubDate": "2026-01-08",
     "image": "",
     "link": "https://sports.yahoo.com/articles/made-ashes-team-series-033947426.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "kings-fall-4-3-to-sharks-in-ot-after-costly-turnover",
+    "title": "Kings Fall 4-3 To Sharks In OT After Costly Turnover",
+    "description": "For late stretches of the game, the shorthanded Kings were in control against the San Jose Sharks, but one turnover coming in the last minute of overtime erased all hope of a great win at home.",
+    "pubDate": "2026-01-08",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/kings-fall-4-3-sharks-074018404.html",
     "source": "Google News"
   },
   {
@@ -637,312 +979,6 @@
     "image": "",
     "link": "https://sports.yahoo.com/articles/darren-fletcher-man-united-show-073000760.html",
     "source": "Google News"
-  },
-  {
-    "slug": "the-hoddle-of-coffee-tottenham-hotspur-news-and-links-for-thursday-january-8",
-    "title": "The Hoddle of Coffee: Tottenham Hotspur news and links for Thursday, January 8",
-    "description": "Welcome to another edition of Trending Up / Trending Down, where hoddle headquarters takes a look at all things trending up and down around Tottenham Hotspur. The latest edition comes amid some pretty sour times at Spurs. Dejan Kulusevski, Dominic Solanke and James Maddison all seem like mythlike cr",
-    "pubDate": "2026-01-08",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/hoddle-coffee-tottenham-hotspur-news-073000910.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "chelsea-fans-fully-turn-on-club-owners-and-target-behdad-eghbali-with-protests-planned",
-    "title": "Chelsea fans fully turn on club owners and target Behdad Eghbali with protests planned",
-    "description": "Chelsea fans have now pretty much turned on the owners of the club, in particular targeting part-owner Behdad Eghbali.The fans already have a protest organised ahead of the game against Brentford in t...",
-    "pubDate": "2026-01-08",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/chelsea-fans-fully-turn-club-073000857.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "looking-back-at-notre-dame-s-1981-win-over-the-lsu-tigers",
-    "title": "Looking back at Notre Dame’s 1981 win over the LSU Tigers",
-    "description": "The season opener was a dream come true for the new head coach of the Notre Dame football team.",
-    "pubDate": "2026-01-08",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/looking-back-notre-dame-1981-072746384.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "five-star-show-easy-win-and-a-stroll-on-thursday-s-front-pages",
-    "title": "🗞️ Five-star show, easy win and a stroll on Thursday’s front pages",
-    "description": "\"Without breaking a sweat\", \"exhibition\", \"high five\" or \"dance\" are some of the concepts that emerge today on the front pages of the Spanish sports press after the 5-1 that Barcelona handed to Athlet...",
-    "pubDate": "2026-01-08",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/five-star-show-easy-win-072700044.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "atletico-madrid-vs-real-madrid-8211-predicted-lineup-and-team-news",
-    "title": "Atletico Madrid vs Real Madrid &#8211; Predicted lineup and team news",
-    "description": "Atletico Madrid face Real Madrid in the Spanish Super Cup semi-final on Wednesday at Jeddah’s Alinma Bank Stadium.The winner advances to Sunday’s final against either Barcelona in a high-stakes sh...",
-    "pubDate": "2026-01-08",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/atletico-madrid-vs-real-madrid-072600166.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "england-39-s-players-and-management-face-performance-review-after-lopsided-ashes-loss-in-australia",
-    "title": "England&#39;s players and management face performance review after lopsided Ashes loss in Australia",
-    "description": "England's players and management are undergoing a performance review following the 4-1 Ashes series defeat in Australia, with England Wales Cricket Board chief executive Richard Gould vowing to “implement the necessary changes over coming months.”  Gould issued a statement after England's five-wicke",
-    "pubDate": "2026-01-08",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/englands-players-managaement-face-performance-072542906.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "roma-nearing-raspadori-signing",
-    "title": "Roma nearing Raspadori signing",
-    "description": "Roma awaits Giacomo Raspadori’s approval between today and tomorrow with renewed confidence and optimism. Today’s edition of La Gazzetta dello Sport reports that sporting director Ricky Massara ha...",
-    "pubDate": "2026-01-08",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/roma-nearing-raspadori-signing-072300611.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "atletico-madrid-vs-real-madrid-match-preview-and-team-news",
-    "title": "Atletico Madrid vs Real Madrid – Match preview and team news",
-    "description": "Atletico Madrid and Real Madrid go head-to-head in the Spanish Super Cup semi-final on Wednesday in Jeddah, Saudi Arabia.Both sides will be searching for a place in Sunday’s final, where they could ...",
-    "pubDate": "2026-01-08",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/atletico-madrid-vs-real-madrid-072300202.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "blooper-of-the-year-helps-mammoth-keep-their-lead-in-3-1-win-over-senators",
-    "title": "Blooper of the year helps Mammoth keep their lead in 3-1 win over Senators",
-    "description": "The Utah Mammoth beat the Ottawa Senators at the Delta Center on Wednesday",
-    "pubDate": "2026-01-08",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/blooper-helps-mammoth-keep-lead-072137359.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "flick-talks-lamine-raphinha-real-madrid-atletico-madrid-after-barcelona-5-0-athletic-club",
-    "title": "Flick talks Lamine, Raphinha, Real Madrid, Atletico Madrid after Barcelona 5-0 Athletic Club",
-    "description": "Barcelona could hardly have asked for a more convincing start to their Spanish Super Cup campaign, and Hansi Flick made no effort to hide his satisfaction after his side crushed Athletic Club 5-0 in t...",
-    "pubDate": "2026-01-08",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/flick-talks-lamine-raphinha-real-072000303.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "premier-league-trio-intensify-chase-for-25m-rated-real-madrid-standout-8211-report",
-    "title": "Premier League trio intensify chase for €25m-rated Real Madrid standout &#8211; report",
-    "description": "According to a recent report from Fichajes, several Premier League clubs are now actively battling to secure the signature of Real Madrid goalkeeper Andriy Lunin.The outlet mentions that the likes of ...",
-    "pubDate": "2026-01-08",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/premier-league-trio-intensify-chase-072000718.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "ferguson-to-start-vs-sassuolo-expected-to-remain-at-roma",
-    "title": "Ferguson to start vs Sassuolo, expected to remain at Roma",
-    "description": "Evan Ferguson scored his fourth goal in a month, demonstrating his growing confidence in Serie A. The Irish striker, who played a key role in the victory against Lecce, is ready to be confirmed for th...",
-    "pubDate": "2026-01-08",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/ferguson-start-vs-sassuolo-expected-071900586.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "observations-from-blues-39-7-3-loss-vs-blackhawks",
-    "title": "Observations From Blues&#39; 7-3 Loss Vs. Blackhawks",
-    "description": "Congratulations to Otto Stenberg for first NHL goal; special teams were terrible (again); second period rears ugly head (again); wall battles, protecting slot non-existent (again); this team is incapable of winning three in a row; where are the top players (again) -- Hawks were without Bedard, Nazar",
-    "pubDate": "2026-01-08",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/observations-blues-7-3-loss-071513527.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "unloved-in-pe-ignored-at-top-what-is-cross-country-39-s-future",
-    "title": "Unloved in PE, ignored at top - what is cross country&#39;s future?",
-    "description": "Cross country evokes miserable school memories for many, while top athletes focus on Olympic disciplines instead - what is its future?",
-    "pubDate": "2026-01-08",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/unloved-pe-ignored-top-cross-071510983.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "8220-he-s-really-good-with-8221-8211-liam-delap-reveals-main-reason-he-feels-liam-rosenior-will-be-a-success-at-chelsea",
-    "title": "&#8220;He’s really good with&#8221; &#8211; Liam Delap reveals main reason he feels Liam Rosenior will be a success at Chelsea",
-    "description": "Liam Delap has revealed the squad are excited for what’s to come under Liam Rosenior, and gave one reason why he thinks he’ll be a success.Rosenior was announced as Chelsea’s new head coach this...",
-    "pubDate": "2026-01-08",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/really-good-liam-delap-reveals-071500475.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "roma-ready-to-satisfy-gasperini-8217-s-transfer-requests",
-    "title": "Roma ready to satisfy Gasperini&#8217;s transfer requests",
-    "description": "The transfer market summit held yesterday afternoon at Trigoria took place in a calm and constructive atmosphere. Coach Gian Piero Gasperini, Vice President Ryan Friedkin, and Senior Advisor Claudio R...",
-    "pubDate": "2026-01-08",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/roma-ready-satisfy-gasperini-transfer-071500267.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "no-ward-or-lee-no-problem-reign-takes-4-3-victory-over-wild",
-    "title": "No Ward or Lee? No problem: Reign takes 4-3 victory over Wild",
-    "description": "The Ontario Reign improve to 21-10-1-1 with its 4-3 win over the Iowa Wild. With Andre Lee and Taylor Ward called up to the LA Kings, other players had to step up, and they did. Pheonix Copley finished with 24 saves as four different players scored for Ontario.",
-    "pubDate": "2026-01-08",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/no-ward-lee-no-problem-071456958.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "high-school-basketball-boys-39-and-girls-39-scores-from-wednesday-jan-7",
-    "title": "High school basketball: Boys&#39; and girls&#39; scores from Wednesday, Jan. 7",
-    "description": "CIF City and Southern Section boys' and girls' basketball results from Wednesday.",
-    "pubDate": "2026-01-08",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/high-school-basketball-boys-girls-071352782.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "winners-losers-from-the-trae-young-trade-to-washington",
-    "title": "Winners, Losers from the Trae Young trade to Washington",
-    "description": "There are a lot of winners in this trade, it's good for both teams.",
-    "pubDate": "2026-01-08",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/winners-losers-trae-young-trade-071212468.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "lakers-player-grades-l-a-loses-while-very-short-handed-to-spurs",
-    "title": "Lakers player grades: L.A. loses while very short-handed to Spurs",
-    "description": "Without three starters, the Lakers just didn't have the horsepower to hang with the young and rising Spurs.",
-    "pubDate": "2026-01-08",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/lakers-player-grades-l-loses-071206845.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "gigantic-90m-offer-changes-everything-for-liverpool",
-    "title": "Gigantic €90m OFFER changes everything for Liverpool",
-    "description": "An enormous offer will change everything for Liverpool. Where does Richard Hughes go from here?The transfer window is now open - and has been for around a week now - though, things haven't gotten craz...",
-    "pubDate": "2026-01-08",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/gigantic-90m-offer-changes-everything-071000512.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "relentless-effort-helps-sturgis-girls-beat-kalamazoo-christian-in-hoops",
-    "title": "Relentless effort helps Sturgis girls beat Kalamazoo Christian in hoops",
-    "description": "In other games, Centreville and White Pigeon girls claim victories",
-    "pubDate": "2026-01-08",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/relentless-effort-helps-sturgis-girls-070714626.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "kings-lose-late-lead-and-are-defeated-by-sharks",
-    "title": "Kings lose late lead and are defeated by Sharks",
-    "description": "The Sharks score late in the third period to tie it, then score again in overtime to defeat the Kings.",
-    "pubDate": "2026-01-08",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/kings-lose-lead-defeated-sharks-070548059.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "lakers-39-offense-sputters-in-short-handed-road-loss-to-spurs",
-    "title": "Lakers&#39; offense sputters in short-handed road loss to Spurs",
-    "description": "The Lakers fall to the Spurs 107-91, snapping a three-game win streak in their first loss of 2026.",
-    "pubDate": "2026-01-08",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/lakers-offense-sputters-short-handed-070543963.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "al-nassr-vs-al-qadsiah-ronaldo-and-nacho-face-off-and-other-key-battles",
-    "title": "Al Nassr vs Al Qadsiah: Ronaldo and Nacho face off, and other key battles",
-    "description": "Thursday night throws up a huge match towards the top of the Roshn Saudi League, when Al Nassr host Al Qadsiah at Al Awwal Park.The Matchweek 14 encounter pits against one another the division’s sec...",
-    "pubDate": "2026-01-08",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/al-nassr-vs-al-qadsiah-070500036.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "los-angeles-and-milwaukee-to-meet-for-out-of-conference-contest",
-    "title": "Los Angeles and Milwaukee to meet for out-of-conference contest",
-    "description": "",
-    "pubDate": "2026-01-08",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/los-angeles-milwaukee-meet-conference-070345528.html",
-    "source": "The Associated Press"
-  },
-  {
-    "slug": "phoenix-plays-new-york-seeks-5th-straight-home-win",
-    "title": "Phoenix plays New York, seeks 5th straight home win",
-    "description": "",
-    "pubDate": "2026-01-08",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/phoenix-plays-york-seeks-5th-070345334.html",
-    "source": "The Associated Press"
-  },
-  {
-    "slug": "brooklyn-plays-los-angeles-in-non-conference-matchup",
-    "title": "Brooklyn plays Los Angeles in non-conference matchup",
-    "description": "",
-    "pubDate": "2026-01-08",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/brooklyn-plays-los-angeles-non-070344308.html",
-    "source": "The Associated Press"
-  },
-  {
-    "slug": "charlotte-faces-indiana-on-3-game-home-skid",
-    "title": "Charlotte faces Indiana on 3-game home skid",
-    "description": "",
-    "pubDate": "2026-01-08",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/charlotte-faces-indiana-3-game-070344232.html",
-    "source": "The Associated Press"
-  },
-  {
-    "slug": "chicago-takes-on-miami-aims-to-break-3-game-slide",
-    "title": "Chicago takes on Miami, aims to break 3-game slide",
-    "description": "",
-    "pubDate": "2026-01-08",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/chicago-takes-miami-aims-break-070343760.html",
-    "source": "The Associated Press"
-  },
-  {
-    "slug": "jackson-grizzlies-to-host-gilgeous-alexander-and-the-thunder",
-    "title": "Jackson, Grizzlies to host Gilgeous-Alexander and the Thunder",
-    "description": "",
-    "pubDate": "2026-01-08",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/jackson-grizzlies-host-gilgeous-alexander-070343728.html",
-    "source": "The Associated Press"
-  },
-  {
-    "slug": "jazz-take-on-the-mavericks-on-4-game-slide",
-    "title": "Jazz take on the Mavericks on 4-game slide",
-    "description": "",
-    "pubDate": "2026-01-08",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/jazz-mavericks-4-game-slide-070343001.html",
-    "source": "The Associated Press"
-  },
-  {
-    "slug": "sacramento-plays-golden-state-on-6-game-road-slide",
-    "title": "Sacramento plays Golden State on 6-game road slide",
-    "description": "",
-    "pubDate": "2026-01-08",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/sacramento-plays-golden-state-6-070342411.html",
-    "source": "The Associated Press"
-  },
-  {
-    "slug": "toronto-plays-boston-on-3-game-win-streak",
-    "title": "Toronto plays Boston on 3-game win streak",
-    "description": "",
-    "pubDate": "2026-01-08",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/toronto-plays-boston-3-game-070342113.html",
-    "source": "The Associated Press"
   },
   {
     "slug": "one-big-thing-we-re-hearing-on-every-nfl-team-s-coaching-situation-hot-seats-candidates-more",
@@ -1080,15 +1116,6 @@
     "source": "BBC Sport"
   },
   {
-    "slug": "a-big-week-brighton-draw-is-punch-in-ribs-for-man-city",
-    "title": "A big week? Brighton draw is 'punch in ribs' for Man City",
-    "description": "With Manchester City's crucial month beginning badly, Pep Guardiola is left to hope that their campaign is not derailing in similar fashion to last season.",
-    "pubDate": "2026-01-07",
-    "image": "",
-    "link": "https://www.bbc.com/sport/football/articles/cn82ye11yx5o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport"
-  },
-  {
     "slug": "newcastle-score-twice-in-stoppage-time-to-win-seven-goal-thriller",
     "title": "Newcastle score twice in stoppage time to win seven-goal thriller",
     "description": "Harvey Barnes scores twice as Newcastle come from behind to beat Leeds in a dramatic seven-goal thriller at St James' Park.",
@@ -1152,12 +1179,30 @@
     "source": "BBC Sport"
   },
   {
+    "slug": "palace-hold-on-to-deny-villa-victory-in-hard-fought-draw",
+    "title": "Palace hold on to deny Villa victory in hard‑fought draw",
+    "description": "Title challengers Aston Villa miss a chance to close the gap on Arsenal to three points as Crystal Palace's injury-hit side earn a goalless draw at Selhurst Park.",
+    "pubDate": "2026-01-07",
+    "image": "",
+    "link": "https://www.bbc.com/sport/football/videos/c20zpd0z0v6o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport"
+  },
+  {
     "slug": "bournemouth-keen-on-nwaneri-thursday-s-gossip",
     "title": "Bournemouth keen on Nwaneri - Thursday's gossip",
     "description": "Bournemouth are keen on bringing in Ethan Nwaneri from Arsenal, Crystal Palace boss Oliver Glasner set to hold talks over extending deal, AC Milan keen on Liverpool defender Joe Gomez, plus more.",
     "pubDate": "2026-01-07",
     "image": "",
     "link": "https://www.bbc.com/sport/football/articles/cpqylp92d4yo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport"
+  },
+  {
+    "slug": "a-big-week-brighton-draw-is-punch-in-ribs-for-man-city",
+    "title": "A big week? Brighton draw is 'punch in ribs' for Man City",
+    "description": "With Manchester City's crucial month beginning badly, Pep Guardiola is left to hope that their campaign is not derailing in similar fashion to last season.",
+    "pubDate": "2026-01-07",
+    "image": "",
+    "link": "https://www.bbc.com/sport/football/articles/cn82ye11yx5o?at_medium=RSS&at_campaign=rss",
     "source": "BBC Sport"
   },
   {
@@ -1170,21 +1215,21 @@
     "source": "BBC Sport"
   },
   {
-    "slug": "gilmore-puts-out-of-form-quins-on-notice-with-squad-cuts",
-    "title": "Gilmore puts out-of-form Quins on notice with squad cuts",
-    "description": "Harlequins coach Jason Gilmore has warned his under-performing squad that they are playing for their futures, with the club planning to streamline their squad.",
-    "pubDate": "2026-01-07",
-    "image": "",
-    "link": "https://www.bbc.com/sport/rugby-union/articles/cp37w66dzk6o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport"
-  },
-  {
     "slug": "like-a-movie-semenyo-enjoys-fairytale-farewell",
     "title": "'Like a movie' - Semenyo enjoys fairytale farewell",
     "description": "Antoine Semenyo could not have dreamed of a better ending to his Bournemouth career as his late winner against Spurs ends the Cherries' long winless run.",
     "pubDate": "2026-01-07",
     "image": "",
     "link": "https://www.bbc.com/sport/football/articles/c80154gn034o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport"
+  },
+  {
+    "slug": "gilmore-puts-out-of-form-quins-on-notice-with-squad-cuts",
+    "title": "Gilmore puts out-of-form Quins on notice with squad cuts",
+    "description": "Harlequins coach Jason Gilmore has warned his under-performing squad that they are playing for their futures, with the club planning to streamline their squad.",
+    "pubDate": "2026-01-07",
+    "image": "",
+    "link": "https://www.bbc.com/sport/rugby-union/articles/cp37w66dzk6o?at_medium=RSS&at_campaign=rss",
     "source": "BBC Sport"
   },
   {
@@ -1251,15 +1296,6 @@
     "source": "BBC Sport"
   },
   {
-    "slug": "ravens-sack-harbaugh-after-18-years-as-head-coach",
-    "title": "Ravens sack Harbaugh after 18 years as head coach",
-    "description": "The Baltimore Ravens end John Harbaugh's 18-year spell as head coach after the team's failure to reach the NFL play-offs.",
-    "pubDate": "2026-01-07",
-    "image": "",
-    "link": "https://www.bbc.com/sport/american-football/articles/cz6ypnyjzzyo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport"
-  },
-  {
     "slug": "fifa-will-scan-world-cup-players-to-make-offside-avatars",
     "title": "Fifa will scan World Cup players to make offside avatars",
     "description": "Fifa is to create AI-enabled 3D avatars of all players at the World Cup to enhance semi-automated offside technology.",
@@ -1269,21 +1305,21 @@
     "source": "BBC Sport"
   },
   {
+    "slug": "ravens-sack-harbaugh-after-18-years-as-head-coach",
+    "title": "Ravens sack Harbaugh after 18 years as head coach",
+    "description": "The Baltimore Ravens end John Harbaugh's 18-year spell as head coach after the team's failure to reach the NFL play-offs.",
+    "pubDate": "2026-01-07",
+    "image": "",
+    "link": "https://www.bbc.com/sport/american-football/articles/cz6ypnyjzzyo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport"
+  },
+  {
     "slug": "rowe-targets-new-investment-as-exeter-post-10-3m-loss",
     "title": "Rowe targets new investment as Exeter post £10.3m loss",
     "description": "Exeter chief executive Tony Rowe hopes a new investor will be in place this year after the company that controls the Chiefs posted more than £10m in losses.",
     "pubDate": "2026-01-07",
     "image": "",
     "link": "https://www.bbc.com/sport/rugby-union/articles/ckgln900087o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport"
-  },
-  {
-    "slug": "carrick-and-solskjaer-frontrunners-for-man-utd-caretaker-role",
-    "title": "Carrick and Solskjaer frontrunners for Man Utd caretaker role",
-    "description": "Michael Carrick and Ole Gunnar Solskjaer emerge as frontrunners to become Manchester United's caretaker manager until the end of the season.",
-    "pubDate": "2026-01-07",
-    "image": "",
-    "link": "https://www.bbc.com/sport/football/articles/cnvgq2ny2rzo?at_medium=RSS&at_campaign=rss",
     "source": "BBC Sport"
   },
   {
@@ -1338,15 +1374,6 @@
     "pubDate": "2026-01-07",
     "image": "",
     "link": "https://www.bbc.com/sport/football/articles/c9qpj5nvq9eo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport"
-  },
-  {
-    "slug": "mps-to-question-wru-bosses-over-game-s-future",
-    "title": "MPs to question WRU bosses over game's future",
-    "description": "The WRU chief executive and chair Welsh have been called to face the Welsh Affairs Committee over controversial changes to the professional game.",
-    "pubDate": "2026-01-07",
-    "image": "",
-    "link": "https://www.bbc.com/sport/rugby-union/articles/c1evzqwg17xo?at_medium=RSS&at_campaign=rss",
     "source": "BBC Sport"
   },
   {
