@@ -117,15 +117,6 @@
     "source": "Bill Connelly"
   },
   {
-    "slug": "fa-cup-third-round-upsets-macclesfield-wrexham-giant-killers",
-    "title": "FA Cup third-round upsets: Macclesfield, Wrexham giant killers",
-    "description": "It's a notoriously tricky time for big clubs against lower-league opposition and this year is proving no exception.",
-    "pubDate": "2026-01-10",
-    "image": "",
-    "link": "https://www.espn.com/soccer/story/_/id/47569285/macclesfield-wrexham-giant-killers",
-    "source": "ESPN"
-  },
-  {
     "slug": "cfp-national-championship-first-look-previewing-miami-indiana",
     "title": "CFP National Championship first look: Previewing Miami-Indiana",
     "description": "How either Miami or Indiana can win the title, plus X factors for both teams.",
@@ -142,6 +133,15 @@
     "image": "",
     "link": "https://www.espn.com/college-football/story/_/id/47557219/college-football-miami-drive-hurricanes-national-title-game",
     "source": "David Hale"
+  },
+  {
+    "slug": "fa-cup-third-round-upsets-macclesfield-wrexham-giant-killers",
+    "title": "FA Cup third-round upsets: Macclesfield, Wrexham giant killers",
+    "description": "It's a notoriously tricky time for big clubs against lower-league opposition and this year is proving no exception.",
+    "pubDate": "2026-01-10",
+    "image": "",
+    "link": "https://www.espn.com/soccer/story/_/id/47569285/macclesfield-wrexham-giant-killers",
+    "source": "ESPN"
   },
   {
     "slug": "how-liam-coen-got-the-jaguars-to-the-playoffs-it-makes-us-want-to-fight-for-him",
@@ -333,21 +333,21 @@
     "source": "Emily Kaplan"
   },
   {
-    "slug": "non-league-macclesfield-stun-fa-cup-holders-crystal-palace",
-    "title": "Non-league Macclesfield stun FA Cup holders Crystal Palace",
-    "description": "Sixth-tier Macclesfield FC beat reigning champions Crystal Palace. With 117 places between the teams, it's the biggest upset in FA Cup history.",
+    "slug": "he-is-here-with-us-macclesfield-make-fa-cup-history-on-emotional-day",
+    "title": "'He is here with us' - Macclesfield make FA Cup history on emotional day",
+    "description": "Non-league Macclesfield made FA Cup history by knocking out holders Crystal Palace on a memorable but emotional day - their victory achieved against a backdrop of tragedy.",
     "pubDate": "2026-01-10",
     "image": "",
-    "link": "https://www.bbc.com/sport/football/videos/c0q4n83xq59o?at_medium=RSS&at_campaign=rss",
+    "link": "https://www.bbc.com/sport/football/articles/cy8yqj8jd6yo?at_medium=RSS&at_campaign=rss",
     "source": "BBC Sport"
   },
   {
-    "slug": "my-best-foot-s-my-head-dawson-proud-after-shock-macclesfield-win",
-    "title": "'My best foot's my head!' - Dawson proud after shock Macclesfield win",
-    "description": "Macclesfield captain Paul Dawson says \"it means the world\" after his side secured a shock win against Premier League side Crystal Palace, as the non-league team knocked out the defending champions with a 2-1 win.",
+    "slug": "it-s-double-figures-manchester-city-score-10-as-they-thrash-exeter",
+    "title": "'It's double figures' - Manchester City score 10 as they thrash Exeter",
+    "description": "Seven-time winners Manchester City cruise into the fourth round of the FA Cup by thrashing League One side Exeter City 10-1, with new signing Antoine Semenyo scoring a debut goal at Etihad Stadium.",
     "pubDate": "2026-01-10",
     "image": "",
-    "link": "https://www.bbc.com/sport/football/videos/c5y4rld9pn2o?at_medium=RSS&at_campaign=rss",
+    "link": "https://www.bbc.com/sport/football/videos/cm2x40d1rgzo?at_medium=RSS&at_campaign=rss",
     "source": "BBC Sport"
   },
   {
@@ -360,12 +360,30 @@
     "source": "BBC Sport"
   },
   {
+    "slug": "non-league-macclesfield-stun-fa-cup-holders-crystal-palace",
+    "title": "Non-league Macclesfield stun FA Cup holders Crystal Palace",
+    "description": "Sixth-tier Macclesfield FC beat reigning champions Crystal Palace. With 117 places between the teams, it's the biggest upset in FA Cup history.",
+    "pubDate": "2026-01-10",
+    "image": "",
+    "link": "https://www.bbc.com/sport/football/videos/c0q4n83xq59o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport"
+  },
+  {
     "slug": "bristol-beat-bulls-in-astonishing-16-try-contest",
     "title": "Bristol beat Bulls in astonishing 16-try contest",
     "description": "Bristol Bears qualify for the Champions Cup knockout stage by winning an astonishing 16-try contest with the Bulls in Pretoria.",
     "pubDate": "2026-01-10",
     "image": "",
     "link": "https://www.bbc.com/sport/rugby-union/articles/cd9eld1w8xxo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport"
+  },
+  {
+    "slug": "my-best-foot-s-my-head-dawson-proud-after-shock-macclesfield-win",
+    "title": "'My best foot's my head!' - Dawson proud after shock Macclesfield win",
+    "description": "Macclesfield captain Paul Dawson says \"it means the world\" after his side secured a shock win against Premier League side Crystal Palace, as the non-league team knocked out the defending champions with a 2-1 win.",
+    "pubDate": "2026-01-10",
+    "image": "",
+    "link": "https://www.bbc.com/sport/football/videos/c5y4rld9pn2o?at_medium=RSS&at_campaign=rss",
     "source": "BBC Sport"
   },
   {
@@ -387,6 +405,15 @@
     "source": "BBC Sport"
   },
   {
+    "slug": "stunning-late-cisse-strike-sees-stoke-beat-coventry",
+    "title": "Stunning late Cisse strike sees Stoke beat Coventry",
+    "description": "Lamine Cisse's wonder goal two minutes from time sees Stoke City snatch victory against Championship rivals Coventry City and move into round four of the FA Cup.",
+    "pubDate": "2026-01-10",
+    "image": "",
+    "link": "https://www.bbc.com/sport/football/videos/c0mk98d7702o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport"
+  },
+  {
     "slug": "strand-larsen-scores-hat-trick-as-wolves-thrash-shrewsbury",
     "title": "Strand Larsen scores hat-trick as Wolves thrash Shrewsbury",
     "description": "Striker Jorgen Strand Larsen's hat-trick ends his Wolves goal drought as he fires them past League Two Shrewsbury into the FA Cup fourth round.",
@@ -396,12 +423,57 @@
     "source": "BBC Sport"
   },
   {
+    "slug": "supersub-wilson-sparks-fulham-comeback-against-middlesbrough",
+    "title": "Supersub Wilson sparks Fulham comeback against Middlesbrough ",
+    "description": "Harry Wilson came on to help his side avoid a potential upset, as Fulham score three second half goals to beat Middlesbrough.",
+    "pubDate": "2026-01-10",
+    "image": "",
+    "link": "https://www.bbc.com/sport/football/videos/c93149v66zgo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport"
+  },
+  {
+    "slug": "doncaster-s-fightback-falls-short-as-southampton-avoid-scare",
+    "title": "Doncaster's fightback falls short as Southampton avoid scare ",
+    "description": "Southampton beat Doncaster Rovers to reach round four of the FA Cup, with the Championship side having led 3-0 at half time, but needing hang on to win 3-2 after a second half comeback from the League One side.",
+    "pubDate": "2026-01-10",
+    "image": "",
+    "link": "https://www.bbc.com/sport/football/videos/c20zxn96jnzo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport"
+  },
+  {
     "slug": "comfortable-away-win-for-burton-albion-against-boreham-wood",
     "title": "Comfortable away win for Burton Albion against Boreham Wood",
     "description": "Kain Adom is instrumental on his Burton Albion debut as the Brewers get past National League side Boreham Wood in the third round of the FA Cup.",
     "pubDate": "2026-01-10",
     "image": "",
     "link": "https://www.bbc.com/sport/football/videos/clym18xvkp0o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport"
+  },
+  {
+    "slug": "is-macclesfield-beating-crystal-palace-greatest-fa-cup-upset",
+    "title": "Is Macclesfield beating Crystal Palace greatest FA Cup upset?",
+    "description": "After Macclesfield beat FA Cup holders Crystal Palace in the third round, BBC Sport looks at 10 of the biggest upsets in the competition's history.",
+    "pubDate": "2026-01-10",
+    "image": "",
+    "link": "https://www.bbc.com/sport/football/articles/c20dxzezx0qo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport"
+  },
+  {
+    "slug": "glasgow-book-last-16-spot-with-clermont-win",
+    "title": "Glasgow book last-16 spot with Clermont win",
+    "description": "Glasgow Warriors book a spot in the last 16 of the Champions Cup with an outstanding bonus-point at Clermont Auvergne.",
+    "pubDate": "2026-01-10",
+    "image": "",
+    "link": "https://www.bbc.com/sport/rugby-union/articles/c5y250717v8o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport"
+  },
+  {
+    "slug": "durant-passes-legend-chamberlain-on-all-time-list",
+    "title": "Durant passes legend Chamberlain on all-time list",
+    "description": "Kevin Durant moves past the great Wilt Chamberlain and into seventh on the NBA all-time scoring list during the Houston Rockets' defeat by the Portland Trail Blazers.",
+    "pubDate": "2026-01-10",
+    "image": "",
+    "link": "https://www.bbc.com/sport/basketball/articles/cvgrqe2eggjo?at_medium=RSS&at_campaign=rss",
     "source": "BBC Sport"
   },
   {
@@ -423,39 +495,12 @@
     "source": "BBC Sport"
   },
   {
-    "slug": "he-is-here-with-us-macclesfield-make-fa-cup-history-on-emotional-day",
-    "title": "'He is here with us' - Macclesfield make FA Cup history on emotional day",
-    "description": "Non-league Macclesfield made FA Cup history by knocking out holders Crystal Palace on a memorable but emotional day - their victory achieved against a backdrop of tragedy.",
-    "pubDate": "2026-01-10",
-    "image": "",
-    "link": "https://www.bbc.com/sport/football/articles/cy8yqj8jd6yo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport"
-  },
-  {
-    "slug": "durant-passes-legend-chamberlain-on-all-time-list",
-    "title": "Durant passes legend Chamberlain on all-time list",
-    "description": "Kevin Durant moves past the great Wilt Chamberlain and into seventh on the NBA all-time scoring list during the Houston Rockets' defeat by the Portland Trail Blazers.",
-    "pubDate": "2026-01-10",
-    "image": "",
-    "link": "https://www.bbc.com/sport/basketball/articles/cvgrqe2eggjo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport"
-  },
-  {
     "slug": "bandaged-dawson-puts-macclesfield-ahead-against-palace",
     "title": "Bandaged Dawson puts Macclesfield ahead against Palace",
     "description": "Shortly after adjusting the bandages on his head after picking up an injury early in the match, Paul Dawson nods home Macclesfield's opener to put them ahead against Crystal Palace.",
     "pubDate": "2026-01-10",
     "image": "",
     "link": "https://www.bbc.com/sport/football/videos/cql46e5g552o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport"
-  },
-  {
-    "slug": "top-four-or-fa-cup-rogers-on-his-villa-ambitions",
-    "title": "Top four or FA Cup? - Rogers on his Villa ambitions",
-    "description": "Morgan Rogers shares what the FA Cup means to him and whether he would rather win the competition or finish in the Premier League top four with Aston Villa.",
-    "pubDate": "2026-01-10",
-    "image": "",
-    "link": "https://www.bbc.com/sport/football/videos/c8d043d5jpqo?at_medium=RSS&at_campaign=rss",
     "source": "BBC Sport"
   },
   {
@@ -492,6 +537,15 @@
     "pubDate": "2026-01-10",
     "image": "",
     "link": "https://www.bbc.com/sport/rugby-union/articles/cgl803lp3dyo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport"
+  },
+  {
+    "slug": "top-four-or-fa-cup-rogers-on-his-villa-ambitions",
+    "title": "Top four or FA Cup? - Rogers on his Villa ambitions",
+    "description": "Morgan Rogers shares what the FA Cup means to him and whether he would rather win the competition or finish in the Premier League top four with Aston Villa.",
+    "pubDate": "2026-01-10",
+    "image": "",
+    "link": "https://www.bbc.com/sport/football/videos/c8d043d5jpqo?at_medium=RSS&at_campaign=rss",
     "source": "BBC Sport"
   },
   {
@@ -564,6 +618,24 @@
     "pubDate": "2026-01-10",
     "image": "",
     "link": "https://www.bbc.com/sport/cycling/articles/c3e0p548zx8o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport"
+  },
+  {
+    "slug": "watch-every-penalty-from-wrexham-s-fa-cup-win-over-forest",
+    "title": "Watch every penalty from Wrexham's FA Cup win over Forest",
+    "description": "Watch every penalty as Wrexham knocked out Premier League Nottingham Forest after a 3-3 draw in the third round of the FA Cup.",
+    "pubDate": "2026-01-10",
+    "image": "",
+    "link": "https://www.bbc.com/sport/football/videos/c5yvp3pzyvpo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport"
+  },
+  {
+    "slug": "dream-big-great-realities-maestre-outlines-london-city-ambitions",
+    "title": "'Dream big, great realities' - Maestre outlines London City ambitions",
+    "description": "BBC Sport looks at London City Lionesses' ambitious new boss Eder Maestre and what he will bring to the Women's Super League.",
+    "pubDate": "2026-01-10",
+    "image": "",
+    "link": "https://www.bbc.com/sport/football/articles/cm2y5zy7mdqo?at_medium=RSS&at_campaign=rss",
     "source": "BBC Sport"
   },
   {
@@ -1134,48 +1206,12 @@
     "source": "BBC Sport"
   },
   {
-    "slug": "macclesfield-s-turbulent-triumphant-journey",
-    "title": "Macclesfield's turbulent, triumphant journey",
-    "description": "Sarah Mulkerrins tells the tale of Macclesfield FC, a club that reformed in 2020 after Macclesfield Town were wound up in the High Court.",
-    "pubDate": "2026-01-09",
-    "image": "",
-    "link": "https://www.bbc.com/sport/football/videos/cx2l9x73dr1o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport"
-  },
-  {
     "slug": "i-ve-worked-so-hard-for-this-opportunity-rosenior",
     "title": "I've worked so hard for this opportunity - Rosenior",
     "description": "New Chelsea head coach Liam Rosenior says he has \"worked so hard my whole life for this opportunity\" in his first news conference as Blues boss.",
     "pubDate": "2026-01-09",
     "image": "",
     "link": "https://www.bbc.com/sport/football/videos/c1wz0ve8xqdo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport"
-  },
-  {
-    "slug": "the-best-years-are-to-come-guardiola-on-signing-extraordinary-semenyo",
-    "title": "The best years are to come - Guardiola on signing 'extraordinary' Semenyo",
-    "description": "Manchester City boss Pep Guardiola discusses the signing of \"extraordinary\" Ghana forward Antoine Semenyo from Bournemouth after his £65m release clause was met.",
-    "pubDate": "2026-01-09",
-    "image": "",
-    "link": "https://www.bbc.com/sport/football/videos/cdxj2wldzvlo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport"
-  },
-  {
-    "slug": "hugely-disappointing-moyes-on-keane-red-card-appeal-rejection",
-    "title": "'Hugely disappointing' - Moyes on Keane red card appeal rejection",
-    "description": "Everton manager David Moyes says the decision to reject their appeal against defender Michael Keane's red card is \"hugely disappointing\"'.",
-    "pubDate": "2026-01-09",
-    "image": "",
-    "link": "https://www.bbc.com/sport/football/videos/cyv5ez35evlo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport"
-  },
-  {
-    "slug": "henderson-s-stunning-double-as-ross-county-beat-thistle",
-    "title": "Henderson's stunning double as Ross County beat Thistle",
-    "description": "Jay Henderson scores within 18 seconds and adds a second within 10 minutes as bottom side Ross County mark Stuart Kettlewell's return as manager with a victory over second-top Partick Thistle in the Scottish Championship.",
-    "pubDate": "2026-01-09",
-    "image": "",
-    "link": "https://www.bbc.com/sport/videos/c2e1wdvxy22o?at_medium=RSS&at_campaign=rss",
     "source": "BBC Sport"
   },
   {
@@ -1212,15 +1248,6 @@
     "pubDate": "2026-01-09",
     "image": "",
     "link": "https://www.bbc.com/sport/football/articles/c5yv2epjlx7o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport"
-  },
-  {
-    "slug": "itf-to-review-wildcard-entries-after-viral-performance",
-    "title": "ITF to review wildcard entries after viral performance",
-    "description": "The International Tennis Federation says it will review its procedures for awarding wildcards after a female player's \"unacceptable\" performance went viral on social media.",
-    "pubDate": "2026-01-09",
-    "image": "",
-    "link": "https://www.bbc.com/sport/tennis/articles/c62v5pym2emo?at_medium=RSS&at_campaign=rss",
     "source": "BBC Sport"
   },
   {
@@ -1266,15 +1293,6 @@
     "pubDate": "2026-01-09",
     "image": "",
     "link": "https://www.bbc.com/sport/football/articles/c1wz004rz5yo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport"
-  },
-  {
-    "slug": "arsenal-extend-lead-at-top-of-table-after-draw-with-liverpool",
-    "title": "Arsenal extend lead at top of table after draw with Liverpool",
-    "description": "Arsenal miss the chance to move eight points clear at the top of the Premier League after they are held to a frustrating goalless draw by Liverpool.",
-    "pubDate": "2026-01-08",
-    "image": "",
-    "link": "https://www.bbc.com/sport/football/videos/cx2wq1jdzqjo?at_medium=RSS&at_campaign=rss",
     "source": "BBC Sport"
   },
   {
