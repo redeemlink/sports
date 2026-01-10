@@ -15,7 +15,16 @@
     "pubDate": "2026-01-10",
     "image": "",
     "link": "https://www.espn.com/college-football/story/_/id/47566144/indiana-throttles-oregon-clinches-berth-cfp-title-game",
-    "source": "www.espn.com - TOP"
+    "source": "Adam Rittenberg"
+  },
+  {
+    "slug": "wnba-wnbpa-fail-to-reach-new-cba-at-deadline",
+    "title": "WNBA, WNBPA fail to reach new CBA at deadline",
+    "description": "The WNBA and its players' union failed to agree to a new collective bargaining agreement or an extension of the previous one at Friday's 11:59 p.m. ET deadline.",
+    "pubDate": "2026-01-10",
+    "image": "",
+    "link": "https://www.espn.com/wnba/story/_/id/47567019/wnba-cba-deadline-passes-no-deal-talks-underway-fa-moratorium",
+    "source": "Alexa Philippou"
   },
   {
     "slug": "sources-mavs-davis-hand-out-surgery-possible",
@@ -25,15 +34,6 @@
     "image": "",
     "link": "https://www.espn.com/nba/story/_/id/47563316/mavs-anthony-davis-need-surgery-hand-sources-say",
     "source": "Shams Charania and Tim MacMahon"
-  },
-  {
-    "slug": "ole-miss-chambliss-has-waiver-denied-by-ncaa",
-    "title": "Ole Miss' Chambliss has waiver denied by NCAA",
-    "description": "The NCAA has denied Ole Miss quarterback Trinidad Chambliss' waiver for sixth year of eligibility, the NCAA announced Friday afternoon.",
-    "pubDate": "2026-01-10",
-    "image": "",
-    "link": "https://www.espn.com/college-football/story/_/id/47562197/ncaa-denies-ole-miss-qb-chambliss-waiver-6th-year",
-    "source": "Pete Thamel"
   },
   {
     "slug": "sources-koepka-seeking-pga-tour-reinstatement",
@@ -198,12 +198,273 @@
     "source": "BBC Sport"
   },
   {
+    "slug": "indiana-s-atlanta-takeover-shows-why-more-playoff-games-need-to-be-on-campus",
+    "title": "Indiana’s Atlanta takeover shows why more playoff games need to be on campus",
+    "description": "Hoosier Nation's volume and exuberance ought to be the rule at every playoff game, and on-campus games would achieve that.",
+    "pubDate": "2026-01-10",
+    "image": "",
+    "link": "https://sports.yahoo.com/college-football/article/indianas-atlanta-takeover-shows-why-more-playoff-games-need-to-be-on-campus-062308905.html",
+    "source": "Jay Busbee"
+  },
+  {
+    "slug": "chad-baker-mazara-scores-29-to-help-southern-california-beat-minnesota-70-69-in-ot",
+    "title": "Chad Baker-Mazara scores 29 to help Southern California beat Minnesota 70-69 in OT",
+    "description": "Baker-Mazara made 9 of 20 shots from the floor with four 3-pointers and all seven of his free throws for the Trojans.",
+    "pubDate": "2026-01-10",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/chad-baker-mazara-scores-29-062034189.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "do-the-seahawks-play-today-schedule-time-channel-for-next-seattle-nfl-playoff-game",
+    "title": "Do the Seahawks play today? Schedule, time, channel for next Seattle NFL playoff game",
+    "description": "Seattle finds itself on the sidelines during wild-card weekend, having earned a bye week after landing the NFC's No. 1 seed.",
+    "pubDate": "2026-01-10",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/seahawks-play-today-schedule-time-062001034.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "india-bangladesh-tensions-rock-cricket-as-sport-turns-diplomatic-weapon",
+    "title": "India-Bangladesh tensions rock cricket, as sport turns diplomatic weapon",
+    "description": "Indian league dumps Bangladeshi bowler amid bilateral tensions, prompting cricket’s latest political crisis.",
+    "pubDate": "2026-01-10",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/india-bangladesh-tensions-rock-cricket-061704315.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "giannis-antetokounmpo-gets-the-best-of-lebron-james-on-final-play-to-seal-win-for-bucks",
+    "title": "Giannis Antetokounmpo gets the best of LeBron James on final play to seal win for Bucks",
+    "description": "Los Angeles Lakers forward LeBron James has proven to be pretty clutch over the course of his career, but he isn’t perfect, and with the game on the line on Friday night, Giannis Antetokounmpo got the best of him.  In the closing seconds of the matchup between the Los Angeles Lakers and Milwaukee Bu",
+    "pubDate": "2026-01-10",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/giannis-antetokounmpo-gets-best-lebron-061636731.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "manchester-city-vs-exeter-city-latest-city-injury-news-and-predicted-city-starting-eleven",
+    "title": "Manchester City vs Exeter City: Latest City injury news and predicted City starting eleven",
+    "description": "Manchester City begin their FA Cup campaign for the 2025/26 season with a third-round tie at the Etihad Stadium today against Exeter City. Gary Caldwell’s side will be eager to cause a famous upset ...",
+    "pubDate": "2026-01-10",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/manchester-city-vs-exeter-city-061400787.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "giannis-antetokounmpo-39-s-last-minute-block-and-steal-against-lebron-james-leads-bucks-to-win-over-lakers",
+    "title": "Giannis Antetokounmpo&#39;s last-minute block and steal against LeBron James leads Bucks to win over Lakers",
+    "description": "It's the Lakers' first single-digits loss of the season.",
+    "pubDate": "2026-01-10",
+    "image": "",
+    "link": "https://sports.yahoo.com/nba/article/giannis-antetokounmpos-last-minute-block-and-steal-against-lebron-james-leads-bucks-to-win-over-lakers-061102512.html",
+    "source": "Jack Baer"
+  },
+  {
+    "slug": "former-arizona-cardinals-qb-named-new-washington-commanders-oc",
+    "title": "Former Arizona Cardinals QB named new Washington Commanders OC",
+    "description": "Former Cardinals QB is new OC for Washington Commanders",
+    "pubDate": "2026-01-10",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/former-arizona-cardinals-qb-named-060926838.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "dante-moore-39-s-peach-bowl-struggles-could-impact-jets-draft-buzz",
+    "title": "Dante Moore&#39;s Peach Bowl struggles could impact Jets draft buzz",
+    "description": "The Oregon quarterback was outshined by the Heisman Trophy winner.",
+    "pubDate": "2026-01-10",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/dante-moores-peach-bowl-struggles-060827219.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "photos-best-images-from-thunder-39-s-117-116-win-over-grizzlies",
+    "title": "Photos: Best images from Thunder&#39;s 117-116 win over Grizzlies",
+    "description": "The best photos from the Oklahoma City Thunder's 117-116 win over the Memphis Grizzlies.",
+    "pubDate": "2026-01-10",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/photos-best-images-thunders-117-060638300.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "lakers-rally-for-late-lead-but-falter-at-finish-in-loss-to-the-bucks",
+    "title": "Lakers rally for late lead but falter at finish in loss to the Bucks",
+    "description": "Luka Doncic, who had an off shooting night by making only eight of 25 from the field, fouls out and LeBron James, who had 26 points, has a late turnover.",
+    "pubDate": "2026-01-10",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/lakers-rally-lead-falter-finish-060516610.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "vikings-rumors-zero-in-on-breece-hall-brian-flores-landing-spot-paul-allen-s-qb1-prediction",
+    "title": "Vikings Rumors Zero In on Breece Hall, Brian Flores’ Landing Spot, Paul Allen’s QB1 Prediction",
+    "description": "Welcome to the first week of the Minnesota Vikings’ offseason, with the purple team needing to wait eight long months […]",
+    "pubDate": "2026-01-10",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/vikings-rumors-zero-breece-hall-060500094.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "jordan-ott-says-jalen-green-will-immediately-join-the-starting-lineup-when-fully-healthy",
+    "title": "Jordan Ott says Jalen Green will immediately join the starting lineup when fully healthy",
+    "description": "Jalen Green is nearing a return from his hamstring injury, which will improve the Suns further.",
+    "pubDate": "2026-01-10",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/jordan-ott-says-jalen-green-060222321.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "trail-blazers-beat-rockets-111-105-to-extend-winning-streak-to-5",
+    "title": "Trail Blazers beat Rockets 111-105 to extend winning streak to 5",
+    "description": "Toumani Camara scored 25 points and the Portland Trail Blazers extended their winning streak to a season-best five games with a 111-105 victory over the Houston Rockets on Friday night.  Shaedon Sharpe and Deni Avdija each added 20 points for Portland.  Kevin Durant had 30 points and 12 rebounds for",
+    "pubDate": "2026-01-10",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/trail-blazers-beat-rockets-111-060104442.html",
+    "source": "ANNE M. PETERSON"
+  },
+  {
+    "slug": "meet-the-tswa-2025-tennessee-high-school-football-all-state-teams-in-4a-5a-6a",
+    "title": "Meet the TSWA 2025 Tennessee high school football all-state teams in 4A, 5A, 6A",
+    "description": "The Tennessee Sports Writers Association has released its 2025 all-state TSSAA football teams in Class 4A, 5A and 6A.",
+    "pubDate": "2026-01-10",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/meet-tswa-2025-tennessee-high-060016965.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "do-the-broncos-play-today-schedule-time-channel-for-next-denver-nfl-playoff-game",
+    "title": "Do the Broncos play today? Schedule, time, channel for next Denver NFL playoff game",
+    "description": "The Broncos are enjoying the fruits of their labor, getting a weeklong reprieve after earning the AFC's No. 1 seed.",
+    "pubDate": "2026-01-10",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/broncos-play-today-schedule-time-060002087.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "starting-xi-will-sunderland-ring-the-changes-for-everton-cup-tie",
+    "title": "Starting XI: Will Sunderland Ring The Changes For Everton Cup Tie?",
+    "description": "We’re predicting four changes to the starting line up this afternoon…",
+    "pubDate": "2026-01-10",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/starting-xi-sunderland-ring-changes-060000815.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "fan-focus-what-can-sunderland-expect-from-everton-in-the-fa-cup",
+    "title": "Fan Focus: What can Sunderland expect from Everton in the FA Cup?",
+    "description": "Ahead of our FA Cup tie, we spoke to Mike from The Unholy Trinity Everton Podcast, to find out what to expect!",
+    "pubDate": "2026-01-10",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/fan-focus-sunderland-expect-everton-060000108.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "barcelona-s-bench-has-turned-into-a-weapon",
+    "title": "Barcelona’s bench has turned into a weapon",
+    "description": "Depth returns at the right moment as competition reshapes matches and raises standards",
+    "pubDate": "2026-01-10",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/barcelona-bench-turned-weapon-060000663.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "on-this-day-10th-jan-2015-liverpool-take-all-three-points-vs-ten-man-sunderland",
+    "title": "On This Day (10th Jan 2015): Liverpool Take All Three Points vs Ten Man Sunderland",
+    "description": "A toothless Sunderland side failed to fire against Brendan Rodgers’ Liverpool at the Stadium of Light",
+    "pubDate": "2026-01-10",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/day-10th-jan-2015-liverpool-060000789.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "score-predictions-fa-cup-round-3-can-safc-topple-the-toffees",
+    "title": "Score Predictions: FA Cup Round 3 – Can SAFC Topple The Toffees?",
+    "description": "Everton Away, FA Cup Round 3 — how do our writers see this one going?",
+    "pubDate": "2026-01-10",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/score-predictions-fa-cup-round-060000258.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "match-preview-everton-v-sunderland-up-for-the-cup",
+    "title": "Match Preview: Everton v Sunderland — Up For The Cup?",
+    "description": "The Lads kick-off our FA Cup campaign with a trip to Everton!",
+    "pubDate": "2026-01-10",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/match-preview-everton-v-sunderland-060000600.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "darren-fletcher-united-mulling-surprise-option",
+    "title": "Darren Fletcher: United mulling surprise option",
+    "description": "Manchester United’s first game of the post-Ruben Amorim era ended in a disappointing 2-2 draw against relegation candidates Burnley.Despite only securing a point, there was plenty to admire about th...",
+    "pubDate": "2026-01-10",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/darren-fletcher-united-mulling-surprise-060000551.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "enzo-le-fee-will-repay-sunderland-after-brentford-blunder",
+    "title": "Enzo Le Fee Will Repay Sunderland After Brentford Blunder",
+    "description": "The little magician has endured his latest setback, and this one will require an even bigger reaction, but I’m confident that Enzo will come back fighting.",
+    "pubDate": "2026-01-10",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/enzo-le-fee-repay-sunderland-060000449.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "washburn-rural-boys-soar-past-hayden-for-win",
+    "title": "Washburn Rural boys soar past Hayden for win",
+    "description": "TOPEKA (KSNT) – Washburn Rural cruised past Hayden for a 79-62 win in front of the Junior Blues home crowd. The Junior Blues had four players shoot in the double-digits on Friday. Brooks Ballard led the way with 24 points, John Hoytal with 16, Simon Rowley with 11, and Draden Chooncharoen with 10. F",
+    "pubDate": "2026-01-10",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/washburn-rural-boys-soar-past-055749051.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "oregon-feels-pain-of-another-cfp-blowout-loss-in-peach-bowl-39-moment-is-going-to-hurt-39",
+    "title": "Oregon feels pain of another CFP blowout loss in Peach Bowl: &#39;Moment is going to hurt&#39;",
+    "description": "For the second year in a row, Oregon was blown out in the College Football Playoff when it fell to Indiana. Where do the Ducks go from here.",
+    "pubDate": "2026-01-10",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/oregon-feels-pain-another-cfp-055716803.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "steph-curry-has-5-word-response-to-warriors-kings-rivalry-question",
+    "title": "Steph Curry has 5-word response to Warriors-Kings rivalry question",
+    "description": "Steph Curry doesn't believe the Golden State Warriors and the Sacramento Kings are truly in a rivalry.",
+    "pubDate": "2026-01-10",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/steph-curry-5-word-response-055604749.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "high-school-boys-basketball-top-ranked-timpview-doubles-up-orem-in-dominant-region-win",
+    "title": "High school boys basketball: Top-ranked Timpview doubles up Orem in dominant region win",
+    "description": "High school boys basketball: Top-ranked Timpview doubles-up Orem in dominant region win",
+    "pubDate": "2026-01-10",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/high-school-boys-basketball-top-055238117.html",
+    "source": "Google News"
+  },
+  {
     "slug": "tari-eason-sprains-right-ankle-in-houston-s-second-loss-at-portland",
     "title": "Tari Eason sprains right ankle in Houston’s second loss at Portland",
     "description": "The Rockets (22-13) lost for a second straight time at Portland, and Tari Eason was lost to a sprained right ankle in the process.",
     "pubDate": "2026-01-10",
     "image": "",
     "link": "https://sports.yahoo.com/articles/tari-eason-sprains-ankle-houston-055225076.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "they-gonna-take-the-belt-from-michael-irvin-indiana-fans-warn-miami-after-crushing-oregon-in-semis",
+    "title": "“They Gonna Take the Belt From Michael Irvin”: Indiana Fans Warn Miami After Crushing Oregon in Semis",
+    "description": "Indiana left no doubt Friday night, rolling No. 5 Oregon 56–22 in the College Football Playoff semifinal at the Peach Bowl to move within one win of a national title.",
+    "pubDate": "2026-01-10",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/gonna-belt-michael-irvin-indiana-055220469.html",
     "source": "Google News"
   },
   {
@@ -214,6 +475,15 @@
     "image": "",
     "link": "https://sports.yahoo.com/college-football/article/after-indianas-brutal-semifinal-beatdown-of-oregon-can-miami-stop-this-freight-train-055210483.html",
     "source": "Dan Wolken"
+  },
+  {
+    "slug": "full-court-press-1-9-26",
+    "title": "Full Court Press (1/9/26)",
+    "description": "NORTHEAST KANSAS (KSNT)- Another fun night of high school basketball in Northeast Kansas with many teams beginning conference play. Please send scores to kole.emplit@ksnt.com and sydney.clark@ksnt.com. Editor’s note: Due to a technical error, the video will be provided at a later time. Girls Hayden",
+    "pubDate": "2026-01-10",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/full-court-press-1-9-055053110.html",
+    "source": "Google News"
   },
   {
     "slug": "notable-quotes-from-dan-lanning-39-s-presser-after-loss-to-indiana-in-cfp",
@@ -252,6 +522,15 @@
     "source": "JANIE McCAULEY"
   },
   {
+    "slug": "christian-collins-39-late-heroics-lead-st-john-bosco-to-double-ot-win-over-santa-margarita",
+    "title": "Christian Collins&#39; late heroics lead St. John Bosco to double-OT win over Santa Margarita",
+    "description": "He scores the tying basket in the final seconds of regulation and clinches the victory with six seconds left in the second overtime period of a key Trinity League game on Friday night.",
+    "pubDate": "2026-01-10",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/christian-collins-heroics-lead-st-054416172.html",
+    "source": "Google News"
+  },
+  {
     "slug": "lincoln-39-s-alexander-gets-win-no-992-against-old-rival-lanphier",
     "title": "Lincoln&#39;s Alexander gets win No. 992 against old rival Lanphier",
     "description": "Lincoln boys basketball coach Neil Alexander is on the path to 1,000 victories, and he got one step closer Friday at Lanphier.",
@@ -270,12 +549,39 @@
     "source": "Google News"
   },
   {
+    "slug": "hayden-girl-s-basketball-secure-win-over-washburn-rural",
+    "title": "Hayden girl’s basketball secure win over Washburn Rural",
+    "description": "TOPEKA (KSNT) – The Hayden Wildcats defeated Washburn Rural 38-35. A ranked matchup inside the Junior Blues house, Hayden sits at number seven in 4A, while Washburn Rural comes in at 10. Junior Blues held a one point lead at the half, 18-17. The Wildcats would claw there way back with the help of Ha",
+    "pubDate": "2026-01-10",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/hayden-girl-basketball-secure-win-054136889.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "cc-hockey-beats-no-4-north-dakota-3-2-in-ot",
+    "title": "CC hockey beats No. 4 North Dakota 3-2 in OT",
+    "description": "(COLORADO SPRINGS) — Colorado College hockey (9-9-3) needed a statement win and delivered in overtime 3-2 over No. 4 North Dakota at Ed Robson Arena on Friday night. The Tigers Philipe Blais-Savoie scored the game-winning goal. Colorado College led the game 2-1 until the final minute of play when No",
+    "pubDate": "2026-01-10",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/cc-hockey-beats-no-4-054045690.html",
+    "source": "Google News"
+  },
+  {
     "slug": "brandon-rechsteiner-carey-booth-help-colorado-state-rally-late-to-beat-unlv-70-62",
     "title": "Brandon Rechsteiner, Carey Booth help Colorado State rally late to beat UNLV 70-62",
     "description": "",
     "pubDate": "2026-01-10",
     "image": "",
     "link": "https://sports.yahoo.com/articles/brandon-rechsteiner-carey-booth-help-054007582.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "girls-hoops-hudson-wins-4th-straight-onsted-wins-sand-creek-falls",
+    "title": "Girls Hoops — Hudson wins 4th straight; Onsted wins, Sand Creek falls",
+    "description": "In girls basketball recaps we see Hudson win its fourth straight game while Onsted also gets a win; Sand Creek falls",
+    "pubDate": "2026-01-10",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/girls-hoops-hudson-wins-4th-053833375.html",
     "source": "Google News"
   },
   {
@@ -306,6 +612,15 @@
     "source": "Jack Baer"
   },
   {
+    "slug": "liberty-christian-academy-announces-retirement-of-legendary-head-football-coach-frank-rocco",
+    "title": "Liberty Christian Academy Announces Retirement of Legendary Head Football Coach Frank Rocco",
+    "description": "LYNCHBURG, Va. (WFXR)— Liberty Christian Academy (LCA) Thursday announced that longtime Head Football Coach Frank Rocco will retire at the conclusion of the 2025–2026 school year, bringing to a close one of the most successful coaching tenures in the state’s history. Coach Rocco retires as the winni",
+    "pubDate": "2026-01-10",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/liberty-christian-academy-announces-retirement-053203732.html",
+    "source": "Google News"
+  },
+  {
     "slug": "colorado-state-men-39-s-basketball-team-makes-key-plays-late-to-beat-unlv",
     "title": "Colorado State men&#39;s basketball team makes key plays late to beat UNLV",
     "description": "The Colorado State men's basketball team made the key plays late to defeat UNLV at Moby Arena.",
@@ -315,336 +630,21 @@
     "source": "Google News"
   },
   {
-    "slug": "what-time-are-the-nfl-games-today-tv-schedule-channels-live-streams-for-saturday-wild-card-playoff-doubleheader",
-    "title": "What time are the NFL games today? TV schedule, channels, live streams for Saturday wild-card playoff doubleheader",
-    "description": "All you need to know to watch Saturday's playoff doubleheader.",
+    "slug": "curt-cignetti-goes-completely-opposite-to-mario-cristobal-after-peach-bowl-victory",
+    "title": "Curt Cignetti Goes Completely Opposite to Mario Cristobal After Peach Bowl Victory",
+    "description": "After beating Oregon 56–22 in the Peach Bowl semifinal, Curt Cignetti’s Indiana is set to face Miami in the National Title Game. But at this moment, instead of talking about preparation, Cignetti gives off a different vibe.",
     "pubDate": "2026-01-10",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/time-nfl-games-today-tv-053001920.html",
+    "link": "https://sports.yahoo.com/articles/curt-cignetti-goes-completely-opposite-053032816.html",
     "source": "Google News"
   },
   {
-    "slug": "8220-high-five-liam-delap-8221-8211-charlton-coach-8217-s-hilarious-quip-about-his-team-8217-s-intentions-today",
-    "title": "&#8220;High-five Liam Delap&#8221; &#8211; Charlton coach&#8217;s hilarious quip about his team&#8217;s intentions today",
-    "description": "Chelsea have a break from Premier League action tomorrow when they take on Charlton in the FA Cup third round.The Addicks’ manager Nathan Jones has fired up his men ahead of the game, claiming their...",
+    "slug": "scarecrows-three-game-win-streak-snapped-on-the-road",
+    "title": "Scarecrows’ three-game win streak snapped on the road",
+    "description": "BILOXI, MS (KSNT)- A thriller on the road. The Topeka Scarecrows lost to the Biloxi Breakers 8-5 on Friday night in a shootout. Biloxi scored five goals in the first period to put Topeka in a hole the rest of the game. TJ Sneath scored two goals for Topeka, while Cory Checco, Scott Coash, and […]",
     "pubDate": "2026-01-10",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/high-five-liam-delap-charlton-053000567.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "ole-gunnar-solskjaer-set-for-final-discussion-with-ineos",
-    "title": "Ole Gunnar Solskjaer set for final discussion with INEOS",
-    "description": "Manchester United are ramping up their search for the caretaker manager position following Ruben Amorim’s brutal sack.Darren Fletcher was at the helm for United’s game against Burnley, and even th...",
-    "pubDate": "2026-01-10",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/ole-gunnar-solskjaer-set-final-053000171.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "mendoza-indiana-oust-oregon-to-reach-first-college-football-finale",
-    "title": "Mendoza, Indiana oust Oregon to reach first college football finale",
-    "description": "Indiana defenders feasted on early Oregon turnovers to build a big lead they never surrendered en route to a 56-22 thrashing in Friday's Peach Bowl.",
-    "pubDate": "2026-01-10",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/mendoza-indiana-oust-oregon-reach-043435561.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "jaren-jackson-jr-on-ja-morant-after-trade-talk-39-he-changed-my-life-39",
-    "title": "Jaren Jackson Jr. on Ja Morant after trade talk, &#39;He changed my life&#39;",
-    "description": "Here's what Grizzlies' players said about trade speculation regarding Ja Morant.",
-    "pubDate": "2026-01-10",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/jaren-jackson-jr-ja-morant-052722782.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "broncos-39-nik-bonitto-says-myles-garrett-not-best-pass-rusher-in-nfl",
-    "title": "Broncos&#39; Nik Bonitto says Myles Garrett not best pass rusher in NFL",
-    "description": "The Denver linebacker is instead supporting a legend in that part of the country.",
-    "pubDate": "2026-01-10",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/broncos-nik-bonitto-says-myles-052640455.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "dante-moore-on-going-pro-or-returning-to-oregon-39-i-don-39-t-know-39",
-    "title": "Dante Moore on going pro or returning to Oregon: &#39;I don&#39;t know&#39;",
-    "description": "It appears that Oregon quarterback Dante Moore is still uncertain about his future following the Ducks' 56-22 loss in the CFP Semifinals.",
-    "pubDate": "2026-01-10",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/dante-moore-going-pro-returning-052323696.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "kings-handled-soundly-as-spiraling-jets-snap-11-game-skid",
-    "title": "Kings handled soundly as spiraling Jets snap 11-game skid",
-    "description": "Los Angeles allowed a free-falling Winnipeg squad to find its first victory since mid-December.",
-    "pubDate": "2026-01-10",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/kings-handled-soundly-spiraling-jets-052024200.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "college-football-analyst-bashes-sec-in-defense-of-big-ten-as-indiana-clinches-title-berth",
-    "title": "College football analyst bashes SEC in defense of Big Ten as Indiana clinches title berth",
-    "description": "The Indiana Hoosiers dominated the Oregon Ducks in Friday night's Peach Bowl to advance to the national championship against the Miami Hurricanes. Once again, the SEC won't be represented in the title game as the plot thickens, whether the Big Ten is, in fact, the better conference.",
-    "pubDate": "2026-01-10",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/college-football-analyst-bashes-sec-051830858.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "owensboro-catholic-girls-roll-in-road-win-at-owensboro",
-    "title": "Owensboro Catholic girls roll in road win at Owensboro",
-    "description": "OWENSBORO, Ky. (WEHT) – The Aces dominate the Red Devils and secure a 68-33 win. They will be back in action against Our Lady of Providence tomorrow, tip-off is at 6 p.m.",
-    "pubDate": "2026-01-10",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/owensboro-catholic-girls-roll-road-051801638.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "drew-mcintyre-shares-first-photos-as-new-undisputed-wwe-champion-following-smackdown",
-    "title": "Drew McIntyre Shares First Photos As New Undisputed WWE Champion Following SmackDown",
-    "description": "Drew McIntyre has been the Undisputed WWE Champion for less than a day, and he is already gloating on his wildly popular social media accounts.",
-    "pubDate": "2026-01-10",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/drew-mcintyre-shares-first-photos-051713231.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "full-court-friday-01-09-26",
-    "title": "Full Court Friday (01/09/26)",
-    "description": "CENTRAL ILLINOIS (WCIA) – Highlights and scores from Friday night’s local high school basketball in Central Illinois. BOYS Cerro Gordo-Bement 57, Arthur-Lovington-Atwood-Hammond 40 Eureka 62, Gibson City-Melvin-Sibley 52 Peoria High 75, Danville 43 LeRoy 62, Paxton-Buckley-Loda 43 Hoopeston 61, Milf",
-    "pubDate": "2026-01-10",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/full-court-friday-01-09-051706245.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "39-he-is-very-special-39-76ers-39-paul-george-praises-rookie-vj-edgecombe",
-    "title": "&#39;He is very special&#39;: 76ers&#39; Paul George praises rookie VJ Edgecombe",
-    "description": "VJ Edgecombe has emerged as a significant contributor this season for the 76ers, and his efforts haven't gone unnoticed by teammate Paul George.",
-    "pubDate": "2026-01-10",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/very-special-76ers-paul-george-051630573.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "rose-bowl-mvp-pat-coogan-has-full-circle-moment-in-indiana-39-s-cfp-semifinal-rout-of-oregon-in-atlanta",
-    "title": "Rose Bowl MVP Pat Coogan has full circle moment in Indiana&#39;s CFP semifinal rout of Oregon in Atlanta",
-    "description": "A year ago, Indiana's starting center went through a low-point in his football career. In the same stadium 12 months later, he's on top of the world.",
-    "pubDate": "2026-01-10",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/rose-bowl-mvp-pat-coogan-051609430.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "jaylen-brown-admits-celtics-are-progressing-faster-than-even-he-predicted-after-raptors-win",
-    "title": "Jaylen Brown admits Celtics are progressing faster than even he predicted after Raptors win",
-    "description": "Boston Celtics star Jaylen Brown always believed in his team, but even he's surprised by their level of success so far.",
-    "pubDate": "2026-01-10",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/jaylen-brown-admits-celtics-progressing-051452516.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "kevin-durant-moves-past-wilt-chamberlain-on-nba-all-time-scoring-list",
-    "title": "Kevin Durant moves past Wilt Chamberlain on NBA all-time scoring list",
-    "description": "Houston Rockets star Kevin Durant moved into seventh place on the NBA’s all-time scoring list on Friday night.",
-    "pubDate": "2026-01-10",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/kevin-durant-moves-past-wilt-051451991.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "nba-fans-react-to-kevin-durant-passing-wilt-on-nba-scoring-list",
-    "title": "NBA fans react to Kevin Durant passing Wilt on NBA scoring list",
-    "description": "Kevin Durant has moved past Wilt Chamberlain on the NBA's all-time scoring list.",
-    "pubDate": "2026-01-10",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/nba-fans-react-kevin-durant-051256997.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "jones-scores-34-points-to-lead-ferrum-men-past-barton",
-    "title": "Jones Scores 34 Points to Lead Ferrum men Past Barton",
-    "description": "FERRUM, Va. (WFXR) — Ferrum College rallied to post a comeback win over Barton College in Conference Carolinas men’s basketball action, winning 79-78 Wednesday night at Swartz Gym. Senior guard Gerren Jones rose to the occasion, scoring 34 points to lead the Panthers back from an 18-point first half",
-    "pubDate": "2026-01-10",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/jones-scores-34-points-lead-051255108.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "probable-formation-roma-vs-sassuolo",
-    "title": "Probable Formation: Roma vs Sassuolo",
-    "description": "Gasperini will have to deal with a large number of absences when Roma hosts Sassuolo on Saturday.",
-    "pubDate": "2026-01-10",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/probable-formation-roma-vs-sassuolo-051220652.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "prep-sports-recap-for-jan-9-2026",
-    "title": "Prep sports recap for Jan. 9, 2026",
-    "description": "PEORIA, Ill. (WMBD/WYZZ) — Cole Dubois scored 22 points and Quinton Kitt added 20 as East Peoria beat visiting Metamora, 69-54, in a battle of state-ranked teams in the Mid-Illini Conference on Friday night. East Peoria, ranked tenth in the first class 3A state poll of the new year, had a 29-24 half",
-    "pubDate": "2026-01-10",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/prep-sports-recap-jan-9-051044052.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "nfl-games-on-tv-today-full-schedule-times-channels-live-streams-to-watch-wild-card-weekend-action",
-    "title": "NFL games on TV today: Full schedule, times, channels, live streams to watch wild card weekend action",
-    "description": "All you need to know to watch the NFL's wild-Card weekend games.",
-    "pubDate": "2026-01-10",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/nfl-games-tv-today-full-051004834.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "indiana-defensive-stats-vs-oregon-hoosiers-pass-rush-manhandles-ducks-for-second-time-this-season",
-    "title": "Indiana defensive stats vs. Oregon: Hoosiers pass rush manhandles Ducks for second time this season",
-    "description": "Indiana's defense has had its way with the Ducks on two separate occasions this season. The second came on one of college football's biggest stages.",
-    "pubDate": "2026-01-10",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/indiana-defensive-stats-vs-oregon-050933290.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "kevin-durant-passes-wilt-chamberlain-for-7th-on-the-nba-39-s-career-scoring-list",
-    "title": "Kevin Durant passes Wilt Chamberlain for 7th on the NBA&#39;s career scoring list",
-    "description": "Kevin Durant passed Wilt Chamberlain for seventh on the NBA's career scoring list when he hit a 3-pointer in the third quarter of the Houston Rockets' game against the Portland Trail Blazers on Friday night.  Durant needed 15 points going into the game to eclipse Chamberlain, who scored 31,419 point",
-    "pubDate": "2026-01-10",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/kevin-durant-passes-wilt-chamberlain-050851787.html",
-    "source": "ANNE M. PETERSON"
-  },
-  {
-    "slug": "owensboro-catholic-boys-complete-the-rivalry-sweep-against-red-devils",
-    "title": "Owensboro Catholic boys complete the rivalry sweep against Red Devils",
-    "description": "OWENSBORO, Ky. (WEHT) – The Owensboro Catholic boys took the floor after their girls’ team and finished off the sweep against Owensboro Friday night. They take home a 68-35 victory. The Aces go on the road to Grayson Co. next Monday, tip-off is at 7:00 p.m.",
-    "pubDate": "2026-01-10",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/owensboro-catholic-boys-complete-rivalry-050825214.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "ticket-prices-soar-for-indiana-miami-college-football-playoff-national-championship-game",
-    "title": "Ticket prices soar for Indiana-Miami College Football Playoff national championship game",
-    "description": "The good news: There are tickets out there for the Indiana-Miami matchup in the College Football Playoff national championship game.  In the moments after Indiana finished rolling past Oregon on Friday to win the Peach Bowl 56-22, clinching a spot in the CFP title game on Jan. 19 against Miami — on",
-    "pubDate": "2026-01-10",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/ticket-prices-soar-indiana-miami-050812233.html",
-    "source": "TIM REYNOLDS"
-  },
-  {
-    "slug": "jones-leads-radford-tying-career-high-in-points-for-dominant-win-over-presbyterian",
-    "title": "Jones Leads Radford Tying Career High in Points for Dominant Win Over Presbyterian",
-    "description": "RADFORD, Va. (WFXR) – Radford earned a dominant Big South victory Wednesday night over Presbyterian 80-61 thanks to Del Jones tying his career high in points with 27 on 10 made shots from the field.",
-    "pubDate": "2026-01-10",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/jones-leads-radford-tying-career-050730659.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "booker-scores-31-points-brooks-adds-27-as-suns-hold-on-to-beat-knicks-112-107",
-    "title": "Booker scores 31 points, Brooks adds 27 as Suns hold on to beat Knicks 112-107",
-    "description": "Devin Booker scored 31 points and Dillon Brooks added 27 as the Phoenix Suns beat the New York Knicks 112-107 on Friday night.  Royce O'Neale had 12 points on 4-for-6 shooting on 3-pointers and Mark Williams 10 to help Phoenix win for the fourth time in five games.  Brooks shot 8 for 15 from the fie",
-    "pubDate": "2026-01-10",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/booker-scores-31-points-brooks-050646351.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "how-sean-payton-is-navigating-a-busy-coaching-cycle-for-his-assistants",
-    "title": "How Sean Payton is navigating a busy coaching cycle for his assistants",
-    "description": "ENGLEWOOD, Colo. — The Denver Broncos‘ coaching staff is in high demand. “I’d rather be worrying about navigating those issues,” head coach Sean Payton said on Friday. “It means we’ve done...",
-    "pubDate": "2026-01-10",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/sean-payton-navigating-busy-coaching-050534100.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "tour-of-texoma-hoops-high-school-basketball-highlights-and-scores-january-9-2026",
-    "title": "Tour of Texoma hoops: High school basketball highlights and scores – January 9, 2026",
-    "description": "Tobin McDuff brings you a tour of Texoma high school hoops from Friday January 9, 2026. BBB | Iowa Park vs (19)City View | Lady Mustangs def. Lady Hawks 67-58 BBB | Bowie vs (23)Holliday | Eagles def. Jackrabbits 72-27 BBB | Benjamin vs (9)Christ Academy | Mustangs def. Warriors 64-27 BBB | Knox Cit",
-    "pubDate": "2026-01-10",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/tour-texoma-hoops-high-school-050520472.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "stars-from-day-3-of-teurlings-boys-hoops-22nd-annual-roundball-classic",
-    "title": "Stars from Day 3 of Teurlings boys hoops 22nd Annual Roundball Classic",
-    "description": "The third day of Teurlings Catholic boys basketball's 22nd Annual Rebel Roundball Classic is in the books. Here are scores and standout players.",
-    "pubDate": "2026-01-10",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/stars-day-3-teurlings-boys-050352149.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "salem-native-peyton-lewis-to-transfer-from-tennessee-to-virginia",
-    "title": "Salem native Peyton Lewis to transfer from Tennessee to Virginia",
-    "description": "SALEM, Va. (WFXR) — One of our local high school football stars is returning to the commonwealth. according to On3.com, former Salem High School running back and former WFXR Hardee’s Friday Night Blitz player of the week…Peyton Lewis is leaving Tennessee and taking his talents to the University of V",
-    "pubDate": "2026-01-10",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/salem-native-peyton-lewis-transfer-050317006.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "home-team-friday-after-the-buzzer-week-1",
-    "title": "Home Team Friday After the Buzzer: Week 1",
-    "description": "HENDERSON, Ky (WEHT) – If you missed out on our first Home Team Friday After the Buzzer show of 2026, you can watch the entire program on this web page here. Don’t miss HTF After the Buzzer after Eyewitness News at 10 p.m. each week. Part 1: Part 2:",
-    "pubDate": "2026-01-10",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/home-team-friday-buzzer-week-050205479.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "brad-womack-named-liberty-high-school-head-football-coach",
-    "title": "Brad Womack Named Liberty High School Head Football Coach",
-    "description": "BEDFORD, Va. (WFXR) — Liberty High School in Bedford announced Brad Womack has been promoted to the position of head football coach. As interim head coach this past season, Coach Womack led the Minutemen to a 3–7 record and helped secure the team’s first win in 37 games. Under his leadership, the Li",
-    "pubDate": "2026-01-10",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/brad-womack-named-liberty-high-050100146.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "worth-every-penny-anthony-davis-gets-strong-backing-on-275m-extension-despite-injury-concerns",
-    "title": "“Worth Every Penny”: Anthony Davis Gets Strong Backing on $275M Extension Despite Injury Concerns",
-    "description": "At this point, you have to feel bad for Anthony Davis. It has been almost a year since he landed in Dallas, after the bewildering trade that Nico Harrison pulled.",
-    "pubDate": "2026-01-10",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/worth-every-penny-anthony-davis-050047536.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "8220-no-vision-8221-8211-elite-former-chelsea-midfielder-slams-disgraceful-project-after-it-consumes-another-coach",
-    "title": "&#8220;No vision&#8221; &#8211; Elite former Chelsea midfielder slams disgraceful project after it consumes another coach",
-    "description": "Emmanuel Petit was on radio station TalkSport today talking about Chelsea’s project and the removal of Enzo Maresca.“There’s no vision, they cannot see the future of it. It’s only based on mon...",
-    "pubDate": "2026-01-10",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/no-vision-elite-former-chelsea-050000229.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "ap-top-olympic-news-at-12-25-a-m-est",
-    "title": "AP Top Olympic News at 12:25 a.m. EST",
-    "description": "",
-    "pubDate": "2026-01-10",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/ap-top-olympic-news-12-050000286.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "yankees-news-david-cone-departing-espn-booth",
-    "title": "Yankees news: David Cone departing ESPN booth",
-    "description": "Cone leaving ESPN broadcasts; Arbitration process in the spotlight, at least once more; Yanks bring back former farmhand Kaleb Ort.",
-    "pubDate": "2026-01-10",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/yankees-news-david-cone-departing-050000038.html",
+    "link": "https://sports.yahoo.com/articles/scarecrows-three-game-win-streak-053021084.html",
     "source": "Google News"
   },
   {
@@ -990,6 +990,15 @@
     "source": "BBC Sport"
   },
   {
+    "slug": "arsenal-monitoring-livramento-saturday-s-gossip",
+    "title": "Arsenal monitoring Livramento - Saturday's gossip",
+    "description": "Arsenal monitoring Tino Livramento as a potential summer signing, Aston Villa exploring a deal for Conor Gallagher, Dominik Szoboszlai close to agreeing contract extension at Liverpool, plus more.",
+    "pubDate": "2026-01-09",
+    "image": "",
+    "link": "https://www.bbc.com/sport/football/articles/c5yv2epjlx7o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport"
+  },
+  {
     "slug": "why-texans-could-go-deep-into-nfl-play-offs-wildcard-weekend-predictions",
     "title": "Why Texans could go deep into NFL play-offs - Wildcard Weekend predictions",
     "description": "NFL analyst Phoebe Schecter gives her predictions as this season's play-offs begin with Wildcard Weekend - and you can pick your winners too.",
@@ -1005,15 +1014,6 @@
     "pubDate": "2026-01-09",
     "image": "",
     "link": "https://www.bbc.com/sport/cricket/articles/cd6w5ex3pgeo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport"
-  },
-  {
-    "slug": "arsenal-monitoring-livramento-saturday-s-gossip",
-    "title": "Arsenal monitoring Livramento - Saturday's gossip",
-    "description": "Arsenal monitoring Tino Livramento as a potential summer signing, Aston Villa exploring a deal for Conor Gallagher, Dominik Szoboszlai close to agreeing contract extension at Liverpool, plus more.",
-    "pubDate": "2026-01-09",
-    "image": "",
-    "link": "https://www.bbc.com/sport/football/articles/c5yv2epjlx7o?at_medium=RSS&at_campaign=rss",
     "source": "BBC Sport"
   },
   {
