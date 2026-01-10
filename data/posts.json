@@ -144,24 +144,6 @@
     "source": "ESPN"
   },
   {
-    "slug": "how-liam-coen-got-the-jaguars-to-the-playoffs-it-makes-us-want-to-fight-for-him",
-    "title": "How Liam Coen got the Jaguars to the playoffs: 'It makes us want to fight for him'",
-    "description": "The rookie head coach rebuilt the culture in Jacksonville. Now they'll face the Bills on Sunday.",
-    "pubDate": "2026-01-10",
-    "image": "",
-    "link": "https://www.espn.com/nfl/story/_/id/47518705/nfl-playoffs-jacksonville-jaguars-coach-liam-coen-coach-year-buffalo-bills",
-    "source": "Michael DiRocco"
-  },
-  {
-    "slug": "nfl-s-best-qb-room-how-mac-jones-and-brock-purdy-helped-each-other-to-the-playoffs",
-    "title": "NFL's best QB room? How Mac Jones and Brock Purdy helped each other to the playoffs",
-    "description": "San Francisco will face Philadelphia on Sunday in part because of a strong bond between the duo.",
-    "pubDate": "2026-01-10",
-    "image": "",
-    "link": "https://www.espn.com/nfl/story/_/id/47516574/san-francisco-49ers-qb-brock-purdy-mac-jones-future-nfc-playoffs-eagles",
-    "source": "Nick Wagoner"
-  },
-  {
     "slug": "what-bryce-young-s-late-game-magic-means-for-panthers-postseason-nothing-really-fazes-him",
     "title": "What Bryce Young's late-game magic means for Panthers' postseason: 'Nothing really fazes him'",
     "description": "Young makes his NFL playoff debut Saturday. Will he shake off his inconsistencies and shine?",
@@ -178,6 +160,24 @@
     "image": "",
     "link": "https://www.espn.com/nfl/story/_/id/47502209/los-angeles-rams-quarterback-matthew-stafford-leadership-huddle-playoffs",
     "source": "Sarah Barshop"
+  },
+  {
+    "slug": "how-liam-coen-got-the-jaguars-to-the-playoffs-it-makes-us-want-to-fight-for-him",
+    "title": "How Liam Coen got the Jaguars to the playoffs: 'It makes us want to fight for him'",
+    "description": "The rookie head coach rebuilt the culture in Jacksonville. Now they'll face the Bills on Sunday.",
+    "pubDate": "2026-01-10",
+    "image": "",
+    "link": "https://www.espn.com/nfl/story/_/id/47518705/nfl-playoffs-jacksonville-jaguars-coach-liam-coen-coach-year-buffalo-bills",
+    "source": "Michael DiRocco"
+  },
+  {
+    "slug": "nfl-s-best-qb-room-how-mac-jones-and-brock-purdy-helped-each-other-to-the-playoffs",
+    "title": "NFL's best QB room? How Mac Jones and Brock Purdy helped each other to the playoffs",
+    "description": "San Francisco will face Philadelphia on Sunday in part because of a strong bond between the duo.",
+    "pubDate": "2026-01-10",
+    "image": "",
+    "link": "https://www.espn.com/nfl/story/_/id/47516574/san-francisco-49ers-qb-brock-purdy-mac-jones-future-nfc-playoffs-eagles",
+    "source": "Nick Wagoner"
   },
   {
     "slug": "not-sure-why-they-felt-the-need-nba-execs-on-the-trae-deal-and-trade-season-s-next-move",
@@ -216,15 +216,6 @@
     "source": "Charlie Creme"
   },
   {
-    "slug": "jaguars-all-teal-panthers-all-black-lead-nfl-wild-card-weekend-uniforms",
-    "title": "Jaguars' all teal, Panthers' all black lead NFL wild-card weekend uniforms",
-    "description": "The NFL's wild-card round kicks off Saturday with multiple teams opting for traditional uniform combinations.",
-    "pubDate": "2026-01-10",
-    "image": "",
-    "link": "https://www.espn.com/nfl/story/_/id/47541798/nfl-2025-wild-card-uniforms",
-    "source": "Anthony Gharib"
-  },
-  {
     "slug": "the-inside-story-of-the-bears-good-better-best-craze",
     "title": "The inside story of the Bears' 'Good, better, best!' craze",
     "description": "After each win, Ben Johnson leads the Bears in a chant they hope to keep alive after Saturday night's game vs. the Packers.",
@@ -243,13 +234,13 @@
     "source": "Rob Demovsky"
   },
   {
-    "slug": "ranking-the-best-players-in-the-college-football-transfer-portal",
-    "title": "Ranking the best players in the college football transfer portal",
-    "description": "The transfer portal officially opened Jan. 2 and we're ranking the best of the best.",
+    "slug": "jaguars-all-teal-panthers-all-black-lead-nfl-wild-card-weekend-uniforms",
+    "title": "Jaguars' all teal, Panthers' all black lead NFL wild-card weekend uniforms",
+    "description": "The NFL's wild-card round kicks off Saturday with multiple teams opting for traditional uniform combinations.",
     "pubDate": "2026-01-10",
     "image": "",
-    "link": "https://www.espn.com/college-football/story/_/id/47467021/2026-ncaa-football-transfer-portal-best-players",
-    "source": "Max Olson"
+    "link": "https://www.espn.com/nfl/story/_/id/47541798/nfl-2025-wild-card-uniforms",
+    "source": "Anthony Gharib"
   },
   {
     "slug": "supercopa-clasico-preview-predictions-are-barcelona-favorites-vs-real-madrid",
@@ -277,6 +268,15 @@
     "image": "",
     "link": "https://www.espn.com/soccer/story/_/id/47567745/transfer-rumors-news-arsenal-newcastle-united-tino-livramento",
     "source": "ESPN"
+  },
+  {
+    "slug": "ranking-the-best-players-in-the-college-football-transfer-portal",
+    "title": "Ranking the best players in the college football transfer portal",
+    "description": "The transfer portal officially opened Jan. 2 and we're ranking the best of the best.",
+    "pubDate": "2026-01-10",
+    "image": "",
+    "link": "https://www.espn.com/college-football/story/_/id/47467021/2026-ncaa-football-transfer-portal-best-players",
+    "source": "Max Olson"
   },
   {
     "slug": "wnba-cba-q-a-nneka-ogwumike-napheesa-collier-on-standstill",
