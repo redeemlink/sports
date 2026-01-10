@@ -171,24 +171,6 @@
     "source": "Sarah Barshop"
   },
   {
-    "slug": "nhl-power-rankings-new-1-32-poll-each-team-s-olympic-players",
-    "title": "NHL Power Rankings: New 1-32 poll, each team's Olympic players",
-    "description": "The Lightning are up to No. 2 -- and are tops in players on Olympic rosters. Here's who each team will send.",
-    "pubDate": "2026-01-10",
-    "image": "",
-    "link": "https://www.espn.com/nhl/story/_/id/47551372/nhl-power-rankings-2025-26-best-teams-standings-best-stats-projections-pace-olympics-rosters",
-    "source": "Arda Ocal"
-  },
-  {
-    "slug": "what-nhl-players-owners-execs-are-saying-about-olympic-ice",
-    "title": "What NHL players, owners, execs are saying about Olympic ice",
-    "description": "While the rink won't be perfect, there's also an overwhelming sentiment shared by all stakeholders:",
-    "pubDate": "2026-01-10",
-    "image": "",
-    "link": "https://www.espn.com/olympics/story/_/id/47539819/latest-2026-winter-olympic-hockey-rink-nhl-participation",
-    "source": "Emily Kaplan"
-  },
-  {
     "slug": "not-sure-why-they-felt-the-need-nba-execs-on-the-trae-deal-and-trade-season-s-next-move",
     "title": "'Not sure why they felt the need': NBA execs on the Trae deal and trade season's next move",
     "description": "Tim Bontemps and Brian Windhorst survey the league on the Young deal and what comes next for the Wizards and Hawks.",
@@ -223,6 +205,24 @@
     "image": "",
     "link": "https://www.espn.com/espn/feature/story/_/id/30423107/ncaa-women-bracketology-2026-women-college-basketball-projections",
     "source": "Charlie Creme"
+  },
+  {
+    "slug": "the-10-teams-that-have-gotten-off-to-the-hottest-portal-starts",
+    "title": "The 10 teams that have gotten off to the hottest portal starts",
+    "description": "These programs are already positioning themselves well for the 2026 season",
+    "pubDate": "2026-01-10",
+    "image": "",
+    "link": "https://www.espn.com/college-football/story/_/id/47554572/strongest-starts-portal-season",
+    "source": "Max Olson"
+  },
+  {
+    "slug": "ranking-the-best-players-in-the-college-football-transfer-portal",
+    "title": "Ranking the best players in the college football transfer portal",
+    "description": "The transfer portal officially opened Jan. 2 and we're ranking the best of the best.",
+    "pubDate": "2026-01-10",
+    "image": "",
+    "link": "https://www.espn.com/college-football/story/_/id/47467021/2026-ncaa-football-transfer-portal-best-players",
+    "source": "Max Olson"
   },
   {
     "slug": "the-inside-story-of-the-bears-good-better-best-craze",
@@ -288,6 +288,24 @@
     "source": "D'Arcy Maine"
   },
   {
+    "slug": "nhl-power-rankings-new-1-32-poll-each-team-s-olympic-players",
+    "title": "NHL Power Rankings: New 1-32 poll, each team's Olympic players",
+    "description": "The Lightning are up to No. 2 -- and are tops in players on Olympic rosters. Here's who each team will send.",
+    "pubDate": "2026-01-10",
+    "image": "",
+    "link": "https://www.espn.com/nhl/story/_/id/47551372/nhl-power-rankings-2025-26-best-teams-standings-best-stats-projections-pace-olympics-rosters",
+    "source": "Arda Ocal"
+  },
+  {
+    "slug": "what-nhl-players-owners-execs-are-saying-about-olympic-ice",
+    "title": "What NHL players, owners, execs are saying about Olympic ice",
+    "description": "While the rink won't be perfect, there's also an overwhelming sentiment shared by all stakeholders:",
+    "pubDate": "2026-01-10",
+    "image": "",
+    "link": "https://www.espn.com/olympics/story/_/id/47539819/latest-2026-winter-olympic-hockey-rink-nhl-participation",
+    "source": "Emily Kaplan"
+  },
+  {
     "slug": "buzz-rams-historically-large-road-favorite-packers-bears-bills-jags-evenly-bet",
     "title": "Buzz: Rams historically large road favorite; Packers-Bears, Bills-Jags evenly bet",
     "description": "No road playoff team has ever been more favored to win than the Rams. Two other wild-card games are too close to call.",
@@ -333,12 +351,12 @@
     "source": "BBC Sport"
   },
   {
-    "slug": "bandaged-dawson-puts-macclesfield-ahead-against-palace",
-    "title": "Bandaged Dawson puts Macclesfield ahead against Palace",
-    "description": "Shortly after adjusting the bandages on his head after picking up an injury early in the match, Paul Dawson nods home Macclesfield's opener to put them ahead against Crystal Palace.",
+    "slug": "macclesfield-make-it-two-against-reigning-champions",
+    "title": "Macclesfield make it two against reigning champions",
+    "description": "Isaac Buckley-Ricketts sends Macclesfield 2-0 up against reigning FA Cup champions Crystal Palace.",
     "pubDate": "2026-01-10",
     "image": "",
-    "link": "https://www.bbc.com/sport/football/videos/cql46e5g552o?at_medium=RSS&at_campaign=rss",
+    "link": "https://www.bbc.com/sport/football/videos/cpv7r001y0xo?at_medium=RSS&at_campaign=rss",
     "source": "BBC Sport"
   },
   {
@@ -360,21 +378,21 @@
     "source": "BBC Sport"
   },
   {
+    "slug": "bandaged-dawson-puts-macclesfield-ahead-against-palace",
+    "title": "Bandaged Dawson puts Macclesfield ahead against Palace",
+    "description": "Shortly after adjusting the bandages on his head after picking up an injury early in the match, Paul Dawson nods home Macclesfield's opener to put them ahead against Crystal Palace.",
+    "pubDate": "2026-01-10",
+    "image": "",
+    "link": "https://www.bbc.com/sport/football/videos/cql46e5g552o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport"
+  },
+  {
     "slug": "top-four-or-fa-cup-rogers-on-his-villa-ambitions",
     "title": "Top four or FA Cup? - Rogers on his Villa ambitions",
     "description": "Morgan Rogers shares what the FA Cup means to him and whether he would rather win the competition or finish in the Premier League top four with Aston Villa.",
     "pubDate": "2026-01-10",
     "image": "",
     "link": "https://www.bbc.com/sport/football/videos/c8d043d5jpqo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport"
-  },
-  {
-    "slug": "oxford-beat-mk-dons-in-fa-cup-penalty-shootout",
-    "title": "Oxford beat MK Dons in FA Cup penalty shootout ",
-    "description": "New Oxford United boss Matt Bloomfield watches on from the stands as his side beat MK Dons on penalties to progress to the FA Cup fourth round.",
-    "pubDate": "2026-01-10",
-    "image": "",
-    "link": "https://www.bbc.com/sport/football/videos/czr4nd6l3gro?at_medium=RSS&at_campaign=rss",
     "source": "BBC Sport"
   },
   {
@@ -414,6 +432,15 @@
     "source": "BBC Sport"
   },
   {
+    "slug": "oxford-beat-mk-dons-in-fa-cup-penalty-shootout",
+    "title": "Oxford beat MK Dons in FA Cup penalty shootout ",
+    "description": "New Oxford United boss Matt Bloomfield watches on from the stands as his side beat MK Dons on penalties to progress to the FA Cup fourth round.",
+    "pubDate": "2026-01-10",
+    "image": "",
+    "link": "https://www.bbc.com/sport/football/videos/czr4nd6l3gro?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport"
+  },
+  {
     "slug": "watch-every-penalty-from-wrexham-s-fa-cup-win-over-forest",
     "title": "Watch every penalty from Wrexham's FA Cup win over Forest",
     "description": "Watch every penalty as Wrexham knocked out Premier League Nottingham Forest after a 3-3 draw in the third round of the FA Cup.",
@@ -441,318 +468,408 @@
     "source": "BBC Sport"
   },
   {
-    "slug": "seven-irish-cup-fifth-round-matches-postponed",
-    "title": "Seven Irish Cup fifth round matches postponed",
-    "description": "Seven of Saturday's Irish Cup fifth round matches have been postponed due to frozen pitches.",
+    "slug": "longhorns-defensive-back-santana-wilson-signs-with-louisville",
+    "title": "Longhorns defensive back Santana Wilson signs with Louisville",
+    "description": "Former Texas Longhorns defensive back Santana Wilson is heading to the ACC, committing to the Louisville Cardinals via the transfer portal.",
     "pubDate": "2026-01-10",
     "image": "",
-    "link": "https://www.bbc.com/sport/football/articles/cp80j5j1d7wo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport"
-  },
-  {
-    "slug": "inter-target-molina-napoli-want-maldini-dybala-talks-transfer-news",
-    "title": "Inter target Molina 🧨 Napoli want Maldini, Dybala talks ⚠️ transfer news 🤑",
-    "description": "Without pause, without respite. From the field to the market. The 20th day of Serie A is at the starting line, while the transfer market enters the most intense and interesting phase of its session.Wa...",
-    "pubDate": "2026-01-10",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/inter-target-molina-napoli-want-135100119.html",
+    "link": "https://sports.yahoo.com/articles/longhorns-defensive-back-santana-wilson-141259138.html",
     "source": "Google News"
   },
   {
-    "slug": "l1-l2-luton-instantly-level-against-stevenage-stockport-v-huddersfield-goalless",
-    "title": "L1 & L2: Luton instantly level against Stevenage, Stockport v Huddersfield goalless",
-    "description": "Follow for live scores and updates as Luton Town take on Stevenage and Stockport face Huddersfield in Saturday's early League One games.",
+    "slug": "random-ramsdom-wake-up-its-playoff-time",
+    "title": "Random Ramsdom: Wake up, its playoff time",
+    "description": "Los Angeles Rams News and Links for 1/10/26",
     "pubDate": "2026-01-10",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/l1-l2-luton-town-v-120047116.html",
+    "link": "https://sports.yahoo.com/articles/random-ramsdom-wake-playoff-time-141124243.html",
     "source": "Google News"
   },
   {
-    "slug": "south-side-sox-reacts-starting-1b-munetaka-murakami",
-    "title": "South Side Sox Reacts: Starting 1B, Munetaka Murakami",
-    "description": "This time out, we fill out an important part of our Opening Day lineup card",
+    "slug": "everton-1-1-sunderland-fa-cup-live-extra-time",
+    "title": "Everton 1-1 Sunderland: FA Cup Live | Extra time",
+    "description": "Blues start their annual FA Cup campaign at home against Premier League opposition",
     "pubDate": "2026-01-10",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/south-side-sox-reacts-starting-134600761.html",
+    "link": "https://sports.yahoo.com/articles/everton-vs-sunderland-fa-cup-090000027.html",
     "source": "Google News"
   },
   {
-    "slug": "espn-39-s-dan-orlovsky-names-key-for-bills-vs-jaguars-video",
-    "title": "ESPN&#39;s Dan Orlovsky names key for Bills vs. Jaguars (video)",
-    "description": "Here's what ESPN NFL analyst Dan Orlovsky thinks will be a difference maker for the Bills again the Jaguars in the wild-card round.",
+    "slug": "semenyo-39-s-first-man-city-39-s-starting-xi-in-the-fa-cup",
+    "title": "🚨 Semenyo&#39;s first: Man City&#39;s starting XI in the FA Cup",
+    "description": "Manchester City begins its journey in the FA Cup today against Exeter, a League One team that will try to work a miracle. Today's game will be played with these confirmed lineups:Manchester City: Traf...",
     "pubDate": "2026-01-10",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/espns-dan-orlovsky-names-key-134516705.html",
+    "link": "https://sports.yahoo.com/articles/semenyos-first-man-citys-starting-141000451.html",
     "source": "Google News"
   },
   {
-    "slug": "49ers-eagles-who-do-experts-think-will-win-sf-39-s-wild-card-game",
-    "title": "49ers-Eagles: Who do experts think will win SF&#39;s wild-card game?",
-    "description": "The San Francisco 49ers and Philadelphia Eagles will meet on Sunday at Lincoln Financial Field. Here's who experts think will win the wild-card game.",
+    "slug": "2025-ap-nfl-all-pro-teams-announced-2-eagles-honored",
+    "title": "2025 AP NFL All-Pro Teams announced: 2 Eagles honored",
+    "description": "Two members of the Eagles landed on this year's “First-Team.”",
     "pubDate": "2026-01-10",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/49ers-eagles-experts-think-win-134502750.html",
+    "link": "https://sports.yahoo.com/articles/2025-ap-nfl-pro-teams-140955992.html",
     "source": "Google News"
   },
   {
-    "slug": "confirmed-line-ups-manchester-city-vs-exeter-city-fa-cup-third-round",
-    "title": "Confirmed Line-Ups: Manchester City vs Exeter City (FA Cup Third Round)",
-    "description": "Manchester City will seek their first win of 2026 when Exeter City visit the Etihad Stadium for the FA Cup third-round at the Etihad Stadium on Saturday afternoon.The Blues have succumbed to three suc...",
+    "slug": "how-to-watch-afcon-2025-live-streams-tv-channels-start-times-and-fixtures-for-africa-cup-of-nations-tournament",
+    "title": "How to watch AFCON 2025: Live streams, TV channels, start times and fixtures for Africa Cup of Nations tournament",
+    "description": "The 2025 Africa Cup of Nations, where a champion of the African continent will be crowned, is underway in Morocco.",
     "pubDate": "2026-01-10",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/confirmed-line-ups-manchester-city-134500993.html",
+    "link": "https://sports.yahoo.com/articles/watch-afcon-2025-live-streams-100001508.html",
     "source": "Google News"
   },
   {
-    "slug": "confirmed-lineups-sc-freiburg-vs-hamburger-sv",
-    "title": "Confirmed Lineups: SC Freiburg vs. Hamburger SV",
-    "description": "HSV start the new year away at Freiburg as they hope to get a breather from the relegation zone. The hosts have been excellent in the Europa League, while their Bundesliga record in the Hinrunde was i...",
+    "slug": "browns-coaching-search-john-harbaugh-s-demands-are-high-for-any-team-seeking-him",
+    "title": "Browns coaching search: John Harbaugh’s demands are high for any team seeking him",
+    "description": "Do the Cleveland Browns want John Harbaugh? According to a report, the price is high as head coaching searches march on",
     "pubDate": "2026-01-10",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/confirmed-lineups-sc-freiburg-vs-134400196.html",
+    "link": "https://sports.yahoo.com/articles/browns-coaching-search-john-harbaugh-140807569.html",
     "source": "Google News"
   },
   {
-    "slug": "barcelona-inform-marcus-rashford-of-30m-transfer-plan",
-    "title": "Barcelona inform Marcus Rashford of €30m transfer plan",
-    "description": "This summer’s transfer window will be a very important one for Barcelona, who intend to address multiple positions. A new centre-back and striker are wanted, while a decision will also need to be ma...",
+    "slug": "afcon-2025-teams-groups-match-schedule-bracket-for-africa-cup-of-nations-in-morocco",
+    "title": "AFCON 2025 teams, groups, match schedule, bracket for Africa Cup of Nations in Morocco",
+    "description": "The Africa Cup of Nations in Morocco runs from December 21, 2025 to January 18, 2026.",
     "pubDate": "2026-01-10",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/barcelona-inform-marcus-rashford-30m-134400435.html",
+    "link": "https://sports.yahoo.com/articles/afcon-2025-teams-groups-match-150300611.html",
     "source": "Google News"
   },
   {
-    "slug": "michael-owen-says-one-liverpool-player-faces-most-frustrating-moment",
-    "title": "Michael Owen says one Liverpool player faces ‘most frustrating moment’",
-    "description": "Michael Owen, who remains Liverpool’s only Ballon d’Or winner, knows what it’s like to burst onto the scene and then struggle with setbacks. The former striker has been a vocal supporter of Curtis Jones, especially as the midfielder deals with another injury spell.",
+    "slug": "breaking-man-city-name-starting-lineup-for-fa-cup-clash-with-exeter",
+    "title": "🚨 BREAKING: Man City name starting lineup for FA Cup clash with Exeter",
+    "description": "Pep Guardiola has named Manchester City's starting XI to face Exeter in the FA Cup third round. City will target an early round cup victory against their League One opponents at the Etihad.Guardiola's...",
     "pubDate": "2026-01-10",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/michael-owen-says-one-liverpool-134100363.html",
+    "link": "https://sports.yahoo.com/articles/breaking-man-city-name-starting-140700914.html",
     "source": "Google News"
   },
   {
-    "slug": "confirmed-lineups-1-fc-heidenheim-vs-1-fc-k-ln",
-    "title": "Confirmed Lineups: 1. FC Heidenheim vs. 1. FC Köln",
-    "description": "Heidenheim host Köln in one of the early Saturday fixtures as the Bundesliga returns to action after the winter break. The relegation-threatened team ended 2025 on a fine form, while Köln managed on...",
+    "slug": "rams-qb-matthew-stafford-wr-puka-nacua-named-ap-first-team-all-pros",
+    "title": "Rams QB Matthew Stafford, WR Puka Nacua named AP first-team All-Pros",
+    "description": "The Rams had two players selected as first-team All-Pros, and it's not hard to predict who was chosen: Matthew Stafford and Puka Nacua",
     "pubDate": "2026-01-10",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/confirmed-lineups-1-fc-heidenheim-133800183.html",
+    "link": "https://sports.yahoo.com/articles/rams-qb-matthew-stafford-wr-140452346.html",
     "source": "Google News"
   },
   {
-    "slug": "first-team-all-aac-db-transferring-to-georgia-football",
-    "title": "First-team All-AAC DB transferring to Georgia football",
-    "description": "A first-team All-American Athletic Conference safety is coming home and transferring to the Georgia Bulldogs",
+    "slug": "2025-nfl-all-pro-team-see-who-made-the-roster",
+    "title": "2025 NFL All-Pro Team: See who made the roster",
+    "description": "",
     "pubDate": "2026-01-10",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/first-team-aac-db-transferring-133632942.html",
+    "link": "https://sports.yahoo.com/articles/2025-nfl-pro-team-see-140438657.html",
+    "source": "The Associated Press"
+  },
+  {
+    "slug": "bears-browns-named-possible-free-agent-suitors-for-packer-projected-to-get-85-million",
+    "title": "Bears, Browns named possible free agent suitors for Packer projected to get $85 million",
+    "description": "The Chicago Bears and Cleveland Browns should both look to add to their offensive lines this offseason and one analyst believes they could make a run at a Green Bay Packers offensive tackle projected to receive an $85 million contract.",
+    "pubDate": "2026-01-10",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/bears-browns-named-possible-free-140346533.html",
     "source": "Google News"
   },
   {
-    "slug": "anytime-touchdown-scorer-packers-vs-bears-prediction-td-picks-for-wild-card-weekend-today",
-    "title": "Anytime Touchdown Scorer Packers vs Bears Prediction: TD Picks for Wild Card Weekend Today",
-    "description": "Jayden Reed and DJ Moore headline Jeremy Jones' favorite Packers vs. Bears anytime touchdown picks for Wild Card Weekend on Saturday, January 10.",
+    "slug": "alabama-transfer-wide-receiver-announces-commitment-decision",
+    "title": "Alabama transfer wide receiver announces commitment decision",
+    "description": "Alabama wide receiver Cole Adams has committed to play for a fellow SEC program during the 2026 season.",
     "pubDate": "2026-01-10",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/anytime-touchdown-scorer-packers-vs-181200667.html",
+    "link": "https://sports.yahoo.com/articles/alabama-transfer-wide-receiver-announces-140124963.html",
     "source": "Google News"
   },
   {
-    "slug": "breaking-down-impact-of-colts-39-2025-nfl-draft-class-this-season",
-    "title": "Breaking down impact of Colts&#39; 2025 NFL draft class this season",
-    "description": "Let's take a closer look at how the Indianapolis Colts' 2025 NFL draft class performed this past season.",
+    "slug": "stafford-gets-first-nod-for-ap-all-pro-garrett-nacua-and-smith-njigba-are-unanimous-choices",
+    "title": "Stafford gets first nod for AP All-Pro. Garrett, Nacua and Smith-Njigba are unanimous choices",
+    "description": "Matthew Stafford beat out Drake Maye, while Myles Garrett, Puka Nacua and Jaxon Smith-Njigba were unanimous choices for the 2025 Associated Press NFL All-Pro Team.  Bijan Robinson is the running back while Christian McCaffrey earned the All-Purpose spot.  Ja’Marr Chase is the third wide receiver and",
     "pubDate": "2026-01-10",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/breaking-down-impact-colts-2025-133528843.html",
+    "link": "https://sports.yahoo.com/articles/stafford-gets-first-nod-ap-140114138.html",
+    "source": "ROB MAADDI"
+  },
+  {
+    "slug": "toppm-ller-and-kovac-hail-fantastic-game",
+    "title": "Toppmöller and Kovac hail “fantastic” game",
+    "description": "Eintracht Frankfurt and Borussia Dortmund started the second half of the Bundesliga season with a six-goal thriller. Afterwards, Dino Toppmöller and Niko Kovac spoke highly about the entertaining mat...",
+    "pubDate": "2026-01-10",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/toppm-ller-kovac-hail-fantastic-140100271.html",
     "source": "Google News"
   },
   {
-    "slug": "bove-to-attend-roma-sassuolo-and-receive-special-farewell",
-    "title": "Bove to attend Roma-Sassuolo and receive special farewell",
-    "description": "Tonight’s match between Roma and Sassuolo, valid for the 20th matchday of Serie A, will be played at 6:00 PM at the Stadio Olimpico.Among the spectators in the stands, according to Il Corriere dello...",
+    "slug": "flathead-sweeps-crosstown-duals",
+    "title": "Flathead sweeps Crosstown duals",
+    "description": "Jan. 10—There was a white-knuckle showdown early on and another to finish, and when it was over Flathead had a decisive sweep of the Crosstown wrestling duals Friday at Glacier High School. The Brave Brawlers improved to 10-1 in duals with their 63-9 win; the Bravettes, winning three of five contest",
     "pubDate": "2026-01-10",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/bove-attend-roma-sassuolo-receive-133400478.html",
+    "link": "https://sports.yahoo.com/articles/flathead-sweeps-crosstown-duals-140100183.html",
     "source": "Google News"
   },
   {
-    "slug": "packers-vs-bears-props-best-bets-for-wild-card-weekend-today",
-    "title": "Packers vs Bears Props & Best Bets for Wild Card Weekend Today",
-    "description": "The Jordan Love-Jayden Reed connection will be firing on all cylinders in Chicago tonight, as Neil Parker explains. Free Packers vs. Bears props for Saturday, January 10, 2026.",
+    "slug": "less-bobo-enduring-a-reduced-role-jake-bobo-still-comes-up-large-for-seahawks",
+    "title": "Less Bobo: Enduring a reduced role, Jake Bobo still comes up large for Seahawks",
+    "description": "The key block on the key offensive play to win the NFC West at San Francisco last weekend is the latest reason his teammates love the wide receiver.",
     "pubDate": "2026-01-10",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/packers-vs-bears-props-best-130000546.html",
+    "link": "https://sports.yahoo.com/articles/less-bobo-enduring-reduced-role-140100169.html",
     "source": "Google News"
   },
   {
-    "slug": "will-simone-biles-be-at-bears-packers-to-root-on-jonathan-owens",
-    "title": "Will Simone Biles be at Bears-Packers to root on Jonathan Owens?",
-    "description": "Simone Biles has been supporting husband Jonathan Owens in person at Chicago Bears games a ton. Will she be at his playoff game?",
+    "slug": "peyton-manning-39-s-season-single-records-still-stand-after-5-years-of-extra-games",
+    "title": "Peyton Manning&#39;s season-single records still stand after 5 years of extra games",
+    "description": "The NFL has played five seasons in a 17-game format and Peyton Manning's 2013 single-season records still stand.",
     "pubDate": "2026-01-10",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/simone-biles-bears-packers-root-133217816.html",
+    "link": "https://sports.yahoo.com/articles/peyton-mannings-season-single-records-140050085.html",
     "source": "Google News"
   },
   {
-    "slug": "wesley-receives-last-minute-call-up-for-sassuolo-clash",
-    "title": "Wesley receives last-minute call-up for Sassuolo clash",
-    "description": "Today at 6:00 PM, Roma will welcome Fabio Grosso’s Sassuolo to the Stadio Olimpico for the first match of the second half of the season. The Neroverdi will have to contend with two crucial absences:...",
+    "slug": "tennessee-opens-2026-season-with-two-wins-against-etsu",
+    "title": "Tennessee opens 2026 season with two wins against ETSU",
+    "description": "Tennessee opens its 2026 season with two wins against ETSU.",
     "pubDate": "2026-01-10",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/wesley-receives-last-minute-call-133200576.html",
+    "link": "https://sports.yahoo.com/articles/tennessee-opens-2026-season-two-140030619.html",
     "source": "Google News"
   },
   {
-    "slug": "carioc-o-2026-guide-check-out-the-new-format-prizes-and-fixtures",
-    "title": "Cariocão 2026 guide: check out the new format, prizes and fixtures",
-    "description": "The 2026 Carioca Championship arrives with significant changes.Considering the athletes' fatigue in a World Cup year, FERJ and the clubs have approved a regulation aiming to streamline the schedule fo...",
+    "slug": "gimme-him-tuli-tuipulotu-would-elevate-patriots-39-struggling-pass-rush",
+    "title": "Gimme Him: Tuli Tuipulotu\nwould elevate Patriots&#39; struggling pass rush",
+    "description": "The Patriots' defense would benefit greatly with a playmaker like Chargers linebacker Tuli Tuipulotu.",
     "pubDate": "2026-01-10",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/carioc-o-2026-guide-check-133200031.html",
+    "link": "https://sports.yahoo.com/articles/gimme-him-tuli-tuipulotu-elevate-140022367.html",
     "source": "Google News"
   },
   {
-    "slug": "prep-roundup-hopkins-leads-priceville-to-win-over-ardmore",
-    "title": "Prep Roundup: Hopkins leads Priceville to win over Ardmore",
-    "description": "Jan. 10—PRICEVILLE — Evan Hopkins poured in a game-high 23 points as Priceville defeated Ardmore 53-35 in boys basketball on Friday. Priceville took control of the game early, building a 20-10 lead after one quarter before holding Ardmore to a single point in the second quarter to take a 25-21 lead",
+    "slug": "the-motogp-changes-liberty-media-should-make-according-to-sepang",
+    "title": "The MotoGP changes Liberty Media should make, according to Sepang",
+    "description": "As the host of one of Asia’s longest-running grands prix, Sepang outlines what circuit promoters expect from MotoGP’s new owner, Liberty Media",
     "pubDate": "2026-01-10",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/prep-roundup-hopkins-leads-priceville-133200925.html",
+    "link": "https://sports.yahoo.com/articles/motogp-changes-liberty-media-according-140002487.html",
     "source": "Google News"
   },
   {
-    "slug": "packers-vs-bears-predictions-picks-best-bets-for-wild-card-weekend-today",
-    "title": "Packers vs Bears Predictions, Picks & Best Bets for Wild Card Weekend Today",
-    "description": "Get the best Packers vs. Bears predictions ahead of Saturday's playoff matchup in Chicago. Free NFL picks for January 10, 2026, featuring a Jayden Reed prop.",
+    "slug": "chivu-has-a-lot-to-learn-from-conte-inter-vs-napoli-might-influence-the-season",
+    "title": "Chivu has ‘a lot to learn’ from Conte, Inter vs. Napoli might ‘influence’ the season",
+    "description": "Inter coach Cristian Chivu admits he has ‘a lot to learn’ from Antonio Conte and is aware that tomorrow’s Serie A showdown at San Siro ‘can influence the trajectory of the season.’Inter coac...",
     "pubDate": "2026-01-10",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/packers-vs-bears-predictions-picks-140000986.html",
+    "link": "https://sports.yahoo.com/articles/chivu-lot-learn-conte-inter-140000295.html",
     "source": "Google News"
   },
   {
-    "slug": "lindsey-vonn-wins-another-world-cup-downhill-with-olympics-one-month-away",
-    "title": "Lindsey Vonn wins another World Cup downhill, with Olympics one month away",
-    "description": "Last month, during a holiday break in the World Cup season, Lindsey Vonn was asked to assess her skiing. The American Alpine skiing star critiqued some errors made in recent races, but stressed her improvements, noting that she’s been near the podium, if not on top of it, in every run so far. Then,",
+    "slug": "michael-owen-is-still-bitter-that-harry-kane-chose-bayern-munich-over-the-premier-league",
+    "title": "Michael Owen is still bitter that Harry Kane chose Bayern Munich over the Premier League",
+    "description": "FC Bayern signed Kane and Owen can’t get over it",
     "pubDate": "2026-01-10",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/lindsey-vonn-wins-another-world-133105345.html",
+    "link": "https://sports.yahoo.com/articles/michael-owen-still-bitter-harry-140000806.html",
     "source": "Google News"
   },
   {
-    "slug": "armstead-jones-help-push-hatton-to-win-over-county-rivals",
-    "title": "Armstead, Jones help push Hatton to win over county rivals",
-    "description": "Jan. 10—HATTON — Eva Armstead and Ariel Jones combined for 33 points, over 60% of the Hatton girl's entire offense, in a 53-45 rivalry win over Lawrence County on Friday night. Going into the final quarter, Hatton was up 38-31. Jones and Armstead scored 12 of Hatton's 15 fourth-quarter points to sea",
+    "slug": "jon-jones-ufc-boss-unlikely-to-book-alex-pereira-fight",
+    "title": "Jon Jones: UFC boss unlikely to book Alex Pereira fight",
+    "description": "Jon Jones vs. Alex Pereira might never happen",
     "pubDate": "2026-01-10",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/armstead-jones-help-push-hatton-133100210.html",
+    "link": "https://sports.yahoo.com/articles/jon-jones-ufc-boss-unlikely-140000782.html",
     "source": "Google News"
   },
   {
-    "slug": "aqib-talib-made-an-amazing-playoff-hype-video-for-the-broncos",
-    "title": "Aqib Talib made an amazing playoff hype video for the Broncos",
-    "description": "Aqib Talib has us fired up for the Broncos' playoff run!",
+    "slug": "chargers-vs-patriots-predictions-picks-best-bets-for-sunday-night-football-wild-card-weekend",
+    "title": "Chargers vs Patriots Predictions, Picks & Best Bets for Sunday Night Football Wild Card Weekend",
+    "description": "Get the best Chargers vs. Patriots predictions ahead of Sunday's playoff matchup in Foxborough. Free NFL picks for January 11.",
     "pubDate": "2026-01-10",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/aqib-talib-made-amazing-playoff-133039442.html",
+    "link": "https://sports.yahoo.com/articles/chargers-vs-patriots-predictions-picks-140000911.html",
     "source": "Google News"
   },
   {
-    "slug": "is-the-australian-open-on-tv-channel-live-stream-and-how-to-watch-tennis-grand-slam",
-    "title": "Is the Australian Open on TV? Channel, live stream and how to watch tennis grand slam",
-    "description": "Jannik Sinner and Madison Keys are the defending champions as the opening grand slam of the year gets underway in Melbourne",
+    "slug": "fa-cup-newcastle-vs-bournemouth-eddie-howe-match-preview",
+    "title": "FA Cup – Newcastle vs. Bournemouth – Eddie Howe: Match Preview",
+    "description": "Golden nuggets from Howe before Newcastle host the flying Seagulls!",
     "pubDate": "2026-01-10",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/australian-open-tv-channel-live-133015043.html",
+    "link": "https://sports.yahoo.com/articles/fa-cup-newcastle-vs-bournemouth-140000714.html",
     "source": "Google News"
   },
   {
-    "slug": "alison-ojeda-recaps-ut-invite-first-day",
-    "title": "Alison Ojeda recaps UT Invite first day",
-    "description": "Tennessee head coach Alison Ojeda recaps the first day of the UT Invite.",
+    "slug": "11-of-14-nfl-playoff-teams-have-at-least-one-former-cowboy-on-their-roster",
+    "title": "11 of 14 NFL playoff teams have at least one former Cowboy on their roster",
+    "description": "There are a lot of former Cowboys who are scattered across playoff teams.",
     "pubDate": "2026-01-10",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/alison-ojeda-recaps-ut-invite-133007251.html",
+    "link": "https://sports.yahoo.com/articles/11-14-nfl-playoff-teams-140000061.html",
     "source": "Google News"
   },
   {
-    "slug": "prevc-continues-ski-jumping-winning-ways-norway-dominate-combined",
-    "title": "Prevc continues ski jumping winning ways; Norway dominate combined",
-    "description": "Nika Prevc continued her dominance in women's ski jumping with an undisputed normal hill success in front of a Slovenian home crowd on Saturday. Prevc soared a competition best 96 metres and added 89.",
+    "slug": "alpine-set-to-delay-first-2026-car-test-over-mercedes-engine-issue",
+    "title": "Alpine set to delay first 2026 car test over Mercedes engine issue",
+    "description": "Audi have become the first team to put their 2026 car on track, completing a shakedown run at the Circuit de Barcelona-Catalunya on Friday. The team ran an all-black livery during the session and kept much of the car hidden in official images.",
     "pubDate": "2026-01-10",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/prevc-continues-ski-jumping-winning-133006744.html",
+    "link": "https://sports.yahoo.com/articles/alpine-set-delay-first-2026-140000374.html",
     "source": "Google News"
   },
   {
-    "slug": "titans-predicted-to-part-ways-with-92-million-all-pro",
-    "title": "Titans predicted to part ways with $92 million All-Pro",
-    "description": "The Titans may cut ties with a former All-Pro",
+    "slug": "egypt-vs-ivory-coast-predicted-lineups-for-afcon-2025-quarter-final",
+    "title": "Egypt vs Ivory Coast: Predicted Lineups for AFCON 2025 Quarter-Final",
+    "description": "One place in the semi-finals, two African giants and 22 men to decide itEgypt vs Ivory Coast: Predicted Lineups for AFCON 2025 Quarter-FinalAll eyes across Africa and the Arab world turn to Agadir Gra...",
     "pubDate": "2026-01-10",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/titans-predicted-part-ways-92-133002638.html",
+    "link": "https://sports.yahoo.com/articles/egypt-vs-ivory-coast-predicted-140000970.html",
     "source": "Google News"
   },
   {
-    "slug": "8220-the-first-thing-8230-8221-8211-chelsea-fans-will-be-delighted-with-what-their-new-manager-says-is-his-priority",
-    "title": "&#8220;The first thing&#8230;&#8221; &#8211; Chelsea fans will be delighted with what their new manager says is his priority",
-    "description": "Chelsea come into tonight’s game with Charlton in the FA Cup with a new manager, and as you’d expect, that means lots more interest in the game than you would normally get it.It was already put in...",
+    "slug": "pump-the-brakes",
+    "title": "Pump The Brakes!",
+    "description": "Gable Steveson might be one of the best heavyweight prospects to ever enter the world of MMA, but Ultimate Fighting Championship (UFC) CEO, Dana White, needs to first see the former Olympic gold medalist compete inside the Octagon before crowing him the next best thing. In case you didn’t know, Stev",
     "pubDate": "2026-01-10",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/first-thing-chelsea-fans-delighted-133000633.html",
+    "link": "https://sports.yahoo.com/articles/pump-brakes-140000247.html",
     "source": "Google News"
   },
   {
-    "slug": "kieran-mckenna-ex-man-united-coach-primed-for-stunning-return",
-    "title": "Kieran McKenna: Ex-Man United coach primed for stunning return",
-    "description": "Manchester United have identified former coach Kieran McKenna as a leading candidate to replace Ruben Amorim — but another “world-class” manager has been ruled out of the process, a new report r...",
+    "slug": "arsenal-at-portsmouth-fa-cup-preview-road-trippin",
+    "title": "Arsenal at Portsmouth FA Cup Preview: Road Trippin’",
+    "description": "The Gunners begin their quest for a 15th FA Cup title with a trip to Championship side Portsmouth",
     "pubDate": "2026-01-10",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/kieran-mckenna-ex-man-united-133000545.html",
+    "link": "https://sports.yahoo.com/articles/arsenal-portsmouth-fa-cup-preview-140000768.html",
     "source": "Google News"
   },
   {
-    "slug": "confirmed-lineups-union-berlin-vs-1-fsv-mainz-05",
-    "title": "Confirmed Lineups: Union Berlin vs. 1. FSV Mainz 05",
-    "description": "Union Berlin host bottom-placed Mainz in one of the only three early Saturday fixtures on matchday 16. Similar to the two postponed games, the clash at Alten Försterei had to go through inspection du...",
+    "slug": "purdue-basketball-how-to-watch-5-purdue-14-1-4-0-vs-penn-state-9-6-0-4-fan-discussion",
+    "title": "Purdue Basketball: How to Watch #5 Purdue (14-1, 4-0) vs. Penn State (9-6, 0-4) & Fan Discussion",
+    "description": "Purdue could move to 5-0 in conference play.",
     "pubDate": "2026-01-10",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/confirmed-lineups-union-berlin-vs-133000481.html",
+    "link": "https://sports.yahoo.com/articles/purdue-basketball-watch-5-purdue-140000286.html",
     "source": "Google News"
   },
   {
-    "slug": "anytime-touchdown-scorer-rams-vs-panthers-prediction-td-picks-for-wild-card-weekend-today",
-    "title": "Anytime Touchdown Scorer Rams vs Panthers Prediction: TD Picks for Wild Card Weekend Today",
-    "description": "Our top Rams vs. Panthers anytime touchdown picks include Davante Adams and Tetairoa McMillan.",
+    "slug": "why-can-t-we-have-the-braves-on-tbs-again",
+    "title": "Why can’t we have the Braves on TBS again?",
+    "description": "As you may have already heard, the Braves have split from their Fanduel-sponsored TV broadcaster. What we will get in the place of that is to be determined. We’ll see the Braves somewhere, and I believe Battery Power will have some great guesses on the future later. But here the question: why can’t",
     "pubDate": "2026-01-10",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/anytime-touchdown-scorer-rams-vs-142500324.html",
+    "link": "https://sports.yahoo.com/articles/why-t-braves-tbs-again-140000548.html",
     "source": "Google News"
   },
   {
-    "slug": "tony-khan-discusses-the-creative-process-behind-aew-revolution-39-s-39-hollywood-ending-39",
-    "title": "Tony Khan Discusses The Creative Process Behind AEW Revolution&#39;s &#39;Hollywood Ending&#39;",
-    "description": "AEW owner Tony Khan discusses the creative process behind how he came up with the name for the \"Hollywood Ending\" match at AEW Revolution last year",
+    "slug": "liam-rosenior-has-already-done-better-than-enzo-maresca-with-gesture-in-first-presser",
+    "title": "Liam Rosenior has already done better than Enzo Maresca with gesture in first presser",
+    "description": "Liam Rosenior’s first press conference as Chelsea manager at Cobham yesterday was impressive even through a screen, but for those there it was even better.The incoming coach started the presser by s...",
     "pubDate": "2026-01-10",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/tony-khan-discusses-creative-process-133000308.html",
+    "link": "https://sports.yahoo.com/articles/liam-rosenior-already-done-better-140000627.html",
     "source": "Google News"
   },
   {
-    "slug": "brazilian-star-opens-up-on-leaving-real-madrid-after-a-blazing-start-to-his-career",
-    "title": "Brazilian star opens up on ‘leaving’ Real Madrid after a blazing start to his career",
-    "description": "Brazilian star Endrick has opened up on the challenges he has faced since joining Real Madrid and explained why he is not leaving the Spanish giants permanently, despite a recent loan move to Olympique Lyonnais. The 19-year-old forward, one of world football’s most promising young players, reflected",
+    "slug": "what-might-be-bo-bichette-s-better-position-with-the-phillies",
+    "title": "What might be Bo Bichette’s better position with the Phillies?",
+    "description": "Where to go",
     "pubDate": "2026-01-10",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/brazilian-star-opens-leaving-real-133000478.html",
+    "link": "https://sports.yahoo.com/articles/might-bo-bichette-better-position-140000090.html",
     "source": "Google News"
   },
   {
-    "slug": "39-only-time-will-tell-39-if-bloomfield-is-the-right-man-for-oxford",
-    "title": "&#39;Only time will tell&#39; if Bloomfield is the right man for Oxford",
-    "description": "Here is what you had to say about the appointment of Matt Bloomfield as the new Oxford United boss.",
+    "slug": "yankees-birthday-of-the-day-del-pratt",
+    "title": "Yankees Birthday of the Day: Del Pratt",
+    "description": "Pratt was a very good MLBer, although could be a bit of an irritant.",
     "pubDate": "2026-01-10",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/only-time-tell-bloomfield-man-132843986.html",
+    "link": "https://sports.yahoo.com/articles/yankees-birthday-day-del-pratt-140000654.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "chiefs-news-1-10-the-nfl-is-investigating-rashee-rice",
+    "title": "Chiefs News 1/10: The NFL is investigating Rashee Rice",
+    "description": "The latest Chiefs news, brought fresh to you every morning!",
+    "pubDate": "2026-01-10",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/chiefs-news-1-10-nfl-140000459.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "pre-snap-reads-1-10-the-importance-of-kenneth-walker",
+    "title": "Pre-Snap Reads 1/10: The importance of Kenneth Walker",
+    "description": "Will thet Seahawks re-sign him is still up in the air",
+    "pubDate": "2026-01-10",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/pre-snap-reads-1-10-140000617.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "how-to-watch-unc-basketball-vs-wake-forest",
+    "title": "How to Watch: UNC Basketball vs. Wake Forest",
+    "description": "After a week off, the Tar Heels look to start another winning streak",
+    "pubDate": "2026-01-10",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/watch-unc-basketball-vs-wake-140000619.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "new-orleans-saints-2025-draft-class-in-review",
+    "title": "New Orleans Saints’ 2025 draft class in review",
+    "description": "A breakdown of each selection’s rookie campaign.",
+    "pubDate": "2026-01-10",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/orleans-saints-2025-draft-class-140000483.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "the-golden-fool-s-mailbag-should-the-49ers-trade-for-caleb-downs-are-fans-expectations-too-high-what-about-the-black-unis",
+    "title": "The Golden Fool’s Mailbag: Should the 49ers trade for Caleb Downs? Are fans’ expectations too high? What about the black unis?",
+    "description": "Should the 49ers look into a safety into this year’s draft? More importantly…is Die Hard a Christmas movie?",
+    "pubDate": "2026-01-10",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/golden-fool-mailbag-49ers-trade-140000257.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "sky-sports-man-united-midfielder-could-be-set-for-january-exit",
+    "title": "Sky Sports: Man United midfielder could be set for January exit",
+    "description": "Hull City Target Manchester United Midfielder Toby Collyer on LoanChampionship interest growsHull City’s pursuit of Toby Collyer underlines a growing belief that the Manchester United midfielder is ...",
+    "pubDate": "2026-01-10",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/sky-sports-man-united-midfielder-140000994.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "mets-morning-news-for-january-10-2026",
+    "title": "Mets Morning News for January 10, 2026",
+    "description": "Your Saturday morning dose of New York Mets and MLB news, notes, and links.",
+    "pubDate": "2026-01-10",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/mets-morning-news-january-10-140000603.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "matthew-stafford-myles-garrett-puka-nacua-and-jaxon-smith-njigba-lead-the-2025-associated-press-nfl-all-pro-team",
+    "title": "Matthew Stafford, Myles Garrett, Puka Nacua and Jaxon Smith-Njigba lead the 2025 Associated Press NFL All-Pro Team",
+    "description": "",
+    "pubDate": "2026-01-10",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/matthew-stafford-myles-garrett-puka-135958155.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "here-39-s-how-dakar-39-s-motorcycle-racers-read-maps-at-100-mph-across-the-desert",
+    "title": "Here&#39;s How Dakar&#39;s Motorcycle Racers Read Maps At 100 MPH Across the Desert",
+    "description": "Not only do you need to go fast across the desert at the Dakar Rally, but you need to know where you're going. Reading a Dakar Road Book is essential. Even at 100mph.",
+    "pubDate": "2026-01-10",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/heres-dakars-motorcycle-racers-read-135940998.html",
     "source": "Google News"
   },
   {
@@ -761,142 +878,43 @@
     "description": "American great Lindsey Vonn proved her class at age 41 again when she stormed to a second downhill season victory in Austria on Saturday, less than a month before the Olympics in Italy. Vonn was unstoppable on a shortened course in Altenmarkt-Zauchensee as she claimed an 84th career victory.",
     "pubDate": "2026-01-10",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/vonn-gets-another-downhill-win-132828907.html",
+    "link": "https://sports.yahoo.com/articles/vonn-gets-another-downhill-win-135823302.html",
     "source": "Google News"
   },
   {
-    "slug": "giacomel-gets-another-biathlon-win-to-go-top-in-world-cup",
-    "title": "Giacomel gets another biathlon win to go top in World Cup",
-    "description": "Italy's Tommaso Giacomel survived six penalty laps to claim a dramatic pursuit victory on a windy Saturday in Oberhof and with a third season success in a row moved to the top of the biathlon World Cup standings. Giacomel seemed out of contention one minute off the pace with six missed targets after",
+    "slug": "paddy-pimblett-questions-justin-gaethje-s-sparring-choices-before-ufc-324",
+    "title": "Paddy Pimblett questions Justin Gaethje’s sparring choices before UFC 324",
+    "description": "Paddy Pimblett is feeling confident in the way he’s prepared for UFC 324. The Scouse lightweight has even decided to spend the holiday season away from home, travelling to America early with his coaches.",
     "pubDate": "2026-01-10",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/giacomel-gets-another-biathlon-win-132828599.html",
+    "link": "https://sports.yahoo.com/articles/paddy-pimblett-questions-justin-gaethje-135800954.html",
     "source": "Google News"
   },
   {
-    "slug": "otm-open-thread-1-10-happy-fenway-fest",
-    "title": "OTM Open Thread 1/10: Happy Fenway Fest!",
-    "description": "A gathering of Red Sox fans awaits amid a quiet stretch this winter.",
+    "slug": "brighton-interested-in-signing-hicham-boudaoui-from-nice",
+    "title": "Brighton interested in signing Hicham Boudaoui from Nice",
+    "description": "According to a report from Foot Mercato, Brighton are interested in signing Nice midfielder Hicham Boudaoui (26) during the winter transfer window. The Premier League club are not the only interested...",
     "pubDate": "2026-01-10",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/otm-open-thread-1-10-132817967.html",
+    "link": "https://sports.yahoo.com/articles/brighton-interested-signing-hicham-boudaoui-135700235.html",
     "source": "Google News"
   },
   {
-    "slug": "cardiff-say-transfer-embargo-will-be-39-removed-39",
-    "title": "Cardiff say transfer embargo will be &#39;removed&#39;",
-    "description": "Cardiff City are under a transfer embargo for \"non-submission of annual accounts\", but say the situation will be resolved in the coming days.",
+    "slug": "robinio-vaz-declines-marseille-8217-s-new-contract-roma-at-the-window",
+    "title": "Robinio Vaz declines Marseille&#8217;s new contract, Roma at the window",
+    "description": "Roma have set their sights on Robinio Vaz. Trigoria is interested in the player, and while awaiting news on the Joshua Zirkzee front, the Giallorossi are working on the 2007-born player. The priority ...",
     "pubDate": "2026-01-10",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/cardiff-city-under-transfer-embargo-102509253.html",
+    "link": "https://sports.yahoo.com/articles/robinio-vaz-declines-marseille-contract-135700143.html",
     "source": "Google News"
   },
   {
-    "slug": "rams-vs-panthers-props-best-bets-for-wild-card-weekend-today",
-    "title": "Rams vs Panthers Props & Best Bets for Wild Card Weekend Today",
-    "description": "Target Matthew Stafford, Kyren Williams & Jalen Coker as we dish on our Rams vs. Panthers player prop picks & best bets for Wild Card Weekend on Saturday, January 10, 2026.",
+    "slug": "bears-vs-packers-picks-predictions-who-majority-of-experts-are-taking-for-playoff-game",
+    "title": "Bears vs. Packers picks, predictions: Who majority of experts are taking for playoff game",
+    "description": "The Chicago Bears will take on the Green Bay Packers at Soldier Field on Saturday. Here's who the majority of experts believe will win this game between the NFC North foes.",
     "pubDate": "2026-01-10",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/rams-vs-panthers-props-best-181800004.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "chiefs-new-offensive-coordinator-hire-will-likely-be-a-familiar-name",
-    "title": "Chiefs New Offensive Coordinator HIre Will Likely Be A Familiar Name",
-    "description": "The Kansas City Chiefs will be hiring a new offensive coordinator, and a good chunk of the team’s fan base is hoping for a big change. The Chiefs ended up 1-9 in one-score games, and there were a lot of key drives that didn’t get home when they should have.",
-    "pubDate": "2026-01-10",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/chiefs-offensive-coordinator-hire-likely-132657672.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "mavericks-unlikely-to-move-anthony-davis-before-deadline-after-injury",
-    "title": "Mavericks unlikely to move Anthony Davis before deadline after injury",
-    "description": "Mavericks unlikely to move Anthony Davis before deadline after injury",
-    "pubDate": "2026-01-10",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/mavericks-unlikely-move-anthony-davis-132559270.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "he-s-expected-to-be-sidelined-for-several-weeks-even",
-    "title": "He’s expected to be sidelined for several weeks even …",
-    "description": "He’s expected to be sidelined for several weeks even …",
-    "pubDate": "2026-01-10",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/expected-sidelined-several-weeks-even-132558893.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "was-that-a-hard-process-and-understanding-what-trade",
-    "title": "Was that a hard process and understanding what trade …",
-    "description": "Was that a hard process and understanding what trade …",
-    "pubDate": "2026-01-10",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/hard-process-understanding-trade-132557424.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "what-happened-in-minnesota-was-a-straight-up-murder",
-    "title": "“What happened in Minnesota was a straight-up murder, …",
-    "description": "“What happened in Minnesota was a straight-up murder, …",
-    "pubDate": "2026-01-10",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/happened-minnesota-straight-murder-132556900.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "i-m-glad-that-the-timberwolves-recognized-her-life",
-    "title": "“I’m glad that the Timberwolves recognized her life …",
-    "description": "“I’m glad that the Timberwolves recognized her life …",
-    "pubDate": "2026-01-10",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/m-glad-timberwolves-recognized-her-132555965.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "barcelona-end-transfer-speculation-as-forward-8217-s-first-team-status-confirmed",
-    "title": "Barcelona end transfer speculation as forward&#8217;s first team status confirmed",
-    "description": "In recent weeks, a number of Barcelona players have been linked with leaving the club during the winter transfer window. One of those has been Roony Bardghji, but any doubts about his immediate future...",
-    "pubDate": "2026-01-10",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/barcelona-end-transfer-speculation-forward-132500588.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "rams-vs-panthers-predictions-picks-best-bets-for-wild-card-weekend-today",
-    "title": "Rams vs Panthers Predictions, Picks & Best Bets for Wild Card Weekend Today",
-    "description": "Get the best Rams vs. Panthers predictions ahead of Saturday's Wild Card Weekend game. Free NFL picks for January 10, 2026.",
-    "pubDate": "2026-01-10",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/rams-vs-panthers-predictions-picks-160000474.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "jon-jones-says-gable-steveson-could-eclipse-daniel-cormier-at-heavyweight",
-    "title": "Jon Jones says Gable Steveson could eclipse Daniel Cormier at heavyweight",
-    "description": "Jon Jones says he feels confident his biggest rival will always be a step behind him. Jones and Cormier, who were both featured as coaches on the new ALF Reality series, have been spending more time around each other.",
-    "pubDate": "2026-01-10",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/jon-jones-says-gable-steveson-132500777.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "everton-0-1-sunderland-fa-cup-live-second-half-underway",
-    "title": "Everton 0-1 Sunderland: FA Cup Live | Second half underway",
-    "description": "Blues start their annual FA Cup campaign at home against Premier League opposition",
-    "pubDate": "2026-01-10",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/everton-vs-sunderland-fa-cup-090000027.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "tennessee-vs-florida-prediction-picks-odds-for-today-39-s-college-basketball-game",
-    "title": "Tennessee vs Florida Prediction, Picks & Odds for Today&#39;s College Basketball Game",
-    "description": "Our Tennessee vs. Florida predictions believe the Gators will win for fun. Free college basketball picks for Saturday, January 10, 2026.",
-    "pubDate": "2026-01-10",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/tennessee-vs-florida-prediction-picks-132400373.html",
+    "link": "https://sports.yahoo.com/articles/bears-vs-packers-picks-predictions-135610116.html",
     "source": "Google News"
   },
   {
@@ -1044,15 +1062,6 @@
     "source": "BBC Sport"
   },
   {
-    "slug": "i-ve-worked-so-hard-for-this-opportunity-rosenior",
-    "title": "I've worked so hard for this opportunity - Rosenior",
-    "description": "New Chelsea head coach Liam Rosenior says he has \"worked so hard my whole life for this opportunity\" in his first news conference as Blues boss.",
-    "pubDate": "2026-01-09",
-    "image": "",
-    "link": "https://www.bbc.com/sport/football/videos/c1wz0ve8xqdo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport"
-  },
-  {
     "slug": "littler-signs-sponsorship-deal-worth-reported-20m",
     "title": "Littler signs sponsorship deal worth reported £20m",
     "description": "World number one Luke Littler signs a record sponsorship deal for a darts player worth a reported £20m.",
@@ -1095,6 +1104,15 @@
     "pubDate": "2026-01-09",
     "image": "",
     "link": "https://www.bbc.com/sport/football/articles/cx2kg8djv7jo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport"
+  },
+  {
+    "slug": "i-ve-worked-so-hard-for-this-opportunity-rosenior",
+    "title": "I've worked so hard for this opportunity - Rosenior",
+    "description": "New Chelsea head coach Liam Rosenior says he has \"worked so hard my whole life for this opportunity\" in his first news conference as Blues boss.",
+    "pubDate": "2026-01-09",
+    "image": "",
+    "link": "https://www.bbc.com/sport/football/videos/c1wz0ve8xqdo?at_medium=RSS&at_campaign=rss",
     "source": "BBC Sport"
   },
   {
@@ -1251,15 +1269,6 @@
     "source": "BBC Sport"
   },
   {
-    "slug": "battle-at-the-bottom-altena-o-neill-in-focus",
-    "title": "Battle at the bottom, Altena & O'Neill in focus",
-    "description": "Livingston host Kilmarnock in a vital match at the bottom of the Scottish Premiership as Martin O'Neill returns to the Celtic dugout and Hearts new boy Jordi Altena bids to build on a promising debut.",
-    "pubDate": "2026-01-09",
-    "image": "",
-    "link": "https://www.bbc.com/sport/football/articles/ce8ryj3n7r5o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport"
-  },
-  {
     "slug": "how-to-follow-the-fa-cup-on-the-bbc-this-weekend",
     "title": "How to follow the FA Cup on the BBC this weekend",
     "description": "BBC Sport Ask Me Anything explains how to follow the FA Cup third round on TV and radio this weekend.",
@@ -1356,15 +1365,6 @@
     "pubDate": "2026-01-08",
     "image": "",
     "link": "https://www.bbc.com/sport/football/videos/cz0pl2jz5x9o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport"
-  },
-  {
-    "slug": "the-culture-needs-to-change-vaughan-on-brook-nightclub-altercation",
-    "title": "'The culture needs to change' - Vaughan on Brook nightclub altercation",
-    "description": "Michael Vaughan gives his thoughts on England's white-ball captain, Harry Brook, after he apologised for being involved in an altercation with a nightclub bouncer the night before a one-day international on the tour of New Zealand that preceded the Ashes.",
-    "pubDate": "2026-01-08",
-    "image": "",
-    "link": "https://www.bbc.com/sport/cricket/videos/c3ed43qdw50o?at_medium=RSS&at_campaign=rss",
     "source": "BBC Sport"
   },
   {
