@@ -11,7 +11,7 @@
   {
     "slug": "bears-roar-back-for-first-playoff-win-in-15-years",
     "title": "Bears roar back for first playoff win in 15 years",
-    "description": "Quarterback Caleb Williams came through in his playoff debut, throwing a go-ahead, 25-yard touchdown pass to DJ Moore with 1:43 remaining, and the Chicago Bears rallied from an 18-point deficit to defeat the Green Bay Packers 31-27 in the wild-card round.",
+    "description": "Quarterback Caleb Williams came through in his playoff debut, throwing a go-ahead, 25-yard touchdown pass to DJ Moore with 1:43 remaining. The Chicago Bears rallied from an 18-point deficit to defeat the Green Bay Packers 31-27 in the wild-card round.",
     "pubDate": "2026-01-11",
     "image": "",
     "link": "https://www.espn.com/nfl/story/_/id/47577556/caleb-williams-orchestrates-comeback-bears-outlast-packers",
@@ -25,6 +25,15 @@
     "image": "",
     "link": "https://www.espn.com/mlb/story/_/id/47576883/sources-alex-bregman-agrees-5-year-175m-deal-cubs",
     "source": "Jeff Passan"
+  },
+  {
+    "slug": "c-s-brown-rips-refs-after-loss-i-ll-take-the-fine",
+    "title": "C's Brown rips refs after loss: 'I'll take the fine'",
+    "description": "Celtics star Jaylen Brown was furious with the officiating in his team's 100-95 loss to the Spurs, saying he's tired of not getting the same calls as the opponent.",
+    "pubDate": "2026-01-11",
+    "image": "",
+    "link": "https://www.espn.com/nba/story/_/id/47577711/celtics-jaylen-brown-rips-officiating-loss-spurs",
+    "source": "Tim Bontemps"
   },
   {
     "slug": "stafford-shows-mvp-stuff-in-rams-clinching-drive",
@@ -72,15 +81,6 @@
     "source": "David Newton"
   },
   {
-    "slug": "wisconsin-hands-no-2-michigan-first-loss-of-year",
-    "title": "Wisconsin hands No. 2 Michigan first loss of year",
-    "description": "John Blackwell, Nick Boyd and Aleksas Bieliauskas combined for 65 points to lead Wisconsin to a 91-88 upset of No. 2 Michigan, the Wolverines first loss of the season.",
-    "pubDate": "2026-01-11",
-    "image": "",
-    "link": "https://www.espn.com/mens-college-basketball/story/_/id/47573030/no-2-michigan-upset-wisconsin-first-loss-season",
-    "source": "www.espn.com - TOP"
-  },
-  {
     "slug": "offseason-guide-for-all-eliminated-nfl-teams",
     "title": "👀 Offseason guide for all eliminated NFL teams",
     "description": "The NFL offseason has arrived for 20 teams. What must each do to have a better season in 2026? We have outlooks, early buzz and predictions.",
@@ -124,6 +124,24 @@
     "image": "",
     "link": "https://www.espn.com/mlb/story/_/id/46994593/2025-26-mlb-offseason-grades-free-agency-trade-analysis",
     "source": "Bradford Doolittle and David Schoenfield"
+  },
+  {
+    "slug": "cfp-national-championship-first-look-previewing-miami-indiana",
+    "title": "CFP National Championship first look: Previewing Miami-Indiana",
+    "description": "How either Miami or Indiana can win the title, plus X factors for both teams.",
+    "pubDate": "2026-01-11",
+    "image": "",
+    "link": "https://www.espn.com/college-football/story/_/id/47560626/college-football-playoff-national-championship-preview-miami-indiana",
+    "source": "ESPN"
+  },
+  {
+    "slug": "semifinal-takeaways-utter-dominance-has-become-the-norm-for-indiana",
+    "title": "Semifinal takeaways: Utter dominance has become the norm for Indiana",
+    "description": "The Hoosiers (somehow) keep getting better. How can Miami slow them down?",
+    "pubDate": "2026-01-11",
+    "image": "",
+    "link": "https://www.espn.com/college-football/story/_/id/47555225/college-football-playoff-semifinals-2025-takeaways-every-game",
+    "source": "Bill Connelly"
   },
   {
     "slug": "fa-cup-biggest-shock-ever-macclesfield-stun-holders-palace",
@@ -225,8 +243,26 @@
     "source": "ESPN"
   },
   {
-    "slug": "bears-score-25-points-in-final-quarter-comeback-to-beat-packers",
-    "title": "Bears score 25 points in final-quarter comeback to beat Packers",
+    "slug": "nfl-wild-card-round-expect-a-tight-game-between-49ers-and-eagles",
+    "title": "NFL wild-card round: Expect a tight game between 49ers and Eagles",
+    "description": "Odds, game picks, prop plays, betting advice and daily fantasy tips for the 49ers-Eagles wild-card matchup.",
+    "pubDate": "2026-01-11",
+    "image": "",
+    "link": "https://www.espn.com/espn/betting/story/_/id/47562066/2025-nfl-playoffs-wild-card-odds-lines-spread-betting-picks-dfs-tips-sunday-football-preview-49ers-eagles",
+    "source": "ESPN"
+  },
+  {
+    "slug": "the-2026-championship-parlays-from-conservative-plays-to-huge-potential-payouts",
+    "title": "The 2026 championship parlays: From conservative plays to huge potential payouts",
+    "description": "We go on record picking this year's champions, beginning with the CFP and ending with the World Series.",
+    "pubDate": "2026-01-11",
+    "image": "",
+    "link": "https://www.espn.com/espn/betting/story/_/id/47527342/2026-college-football-nfl-mlb-nba-nhl-super-bowl-stanley-cup-majors",
+    "source": "ESPN"
+  },
+  {
+    "slug": "bears-score-25-points-in-epic-final-quarter-comeback-to-beat-packers",
+    "title": "Bears score 25 points in epic final-quarter comeback to beat Packers",
     "description": "The NFL play-offs get off to a thrilling start as the Chicago Bears make a stunning fightback and the Los Angeles Rams avoid a huge upset on Wildcard Weekend.",
     "pubDate": "2026-01-11",
     "image": "",
@@ -234,453 +270,453 @@
     "source": "BBC Sport"
   },
   {
-    "slug": "uc-irvine-narrowly-avoids-upset-by-hawaii",
-    "title": "UC Irvine narrowly avoids upset by Hawaii",
-    "description": "UC Irvine’s Hunter Hernandez led all scorers with 20 points and the Big West-leading Anteaters survived a tremendous effort from the Hawaii women’s basketball team in a 50-47 victory today at Bren Events Center in Irvine, Calif. Jada Wynn added 15 points, including a turnaround jumper in the key wit",
+    "slug": "ben-johnson-explains-how-packers-gave-bears-extra-motivation-before-wild-card-game",
+    "title": "Ben Johnson explains how Packers gave Bears extra motivation before wild-card game",
+    "description": "Chicago Bears head coach Ben Johnson admitted the win over the Green Bay Packers meant just a little bit more to his team. He explained why after the contest.",
     "pubDate": "2026-01-11",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/uc-irvine-narrowly-avoids-upset-050100995.html",
+    "link": "https://sports.yahoo.com/articles/ben-johnson-explains-packers-gave-054236205.html",
     "source": "Google News"
   },
   {
-    "slug": "nfl-world-reacts-to-panthers-39-absolutely-wild-near-upset-of-rams",
-    "title": "NFL world reacts to Panthers&#39; absolutely wild near-upset of Rams",
-    "description": "The Panthers might not have come out with a win on Saturday. But they still left their mark with a near-upset of the Rams.",
+    "slug": "rome-odunze-takes-down-ben-johnson-after-wild-bears-vs-packers-final",
+    "title": "Rome Odunze takes down Ben Johnson after wild Bears vs. Packers final",
+    "description": "The Chicago Bears' 31-27 win over the rival Green Bay Packers set off a wave of celebration. See the best postgame reactions.",
     "pubDate": "2026-01-11",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/nfl-world-reacts-panthers-absolutely-045505468.html",
+    "link": "https://sports.yahoo.com/articles/rome-odunze-takes-down-ben-054119140.html",
     "source": "Google News"
   },
   {
-    "slug": "packers-vs-bears-carrington-valentine-s-naruto-run-after-picking-off-caleb-williams-goes-viral",
-    "title": "Packers vs. Bears: Carrington Valentine’s ‘Naruto Run’ After Picking Off Caleb Williams Goes Viral",
-    "description": "In what was supposed to be the biggest game of his young career, Chicago Bears quarterback Caleb Williams made a brutal mistake. And somehow got bailed out by the defender who intercepted him.",
+    "slug": "mlb-hot-stove-tracker-live-updates-on-news-rumors-signings-and-trades-for-2025-free-agency",
+    "title": "MLB Hot Stove tracker: Live updates on news, rumors, signings and trades for 2025 free agency",
+    "description": "The Sporting News is tracking MLB rumors, signings and trades from the MLB offseason",
     "pubDate": "2026-01-11",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/packers-vs-bears-carrington-valentine-045502140.html",
+    "link": "https://sports.yahoo.com/articles/mlb-winter-meetings-tracker-live-060002473.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "bears-39-ben-johnson-packers-matt-lafleur-share-awkward-postgame-handshake",
+    "title": "Bears&#39; Ben Johnson, Packers Matt LaFleur share awkward postgame handshake",
+    "description": "The Bears and Packers head coaches are used to having short interactions on the field after games.",
+    "pubDate": "2026-01-11",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/bears-ben-johnson-packers-matt-054052818.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "jaylen-brown-unloads-on-officials-after-receiving-0-free-throws-in-loss-to-spurs-39-give-me-the-fine-39",
+    "title": "Jaylen Brown unloads on officials after receiving 0 free throws in loss to Spurs: &#39;Give me the fine&#39;",
+    "description": "The Celtics star didn't hold back on the refs after a frustrating game against the Spurs.",
+    "pubDate": "2026-01-11",
+    "image": "",
+    "link": "https://sports.yahoo.com/nba/article/jaylen-brown-unloads-on-officials-after-receiving-0-free-throws-in-loss-to-spurs-give-me-the-fine-054026857.html",
+    "source": "Jack Baer"
+  },
+  {
+    "slug": "byu-holds-on-late-to-beat-utah-snap-huntsman-center-skid",
+    "title": "BYU Holds on Late to Beat Utah, Snap Huntsman Center Skid",
+    "description": "Utah made the game closer than expected, but BYU held the lead the entire second half and beat Utah 89-84 Saturday night in Salt Lake City. BYU’s big three carried the scoring once again, led by 24 points and 14 rebounds (6 offensive) from Richie Saunders. Richie was able to get into the lane and […",
+    "pubDate": "2026-01-11",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/byu-holds-beat-utah-snap-054023099.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "packers-snap-counts-trevon-diggs-played-1-snap-vs-bears",
+    "title": "Packers Snap Counts: Trevon Diggs played 1 snap vs. Bears",
+    "description": "It was almost all Keisean Nixon and Carrington Valentine at cornerback against Chicago in the Packers’ playoff loss.",
+    "pubDate": "2026-01-11",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/packers-snap-counts-trevon-diggs-053815586.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "jaylen-brown-admits-to-fourth-quarter-shortcomings-before-roasting-refs-after-loss-to-spurs",
+    "title": "Jaylen Brown admits to fourth-quarter shortcomings before roasting refs after loss to Spurs",
+    "description": "Celtics star Jaylen Brown took responsibility for his mistakes against the Spurs, but he wasn't about to let the refs off the hook.",
+    "pubDate": "2026-01-11",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/jaylen-brown-admits-fourth-quarter-053750548.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "bears-rams-claim-thrilling-nfl-play-off-wins",
+    "title": "Bears & Rams claim thrilling NFL play-off wins",
+    "description": "The NFL play-offs get off to a thrilling start as the Chicago Bears make a stunning fightback and the Los Angeles Rams avoid a huge upset on Wildcard Weekend.",
+    "pubDate": "2026-01-11",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/rams-survive-scare-beat-panthers-011019137.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "caleb-williams-stats-bears-qb-makes-history-in-comeback-win-over-packers",
+    "title": "Caleb Williams stats: Bears QB makes history in comeback win over Packers",
+    "description": "The Bears offense scored 25 points in the fourth quarter.",
+    "pubDate": "2026-01-11",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/caleb-williams-stats-bears-qb-053356118.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "what-matt-lafleur-had-to-say-after-packers-39-stunning-playoff-collapse-in-chicago",
+    "title": "What Matt LaFleur had to say after Packers&#39; stunning playoff collapse in Chicago",
+    "description": "Here's everything Matt LaFleur had to say following the Packers' stunning loss to the Bears in the NFC Wild Card Round.",
+    "pubDate": "2026-01-11",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/matt-lafleur-had-packers-stunning-053224055.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "report-lane-johnson-will-play-in-eagles-49ers-game",
+    "title": "Report: Lane Johnson WILL play in Eagles-49ers game",
+    "description": "The latest development in the Lane Johnson rollercoaster news cycle this week.",
+    "pubDate": "2026-01-11",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/report-lane-johnson-play-eagles-053109033.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "nfl-world-reacts-to-bears-39-stunning-comeback-win-over-packers",
+    "title": "NFL world reacts to Bears&#39; stunning comeback win over Packers",
+    "description": "The Bears mounted an unbelievable comeback against the Packers to win their wild card matchup. Here is how social media reacted to the win.",
+    "pubDate": "2026-01-11",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/nfl-world-reacts-bears-stunning-053103274.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "united-to-announce-new-caretaker-manager-in-the-next-48-hours",
+    "title": "United to announce new caretaker manager in the next 48 hours",
+    "description": "Manchester United will begin their FA Cup campaign with a home tie against fellow Premier League side Brighton and Hove Albion on Sunday.Darren Fletcher will continue to lead the team following Ruben ...",
+    "pubDate": "2026-01-11",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/united-announce-caretaker-manager-next-053000610.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "for-ilia-malinin-his-first-winter-olympics-makes-for-a-family-affair",
+    "title": "For Ilia Malinin, his first Winter Olympics makes for a family affair",
+    "description": "On a messy night of men’s skating at the U.S. championships, Malinin won by more than 50 points. Now, he'll dazzle on Olympic ice.",
+    "pubDate": "2026-01-11",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/ilia-malinin-first-winter-olympics-052754970.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "matt-lafleur-declines-to-address-his-future-with-the-packers",
+    "title": "Matt LaFleur declines to address his future with the Packers",
+    "description": "\"Now's not the time,\" LaFleur said.",
+    "pubDate": "2026-01-11",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/matt-lafleur-declines-address-future-052733213.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "t-j-edwards-to-miss-rest-of-season-with-fractured-fibula",
+    "title": "T.J. Edwards to miss rest of season with fractured fibula",
+    "description": "The Bears won't have linebacker T.J.",
+    "pubDate": "2026-01-11",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/t-j-edwards-miss-rest-052606553.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "virginia-tech-football-duke-wr-que-sean-brown-transfers-to-hokies",
+    "title": "Virginia Tech football: Duke WR Que’Sean Brown transfers to Hokies",
+    "description": "The Hokies land an immediate starting WR in Que’Sean Brown.",
+    "pubDate": "2026-01-11",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/virginia-tech-football-duke-wr-052429555.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "nate-oats-calls-out-alabama-basketball-for-having-39-no-respect-39-for-teammates",
+    "title": "Nate Oats calls out Alabama basketball for having &#39;no respect&#39; for teammates",
+    "description": "Alabama basketball coach Nate Oats isn't seeing his players give each other the \"respect\" required to win, and challenges leaders to step forward.",
+    "pubDate": "2026-01-11",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/nate-oats-calls-alabama-basketball-052345169.html",
     "source": "Google News"
   },
   {
     "slug": "bears-take-down-packers-in-another-thrilling-comeback-victory-advance-to-next-round-of-playoffs",
     "title": "Bears take down Packers in another thrilling comeback victory, advance to next round of playoffs",
-    "description": "The Chicago Bears beat the Green Bay Packers 31-27 Saturday night in a rare matchup for the NFL playoffs, with yet another comeback victory.",
+    "description": "The Chicago Bears beat the Green Bay Packers 31-27 Saturday night in a rare matchup for the NFL playoffs, with yet another thrilling comeback victory.",
     "pubDate": "2026-01-11",
     "image": "",
     "link": "https://sports.yahoo.com/articles/bears-packers-wild-card-game-225755236.html",
     "source": "Google News"
   },
   {
-    "slug": "39-quad-god-39-malinin-warms-up-for-olympics-with-us-skating-crown",
-    "title": "&#39;Quad God&#39; Malinin warms up for Olympics with US skating crown",
-    "description": "Ilia Malinin kept his eyes on the ultimate prize Saturday, winning his fourth straight US Figure Skating men's title with a conservative free skate in the final build-up to his bid for Olympic gold.Malinin will be the men's headline act when the US team for next month's Milan-Cortina Olympics is ann",
+    "slug": "ben-johnson-provides-injury-update-on-bears-lb-t-j-edwards",
+    "title": "Ben Johnson provides injury update on Bears LB T.J. Edwards",
+    "description": "Bears linebacker T.J. Edwards suffered an ankle injury in Saturday's comeback win vs. the Packers. Ben Johnson shared the latest on Edwards.",
     "pubDate": "2026-01-11",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/quad-god-malinin-warms-olympics-045330959.html",
+    "link": "https://sports.yahoo.com/articles/ben-johnson-provides-injury-bears-052305699.html",
     "source": "Google News"
   },
   {
-    "slug": "the-emotions-were-really-high-richard-petty-looks-back-fondly-on-the-final-race-of-his-nascar-career",
-    "title": "“The Emotions Were Really High”: Richard Petty Looks Back Fondly on the Final Race of His NASCAR Career",
-    "description": "Richard Petty’s seven NASCAR Cup Championships and his streak of 200 victories across 35 years of racing remain as unsurpassed monuments in the sport. Given the format alterations NASCAR continues implementing, his records appear safe from being overtaken by any contemporary driver anytime soon.",
+    "slug": "t-j-edwards-ozzy-trapilo-injury-updates-after-win-vs-packers-are-bad-news-for-bears",
+    "title": "T.J. Edwards, Ozzy Trapilo injury updates after win vs. Packers are bad news for Bears",
+    "description": "The Chicago Bears managed to defeat the Green Bay Packers on Saturday night, but the team has lost two key players for the remainder of the postseason.",
     "pubDate": "2026-01-11",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/emotions-were-really-high-richard-045040123.html",
+    "link": "https://sports.yahoo.com/articles/t-j-edwards-ozzy-trapilo-052206031.html",
     "source": "Google News"
   },
   {
-    "slug": "chicago-cubs-free-agent-3rd-baseman-alex-bregman-agree-to-5-year-175m-deal-sources",
-    "title": "Chicago Cubs, free agent 3rd baseman Alex Bregman agree to 5-year, $175M deal: Sources",
-    "description": "Third baseman Alex Bregman and the Chicago Cubs have agreed to a five-year, $175 million contract, sources told ESPN, landing the three-time All-Star with the Cubs one year after their failed pursuit of him in free agency.",
+    "slug": "islanders-4-wild-3-ot-simon-and-ilya-save-the-day",
+    "title": "Islanders 4, Wild 3 (OT): Simon and Ilya save the day",
+    "description": "Simon Holmstrom had his biggest game as an Islander and Ilya Sorokin kept the Wild barrage at bay as the Isles won in overtime, 4-3 in Minnesota. This was an occasion where the Islanders were not the better side, but they refused to wilt nor slow their tempo against one of the top teams in […]",
     "pubDate": "2026-01-11",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/chicago-cubs-free-agent-3rd-044913853.html",
+    "link": "https://sports.yahoo.com/articles/islanders-4-wild-3-ot-052033546.html",
     "source": "Google News"
   },
   {
-    "slug": "seahawks-nfc-playoff-bracket-what-saturday-s-wild-card-results-means-for-seattle",
-    "title": "Seahawks NFC playoff bracket: What Saturday’s Wild Card results means for Seattle",
-    "description": "It would’ve been nice to play the Packers or Panthers instead of a division rival again, but that won’t happen for the Seahawks.",
+    "slug": "nc-state-adds-three-portal-players-on-saturday-including-edge-harvey-dyson",
+    "title": "NC State adds three portal players on Saturday, including EDGE Harvey Dyson",
+    "description": "NC State added three transfer players on Saturday, highlighted by Tulane EDGE Harvey Dyson, who led the AAC with 8.0 sacks in 2025. Dyson totaled 36 tackles, with 11.5 TFL, and should provide a much-needed boost to State’s pass rush this fall. He has one year of eligibility left. The bulk of the Pac",
     "pubDate": "2026-01-11",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/seahawks-nfc-playoff-bracket-saturday-044902951.html",
+    "link": "https://sports.yahoo.com/articles/nc-state-adds-three-portal-052026601.html",
     "source": "Google News"
   },
   {
-    "slug": "bears-rally-again-in-fourth-quarter-to-beat-packers-31-27",
-    "title": "Bears rally again in fourth quarter to beat Packers 31-27",
-    "description": "DJ Moore caught a 25-yard touchdown pass with 1:43 left to slay the Packers for a second time in three weeks.",
+    "slug": "matt-lafleur-now-is-not-the-time-to-talk-contract-extension",
+    "title": "Matt LaFleur: Now is not the time to talk contract extension",
+    "description": "After the loss to the Chicago Bears, Green Bay Packers head coach Matt LaFleur didn’t want to talk contract.",
     "pubDate": "2026-01-11",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/bears-rally-again-fourth-quarter-044730834.html",
+    "link": "https://sports.yahoo.com/articles/matt-lafleur-now-not-time-051607505.html",
     "source": "Google News"
   },
   {
-    "slug": "green-bay-collapse-could-spell-doom-for-matt-lafleur",
-    "title": "Green Bay collapse could spell doom for Matt LaFleur",
-    "description": "The good news for Packers coach Matt LaFleur?",
+    "slug": "don-39-t-blame-alabama-39-s-nate-oats-for-stoppages-blame-ncaa-goodbread",
+    "title": "Don&#39;t blame Alabama&#39;s Nate Oats for stoppages, blame NCAA | Goodbread",
+    "description": "Appeal after appeal slowed the pace of Alabama basketball's loss to Texas. Here's why the NCAA should do something about it.",
     "pubDate": "2026-01-11",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/green-bay-collapse-could-spell-044726550.html",
+    "link": "https://sports.yahoo.com/articles/dont-blame-alabamas-nate-oats-051523618.html",
     "source": "Google News"
   },
   {
-    "slug": "penn-state-football-roster-tracker-who-s-staying-who-s-coming-who-s-going",
-    "title": "Penn State football roster tracker: Who’s staying, who’s coming, who’s going",
-    "description": "Players returning Owen Aliciene: OL, freshman Liam Andrews: DT, redshirt freshman Ryan Barker: K, redshirt sophomore Ty Blanding: DT, redshirt sophomore Henry Boehm: OL, redshirt sophomore Caleb Brewer: OL, redshirt freshman Dayshaun Burnett: DE, freshman Audavion Collins: CB, redshirt junior De’And",
+    "slug": "moldy-cheese-packers-blow-lead-against-bears-and-matt-lafleur-must-be-fired",
+    "title": "Moldy Cheese: Packers Blow Lead Against Bears and Matt LaFleur Must Be Fired",
+    "description": "The Green Bay squandered a commanding lead against the Chicago Bears, revealing a pattern of fear-based coaching. The franchise rot starts at the top.",
     "pubDate": "2026-01-11",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/penn-state-football-roster-tracker-044700459.html",
+    "link": "https://sports.yahoo.com/articles/moldy-cheese-packers-blow-lead-051456371.html",
     "source": "Google News"
   },
   {
-    "slug": "bears-31-packers-27-caleb-williams-bears-pull-off-another-miracle-comeback-to-advance-to-nfc-divisional",
-    "title": "Bears 31, Packers 27: Caleb Williams, Bears pull off another miracle comeback to advance to NFC Divisional",
-    "description": "CHICAGO — Do you believe in miracles? Yes! Apparently, even 21-3 halftime deficits aren’t too much for the Cardiac Bears. Caleb Williams did everything you could possibly ask of him down...",
+    "slug": "south-bay-lakers-recap-g-league-lakers-drop-back-to-back-set-to-spurs",
+    "title": "South Bay Lakers recap: G League Lakers drop back-to-back set to Spurs",
+    "description": "The G League Lakers lost back-to-back games on Friday and Saturday to the Spurs on the road.",
     "pubDate": "2026-01-11",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/bears-31-packers-27-caleb-044631119.html",
+    "link": "https://sports.yahoo.com/articles/south-bay-lakers-recap-g-051444315.html",
     "source": "Google News"
   },
   {
-    "slug": "madison-chock-evan-bates-win-seventh-u-s-ice-dance-title-eye-olympic-medal",
-    "title": "Madison Chock, Evan Bates win seventh U.S. ice dance title, eye Olympic medal",
-    "description": "ST. LOUIS — Consistency is its own form of belief. Confidence in accrued success. That’s why Madison Chock and Evan Bates, certainly headed to their fourth Winter Olympics, won’t be changing their approach. If the American duo is to finally make an Olympic podium in the ice dance, it will be because",
+    "slug": "packers-kicker-brandon-mcmanus-has-brutal-game-in-loss-to-bears-social-media-reacts",
+    "title": "Packers kicker Brandon McManus has brutal game in loss to Bears, social media reacts",
+    "description": "Brandon McManus is getting much of blame after he missed three kicks in Packers' devastating 31-27 wild-card playoff loss to the Bears.",
     "pubDate": "2026-01-11",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/madison-chock-evan-bates-win-044604982.html",
+    "link": "https://sports.yahoo.com/articles/packers-kicker-brandon-mcmanus-brutal-051426185.html",
     "source": "Google News"
   },
   {
-    "slug": "penn-state-adds-freshman-all-american-2-others-from-transfer-portal",
-    "title": "Penn State adds Freshman All-American, 2 others from transfer portal",
-    "description": "Texas State center Brock Riker, a Freshman All-America second-team selection, announced early Saturday morning that he’s transferring to Penn State. Also early Saturday morning, Cooper Alexander became the third Iowa State tight end to declare he will play for the Nittany Lions, following Benjamin B",
+    "slug": "packers-kicker-brandon-mcmanus-has-brutal-game-in-loss-to-bears-social-media-reacts",
+    "title": "Packers kicker Brandon McManus has brutal game in loss to Bears, social media reacts",
+    "description": "Brandon McManus is getting much of blame after he missed three kicks in Packers' devastating 31-27 wild-card playoff loss to the Bears.",
     "pubDate": "2026-01-11",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/penn-state-adds-freshman-american-044600687.html",
+    "link": "https://sports.yahoo.com/articles/packers-kicker-brandon-mcmanus-brutal-051426967.html",
     "source": "Google News"
   },
   {
-    "slug": "after-packers-loss-cowboys-now-know-all-39-26-assigned-draft-pick-slots",
-    "title": "After Packers loss, Cowboys now know all &#39;26 assigned draft pick slots",
-    "description": "A furious comeback by the Chicago Bears cements the Cowboys' set of draft picks in 2026.",
+    "slug": "the-green-bay-packers-need-to-move-on-from-matt-lafleur-after-wild-card-disaster",
+    "title": "The Green Bay Packers need to move on from Matt LaFleur after wild card disaster",
+    "description": "Matt LaFleur can't survive that historic meltdown.",
     "pubDate": "2026-01-11",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/packers-loss-cowboys-now-know-044451447.html",
+    "link": "https://sports.yahoo.com/articles/green-bay-packers-move-matt-051355969.html",
     "source": "Google News"
   },
   {
-    "slug": "what-is-the-nfl-play-off-schedule",
-    "title": "What is the NFL play-off schedule?",
-    "description": "BBC Sport's Ask Me Anything team explains how the NFL play-offs work, as well as a full rundown of the schedule",
+    "slug": "mark-pope-gives-jaland-lowe-injury-update-says-all-options-are-on-the-table",
+    "title": "Mark Pope gives Jaland Lowe injury update: Says all options are on the table",
+    "description": "Could Jaland Lowe’s season be over?",
     "pubDate": "2026-01-11",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/nfl-play-offs-141744630.html",
+    "link": "https://sports.yahoo.com/articles/mark-pope-gives-jaland-lowe-051353805.html",
     "source": "Google News"
   },
   {
-    "slug": "second-half-collapse-ends-packers-season-in-31-27-playoff-loss-to-bears",
-    "title": "Second-half collapse ends Packers season in 31-27 playoff loss to Bears",
-    "description": "The third rendition of their rivalry this season followed the same script as the previous two. All Packers in the first half. All Bears in the second.",
+    "slug": "we-now-know-where-cowboys-39-first-round-pick-from-packers-trade-will-land-in-2026-nfl-draft",
+    "title": "We now know where Cowboys&#39; first-round pick from Packers trade will land in 2026 NFL draft",
+    "description": "The Dallas Cowboys now know where their first-round pick acquired from the Green Bay Packers will sit in the 2026 NFL draft after the Packers' season ended on Saturday night in the wild-card game against the Chicago Bears.",
     "pubDate": "2026-01-11",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/second-half-collapse-ends-packers-044418997.html",
+    "link": "https://sports.yahoo.com/articles/now-know-where-cowboys-first-051313889.html",
     "source": "Google News"
   },
   {
-    "slug": "bears-bregman-give-chicago-a-night-the-windy-city-won-39-t-soon-forget",
-    "title": "Bears, Bregman give Chicago a night the Windy City won&#39;t soon forget",
-    "description": "What a finish, and what a night.",
+    "slug": "biggest-nfl-playoff-comebacks-ever-where-bears-packers-ranks-on-all-time-list",
+    "title": "Biggest NFL playoff comebacks ever: Where Bears-Packers ranks on all-time list",
+    "description": "The Bears were comeback kings all season long, and they pulled off another in the wild-card round.",
     "pubDate": "2026-01-11",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/bears-bregman-chicago-night-windy-044410715.html",
+    "link": "https://sports.yahoo.com/articles/biggest-nfl-playoff-comebacks-ever-051214277.html",
     "source": "Google News"
   },
   {
-    "slug": "dalton-smith-knocks-out-subriel-matias-to-win-wbc-title",
-    "title": "Dalton Smith knocks out Subriel Matias to win WBC title",
-    "description": "Dalton Smith has claimed his first world title by beating Subriel Matias.",
+    "slug": "county-champs-plainfield-rolls-to-first-hendricks-county-title-in-17-years",
+    "title": "County champs: Plainfield rolls to first Hendricks County title in 17 years",
+    "description": "Plainfield jumps out to big lead, cruises to first Hendricks County championship since 2009 with win over Brownsburg.",
     "pubDate": "2026-01-11",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/dalton-smith-knocks-subriel-matias-044213189.html",
+    "link": "https://sports.yahoo.com/articles/county-champs-plainfield-rolls-first-051136296.html",
     "source": "Google News"
   },
   {
-    "slug": "kentucky-lands-coveted-texas-transfer-elijah-bo-barnes",
-    "title": "Kentucky lands coveted Texas transfer Elijah ‘Bo’ Barnes",
-    "description": "Kentucky lands a former 5-star recruit who was among the top players in the transfer portal.",
+    "slug": "county-champs-plainfield-rolls-to-first-hendricks-county-title-in-17-years",
+    "title": "County champs: Plainfield rolls to first Hendricks County title in 17 years",
+    "description": "Plainfield jumps out to big lead, cruises to first Hendricks County championship since 2009 with win over Brownsburg.",
     "pubDate": "2026-01-11",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/kentucky-lands-coveted-texas-transfer-044200442.html",
+    "link": "https://sports.yahoo.com/articles/county-champs-plainfield-rolls-first-051136597.html",
     "source": "Google News"
   },
   {
-    "slug": "dallas-cowboys-nfl-draft-order-2026-packers-pick-from-micah-parsons-trade-finalized",
-    "title": "Dallas Cowboys NFL draft order 2026: Packers’ pick from Micah Parsons trade finalized",
-    "description": "The Packers lost! The Cowboys hold the 20th pick.",
+    "slug": "what-tyson-powell-did-that-other-bowlers-didn-39-t-at-times-news-open",
+    "title": "What Tyson Powell did that other bowlers didn&#39;t at Times-News Open",
+    "description": "Tyson Powell's perfect game highlighted early qualifying rounds for the 63rd annual Times-News Open at Rolling Meadow Lanes.",
     "pubDate": "2026-01-11",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/dallas-cowboys-nfl-draft-order-044123998.html",
+    "link": "https://sports.yahoo.com/articles/tyson-powell-did-other-bowlers-051035462.html",
     "source": "Google News"
   },
   {
-    "slug": "bears-39-win-over-packers-breaks-franchise-record-that-stood-since-the-great-depression",
-    "title": "Bears&#39; win over Packers breaks franchise record that stood since the Great Depression",
-    "description": "The Chicago Bears pulled off an incredible comeback in the wild-card game against the Green Bay Packers on Saturday night, and in the process they broke a franchise record.",
+    "slug": "guilford-wins-overtime-thriller-against-auburn-to-claim-sole-possession-of-first-place-in-the-nic-10",
+    "title": "Guilford wins overtime thriller against Auburn to claim sole possession of first place in the NIC-10",
+    "description": "The 'Rumble in the Rock' basketball extravaganza at Rock Valley College has never been better than it was Saturday. Guilford and Auburn provided one incredible ending to it with an overtime game to determine the leader in the NIC-10.",
     "pubDate": "2026-01-11",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/bears-win-over-packers-breaks-044105902.html",
+    "link": "https://sports.yahoo.com/articles/guilford-wins-overtime-thriller-against-050952443.html",
     "source": "Google News"
   },
   {
-    "slug": "bears-31-packers-27-three-observations-in-chicago-s-nfl-playoff-win",
-    "title": "Bears 31, Packers 27: Three observations in Chicago’s NFL playoff win",
-    "description": "Here's what we learned about the Chicago Bears from their performance against the Green Bay Packers in the NFL playoffs' wild-card round. The post Bears 31, Packers 27: Three observations in Chicago’s NFL playoff win appeared first on Marquee Sports Network - Home of the Cubs, Bears, Red Stars and S",
+    "slug": "highlights-smith-knocks-out-matias-to-become-wbc-super-lightweight-champ",
+    "title": "Highlights! Smith Knocks Out Matias To Become WBC Super Lightweight Champ",
+    "description": "Dalton Smith put a bow on an impressive outing against Subriel Matias last night (Sat., Jan 10, 2026) in Brooklyn, New York, stopping the now-former champion in the fifth round to become the new WBC super lightweight champion. From the jump, both men got after it and delivered a fast, back-and-forth",
     "pubDate": "2026-01-11",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/bears-31-packers-27-three-043904739.html",
+    "link": "https://sports.yahoo.com/articles/highlights-smith-knocks-matias-become-050944888.html",
     "source": "Google News"
   },
   {
-    "slug": "who-bears-will-play-in-divisional-round-after-win-vs-packers",
-    "title": "Who Bears will play in divisional round after win vs. Packers",
-    "description": "Who will the Chicago Bears play in the divisional round after beating the Green Bay Packers in the wild-card round? Let's take a look.",
+    "slug": "celtics-star-jaylen-brown-criticizes-officials-after-loss-to-spurs",
+    "title": "Celtics star Jaylen Brown criticizes officials after loss to Spurs",
+    "description": "Celtics star Jaylen Brown didn’t hold back while criticizing the officials during a profanity-laced postgame interview after Boston’s 100-95 loss to the San Antonio Spurs on Saturday night.  The Spurs went to the free throw line 20 times, making 14.  Boston just went four, hitting three.",
     "pubDate": "2026-01-11",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/bears-play-divisional-round-win-043700567.html",
+    "link": "https://sports.yahoo.com/articles/celtics-star-jaylen-brown-criticizes-050941971.html",
+    "source": "KEN POWTAK"
+  },
+  {
+    "slug": "clippers-rally-past-pistons-in-gritty-back-to-back-win",
+    "title": "Clippers rally past Pistons in gritty back-to-back win",
+    "description": "DETROIT -- The Los Angeles Clippers showed their toughness on Saturday night, rallying from 19 points down to beat the Detroit Pistons 98-92 at Little Caesars Arena and that comeback had everything to do with their stars stepping up when it mattered most.",
+    "pubDate": "2026-01-11",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/clippers-rally-past-pistons-gritty-050906101.html",
     "source": "Google News"
   },
   {
-    "slug": "rafael-devers-trade-by-red-sox-takes-weird-twist-with-alex-bregman-news",
-    "title": "Rafael Devers trade by Red Sox takes weird twist with Alex Bregman news",
-    "description": "Wow, this really is a plot twist.",
+    "slug": "hornets-build-a-47-point-lead-in-the-1st-half-and-rout-the-jazz-150-95",
+    "title": "Hornets build a 47-point lead in the 1st half and rout the Jazz 150-95",
+    "description": "Brandon Miller scored 18 points, LaMelo Ball had 17 and the Charlotte Hornets built a 47-point lead in the first half of a 150-95 rout against the Utah Jazz on Saturday night.  It was the second-biggest win in franchise history for the Hornets and their largest on the road.  The Hornets bounced back",
     "pubDate": "2026-01-11",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/rafael-devers-trade-red-sox-043651269.html",
+    "link": "https://sports.yahoo.com/articles/hornets-build-47-point-lead-050813755.html",
     "source": "Google News"
   },
   {
-    "slug": "packers-season-ends-with-wild-card-loss-to-bears",
-    "title": "Packers’ season ends with Wild Card loss to Bears",
-    "description": "The Green Bay Packers held a lead against the Chicago Bears, but could not hold on and they are done.",
+    "slug": "instant-analysis-of-packers-39-stunning-31-27-loss-to-bears-in-nfc-wild-card-round",
+    "title": "Instant analysis of Packers&#39; stunning 31-27 loss to Bears in NFC Wild Card Round",
+    "description": "Instant analysis of the Packers' 31-27 loss to the Bears in the NFC Wild Card Round.",
     "pubDate": "2026-01-11",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/packers-season-ends-wild-card-043638009.html",
+    "link": "https://sports.yahoo.com/articles/instant-analysis-packers-stunning-31-050811035.html",
     "source": "Google News"
   },
   {
-    "slug": "breaking-down-who-the-teamname-will-play-in-the-divisional-round-of-the-2026-nfl-playoffs",
-    "title": "Breaking down who the TEAMNAME will play in the Divisional Round of the 2026 NFL Playoffs",
-    "description": "The Rams won a wild one over the Panthers in the Wild Card Round. We break down who they will play in the Divisional Round of the 2026 NFL Playoffs",
+    "slug": "arman-tsarukyan-s-raf-win-against-ncaa-all-american-puts-dana-white-and-ilia-topuria-under-added-pressure",
+    "title": "Arman Tsarukyan’s RAF Win Against NCAA All American Puts Dana White and Ilia Topuria Under Added Pressure",
+    "description": "Arman Tsarukyan is doing it again: he makes the UFC look awkward without even entering the Octagon. While the promotion moves forward with an interim title fight at UFC 324 and Ilia Topuria sits on the real belt, ‘Ahalkalakets’ continues to prove why he belongs at the top of the line.",
     "pubDate": "2026-01-11",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/breaking-down-teamname-play-divisional-005059220.html",
+    "link": "https://sports.yahoo.com/articles/arman-tsarukyan-raf-win-against-050707390.html",
     "source": "Google News"
   },
   {
-    "slug": "breaking-down-who-the-seahawks-will-play-in-the-divisional-round-of-the-2026-nfl-playoffs",
-    "title": "Breaking down who the Seahawks will play in the Divisional Round of the 2026 NFL Playoffs",
-    "description": "The Seahawks have the NFC’s No. 1 seed in the 2026 NFL Playoffs. We break down who they could play in the Divisional Round.",
+    "slug": "weird-gervonta-davis-first-video-since-civil-lawsuit-caused-40m-loss-has-fans-speculating-cte",
+    "title": "“Weird”: Gervonta Davis’ First Video Since Civil Lawsuit Caused $40M Loss Has Fans Speculating CTE",
+    "description": "Gervonta Davis is back. Not in the boxing ring, but on social media.",
     "pubDate": "2026-01-11",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/breaking-down-seahawks-play-divisional-180811873.html",
+    "link": "https://sports.yahoo.com/articles/weird-gervonta-davis-first-video-050704709.html",
     "source": "Google News"
   },
   {
-    "slug": "breaking-down-who-the-bears-will-play-in-the-divisional-round-of-the-2026-nfl-playoffs",
-    "title": "Breaking down who the Bears will play in the Divisional Round of the 2026 NFL Playoffs",
-    "description": "The Bears came back from a 21-3 deficit to stun the Packers. We break down who they will play in the Divisional Round of the 2026 NFL Playoffs",
+    "slug": "who-39-s-in-the-nfl-playoffs-2026-updated-standings-bracket-matchups-for-afc-and-nfc",
+    "title": "Who&#39;s in the NFL playoffs 2026? Updated standings, bracket, matchups for AFC and NFC",
+    "description": "Here is an updated look at the standings, bracket and matchups for the 2026 NFL playoffs for both the AFC and NFC.",
     "pubDate": "2026-01-11",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/breaking-down-bears-play-divisional-043619825.html",
+    "link": "https://sports.yahoo.com/articles/whos-nfl-playoffs-2026-updated-145959502.html",
     "source": "Google News"
   },
   {
-    "slug": "will-packers-fire-matt-lafleur-brian-gutekunst-after-playoff-collapse-vs-bears",
-    "title": "Will Packers fire Matt LaFleur, Brian Gutekunst after playoff collapse vs. Bears?",
-    "description": "The Green Bay Packers had an epic collapse in the wild-card game against the Chicago Bears on Saturday night. But does that mean the Packers will fire Matt LaFleur and Brian Gutekunst? Here's what we know.",
+    "slug": "packers-39-list-of-2026-nfl-draft-picks-after-playoff-collapse-vs-bears",
+    "title": "Packers&#39; list of 2026 NFL draft picks after playoff collapse vs. Bears",
+    "description": "The Green Bay Packers' 2025 campaign is now over after they blew a huge lead in the wild-card game against the Chicago Bears. Here's a look at the full list of selections the Packers have in the 2026 NFL draft.",
     "pubDate": "2026-01-11",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/packers-fire-matt-lafleur-brian-043604271.html",
+    "link": "https://sports.yahoo.com/articles/packers-list-2026-nfl-draft-050556533.html",
     "source": "Google News"
   },
   {
-    "slug": "49ers-to-face-division-rival-in-playoffs-if-they-swing-upset-vs-eagles",
-    "title": "49ers to face division rival in playoffs if they swing upset vs Eagles",
-    "description": "The San Francisco 49ers will be on the road against a division rival if they're able to beat the Philadelphia Eagles in the wild card game.",
+    "slug": "bears-banish-packers-rams-survive-panthers-playoff-scare",
+    "title": "Bears banish Packers, Rams survive Panthers playoff scare",
+    "description": "Caleb Williams fired the Chicago Bears to a madcap win over their bitter foes Green Bay on Saturday, storming back from an 18-point deficit to eliminate the Packers 31-27 on the first day of the NFL playoffs.Quarterback Williams threw 361 yards for two touchdowns, and two interceptions, handing the",
     "pubDate": "2026-01-11",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/49ers-face-division-rival-playoffs-043550058.html",
+    "link": "https://sports.yahoo.com/articles/rams-survive-panthers-scare-advance-011454920.html",
     "source": "Google News"
   },
   {
-    "slug": "nfl-playoff-schedule-bears-to-host-eagles-or-rams-in-divisional-round",
-    "title": "NFL playoff schedule: Bears to host Eagles or Rams in divisional round",
-    "description": "The Chicago Bears have reached the divisional round of the NFL playoffs, but they must wait for the Eagles-49ers result Sunday to find out their next opponent. The post NFL playoff schedule: Bears to host Eagles or Rams in divisional round appeared first on Marquee Sports Network - Home of the Cubs,",
+    "slug": "williams-39-late-td-pass-lifts-bears-over-packers-in-wild-card-game",
+    "title": "Williams&#39; late TD pass lifts Bears over Packers in wild-card game",
+    "description": "Caleb Williams came through in his playoff debut, throwing a go-ahead, 25-yard touchdown pass to DJ Moore with 1:43 remaining, and the Chicago Bears rallied from an 18-point deficit to beat the rival Green Bay Packers 31-27 in a wild-card playoff game on Saturday night.  The NFC North champion Bears",
     "pubDate": "2026-01-11",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/nfl-playoff-schedule-bears-host-043536332.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "the-wildest-hockey-brawl-of-the-year-was-at-an-ahl-intermission-youth-game",
-    "title": "The wildest hockey brawl of the year was at an AHL intermission youth game",
-    "description": "The real action was between periods at Saturday's Hershey Bears game.",
-    "pubDate": "2026-01-11",
-    "image": "",
-    "link": "https://sports.yahoo.com/nhl/article/the-wildest-hockey-brawl-of-the-year-was-at-an-ahl-intermission-youth-game-043515100.html",
-    "source": "Jack Baer"
-  },
-  {
-    "slug": "bears-roar-back-and-knock-packers-out-the-playoffs-with-31-27-win",
-    "title": "Bears roar back and knock Packers out the playoffs with 31-27 win",
-    "description": "Chicago roared back and will now host a divisional round playoff game after a 31-27 win over Green Bay in the wild card round",
-    "pubDate": "2026-01-11",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/bears-roar-back-knock-packers-043512601.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "2026-nfl-draft-order-updated-first-round-picks-after-raiders-secure-no-1-pick",
-    "title": "2026 NFL Draft order: Updated first-round picks after Raiders secure No. 1 pick",
-    "description": "The Las Vegas Raiders have clinched the first overall pick in the 2026 NFL draft, by virtue of having the easiest schedule of the four teams that finished tied with the league's worst record at 3-14.",
-    "pubDate": "2026-01-11",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/2026-nfl-draft-order-updated-214147804.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "alex-bregman-leaves-red-sox-after-one-year-signs-175m-deal-with-cubs-reports",
-    "title": "Alex Bregman leaves Red Sox after one year, signs $175M deal with Cubs (reports)",
-    "description": "Alex Bregman is leaving the Red Sox. He's in agreement on a $175 million deal with the Cubs.",
-    "pubDate": "2026-01-11",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/alex-bregman-leaves-red-sox-043435097.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "spartan-hockey-splits-with-buckeyes",
-    "title": "Spartan Hockey Splits With Buckeyes",
-    "description": "Spartans dominate Friday and come up short on Saturday against the Buckeyes",
-    "pubDate": "2026-01-11",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/spartan-hockey-splits-buckeyes-043348463.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "red-sox-reportedly-sign-6-foot-8-100-mph-veteran-hard-ball-thrower-from-japan-league",
-    "title": "Red Sox Reportedly Sign 6-Foot-8, 100+ MPH Veteran Hard-Ball Thrower From Japan League",
-    "description": "The Boston Red Sox have signed veteran relief pitcher Tayron Guerrero to a minor league contract, Andrew Parker of SoxProspects.com reported Saturday afternoon. Guerrero first made the MLB in 2016 and has had an interesting baseball career since. He began his career with the San Diego Padres, appear",
-    "pubDate": "2026-01-11",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/red-sox-reportedly-sign-6-043339803.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "wembanyama-39-s-late-jumper-seals-spurs-39-win-over-celtics",
-    "title": "Wembanyama&#39;s late jumper seals Spurs&#39; win over Celtics",
-    "description": "Victor Wembanyama scored 16 of his 21 points in the second half, including a game-sealing jumper with 19.2 seconds left, and the San Antonio Spurs beat the Boston Celtics 100-95 on Saturday night.  De’Aaron Fox also finished with 21 points for the Spurs and Keldon Johnson added 18 points and 10 rebo",
-    "pubDate": "2026-01-11",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/wembanyamas-jumper-seals-spurs-win-043328663.html",
+    "link": "https://sports.yahoo.com/articles/williams-td-pass-lifts-bears-050536918.html",
     "source": "The Associated Press"
   },
   {
-    "slug": "cubs-and-third-baseman-alex-bregman-agree-to-a-reported-5-year-175-million-deal",
-    "title": "Cubs and third baseman Alex Bregman agree to a reported 5-year, $175 million deal",
-    "description": "CHICAGO — The Chicago Cubs’ pursuit of star third baseman Alex Bregman — a journey that began last offseason — has culminated in bringing him to the North Side. The Cubs agreed to a deal Saturday with Bregman, a source confirmed to the Chicago Tribune, for a reported five years and $175 million. The",
+    "slug": "jaylen-brown-blasts-officials-after-celtics-loss-to-spurs",
+    "title": "Jaylen Brown blasts officials after Celtics loss to Spurs",
+    "description": "There will likely be a fine incoming for Brown.",
     "pubDate": "2026-01-11",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/cubs-third-baseman-alex-bregman-043300308.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "simon-holmstrom-39-s-game-winner-in-ot-gives-islanders-4-3-win-over-wild",
-    "title": "Simon Holmstrom&#39;s game-winner in OT gives Islanders 4-3 win over Wild",
-    "description": "Simon Holmstrom scored his second goal of the game 1:34 into overtime and the New York Islanders beat the Minnesota Wild 4-3 on Saturday night.",
-    "pubDate": "2026-01-11",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/simon-holmstroms-game-winner-ot-043208419.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "canucks-jersey-thrown-on-ice-in-toronto-during-vancouver-s-sixth-straight-loss",
-    "title": "Canucks Jersey Thrown On Ice In Toronto During Vancouver’s Sixth-Straight Loss",
-    "description": "A Canucks jersey was thrown onto the ice in Toronto after Vancouver's 5-0 loss to the Maple Leafs on Saturday night.",
-    "pubDate": "2026-01-11",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/canucks-jersey-thrown-ice-toronto-043003776.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "daejeon-hana-citizen-39-s-2026-winter-recruits-and-where-they-might-fit-in",
-    "title": "Daejeon Hana Citizen&#39;s 2026 winter recruits and where they might fit in",
-    "description": "Daejeon Hana Citizen have taken a quality over quantity approach to the 2026 winter transfer window, but with a bloated squad, where do the new arrivals fit in?The Purples' transfer business is said t...",
-    "pubDate": "2026-01-11",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/daejeon-hana-citizens-2026-winter-043000021.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "matias-vs-smith-highlights-streaming-updates-tonight",
-    "title": "Matias vs. Smith Highlights, Streaming Updates TONIGHT!",
-    "description": "WBC Super Lightweight champion, Subriel Matias, will defend his 140-pound crown against British brawler, Dalton Smith, TONIGHT (Sat. Jan. 10, 2026) inside Barclays Center in Brooklyn, New York. Matias is 23-2 and won the title by defeating Alberto Puello last summer. As for Smith, he is currently un",
-    "pubDate": "2026-01-11",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/matias-vs-smith-highlights-streaming-130500287.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "dylan-raiola-39-s-transfer-rumor-with-oregon-ducks-is-crazy-news-for-nebraska-ex-qb",
-    "title": "Dylan Raiola&#39;s transfer rumor with Oregon Ducks is crazy news for Nebraska ex-QB",
-    "description": "This would be a wild twist in the story.",
-    "pubDate": "2026-01-11",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/dylan-raiolas-transfer-rumor-oregon-042843950.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "updated-alabama-football-2026-roster-tracker",
-    "title": "Updated Alabama Football 2026 Roster Tracker",
-    "description": "The roster churn continues",
-    "pubDate": "2026-01-11",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/updated-alabama-football-2026-roster-042806883.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "cubs-sign-all-star-alex-bregman-to-massive-deal",
-    "title": "Cubs Sign All-Star Alex Bregman To Massive Deal",
-    "description": "Chicago lands an impactful bat! All-Star Alex Bregman joins the Cubs on a massive five-year deal, significantly bolstering their offense and World Series aspirations.",
-    "pubDate": "2026-01-11",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/cubs-sign-star-alex-bregman-042804770.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "drew-commesso-earns-first-nhl-win-shutout-in-blackhawks-39-3-0-win-over-predators",
-    "title": "Drew Commesso Earns First NHL Win & Shutout In Blackhawks&#39; 3-0 Win Over Predators",
-    "description": "The Chicago Blackhawks took down the Nashville Predators on Saturday night and won 3-0 on the back of Drew Commesso.",
-    "pubDate": "2026-01-11",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/drew-commesso-earns-first-nhl-042714159.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "rams-39-stafford-uses-classic-drive-to-rip-out-panthers-39-hearts",
-    "title": "Rams&#39; Stafford uses classic drive to rip out Panthers&#39; hearts",
-    "description": "Their punt got blocked. Their secondary was reeling. All seemed lost. They left him 2:39. They dared him to drive 71 yards. In return, Matthew Stafford and the Rams served a revenge dish so cold, Carolina never saw it coming.",
-    "pubDate": "2026-01-11",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/rams-stafford-uses-classic-drive-042640600.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "khusnutdinov-and-zacha-each-have-their-1st-hat-tricks-as-the-bruins-rout-the-rangers-10-2",
-    "title": "Khusnutdinov and Zacha each have their 1st hat tricks as the Bruins rout the Rangers 10-2",
-    "description": "Pavel Zacha recorded his first career hat trick — one of his goals coming while most of New York’s players were in the locker room at the end of the first period — and the Boston Bruins coasted past the Rangers 10-2 on Saturday.",
-    "pubDate": "2026-01-11",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/khusnutdinov-zacha-1st-hat-tricks-042630344.html",
+    "link": "https://sports.yahoo.com/articles/jaylen-brown-blasts-officials-celtics-050531905.html",
     "source": "Google News"
   },
   {
@@ -691,24 +727,6 @@
     "image": "",
     "link": "https://www.espn.com/nfl/story/_/id/46348460/balitmore-ravens-end-2025-nfl-season-john-harbaugh-fired-lamar-jackson",
     "source": "Jamison Hensley and Jeremy Fowler"
-  },
-  {
-    "slug": "cfp-national-championship-first-look-previewing-miami-indiana",
-    "title": "CFP National Championship first look: Previewing Miami-Indiana",
-    "description": "How either Miami or Indiana can win the title, plus X factors for both teams.",
-    "pubDate": "2026-01-10",
-    "image": "",
-    "link": "https://www.espn.com/college-football/story/_/id/47560626/college-football-playoff-national-championship-preview-miami-indiana",
-    "source": "ESPN"
-  },
-  {
-    "slug": "semifinal-takeaways-utter-dominance-has-become-the-norm-for-indiana",
-    "title": "Semifinal takeaways: Utter dominance has become the norm for Indiana",
-    "description": "The Hoosiers (somehow) keep getting better. How can Miami slow them down?",
-    "pubDate": "2026-01-10",
-    "image": "",
-    "link": "https://www.espn.com/college-football/story/_/id/47555225/college-football-playoff-semifinals-2025-takeaways-every-game",
-    "source": "Bill Connelly"
   },
   {
     "slug": "not-sure-why-they-felt-the-need-nba-execs-on-the-trae-deal-and-trade-season-s-next-move",
@@ -790,24 +808,6 @@
     "image": "",
     "link": "https://www.espn.com/college-sports/story/_/id/47540985/lsu-gymnastics-konnor-mcclain-kailin-chio-2026-ncaa-gymnastics-season",
     "source": "D'Arcy Maine"
-  },
-  {
-    "slug": "nfl-wild-card-round-expect-a-tight-game-between-49ers-and-eagles",
-    "title": "NFL wild-card round: Expect a tight game between 49ers and Eagles",
-    "description": "Odds, game picks, prop plays, betting advice and daily fantasy tips for the 49ers-Eagles wild-card matchup.",
-    "pubDate": "2026-01-10",
-    "image": "",
-    "link": "https://www.espn.com/espn/betting/story/_/id/47562066/2025-nfl-playoffs-wild-card-odds-lines-spread-betting-picks-dfs-tips-sunday-football-preview-49ers-eagles",
-    "source": "ESPN"
-  },
-  {
-    "slug": "the-2026-championship-parlays-from-conservative-plays-to-huge-potential-payouts",
-    "title": "The 2026 championship parlays: From conservative plays to huge potential payouts",
-    "description": "We go on record picking this year's champions, beginning with the CFP and ending with the World Series.",
-    "pubDate": "2026-01-10",
-    "image": "",
-    "link": "https://www.espn.com/espn/betting/story/_/id/47527342/2026-college-football-nfl-mlb-nba-nhl-super-bowl-stanley-cup-majors",
-    "source": "ESPN"
   },
   {
     "slug": "he-is-here-with-us-macclesfield-make-fa-cup-history-on-emotional-day",
