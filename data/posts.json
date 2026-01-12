@@ -1,30 +1,39 @@
 [
   {
-    "slug": "follow-live-borregales-tacks-on-another-field-goal-as-patriots-chargers-struggle-to-find-the-end-zone",
-    "title": "Follow live: Borregales tacks on another field goal as Patriots, Chargers struggle to find the end zone",
-    "description": "null",
+    "slug": "drake-maye-carries-patriots-to-wild-card-win-over-chargers",
+    "title": "Drake Maye carries Patriots to wild-card win over Chargers",
+    "description": "In his playoff debut, the second-year QB guides New England to a convincing win against Los Angeles.",
     "pubDate": "2026-01-12",
     "image": "",
-    "link": "https://www.espn.com/nfl/story/_/id/47569608/nfl-wild-card-highlights-best-plays-moments-touchdowns",
-    "source": "ESPN Staff"
+    "link": "https://www.espn.com/nfl/story/_/id/47585605/new-england-patriots-drake-maye-los-angeles-chargers-afc-wild-card-playoffs",
+    "source": "Mike Reiss and Kris Rhim"
   },
   {
-    "slug": "49ers-oust-eagles-march-on-behind-purdy-cmc",
-    "title": "49ers oust Eagles, march on behind Purdy, CMC",
-    "description": "Brock Purdy threw a go-ahead 6-yard scoring pass to Christian McCaffrey late in the fourth quarter, San Francisco used a trick play on a TD toss from wide receiver Jauan Jennings, and the 49ers eliminated the Eagles with a 23-19 wild-card victory Sunday.",
-    "pubDate": "2026-01-12",
-    "image": "",
-    "link": "https://www.espn.com/nfl/story/_/id/47585326/49ers-defending-champion-eagles-nfc-wild-card-game",
-    "source": "www.espn.com - TOP"
-  },
-  {
-    "slug": "kittle-tears-achilles-as-49ers-to-be-without-te",
-    "title": "Kittle tears Achilles as 49ers to be without TE",
-    "description": "49ers tight end George Kittle suffered a torn Achilles during San Francisco's 23-19 wild-card playoff victory over the Philadelphia Eagles on Sunday.",
+    "slug": "49ers-lose-kittle-but-carry-his-energy-to-win",
+    "title": "49ers lose Kittle but carry his 'energy' to win",
+    "description": "Despite another devastating injury to a team captain, the 49ers embodied the spirit of George Kittle to help will themselves to a playoff win over the Eagles.",
     "pubDate": "2026-01-12",
     "image": "",
     "link": "https://www.espn.com/nfl/story/_/id/47584134/49ers-george-kittle-suffers-achilles-injury-ruled-out",
     "source": "Nick Wagoner"
+  },
+  {
+    "slug": "sirianni-defends-brown-after-drops-sideline-spat",
+    "title": "Sirianni defends Brown after drops, sideline spat",
+    "description": "Eagles coach Nick Sirianni defended wide receiver A.J. Brown after a pair of drops in Sunday's loss to the Niners and also downplayed an animated interaction the two had in the opening half.",
+    "pubDate": "2026-01-12",
+    "image": "",
+    "link": "https://www.espn.com/nfl/story/_/id/47586435/eagles-nick-sirianni-defends-aj-brown-drops-spat",
+    "source": "Tim McManus"
+  },
+  {
+    "slug": "qb-chambliss-eligibility-fight-heads-to-state-court",
+    "title": "QB Chambliss' eligibility fight heads to state court",
+    "description": "Lawyers for Trinidad Chambliss plan to file suit against the NCAA in Mississippi state court this week for a preliminary injunction that will aim to secure the quarterback's eligibility for 2026.",
+    "pubDate": "2026-01-12",
+    "image": "",
+    "link": "https://www.espn.com/college-football/story/_/id/47586629/lawyers-trinidad-chambliss-file-suit-vs-ncaa-seek-preliminary-injunction-secure-2026-eligibility",
+    "source": "Pete Thamel"
   },
   {
     "slug": "warrior-allen-helps-get-bills-over-hump-on-road",
@@ -63,15 +72,6 @@
     "source": "Michael Voepel"
   },
   {
-    "slug": "disappointed-jags-see-loss-as-growing-moment",
-    "title": "Disappointed Jags see loss as 'growing moment'",
-    "description": "The Jaguars believe some good -- and some motivation -- will come out of Sunday's bitter 27-24 loss to the Bills in the AFC playoffs.",
-    "pubDate": "2026-01-12",
-    "image": "",
-    "link": "https://www.espn.com/nfl/story/_/id/47584700/jaguars-vow-come-back-stronger-nfl-playoff-exit",
-    "source": "Michael Dirocco"
-  },
-  {
     "slug": "u-s-bobsledder-horn-ok-after-scary-solo-ride",
     "title": "U.S. bobsledder Horn OK after scary solo ride",
     "description": "U.S. bobsledder Kris Horn survived a frightening ride down the track in St. Moritz, Switzerland, on Sunday, after his three teammates failed to make it into the four-man sled at the start of a World Cup race.",
@@ -108,15 +108,6 @@
     "source": "Dan Graziano and Ben Solak"
   },
   {
-    "slug": "niners-defeat-defending-champs-for-nfc-wild-card-win",
-    "title": "Niners defeat defending champs for NFC wild-card win",
-    "description": "The victory sends the 49ers to Seattle for the NFC divisional round next weekend.",
-    "pubDate": "2026-01-12",
-    "image": "",
-    "link": "https://www.espn.com/nfl/story/_/id/47582755/san-francisco-49ers-philadelphia-eagles-nfc-wild-card-nfl-playoffs",
-    "source": "Nick Wagoner and Tim McManus"
-  },
-  {
     "slug": "college-football-buzz-what-we-re-hearing-about-playoff-expansion",
     "title": "College football buzz: What we're hearing about playoff expansion",
     "description": "Multiple playoff scenarios are on the table ahead of critical meetings this week.",
@@ -124,6 +115,15 @@
     "image": "",
     "link": "https://www.espn.com/college-football/story/_/id/47584209/college-football-playoff-expansion-hearing",
     "source": "Heather Dinich"
+  },
+  {
+    "slug": "niners-defeat-defending-champs-for-nfc-wild-card-win",
+    "title": "Niners defeat defending champs for NFC wild-card win",
+    "description": "The victory sends the 49ers to Seattle for the NFC divisional round next weekend.",
+    "pubDate": "2026-01-12",
+    "image": "",
+    "link": "https://www.espn.com/nfl/story/_/id/47582755/san-francisco-49ers-philadelphia-eagles-nfc-wild-card-nfl-playoffs",
+    "source": "Nick Wagoner and Tim McManus"
   },
   {
     "slug": "josh-allen-bills-outlast-jaguars-to-advance-to-afc-divisional-round",
@@ -162,8 +162,17 @@
     "source": "ESPN staff"
   },
   {
-    "slug": "49ers-upset-champs-eagles-in-play-offs-after-bills-beat-jags",
-    "title": "49ers upset champs Eagles in play-offs after Bills beat Jags",
+    "slug": "solak-the-bears-are-a-second-half-team-and-you-can-never-count-them-out",
+    "title": "Solak: The Bears are a second-half team, and you can never count them out",
+    "description": "Perhaps we shouldn't be surprised the Bears came back to beat the Packers. They've been doing this all season.",
+    "pubDate": "2026-01-12",
+    "image": "",
+    "link": "https://www.espn.com/nfl/story/_/id/47574846/nfl-playoffs-wildcard-bears-packers-comeback-second-half-adjustments-williams-loveland",
+    "source": "Ben Solak"
+  },
+  {
+    "slug": "49ers-upset-champs-eagles-to-progress-with-bills-patriots",
+    "title": "49ers upset champs Eagles to progress with Bills & Patriots",
     "description": "The San Francisco 49ers come from behind twice in the final quarter to knock out defending champions Philadelphia as a thrilling NFL play-off series continues.",
     "pubDate": "2026-01-12",
     "image": "",
@@ -171,359 +180,17 @@
     "source": "BBC Sport"
   },
   {
-    "slug": "calvin-russell-iii-syracuse-football-s-highest-rated-recruit-in-25-years-joins-basketball-team",
-    "title": "Calvin Russell III, Syracuse football’s highest-rated recruit in 25 years, joins basketball team",
-    "description": "2026 five-star wide receiver Syracuse football commit Calvin Russell has joined the Orange basketball team.",
+    "slug": "what-date-opponent-for-denver-broncos-first-playoff-game",
+    "title": "What date, opponent for Denver Broncos first playoff game?",
+    "description": "The Broncos now have an opponent and know which day they play.",
     "pubDate": "2026-01-12",
     "image": "",
-    "link": "https://sports.yahoo.com/mens-college-basketball/article/calvin-russell-iii-syracuse-footballs-highest-rated-recruit-in-25-years-joins-basketball-team-031734934.html",
-    "source": "Tarohn Finley"
-  },
-  {
-    "slug": "live-coverage-patriots-vs-chargers",
-    "title": "Live Coverage: Patriots vs. Chargers",
-    "description": "The Patriots are back in the playoffs, hosting the Chargers on Sunday night. MassLive has full coverage until the final whistle.",
-    "pubDate": "2026-01-12",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/live-coverage-patriots-vs-chargers-220043437.html",
+    "link": "https://sports.yahoo.com/articles/date-opponent-denver-broncos-first-042728180.html",
     "source": "Google News"
   },
   {
-    "slug": "patriots-vs-chargers-live-updates-score-news-from-nfl-wild-card-playoffs",
-    "title": "Patriots vs. Chargers: Live updates, score, news from NFL wild card playoffs",
-    "description": "New England looks to advance to the divisional round of the NFL playoffs.",
-    "pubDate": "2026-01-12",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/patriots-vs-chargers-live-updates-003507163.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "colorado-football-adds-big-ten-defensive-tackle-from-transfer-portal",
-    "title": "Colorado football adds Big Ten defensive tackle from transfer portal",
-    "description": "The Colorado Buffaloes continue to add in the portal and this time pick up a former Maryland defensive tackle.",
-    "pubDate": "2026-01-12",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/colorado-football-adds-big-ten-031347672.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "texans-will-be-without-backup-qb-against-steelers",
-    "title": "Texans will be without backup QB against Steelers",
-    "description": "A small, but potentially significant update ahead of the Wild Card finale.",
-    "pubDate": "2026-01-12",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/texans-without-backup-qb-against-031335562.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "jj-redick-gives-big-update-on-rui-hachimura-for-monday-39-s-game",
-    "title": "JJ Redick gives big update on Rui Hachimura for Monday&#39;s game",
-    "description": "Will Rui Hachimura return for the Lakers when they play the Kings on Monday?",
-    "pubDate": "2026-01-12",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/jj-redick-gives-big-rui-031256775.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "wolves-rally-from-19-down-to-beat-spurs-behind-anthony-edwards-clutch-performance",
-    "title": "Wolves rally from 19 down to beat Spurs behind Anthony Edwards clutch performance",
-    "description": "Wolves rally from 19 down to beat Spurs behind Anthony Edwards clutch performance",
-    "pubDate": "2026-01-12",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/wolves-rally-19-down-beat-031059236.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "thunder-improve-to-33-7",
-    "title": "Thunder improve to 33-7",
-    "description": "Thunder improve to 33-7",
-    "pubDate": "2026-01-12",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/thunder-improve-33-7-031058040.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "we-got-to-go-out-there-and-do-the-necessary-things-to",
-    "title": "We got to go out there and do the necessary things to …",
-    "description": "We got to go out there and do the necessary things to …",
-    "pubDate": "2026-01-12",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/got-necessary-things-031057084.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "he-has-no-choice-if-we-re-gonna-win-we-re-gonna",
-    "title": "“He has no choice. If we’re gonna win. We’re gonna …",
-    "description": "“He has no choice. If we’re gonna win. We’re gonna …",
-    "pubDate": "2026-01-12",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/no-choice-gonna-win-gonna-031056059.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "put-that-game-on-barnes-39-all-star-reel-put-it-on-his",
-    "title": "Put that game on Barnes&#39; All-Star reel. Put it on his …",
-    "description": "Put that game on Barnes' All-Star reel. Put it on his …",
-    "pubDate": "2026-01-12",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/put-game-barnes-star-reel-031055984.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "deni-is-obviously-in-a-lot-of-pain-and-has-his-entire",
-    "title": "Deni is obviously in a lot of pain and has his entire …",
-    "description": "Deni is obviously in a lot of pain and has his entire …",
-    "pubDate": "2026-01-12",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/deni-obviously-lot-pain-entire-031054461.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "edwards-banks-in-late-go-ahead-runner-in-timberwolves-39-104-103-comeback-victory-over-spurs",
-    "title": "Edwards banks in late go-ahead runner in Timberwolves&#39; 104-103 comeback victory over Spurs",
-    "description": "Anthony Edwards banked in a go-ahead, 3-foot runner with 16.8 seconds and the Minnesota Timberwolves overcame a 19-point deficit to beat the San Antonio Spurs 104-103 on Sunday night.  Edwards scored 23 points.  Julius Randle had 15 points, eight rebounds and the winning defensive possession against",
-    "pubDate": "2026-01-12",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/edwards-banks-ahead-runner-timberwolves-031053966.html",
-    "source": "DAVE CAMPBELL"
-  },
-  {
-    "slug": "eagle-star-defender-reveals-loss-to-49ers-may-have-been-his-last-game-with-philadelphia",
-    "title": "Eagle star defender reveals loss to 49ers may have been his last game with Philadelphia",
-    "description": "The Eagles star may be playing elsewhere in 2026.",
-    "pubDate": "2026-01-12",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/eagle-star-defender-reveals-loss-030906742.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "mike-mcdaniel-takes-step-to-return-to-this-nfl-team-and-assume-hc-job",
-    "title": "Mike McDaniel takes step to return to this NFL team and assume HC job",
-    "description": "McDaniel has a career record of 35-35, including playoffs.",
-    "pubDate": "2026-01-12",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/mike-mcdaniel-takes-step-return-030732204.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "nick-nurse-explains-late-scratch-of-paul-george-before-sixers-39-loss",
-    "title": "Nick Nurse explains late scratch of Paul George before Sixers&#39; loss",
-    "description": "Coach Nick Nurse explains the late scratch of Paul George before the Philadelphia 76ers fell to the Toronto Raptors on Sunday.",
-    "pubDate": "2026-01-12",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/nick-nurse-explains-scratch-paul-030718545.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "louisiana-tech-running-back-clay-thevenin-commits-to-rutgers",
-    "title": "Louisiana Tech Running Back Clay Thevenin Commits to Rutgers",
-    "description": "Rutgers adds RB depth",
-    "pubDate": "2026-01-12",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/louisiana-tech-running-back-clay-030424242.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "michigan-football-39-s-top-cb-jyaire-hill-set-to-return-for-senior-season",
-    "title": "Michigan football&#39;s top CB Jyaire Hill set to return for senior season",
-    "description": "Michigan football has seen a mass exodus of defensive backs, but its top dog, Jyaire Hill, is returning to Ann Arbor for his senior season.",
-    "pubDate": "2026-01-12",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/michigan-footballs-top-cb-jyaire-030423846.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "indiana-football-loses-5th-player-to-transfer-portal-in-reserve-safety",
-    "title": "Indiana football loses 5th player to transfer portal in reserve safety",
-    "description": "Indiana football has lost five players to the transfer portal. Hoosiers will have until Jan. 14 to enter.",
-    "pubDate": "2026-01-12",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/indiana-football-loses-5th-player-030251485.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "could-the-nets-trade-for-ja-morant-following-a-michael-porter-jr-trade",
-    "title": "Could the Nets trade for Ja Morant following a Michael Porter Jr. trade?",
-    "description": "This would be interesting.",
-    "pubDate": "2026-01-12",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/could-nets-trade-ja-morant-030231506.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "wsu-signs-ucla-transfer-te-jack-pedersen-adding-to-cougars-39-solid-stable-at-the-position",
-    "title": "WSU signs UCLA transfer TE Jack Pedersen, adding to Cougars&#39; solid stable at the position",
-    "description": "Jan. 11—PULLMAN — Next fall, when Washington State coach Kirby Moore needs a tight end, he'll have a few options to choose from. The Cougars have signed UCLA tight end Jack Pedersen, the program announced on Sunday afternoon, good for their 22nd addition of the offseason. Pedersen stands to be the t",
-    "pubDate": "2026-01-12",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/wsu-signs-ucla-transfer-te-030200255.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "liverpool-vs-barnsley-premier-league-2025-26-preview-team-news",
-    "title": "Liverpool vs. Barnsley: Premier League 2025-26 Preview & Team News",
-    "description": "Barnsley come to visit from League One, hoping for another FA Cup upset to bring back 2008.",
-    "pubDate": "2026-01-12",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/liverpool-vs-barnsley-premier-league-030000002.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "knicks-beat-trail-blazers-123-114",
-    "title": "Knicks beat Trail Blazers, 123-114",
-    "description": "Josh Hart is back, and so are the New York Knicks — in the win column. Hart returned to the lineup after missing eight straight games with a right ankle sprain sustained on Christmas Day, and the playmaking forward made big plays on both ends of the floor. He finished with 18 points and six assists,",
-    "pubDate": "2026-01-12",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/knicks-beat-trail-blazers-123-025900242.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "usc-transfer-lb-matai-tagoa-i-signs-with-arizona",
-    "title": "USC transfer LB Matai Tagoa’i signs with Arizona",
-    "description": "USC transfer linebacker Matai Tagoa’i has signed to play with USC in the 2026 season, On3’s Pete Nakos has learned. He played one season with the Trojans and will have three years of eligibility remaining. Tagoa’i appeared in eight games as a true freshman this past season and recorded four tackles.",
-    "pubDate": "2026-01-12",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/usc-transfer-lb-matai-tagoa-025709099.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "report-ty-simpson-drawing-top-dollar-nil-offers-to-transfer-after-nfl-draft-declaration",
-    "title": "Report: Ty Simpson drawing top-dollar NIL offers to transfer after NFL Draft declaration",
-    "description": "Is Ty Simpson this year’s Carson Beck? That’s a question the talented Alabama junior quarterback could be entertaining as multiple QB-needy programs reportedly try to sway him to transfer rather than jump to the NFL. Beck famously declared for the 2025 NFL Draft last January before reversing course",
-    "pubDate": "2026-01-12",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/report-ty-simpson-drawing-top-025551098.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "dmitri-voronkov-scores-on-ot-power-play-to-lift-blue-jackets-past-mammoth-3-2",
-    "title": "Dmitri Voronkov scores on OT power play to lift Blue Jackets past Mammoth, 3-2",
-    "description": "Dmitri Voronkov scored on a power play at 1:01 of overtime to give the Columbus Blue Jackets a 3-2 victory over the Utah Mammoth on Sunday night.  Voronkov tipped Zach Werenski's feed past Vitek Vanecek from close range with Utah's Daniil But off for tripping Adam Fantilli late in regulation.  Mikae",
-    "pubDate": "2026-01-12",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/dmitri-voronkov-scores-ot-power-025541010.html",
-    "source": "JOHN COON"
-  },
-  {
-    "slug": "bills-39-josh-allen-ties-a-tom-brady-nfl-record-on-historic-leaderboard-with-patrick-mahomes",
-    "title": "Bills&#39; Josh Allen ties a Tom Brady NFL record on historic leaderboard with Patrick Mahomes",
-    "description": "This guy continues to be special.",
-    "pubDate": "2026-01-12",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/bills-josh-allen-ties-tom-025502901.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "chargers-vs-patriots-first-half-takeaways-from-wild-card-game",
-    "title": "Chargers vs. Patriots: First-half takeaways from wild-card game",
-    "description": "The Chargers trail the Patriots at the half.",
-    "pubDate": "2026-01-12",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/chargers-vs-patriots-first-half-025500711.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "nfl-playoff-field-divisional-round-weekend-schedule-seahawks-to-host-49ers-as-broncos-afc-field-wait-for-matchups",
-    "title": "NFL playoff field, divisional round weekend schedule: Seahawks to host 49ers as Broncos, AFC field wait for matchups",
-    "description": "The NFC divisional round matchups are set, and we're getting a Seahawks-49ers rematch.",
-    "pubDate": "2026-01-12",
-    "image": "",
-    "link": "https://sports.yahoo.com/nfl/article/nfl-playoff-field-divisional-round-weekend-schedule-seahawks-to-host-49ers-as-broncos-afc-field-wait-for-matchups-025455841.html",
-    "source": "Ryan Young"
-  },
-  {
-    "slug": "the-cleveland-cavaliers-may-not-get-back-the-same-max-strus",
-    "title": "The Cleveland Cavaliers may not get back the same Max Strus",
-    "description": "Even when Max Strus returns, he may not be the same caliber of player before his major injury.",
-    "pubDate": "2026-01-12",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/cleveland-cavaliers-may-not-back-025341481.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "how-to-watch-illinois-at-northwestern-game-time-tv-channel-online-streaming-and-odds",
-    "title": "How to Watch Illinois at Northwestern: Game Time, TV Channel, Online Streaming and Odds",
-    "description": "Heading to Evanston.",
-    "pubDate": "2026-01-12",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/watch-illinois-northwestern-game-time-025202164.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "carlton-davis-injury-update-patriots-cb-returns-to-chargers-game",
-    "title": "Carlton Davis injury update: Patriots CB returns to Chargers game",
-    "description": "The Patriots cornerback is dealing with a toe injury.",
-    "pubDate": "2026-01-12",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/carlton-davis-injury-patriots-cb-023548004.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "best-texans-vs-steelers-same-game-parlay-for-monday-night-football-wild-card-weekend",
-    "title": "Best Texans vs Steelers Same Game Parlay for Monday Night Football Wild Card Weekend",
-    "description": "Our best Texans vs. Steelers same-game parlay for Wild Card Weekend is fading CJ Stroud's arm in the cold weather.",
-    "pubDate": "2026-01-12",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/best-texans-vs-steelers-same-025100278.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "eagles-stunned-by-depleted-49ers-allen-leads-bills-fightback",
-    "title": "Eagles stunned by depleted 49ers, Allen leads Bills fightback",
-    "description": "The injury-hit San Francisco 49ers sent the reigning Super Bowl champion Philadelphia Eagles crashing out of the NFL playoffs on Sunday in a stunning wild card round upset.The identity of Buffalo's opponents in the next playoff round will hinge on the outcome of other AFC wild card games being playe",
-    "pubDate": "2026-01-12",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/eagles-stunned-depleted-49ers-allen-013153699.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "blackhawks-send-down-3-players-to-ahl",
-    "title": "Blackhawks Send Down 3 Players To AHL",
-    "description": "The Blackhawks have assigned three of their players to the AHL.",
-    "pubDate": "2026-01-12",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/blackhawks-send-down-3-players-024658253.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "illinois-great-nathan-scheelhaase-interviewing-for-nfl-head-coaching-jobs",
-    "title": "Illinois great Nathan Scheelhaase interviewing for NFL head coaching jobs",
-    "description": "He may soon be a head coach.",
-    "pubDate": "2026-01-12",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/illinois-great-nathan-scheelhaase-interviewing-024554504.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "best-and-worst-performances-from-49ers-epic-wild-card-win-over-eagles",
-    "title": "Best and worst performances from 49ers epic wild card win over Eagles",
-    "description": "The San Francisco 49ers took on the Philadelphia Eagles on Sunday and won. Here's who deserves credit and criticism for their performance.",
-    "pubDate": "2026-01-12",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/best-worst-performances-49ers-epic-024517295.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "how-2026-wild-card-weekend-broke-historic-nfl-playoff-record-in-four-games",
-    "title": "How 2026 Wild Card Weekend broke historic NFL playoff record in four games",
-    "description": "If these NFL playoffs feel especially intense, it's not just your imagination.",
-    "pubDate": "2026-01-12",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/2026-wild-card-weekend-broke-024515433.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "timeline-of-drama-between-philadelphia-eagles-a-j-brown-could-the-star-wr-be-traded-this-offseason",
-    "title": "Timeline of drama between Philadelphia Eagles, A.J. Brown: Could the star WR be traded this offseason?",
-    "description": "The Eagles star may be on his way out this offseason.",
-    "pubDate": "2026-01-12",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/timeline-drama-between-philadelphia-eagles-024446852.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "49ers-upset-champs-eagles-in-play-offs-after-bills-beat-jags",
-    "title": "49ers upset champs Eagles in play-offs after Bills beat Jags",
+    "slug": "49ers-upset-champs-eagles-to-progress-with-bills-patriots",
+    "title": "49ers upset champs Eagles to progress with Bills & Patriots",
     "description": "The San Francisco 49ers come from behind twice in the final quarter to knock out defending champions Philadelphia as a thrilling NFL play-off series continues.",
     "pubDate": "2026-01-12",
     "image": "",
@@ -531,93 +198,435 @@
     "source": "Google News"
   },
   {
-    "slug": "matt-lafleur-expects-jeff-hafley-to-get-head-coach-job-open-to-external-replacement",
-    "title": "Matt LaFleur expects Jeff Hafley to get head coach job, open to external replacement",
-    "description": "Packers coach Matt LaFleur is expecting defensive coordinator Jeff Hafley to get a head coach job this cycle, and he's open to an external replacement.",
+    "slug": "padres-seem-to-be-playing-the-waiting-game",
+    "title": "Padres seem to be playing the waiting game",
+    "description": "The ‘Hot Stove’ is not hot",
     "pubDate": "2026-01-12",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/matt-lafleur-expects-jeff-hafley-024433981.html",
+    "link": "https://sports.yahoo.com/articles/padres-seem-playing-waiting-game-042546121.html",
     "source": "Google News"
   },
   {
-    "slug": "heat-lose-124-112-to-thunder",
-    "title": "Heat lose 124-112 to Thunder",
-    "description": "The end came as expected, the Miami Heat on the second night of a back-to-back set running out of gas in Sunday night’s 124-112 loss to the Oklahoma City Thunder at Paycom Center. Against the team with the best record in the league, it’s not as if even the best of Heat nights might have been enough",
+    "slug": "george-kittle-pounded-a-bottle-of-medicinal-tequila-courtesy-of-49ers-owner",
+    "title": "George Kittle pounded a bottle of medicinal tequila courtesy of 49ers owner",
+    "description": "George Kittle suffered an awful injury on Sunday. It sounds like he picked an old-fashioned way to cope.",
     "pubDate": "2026-01-12",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/heat-lose-124-112-thunder-024400325.html",
+    "link": "https://sports.yahoo.com/articles/george-kittle-pounded-bottle-medicinal-042525067.html",
     "source": "Google News"
   },
   {
-    "slug": "eagles-vs-49ers-wild-card-round-the-good-the-bad-and-the-ugly",
-    "title": "Eagles vs. 49ers Wild Card Round: The good, the bad, and the ugly",
-    "description": "Highlights and lowlights from Philadelphia’s Wild Card loss.",
+    "slug": "maye-throws-late-td-pass-and-patriots-defense-roughs-up-herbert-chargers-in-16-3-playoff-win",
+    "title": "Maye throws late TD pass and Patriots’ defense roughs up Herbert, Chargers in 16-3 playoff win",
+    "description": "Drake Maye threw a touchdown pass to Hunter Henry in the fourth quarter, and New England’s defense roughed up Justin Herbert as the Patriots beat the Los Angeles Chargers 16-3 in an AFC wild-card playoff game.",
     "pubDate": "2026-01-12",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/eagles-vs-49ers-wild-card-024357897.html",
+    "link": "https://sports.yahoo.com/articles/maye-throws-td-pass-patriots-042421296.html",
     "source": "Google News"
   },
   {
-    "slug": "alabama-qb-ty-simpson-39-s-nfl-draft-decision-takes-twist-with-6-5-million-transfer-portal-rumor",
-    "title": "Alabama QB Ty Simpson&#39;s NFL Draft decision takes twist with $6.5 million transfer portal rumor",
-    "description": "This would remind of a past move.",
+    "slug": "who-do-patriots-play-next-explaining-opponent-for-new-england-in-2026-nfl-playoff-bracket-after-beating-chargers",
+    "title": "Who do Patriots play next? Explaining opponent for New England in 2026 NFL playoff bracket after beating Chargers",
+    "description": "Here's a breakdown of which team the Patriots will play in the AFC divisional round.",
     "pubDate": "2026-01-12",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/alabama-qb-ty-simpsons-nfl-024319649.html",
+    "link": "https://sports.yahoo.com/articles/patriots-chargers-play-next-explaining-083001537.html",
     "source": "Google News"
   },
   {
-    "slug": "shai-gilgeous-alexander-scores-29-points-as-thunder-beat-heat-124-112-for-3rd-straight-win",
-    "title": "Shai Gilgeous-Alexander scores 29 points as Thunder beat Heat 124-112 for 3rd straight win",
-    "description": "Shai Gilgeous-Alexander scored 29 points after a slow start and the Oklahoma City Thunder beat the Miami Heat 124-112 on Sunday night.  Jalen Williams had 19 points for Oklahoma City, and Chet Holmgren and Ajay Mitchell each added 16.  The Thunder have won three straight.",
+    "slug": "8-moments-that-defined-the-patriots-win-over-the-chargers",
+    "title": "8 moments that defined the Patriots’ win over the Chargers",
+    "description": "Relive the biggest moments from the Patriots’ wild card playoff win.",
     "pubDate": "2026-01-12",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/shai-gilgeous-alexander-scores-29-024247893.html",
+    "link": "https://sports.yahoo.com/articles/8-moments-defined-patriots-win-042345678.html",
     "source": "Google News"
   },
   {
-    "slug": "eagles-39-season-long-issues-apparent-in-playoff-loss-to-49ers-sideline-spat-between-sirianni-brown",
-    "title": "Eagles&#39; season-long issues apparent in playoff loss to 49ers, sideline spat between Sirianni, Brown",
-    "description": "A.J Brown dropped a third-down pass and was slow to get off the field when coach Nick Sirianni chased down the moody wide receiver on the sideline.  Brown and Sirianni bickered in a sideline spat that quickly forced chief security officer Dom DiSandro to intervene.  Brown ripped off his helmet in fr",
+    "slug": "bears-nfc-playoff-bracket-chicago-advances-to-divisional-round-with-win-over-packers",
+    "title": "Bears NFC playoff bracket: Chicago advances to Divisional Round with win over Packers",
+    "description": "The Chicago Bears shocked the football world by beating the Green Bay Packers, and they’ll move on to host the Rams in the Divisional round.",
     "pubDate": "2026-01-12",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/eagles-season-long-issues-apparent-024130255.html",
-    "source": "DAN GELSTON"
-  },
-  {
-    "slug": "kyle-busch-does-not-get-too-worked-up-about-transitioning-from-the-racetrack-to-driving-on-the-road",
-    "title": "Kyle Busch Does Not Get Too Worked Up About Transitioning from the Racetrack to Driving on the Road",
-    "description": "NASCAR racers are used to going 200 miles an hour, and that, too, in traffic with other racecar drivers on the track. And many times it can get frustrating to drive on normal roads among normal people, as Ryan Blaney once confessed when he caught himself zoning out and creeping well above the posted",
-    "pubDate": "2026-01-12",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/kyle-busch-does-not-too-024059786.html",
+    "link": "https://sports.yahoo.com/articles/bears-nfc-playoff-bracket-chicago-045638147.html",
     "source": "Google News"
   },
   {
-    "slug": "nick-sirianni-sounds-off-after-eagles-39-playoff-loss",
-    "title": "Nick Sirianni sounds off after Eagles&#39; playoff loss",
-    "description": "Philadelphia Eagles head coach Nick Sirianni made it clear that the blame for the WIld Card loss to the San Francisco 49ers starts with him.",
+    "slug": "nfl-announces-days-but-not-times-or-networks-for-divisional-games",
+    "title": "NFL announces days (but not times or networks) for divisional games",
+    "description": "Kickoff times and networks will be determined after Texans-Steelers game.",
     "pubDate": "2026-01-12",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/nick-sirianni-sounds-off-eagles-024045620.html",
+    "link": "https://sports.yahoo.com/articles/nfl-announces-days-not-times-042116374.html",
     "source": "Google News"
   },
   {
-    "slug": "drew-brees-was-right-to-raise-alarm-about-eagles-39-flawed-offense",
-    "title": "Drew Brees was right to raise alarm about Eagles&#39; flawed offense",
-    "description": "Drew Brees was right to raise the alarm about the flawed Eagles offense. Their playoff loss to an injury-plagued 49ers team drove his point home.",
+    "slug": "steelers-playoff-path-clear-after-patriots-defeat-chargers",
+    "title": "Steelers playoff path clear after Patriots defeat Chargers",
+    "description": "The Steelers know where they will go if they win on Monday night",
     "pubDate": "2026-01-12",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/drew-brees-raise-alarm-eagles-024033105.html",
+    "link": "https://sports.yahoo.com/articles/steelers-playoff-path-clear-patriots-042043975.html",
     "source": "Google News"
   },
   {
-    "slug": "josi-39-s-3-point-night-elevates-nashville-predators-past-capitals-recap",
-    "title": "Josi&#39;s 3-point night elevates Nashville Predators past Capitals | Recap",
-    "description": "Josi fuels Predators' comeback with a goal and two assists, overcoming an early deficit to secure a crucial victory.",
+    "slug": "big-ten-vs-sec-josh-pate-explains-where-college-football-supremacy-currently-sits",
+    "title": "Big Ten vs. SEC: Josh Pate explains where college football supremacy currently sits",
+    "description": "The great debate regarding which conference — the Big Ten or the SEC — reigns over college football might not be much of a debate anymore. Especially given the SEC’s dismal 4-10 bowl record this offseason. That bowl record looks even worse in games between the SEC and other Power Four teams, with th",
     "pubDate": "2026-01-12",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/josis-3-point-night-elevates-024020750.html",
+    "link": "https://sports.yahoo.com/articles/big-ten-vs-sec-josh-042007701.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "who-do-bills-play-next-explaining-potential-opponents-in-2026-nfl-playoff-bracket",
+    "title": "Who do Bills play next? Explaining potential opponents in 2026 NFL playoff bracket",
+    "description": "Explaining potential Bills opponents in the 2026 NFL playoff bracket after their win over the Jags.",
+    "pubDate": "2026-01-12",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/bills-jaguars-play-next-explaining-103002085.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "date-revealed-for-patriots-playoff-matchup-with-texans-steelers",
+    "title": "Date Revealed For Patriots’ Playoff Matchup With Texans/Steelers",
+    "description": "The New England Patriots took care of business in their wild-card matchup with the Los Angeles Chargers on Sunday. Who’s next? It’ll remain to be seen, as they’re scheduled to host the winner of Monday’s matchup between the four-seed Pittsburgh Steelers and five-seed Houston Texans. When? NBC announ",
+    "pubDate": "2026-01-12",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/date-revealed-patriots-playoff-matchup-041939791.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "who-will-the-broncos-play-in-divisional-round-nfl-playoff-bracket-results",
+    "title": "Who will the Broncos play in divisional round? NFL playoff bracket, results",
+    "description": "The Broncos earned the AFC's No. 1 bye and the first-round bye that came with it. Here's a look at who they are set to play in the divisional round.",
+    "pubDate": "2026-01-12",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/broncos-play-divisional-round-nfl-041856912.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "seattle-seahawks-2026-playoff-schedule-seahawks-vs-49ers-set-for-saturday",
+    "title": "Seattle Seahawks 2026 playoff schedule: Seahawks vs. 49ers set for Saturday",
+    "description": "Mark your calendars, Seahawks fans! January 17 is when Seahawks vs. 49ers, Round 3 will take place.",
+    "pubDate": "2026-01-12",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/seattle-seahawks-2026-playoff-schedule-041856840.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "2026-nfl-offseason-preview-los-angeles-chargers-will-have-plenty-to-spend-to-help-justin-herbert-reach-that-elusive-breakthrough",
+    "title": "2026 NFL offseason preview: Los Angeles Chargers will have plenty to spend to help Justin Herbert reach that elusive breakthrough",
+    "description": "Here's a look at the offseason work ahead for the Los Angeles Chargers.",
+    "pubDate": "2026-01-12",
+    "image": "",
+    "link": "https://sports.yahoo.com/nfl/article/2026-nfl-offseason-preview-los-angeles-chargers-will-have-plenty-to-spend-to-help-justin-herbert-reach-that-elusive-breakthrough-041809530.html",
+    "source": "Dan Pizzuta"
+  },
+  {
+    "slug": "inside-justin-herbert-39-s-playoff-record-and-stats-how-many-wins-does-chargers-qb-have-in-nfl-career",
+    "title": "Inside Justin Herbert&#39;s playoff record and stats: How many wins does Chargers QB have in NFL career?",
+    "description": "Herbert has had an excellent young career so far, but one of his main knocks is his postseason performance.",
+    "pubDate": "2026-01-12",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/inside-justin-herberts-playoff-record-115001016.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "milton-williams-celebrated-game-sealing-sack-by-making-mike-vrabel-bleed",
+    "title": "Milton Williams celebrated game-sealing sack by making Mike Vrabel bleed",
+    "description": "Mike Vrabel got a little too excited hugging his star defensive tackle. But a little blood wasn't about to slow him down.",
+    "pubDate": "2026-01-12",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/milton-williams-celebrated-game-sealing-041732052.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "about-the-marcus-freeman-situation",
+    "title": "About the Marcus Freeman situation…",
+    "description": "A quick note about the Marcus Freeman situation at Notre Dame",
+    "pubDate": "2026-01-12",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/marcus-freeman-situation-041727813.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "do-the-seahawks-play-today-schedule-time-channel-for-next-seattle-nfl-playoff-game",
+    "title": "Do the Seahawks play today? Schedule, time, channel for next Seattle NFL playoff game",
+    "description": "Seattle finds itself on the sidelines during wild-card weekend, having earned a bye week after landing the NFC's No. 1 seed.",
+    "pubDate": "2026-01-12",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/seahawks-play-today-schedule-time-062001034.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "patriots-advance-to-nfl-divisional-round-with-win-over-chargers",
+    "title": "Patriots advance to NFL divisional round with win over Chargers",
+    "description": "The Patriots’ cinderella season will continue.",
+    "pubDate": "2026-01-12",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/patriots-advance-nfl-divisional-round-041610679.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "nfl-divisional-round-schedule-rams-bears-date-revealed-time-tbd",
+    "title": "NFL divisional round schedule: Rams-Bears date revealed, time TBD",
+    "description": "The NFL announced the date of next weekend's Rams-Bears game in Chicago, but the time is still TBD",
+    "pubDate": "2026-01-12",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/nfl-divisional-round-schedule-rams-041533665.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "nfl-divisional-round-preview-4-marquee-matchups-including-no-1-seeds-broncos-and-seahawks-joining-in",
+    "title": "NFL divisional round preview: 4 marquee matchups including No. 1 seeds Broncos and Seahawks joining in",
+    "description": "The NFL will cut the playoff field from eight teams to four in the divisional round.",
+    "pubDate": "2026-01-12",
+    "image": "",
+    "link": "https://sports.yahoo.com/nfl/article/nfl-divisional-round-preview-4-marquee-matchups-including-no-1-seeds-broncos-and-seahawks-joining-in-041526535.html",
+    "source": "Frank Schwab"
+  },
+  {
+    "slug": "date-set-for-49ers-divisional-playoff-showdown-vs-seahawks",
+    "title": "Date set for 49ers divisional playoff showdown vs. Seahawks",
+    "description": "The San Francisco 49ers will take on the Seattle Seahawks in the divisional round, but we now know what day that game will be.",
+    "pubDate": "2026-01-12",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/date-set-49ers-divisional-playoff-041502629.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "nfl-playoff-schedule-dates-times-tv-channels-live-streams-for-every-2026-postseason-game",
+    "title": "NFL playoff schedule: Dates, times, TV channels, live streams for every 2026 postseason game",
+    "description": "Here's everything you need to know to watch the NFL playoffs on the road to Super Bowl 60 in Santa Clara.",
+    "pubDate": "2026-01-12",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/nfl-playoff-schedule-dates-times-053002714.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "who-do-broncos-play-next-explaining-potential-opponents-in-2026-nfl-playoff-bracket",
+    "title": "Who do Broncos play next? Explaining potential opponents in 2026 NFL playoff bracket",
+    "description": "The Broncos are resting up and awaiting their divisional-round opponent. Here are the teams they could face.",
+    "pubDate": "2026-01-12",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/broncos-play-next-explaining-potential-080001346.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "patriots-stifle-chargers-for-first-playoff-win-since-brady-belichick-era",
+    "title": "Patriots stifle Chargers for first playoff win since Brady-Belichick era",
+    "description": "The Patriots defense dominated Justin Herbert and the Chargers, sacking the star QB six times in a playoff victory.",
+    "pubDate": "2026-01-12",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/patriots-stifle-chargers-first-playoff-041453438.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "opening-nfl-divisional-round-odds-and-betting-lines-can-bears-4-5-thrive-vs-rams",
+    "title": "Opening NFL Divisional Round Odds and Betting Lines: Can Bears (+4.5) Thrive vs Rams?",
+    "description": "Get the opening NFL Wild Card Weekend odds with point spreads, Over/Unders, and football moneylines for every matchup starting on Jan. 10, 2026.",
+    "pubDate": "2026-01-12",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/opening-nfl-divisional-round-odds-040300710.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "tour-confidential-5-burning-questions-for-2026-pga-tour-season",
+    "title": "Tour Confidential: 5 burning questions for 2026 PGA Tour season",
+    "description": "GOLF's writers preview the 2026 PGA Tour season by answering five burning questions in this week's Tour Confidential.",
+    "pubDate": "2026-01-12",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/tour-confidential-5-burning-questions-041438057.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "patriots-beat-chargers-16-3-advance-to-divisional-round",
+    "title": "Patriots beat Chargers 16-3, advance to divisional round",
+    "description": "New England won its first playoff game since 2018, sacking Los Angeles QB Justin Herbert six times in the process.",
+    "pubDate": "2026-01-12",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/patriots-beat-chargers-16-3-041350720.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "chargers-afc-playoffs-2026-bolts-eliminated-with-wild-card-loss-to-patriots",
+    "title": "Chargers AFC playoffs 2026: Bolts eliminated with Wild Card loss to Patriots",
+    "description": "The Chargers’ season officially ends with a Wild Card loss to the New England Patriots.",
+    "pubDate": "2026-01-12",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/chargers-afc-playoffs-2026-bolts-041126438.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "nfl-playoff-bracket-2026-updated-schedule-tv-channels-scores-for-afc-and-nfc-games",
+    "title": "NFL playoff bracket 2026: Updated schedule, TV channels, scores for AFC and NFC games",
+    "description": "Here's a look at the full bracket for the NFL postseason.",
+    "pubDate": "2026-01-12",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/nfl-playoff-bracket-2026-updated-102001662.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "what-kevin-young-and-alex-jensen-said-about-each-other-s-programs-after-their-first-byu-utah-matchup",
+    "title": "What Kevin Young and Alex Jensen said about each other’s programs after their first BYU-Utah matchup",
+    "description": "The first rivalry game between the Cougars and Utes this season was a thrilling contest at the Huntsman Center.",
+    "pubDate": "2026-01-12",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/kevin-young-alex-jensen-said-040944289.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "eagles-stunned-by-depleted-49ers-allen-leads-bills-fightback",
+    "title": "Eagles stunned by depleted 49ers, Allen leads Bills fightback",
+    "description": "The injury-hit San Francisco 49ers sent the reigning Super Bowl champion Philadelphia Eagles crashing out of the NFL playoffs on Sunday in a stunning wild card round upset.The 49ers -- who have been decimated by a deepening injury crisis that has robbed them of key personnel for much of the season -",
+    "pubDate": "2026-01-12",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/eagles-stunned-depleted-49ers-allen-013153699.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "upset-sunday-six-top-25-teams-suffer-losses-to-shake-up-the-rankings",
+    "title": "Upset Sunday: Six Top 25 teams suffer losses to shake up the rankings",
+    "description": "A huge day in women’s college basketball shakes up the Top 25 with multiple upsets today.",
+    "pubDate": "2026-01-12",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/upset-sunday-six-top-25-040929585.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "korpisalo-records-eighth-career-shutout-as-bruins-beat-penguins-1-0",
+    "title": "Korpisalo records eighth career shutout as Bruins beat Penguins 1-0",
+    "description": "Joonas Korpisalo made 27 saves for his first shutout of the season and the eighth of his career, Viktor Arvidsson scored and the Boston Bruins beat the Pittsburgh Penguins 1-0 on Sunday.  The Bruins won for the fifth time in six games despite going 0 for 6 on the power play a day after beating the R",
+    "pubDate": "2026-01-12",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/korpisalo-records-eighth-career-shutout-040847877.html",
+    "source": "The Associated Press"
+  },
+  {
+    "slug": "alexander-walker-39-s-24-points-lead-6-hawks-in-double-figures-as-atlanta-beats-warriors-124-111",
+    "title": "Alexander-Walker&#39;s 24 points lead 6 Hawks in double figures as Atlanta beats Warriors 124-111",
+    "description": "Nickeil Alexander-Walker scored 24 points, Jalen Johnson contributed 23 points, 11 rebounds and six assists and the Atlanta Hawks beat the Golden State Warriors 124-111 on Sunday night.  Luke Kennard had a season-best 22 points and six 3-pointers off the bench in the Hawks' third straight win.  Step",
+    "pubDate": "2026-01-12",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/alexander-walkers-24-points-lead-040826786.html",
+    "source": "JANIE McCAULEY"
+  },
+  {
+    "slug": "rewind-patriots-advance-behind-defense",
+    "title": "Rewind: Patriots advance behind defense",
+    "description": "The Patriots are back in the playoffs, hosting the Chargers on Sunday night. MassLive has full coverage until the final whistle.",
+    "pubDate": "2026-01-12",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/live-coverage-patriots-vs-chargers-220043437.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "who-will-the-patriots-play-next-new-england-39-s-divisional-round-opponent",
+    "title": "Who will the Patriots play next? New England&#39;s divisional round opponent",
+    "description": "The Patriots beat the Chargers in the wild-card round of the 2025 NFL playoffs. Here's a look at who New England will play in the divisional round.",
+    "pubDate": "2026-01-12",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/patriots-play-next-englands-divisional-040709816.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "browns-land-two-top-25-picks-cleveland-s-official-2026-nfl-draft-order-set-after-patriots-win",
+    "title": "Browns land two top-25 picks: Cleveland’s official 2026 NFL Draft order set after Patriots win",
+    "description": "The Cleveland Browns 2026 first-round draft capital is officially set as the Patriots win and Jacksonville loss, locks Jacksonville’s traded first round selection into the No. 24 slot, giving the Browns two picks in the top 25.",
+    "pubDate": "2026-01-12",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/browns-land-two-top-25-040647524.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "chargers-eliminated-from-playoffs-after-loss-vs-patriots",
+    "title": "Chargers eliminated from playoffs after loss vs. Patriots",
+    "description": "The Los Angeles Chargers are out in the Wild Card round for a second straight season.",
+    "pubDate": "2026-01-12",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/chargers-eliminated-playoffs-loss-vs-040643216.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "here-39-s-how-much-tennessee-vols-offered-alabama-quarterback-ty-simpson",
+    "title": "Here&#39;s how much Tennessee Vols offered Alabama quarterback Ty Simpson",
+    "description": "Ty Simpson may be heading to the 2026 NFL Draft, but it's not because he didn't have college programs interested in him.",
+    "pubDate": "2026-01-12",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/heres-much-tennessee-vols-offered-040631808.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "offseason-failures-among-5-top-reasons-cowboys-39-2025-season-derailed",
+    "title": "Offseason failures among 5 top reasons Cowboys&#39; 2025 season derailed",
+    "description": "It was a disappointing year for the Cowboys, and the culprits were rather easy to identify.",
+    "pubDate": "2026-01-12",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/offseason-failures-among-5-top-040618989.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "who-will-steelers-or-texans-play-in-divisional-game-opponent-revealed",
+    "title": "Who will Steelers or Texans play in Divisional game? Opponent revealed",
+    "description": "The Divisional Round opponent of either the Pittsburgh Steelers or the Houston Texans has been revealed.",
+    "pubDate": "2026-01-12",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/steelers-texans-play-divisional-game-040539136.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "steelers-center-ryan-mccollum-credits-his-professional-nfl-career-to-his-houston-upbringing",
+    "title": "Steelers Center Ryan McCollum credits his professional NFL career to his Houston upbringing",
+    "description": "Before Ryan McCollum became a center for one of the cornerstone franchises in the NFL, he was a star athlete at Klein Oak High School in Spring.",
+    "pubDate": "2026-01-12",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/steelers-center-ryan-mccollum-credits-040529600.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "dallas-cowboys-remain-alone-with-horrible-nfl-playoff-history-after-patriots-win",
+    "title": "Dallas Cowboys remain alone with horrible NFL playoff history after Patriots win",
+    "description": "The Cowboys remain the only team to ever lose in the Wild Card Round as a #2 seed.",
+    "pubDate": "2026-01-12",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/dallas-cowboys-remain-alone-horrible-040526178.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "who-will-patriots-play-in-divisional-round-after-win-vs-chargers",
+    "title": "Who will Patriots play in divisional round after win vs. Chargers?",
+    "description": "Who will the New England Patriots play in the divisional round after beating the Los Angeles Chargers in the wild-card round? Let's take a look.",
+    "pubDate": "2026-01-12",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/patriots-play-divisional-round-win-040522322.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "sabres-win-in-spite-of-late-surge-by-ducks",
+    "title": "Sabres Win In Spite Of Late Surge By Ducks",
+    "description": "Buffalo beginning to show signs of vulnerability late in three victories this week.",
+    "pubDate": "2026-01-12",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/sabres-win-spite-surge-ducks-040506879.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "who-the-buffalo-bills-will-play-in-the-afc-divisional-round",
+    "title": "Who the Buffalo Bills will play in the AFC Divisional round?",
+    "description": "The Bills won a back-and-forth affair over the Jaguars in the Wild Card Round. We break down who they could play in the Divisional Round.",
+    "pubDate": "2026-01-12",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/buffalo-bills-play-afc-divisional-210621267.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "breaking-down-who-the-broncos-will-play-in-the-divisional-round-of-the-2026-nfl-playoffs",
+    "title": "Breaking down who the Broncos will play in the Divisional Round of the 2026 NFL Playoffs",
+    "description": "The Denver Broncos have the AFC’s No. 1 seed in the 2026 NFL Playoffs. We break down who they could play in the Divisional Round.",
+    "pubDate": "2026-01-12",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/breaking-down-broncos-play-divisional-140000154.html",
     "source": "Google News"
   },
   {
@@ -772,15 +781,6 @@
     "image": "",
     "link": "https://www.espn.com/nfl/story/_/id/47572175/nfl-carolina-panthers-los-angeles-rams-bryce-young-matthew-stafford",
     "source": "Sarah Barshop and David Newton"
-  },
-  {
-    "slug": "solak-the-bears-are-a-second-half-team-and-you-can-never-count-them-out",
-    "title": "Solak: The Bears are a second-half team, and you can never count them out",
-    "description": "Perhaps we shouldn't be surprised the Bears came back to beat the Packers. They've been doing this all season.",
-    "pubDate": "2026-01-11",
-    "image": "",
-    "link": "https://www.espn.com/nfl/story/_/id/47574846/nfl-playoffs-wildcard-bears-packers-comeback-second-half-adjustments-williams-loveland",
-    "source": "Ben Solak"
   },
   {
     "slug": "from-future-hof-pitchers-to-a-veteran-catcher-best-fits-for-under-the-radar-mlb-free-agents",
@@ -999,6 +999,15 @@
     "source": "BBC Sport"
   },
   {
+    "slug": "david-hat-trick-seals-harlequins-knockout-spot",
+    "title": "David hat-trick seals Harlequins knockout spot",
+    "description": "Nick David scores a hat-trick to help Harlequins book their spot in the Investec Champions Cup last 16 by thrashing a much-changed Stormers side.",
+    "pubDate": "2026-01-11",
+    "image": "",
+    "link": "https://www.bbc.com/sport/rugby-union/articles/ckgj1rxlrpvo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport"
+  },
+  {
     "slug": "chelsea-kick-off-new-year-by-thrashing-west-ham",
     "title": "Chelsea kick off new year by thrashing West Ham",
     "description": "Chelsea begin the new year with an impressive victory over West Ham in visiting manager Rita Guarino's first match in the Women's Super League.",
@@ -1044,15 +1053,6 @@
     "source": "BBC Sport"
   },
   {
-    "slug": "david-hat-trick-seals-harlequins-knockout-spot",
-    "title": "David hat-trick seals Harlequins knockout spot",
-    "description": "Nick David scores a hat-trick to help Harlequins book their spot in the Investec Champions Cup last 16 by thrashing a much-changed Stormers side.",
-    "pubDate": "2026-01-11",
-    "image": "",
-    "link": "https://www.bbc.com/sport/rugby-union/articles/ckgj1rxlrpvo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport"
-  },
-  {
     "slug": "mccolgan-reclaims-european-10km-record-in-valencia",
     "title": "McColgan reclaims European 10km record in Valencia",
     "description": "Briton Eilish McColgan reclaims her women's European 10km record in Valencia in a time of 30 minutes seven seconds.",
@@ -1071,21 +1071,21 @@
     "source": "BBC Sport"
   },
   {
-    "slug": "sabalenka-beats-kostyuk-to-win-third-brisbane-title",
-    "title": "Sabalenka beats Kostyuk to win third Brisbane title",
-    "description": "World number one Aryna Sabalenka prepares for the Australian Open with a 6-4 6-3 victory over Marta Kostyuk to win a third Brisbane International title.",
-    "pubDate": "2026-01-11",
-    "image": "",
-    "link": "https://www.bbc.com/sport/tennis/articles/cy59rddr7klo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport"
-  },
-  {
     "slug": "briton-smith-stuns-matias-to-become-world-champion",
     "title": "Briton Smith stuns Matias to become world champion",
     "description": "Britain's Dalton Smith shocks champion Subriel Matias with a fifth-round stoppage to claim the WBC light-welterweight title in New York.",
     "pubDate": "2026-01-11",
     "image": "",
     "link": "https://www.bbc.com/sport/boxing/articles/cly5w9ne426o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport"
+  },
+  {
+    "slug": "sabalenka-beats-kostyuk-to-win-third-brisbane-title",
+    "title": "Sabalenka beats Kostyuk to win third Brisbane title",
+    "description": "World number one Aryna Sabalenka prepares for the Australian Open with a 6-4 6-3 victory over Marta Kostyuk to win a third Brisbane International title.",
+    "pubDate": "2026-01-11",
+    "image": "",
+    "link": "https://www.bbc.com/sport/tennis/articles/cy59rddr7klo?at_medium=RSS&at_campaign=rss",
     "source": "BBC Sport"
   },
   {
@@ -1149,6 +1149,15 @@
     "pubDate": "2026-01-11",
     "image": "",
     "link": "https://www.bbc.com/sport/rugby-union/articles/cy8pe00xmd1o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport"
+  },
+  {
+    "slug": "west-ham-s-tysiak-set-to-join-union-berlin",
+    "title": "West Ham's Tysiak set to join Union Berlin",
+    "description": "West Ham defender Amber Tysiak is closing in on a move to German side Union Berlin.",
+    "pubDate": "2026-01-11",
+    "image": "",
+    "link": "https://www.bbc.com/sport/football/articles/c3wzxg2peg1o?at_medium=RSS&at_campaign=rss",
     "source": "BBC Sport"
   },
   {
