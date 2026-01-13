@@ -27,6 +27,15 @@
     "source": "www.espn.com - TOP"
   },
   {
+    "slug": "bryson-rahm-smith-pledge-commitments-to-liv",
+    "title": "Bryson, Rahm, Smith pledge commitments to LIV",
+    "description": "LIV Golf League captains Bryson DeChambeau, Cameron Smith and Jon Rahm said Tuesday that they're not planning to follow Brooks Koepka back to the PGA Tour.",
+    "pubDate": "2026-01-13",
+    "image": "",
+    "link": "https://www.espn.com/golf/story/_/id/47602618/bryson-rahm-smith-committed-liv-decline-pga-tour-return",
+    "source": "Mark Schlabach"
+  },
+  {
     "slug": "sources-freeman-to-stay-at-nd-despite-nfl-jobs",
     "title": "Sources: Freeman to stay at ND despite NFL jobs",
     "description": "Marcus Freeman is expected to remain the head coach at Notre Dame in 2026 despite interest from several NFL teams, sources told ESPN.",
@@ -52,15 +61,6 @@
     "image": "",
     "link": "https://www.espn.com/nfl/story/_/id/47602451/ravens-owner-bisciotti-wants-new-pact-jackson-march",
     "source": "www.espn.com - TOP"
-  },
-  {
-    "slug": "sources-ad-out-several-months-for-hand-surgery",
-    "title": "Sources: AD out several months for hand surgery",
-    "description": "Anthony Davis is expected to have surgery to repair ligament damage in his left hand and miss the next several months, sources told ESPN's Shams Charania.",
-    "pubDate": "2026-01-13",
-    "image": "",
-    "link": "https://www.espn.com/nba/story/_/id/47600421/mavs-anthony-davis-months-hand-surgery-sources-say",
-    "source": "Shams Charania"
   },
   {
     "slug": "d-backs-acquire-arenado-in-trade-with-cardinals",
@@ -252,24 +252,6 @@
     "source": "Mark Schlabach"
   },
   {
-    "slug": "midseason-check-in-who-can-stop-a-uconn-repeat",
-    "title": "Midseason check-in: Who can stop a UConn repeat?",
-    "description": "What are the biggest challenges to UConn's hopes of a repeat? Which players should earn All-America honors?",
-    "pubDate": "2026-01-13",
-    "image": "",
-    "link": "https://www.espn.com/womens-college-basketball/story/_/id/47594431/womens-college-basketball-2025-2026-midseason-awards-uconn-all-america-teams",
-    "source": "Michael Voepel and Charlie Creme"
-  },
-  {
-    "slug": "women-s-ap-top-25-poll-reaction-what-to-know-about-every-team",
-    "title": "Women's AP Top 25 poll reaction: What to know about every team",
-    "description": "The new women's AP Top 25 poll is out. Here's what's next for every team in the standings.",
-    "pubDate": "2026-01-13",
-    "image": "",
-    "link": "https://www.espn.com/womens-college-basketball/story/_/id/47580838/ap-women-college-basketball-2025-2026-top-25-poll-reaction-week-11",
-    "source": "ESPN Staff"
-  },
-  {
     "slug": "nfl-futures-seahawks-remain-super-bowl-favorites-patriots-now-afc-front-runner",
     "title": "NFL futures: Seahawks remain Super Bowl favorites; Patriots now AFC front-runner",
     "description": "Odds for all eight remaining playoffs teams to advance to and to win Super Bowl LX.",
@@ -295,6 +277,24 @@
     "image": "",
     "link": "https://www.espn.com/nhl/story/_/id/47590216/nhl-2025-26-leo-carlsson-breakout-star-anaheim-ducks-playoffs",
     "source": "Kristen Shilton"
+  },
+  {
+    "slug": "midseason-check-in-who-can-stop-a-uconn-repeat",
+    "title": "Midseason check-in: Who can stop a UConn repeat?",
+    "description": "What are the biggest challenges to UConn's hopes of a repeat? Which players should earn All-America honors?",
+    "pubDate": "2026-01-13",
+    "image": "",
+    "link": "https://www.espn.com/womens-college-basketball/story/_/id/47594431/womens-college-basketball-2025-2026-midseason-awards-uconn-all-america-teams",
+    "source": "Michael Voepel and Charlie Creme"
+  },
+  {
+    "slug": "women-s-ap-top-25-poll-reaction-what-to-know-about-every-team",
+    "title": "Women's AP Top 25 poll reaction: What to know about every team",
+    "description": "The new women's AP Top 25 poll is out. Here's what's next for every team in the standings.",
+    "pubDate": "2026-01-13",
+    "image": "",
+    "link": "https://www.espn.com/womens-college-basketball/story/_/id/47580838/ap-women-college-basketball-2025-2026-top-25-poll-reaction-week-11",
+    "source": "ESPN Staff"
   },
   {
     "slug": "nascar-goes-back-in-time-by-restoring-chase-format",
@@ -351,15 +351,6 @@
     "source": "Zach Kram"
   },
   {
-    "slug": "fantasy-basketball-pickups-mcconnell-watson-nurkic-among-top-players-to-add",
-    "title": "Fantasy basketball pickups: McConnell, Watson, Nurkic among top players to add",
-    "description": "Every week in fantasy basketball, there are available players who can help fill holes in your roster. Here are the ones to add for the week ahead.",
-    "pubDate": "2026-01-13",
-    "image": "",
-    "link": "https://www.espn.com/fantasy/basketball/story/_/id/47590289/fantasy-basketball-waiver-wire-pickups-nba-tj-mcconnell-peyton-watson-jusuf-nurkic",
-    "source": "Andre Snellings"
-  },
-  {
     "slug": "swarm-city-texans-petty-post-at-steelers-tops-nfl-wild-card-trolls",
     "title": "'Swarm City': Texans' petty post at Steelers tops NFL wild-card trolls",
     "description": "The NFL wild-card round had its fair share of petty posts after big wins, led by the Houston Texans.",
@@ -376,6 +367,15 @@
     "image": "",
     "link": "https://www.espn.com/mlb/story/_/id/47592305/tupac-shakur-baltimore-orioles-mlb-bobblehead",
     "source": "Anthony Gharib"
+  },
+  {
+    "slug": "fantasy-basketball-pickups-mcconnell-watson-nurkic-among-top-players-to-add",
+    "title": "Fantasy basketball pickups: McConnell, Watson, Nurkic among top players to add",
+    "description": "Every week in fantasy basketball, there are available players who can help fill holes in your roster. Here are the ones to add for the week ahead.",
+    "pubDate": "2026-01-13",
+    "image": "",
+    "link": "https://www.espn.com/fantasy/basketball/story/_/id/47590289/fantasy-basketball-waiver-wire-pickups-nba-tj-mcconnell-peyton-watson-jusuf-nurkic",
+    "source": "Andre Snellings"
   },
   {
     "slug": "dalton-smith-s-title-win-shakes-up-junior-welterweight",
