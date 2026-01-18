@@ -126,6 +126,24 @@
     "source": "Jeff Legwold, Stephania Bell and Seth Walder"
   },
   {
+    "slug": "man-united-deliver-huge-blow-to-man-city-title-hopes-with-shock-derby-win",
+    "title": "Man United deliver huge blow to Man City title hopes with shock derby win",
+    "description": "Manchester City's title bid is as good as over after Manchester United won the midfield battle at Old Trafford.",
+    "pubDate": "2026-01-18",
+    "image": "",
+    "link": "https://www.espn.com/soccer/story/_/id/47638492/man-united-deliver-huge-blow-man-city-title-hopes-shock-derby-win",
+    "source": "Mark Ogden and Rob Dawson"
+  },
+  {
+    "slug": "var-review-should-man-united-s-dalot-have-received-a-red-card-for-foul-on-doku",
+    "title": "VAR review: Should Man United's Dalot have received a red card for foul on Doku?",
+    "description": "Diogo Dalot was booked for catching Man City's Jérémy Doku on the knee early. Was it the right call?",
+    "pubDate": "2026-01-18",
+    "image": "",
+    "link": "https://www.espn.com/soccer/story/_/id/47639315/man-uniteds-dalot-got-sent-vs-man-city",
+    "source": "Andy Davies, Special to ESPN"
+  },
+  {
     "slug": "seahawks-start-fast-and-roll-past-49ers-advance-to-nfc-championship-game",
     "title": "Seahawks start fast and roll past 49ers, advance to NFC Championship Game",
     "description": "Kenneth Walker III and Ernest Jones IV led the Seahawks past their division rival on Saturday.",
@@ -178,24 +196,6 @@
     "image": "",
     "link": "https://www.espn.com/nfl/story/_/id/47641407/nfl-divisional-round-fashionable-arrivals",
     "source": "ESPN staff"
-  },
-  {
-    "slug": "man-united-deliver-huge-blow-to-man-city-title-hopes-with-shock-derby-win",
-    "title": "Man United deliver huge blow to Man City title hopes with shock derby win",
-    "description": "Manchester City's title bid is as good as over after Manchester United won the midfield battle at Old Trafford.",
-    "pubDate": "2026-01-18",
-    "image": "",
-    "link": "https://www.espn.com/soccer/story/_/id/47638492/man-united-deliver-huge-blow-man-city-title-hopes-shock-derby-win",
-    "source": "Mark Ogden and Rob Dawson"
-  },
-  {
-    "slug": "var-review-should-man-united-s-dalot-have-received-a-red-card-for-foul-on-doku",
-    "title": "VAR review: Should Man United's Dalot have received a red card for foul on Doku?",
-    "description": "Diogo Dalot was booked for catching Man City's Jérémy Doku on the knee early. Was it the right call?",
-    "pubDate": "2026-01-18",
-    "image": "",
-    "link": "https://www.espn.com/soccer/story/_/id/47639315/man-uniteds-dalot-got-sent-vs-man-city",
-    "source": "Andy Davies, Special to ESPN"
   },
   {
     "slug": "transfer-rumors-news-man-united-and-tottenham-eye-juventus-defender-kalulu",
@@ -297,12 +297,21 @@
     "source": "J.J. Post"
   },
   {
-    "slug": "senegal-walk-off-pitch-in-afcon-final-over-controversial-penalty",
-    "title": "Senegal walk off pitch in Afcon final over controversial penalty",
-    "description": "Senegal temporarily refuse to finish the Africa Cup of Nations final after hosts Morocco were awarded a controversial stoppage time-penalty with the game level at 0-0.",
+    "slug": "not-a-good-look-senegal-walk-off-pitch-over-penalty-in-afcon-final",
+    "title": "'Not a good look' - Senegal walk off pitch over penalty in Afcon final",
+    "description": "Senegal beat Morocco to win the Africa Cup of Nations for a second time - but only after the final was overshadowed when they temporarily refuse to play when the hosts are awarded a controversial stoppage time-penalty with the match 0-0.",
     "pubDate": "2026-01-18",
     "image": "",
     "link": "https://www.bbc.com/sport/football/articles/c70ljednyl6o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport"
+  },
+  {
+    "slug": "watch-match-of-the-day",
+    "title": "Watch: Match of the Day",
+    "description": "Kelly Cates presents highlights of Aston Villa v Everton and Wolves v Newcastle United.",
+    "pubDate": "2026-01-18",
+    "image": "",
+    "link": "https://www.bbc.co.uk/iplayer/live/bbcone?at_medium=RSS&at_campaign=rss",
     "source": "BBC Sport"
   },
   {
@@ -321,15 +330,6 @@
     "pubDate": "2026-01-18",
     "image": "",
     "link": "https://www.bbc.com/sport/football/articles/c78ezdkx1v2o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport"
-  },
-  {
-    "slug": "barry-secures-deserved-win-for-everton-against-villa",
-    "title": "Barry secures deserved win for Everton against Villa",
-    "description": "Everton's Thierno Barry capitalises on a mistake by Aston Villa's Emi Martinez for a 1-0 win to The Toffees, which stops Villa going second in the Premier League.",
-    "pubDate": "2026-01-18",
-    "image": "",
-    "link": "https://www.bbc.com/sport/football/videos/c62r5xexrw9o?at_medium=RSS&at_campaign=rss",
     "source": "BBC Sport"
   },
   {
@@ -360,8 +360,17 @@
     "source": "BBC Sport"
   },
   {
-    "slug": "newcastle-miss-out-on-top-five-spot-after-draw-with-wolves",
-    "title": "Newcastle miss out on top five spot after draw with Wolves",
+    "slug": "barry-secures-deserved-win-for-everton-against-villa",
+    "title": "Barry secures deserved win for Everton against Villa",
+    "description": "Everton's Thierno Barry capitalises on a mistake by Aston Villa's Emi Martinez for a 1-0 win to The Toffees, which stops Villa going second in the Premier League.",
+    "pubDate": "2026-01-18",
+    "image": "",
+    "link": "https://www.bbc.com/sport/football/videos/c62r5xexrw9o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport"
+  },
+  {
+    "slug": "newcastle-miss-out-on-top-five-spot-in-draw-with-wolves",
+    "title": "Newcastle miss out on top-five spot in draw with Wolves",
     "description": "Wolves held Newcastle United to a goalless draw to prevent Eddie Howe's side from climbing into the top five of the Premier League table.",
     "pubDate": "2026-01-18",
     "image": "",
@@ -396,21 +405,30 @@
     "source": "BBC Sport"
   },
   {
-    "slug": "tearful-allen-reflects-on-play-off-loss-to-broncos",
-    "title": "Tearful Allen reflects on play-off loss to Broncos",
-    "description": "Buffalo Bills quarterback Josh Allen struggles to hold back tears as he reacts to their loss to the Denver Broncos in the NFL play-offs divisional round.",
-    "pubDate": "2026-01-18",
-    "image": "",
-    "link": "https://www.bbc.com/sport/american-football/videos/c78ez11rl0mo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport"
-  },
-  {
     "slug": "results-fans-fall-outs-factors-that-lead-to-managerial-pressure",
     "title": "Results, fans, fall-outs - factors that lead to managerial pressure",
     "description": "From bad results to a clash with a club's owners - BBC Sport takes a look at some of the factors that lead to managers coming under pressure.",
     "pubDate": "2026-01-18",
     "image": "",
     "link": "https://www.bbc.com/sport/football/articles/cdrny1jy8jno?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport"
+  },
+  {
+    "slug": "nfl-head-coach-tracker-falcons-and-giants-first-to-make-move",
+    "title": "NFL head coach tracker - Falcons and Giants first to make move",
+    "description": "Check the latest on the NFL hiring cycle after John Harbaugh and Kevin Stefanski became the first head coaches appointed after the regular season.",
+    "pubDate": "2026-01-18",
+    "image": "",
+    "link": "https://www.bbc.com/sport/american-football/articles/ckgny7zz94jo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport"
+  },
+  {
+    "slug": "chelsea-open-to-selling-fernandez-monday-s-gossip",
+    "title": "Chelsea open to selling Fernandez - Monday's gossip",
+    "description": "Chelsea tell Real Madrid they could sell Enzo Fernandez, Man Utd interested in Joao Gomes, and Nottingham Forest in talks for Lorenzo Lucca.",
+    "pubDate": "2026-01-18",
+    "image": "",
+    "link": "https://www.bbc.com/sport/football/articles/cgk8z7ky0yno?at_medium=RSS&at_campaign=rss",
     "source": "BBC Sport"
   },
   {
@@ -423,21 +441,12 @@
     "source": "BBC Sport"
   },
   {
-    "slug": "premier-league-leads-call-for-temporary-concussion-subs",
-    "title": "Premier League leads call for temporary concussion subs",
-    "description": "The Premier League again joins forces with leagues and player unions from around the world to ask football's lawmakers to trial temporary concussion substitutes.",
+    "slug": "grizzlies-beat-magic-as-nba-returns-to-london",
+    "title": "Grizzlies beat Magic as NBA returns to London",
+    "description": "The Memphis Grizzlies overturned Thursday's loss to the Orlando Magic in Berlin with a 126-109 victory in London",
     "pubDate": "2026-01-18",
     "image": "",
-    "link": "https://www.bbc.com/sport/football/articles/clymv04332zo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport"
-  },
-  {
-    "slug": "spurs-chiefs-consider-sacking-frank-as-fans-turn",
-    "title": "Spurs chiefs consider sacking Frank as fans turn",
-    "description": "Tottenham head coach Thomas Frank is under significant internal scrutiny with the club considering calling time on his seven-month reign.",
-    "pubDate": "2026-01-18",
-    "image": "",
-    "link": "https://www.bbc.com/sport/football/articles/cgrdqer05exo?at_medium=RSS&at_campaign=rss",
+    "link": "https://www.bbc.com/sport/basketball/articles/cn9z7g5wz47o?at_medium=RSS&at_campaign=rss",
     "source": "BBC Sport"
   },
   {
@@ -450,6 +459,24 @@
     "source": "BBC Sport"
   },
   {
+    "slug": "no-one-says-anything-in-your-face-martinez-hits-back-at-scholes-and-butt",
+    "title": "'No-one says anything in your face' - Martinez hits back at Scholes and Butt",
+    "description": "Pundits discussing Man Utd \"can talk on the television\" but \"no-one says anything\" to your face, according to defender Lisandro Martinez.",
+    "pubDate": "2026-01-18",
+    "image": "",
+    "link": "https://www.bbc.com/sport/football/articles/c3wz5z4pve9o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport"
+  },
+  {
+    "slug": "premier-league-leads-call-for-temporary-concussion-subs",
+    "title": "Premier League leads call for temporary concussion subs",
+    "description": "The Premier League again joins forces with leagues and player unions from around the world to ask football's lawmakers to trial temporary concussion substitutes.",
+    "pubDate": "2026-01-18",
+    "image": "",
+    "link": "https://www.bbc.com/sport/football/articles/clymv04332zo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport"
+  },
+  {
     "slug": "goals-galore-in-fa-cup-as-liverpool-man-utd-man-city-progress",
     "title": "Goals galore in FA Cup as Liverpool, Man Utd & Man City progress",
     "description": "Liverpool, Manchester City and Manchester United all cruise into the fifth round of the Women's FA Cup as 55 goals are scored across 12 matches on Sunday.",
@@ -459,12 +486,12 @@
     "source": "BBC Sport"
   },
   {
-    "slug": "no-one-says-anything-in-your-face-martinez-hits-back-at-scholes-and-butt",
-    "title": "'No-one says anything in your face' - Martinez hits back at Scholes and Butt",
-    "description": "Pundits discussing Man Utd \"can talk on the television\" but \"no-one says anything\" to your face, according to defender Lisandro Martinez.",
+    "slug": "spurs-chiefs-consider-sacking-frank-as-fans-turn",
+    "title": "Spurs chiefs consider sacking Frank as fans turn",
+    "description": "Tottenham head coach Thomas Frank is under significant internal scrutiny with the club considering calling time on his seven-month reign.",
     "pubDate": "2026-01-18",
     "image": "",
-    "link": "https://www.bbc.com/sport/football/articles/c3wz5z4pve9o?at_medium=RSS&at_campaign=rss",
+    "link": "https://www.bbc.com/sport/football/articles/cgrdqer05exo?at_medium=RSS&at_campaign=rss",
     "source": "BBC Sport"
   },
   {
@@ -495,12 +522,12 @@
     "source": "BBC Sport"
   },
   {
-    "slug": "trio-through-but-welsh-clubs-rue-missed-euro-chances",
-    "title": "Trio through but Welsh clubs rue missed Euro chances",
-    "description": "Scarlets are regretting missed chances in the Champions Cup while Cardiff, Dragons and Ospreys will have to travel in the last 16 of the Challenge Cup.",
+    "slug": "new-signings-help-liverpool-spark-to-life-but-real-test-awaits",
+    "title": "New signings help Liverpool spark to life but real test awaits",
+    "description": "Women's FA Cup fourth‑round victory over fourth-tier London Bees finally offer Liverpool a moment of light in a campaign that has felt extremely bleak.",
     "pubDate": "2026-01-18",
     "image": "",
-    "link": "https://www.bbc.com/sport/rugby-union/articles/c8e5yr5nl4wo?at_medium=RSS&at_campaign=rss",
+    "link": "https://www.bbc.com/sport/football/articles/cy8pv9g3eleo?at_medium=RSS&at_campaign=rss",
     "source": "BBC Sport"
   },
   {
@@ -513,21 +540,21 @@
     "source": "BBC Sport"
   },
   {
-    "slug": "new-signings-help-liverpool-spark-to-life-but-real-test-awaits",
-    "title": "New signings help Liverpool spark to life but real test awaits",
-    "description": "Women's FA Cup fourth‑round victory over fourth-tier London Bees finally offer Liverpool a moment of light in a campaign that has felt extremely bleak.",
-    "pubDate": "2026-01-18",
-    "image": "",
-    "link": "https://www.bbc.com/sport/football/articles/cy8pv9g3eleo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport"
-  },
-  {
     "slug": "ambitious-spurs-eye-champions-league-spot-after-wsl-rise",
     "title": "Ambitious Spurs eye Champions League spot after WSL rise",
     "description": "A year ago, Tottenham lived in the shadows of a Women's Super League relegation fight.  Today, they sit level on points with third-placed Arsenal after collecting 23 from 12 matches.",
     "pubDate": "2026-01-18",
     "image": "",
     "link": "https://www.bbc.com/sport/football/articles/cy7me6n0re6o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport"
+  },
+  {
+    "slug": "trio-through-but-welsh-clubs-rue-missed-euro-chances",
+    "title": "Trio through but Welsh clubs rue missed Euro chances",
+    "description": "Scarlets are regretting missed chances in the Champions Cup while Cardiff, Dragons and Ospreys will have to travel in the last 16 of the Challenge Cup.",
+    "pubDate": "2026-01-18",
+    "image": "",
+    "link": "https://www.bbc.com/sport/rugby-union/articles/c8e5yr5nl4wo?at_medium=RSS&at_campaign=rss",
     "source": "BBC Sport"
   },
   {
@@ -540,15 +567,6 @@
     "source": "BBC Sport"
   },
   {
-    "slug": "glasgow-beat-saracens-to-set-up-bulls-last-16-tie",
-    "title": "Glasgow beat Saracens to set up Bulls last-16 tie",
-    "description": "Glasgow Warriors continue their fine form in the Champions Cup with victory over Saracens to set up a home last-16 tie against the Bulls.",
-    "pubDate": "2026-01-18",
-    "image": "",
-    "link": "https://www.bbc.com/sport/rugby-union/articles/c93vdqp1jywo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport"
-  },
-  {
     "slug": "recharged-alcaraz-starts-career-slam-bid-with-win",
     "title": "Recharged Alcaraz starts career Slam bid with win",
     "description": "World number one Carlos Alcaraz is \"recharged\" after a nine-week break as he bids to complete the career Grand Slam at the Australian Open.",
@@ -558,21 +576,12 @@
     "source": "BBC Sport"
   },
   {
-    "slug": "luckily-i-grabbed-her-player-helps-ball-girl-after-collapse",
-    "title": "'Luckily I grabbed her' - player helps ball girl after collapse",
-    "description": "Turkish player Zeynep Sonmez says it was \"instinct\" to help after a ball girl fainted during day one of the 2026 Australian Open.",
+    "slug": "tearful-allen-reflects-on-play-off-loss-to-broncos",
+    "title": "Tearful Allen reflects on play-off loss to Broncos",
+    "description": "Buffalo Bills quarterback Josh Allen struggles to hold back tears as he reacts to their loss to the Denver Broncos in the NFL play-offs divisional round.",
     "pubDate": "2026-01-18",
     "image": "",
-    "link": "https://www.bbc.com/sport/tennis/articles/crmleyxl4kpo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport"
-  },
-  {
-    "slug": "i-let-team-down-allen-in-tears-as-super-bowl-wait-goes-on",
-    "title": "'I let team down' - Allen in tears as Super Bowl wait goes on",
-    "description": "Josh Allen endures more play-off heartache as Denver beat Buffalo while Seattle also move within one win of the Super Bowl.",
-    "pubDate": "2026-01-18",
-    "image": "",
-    "link": "https://www.bbc.com/sport/american-football/articles/cx2wn19xwj3o?at_medium=RSS&at_campaign=rss",
+    "link": "https://www.bbc.com/sport/american-football/videos/c78ez11rl0mo?at_medium=RSS&at_campaign=rss",
     "source": "BBC Sport"
   },
   {
@@ -639,6 +648,24 @@
     "source": "BBC Sport"
   },
   {
+    "slug": "luckily-i-grabbed-her-player-helps-ball-girl-after-collapse",
+    "title": "'Luckily I grabbed her' - player helps ball girl after collapse",
+    "description": "Turkish player Zeynep Sonmez says it was \"instinct\" to help after a ball girl fainted during day one of the 2026 Australian Open.",
+    "pubDate": "2026-01-18",
+    "image": "",
+    "link": "https://www.bbc.com/sport/tennis/articles/crmleyxl4kpo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport"
+  },
+  {
+    "slug": "i-let-team-down-allen-in-tears-as-super-bowl-wait-goes-on",
+    "title": "'I let team down' - Allen in tears as Super Bowl wait goes on",
+    "description": "Josh Allen endures more play-off heartache as Denver beat Buffalo while Seattle also move within one win of the Super Bowl.",
+    "pubDate": "2026-01-18",
+    "image": "",
+    "link": "https://www.bbc.com/sport/american-football/articles/cx2wn19xwj3o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport"
+  },
+  {
     "slug": "williams-history-making-day-ends-in-narrow-defeat",
     "title": "Williams' history-making day ends in narrow defeat",
     "description": "Venus Williams makes history at the Australian Open but the 45-year-old falls to a narrow defeat by Olga Danilovic in the first round.",
@@ -675,6 +702,15 @@
     "source": "BBC Sport"
   },
   {
+    "slug": "celtic-host-dundee-in-one-of-two-scottish-cup-last-16-all-premiership-ties",
+    "title": "Celtic host Dundee in one of two Scottish Cup last 16 all-Premiership ties",
+    "description": "Celtic will face Dundee, and holders Aberdeen welcome Motherwell, in the only two all-Premiership ties in the last 16 of this season's Scottish Cup.",
+    "pubDate": "2026-01-18",
+    "image": "",
+    "link": "https://www.bbc.com/sport/football/articles/cp37x5gx243o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport"
+  },
+  {
     "slug": "trio-through-but-welsh-clubs-rue-missed-euro-chances",
     "title": "Trio through but Welsh clubs rue missed Euro chances",
     "description": "Scarlets are regretting missed chances in the Champions Cup while Cardiff, Dragons and Ospreys will have to travel in the last 16 of the Challenge Cup.",
@@ -693,48 +729,30 @@
     "source": "BBC Sport"
   },
   {
-    "slug": "steelers-to-give-brian-flores-second-interview-for-head-coach-position",
-    "title": "Steelers to give Brian Flores second interview for head coach position",
-    "description": "Flores served as linebackers coach and a defensive assistant coach with the Steelers under Mike Tomlin in 2022.",
+    "slug": "live-coverage-patriots-vs-texans",
+    "title": "Live Coverage: Patriots vs. Texans",
+    "description": "The Patriots host the Texans with a trip to the AFC Championship Game on the line. MassLive has full coverage from Gillette Stadium.",
     "pubDate": "2026-01-18",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/steelers-brian-flores-second-interview-213917461.html",
+    "link": "https://sports.yahoo.com/articles/live-coverage-patriots-vs-texans-174828497.html",
     "source": "Google News"
   },
   {
-    "slug": "senegal-walk-off-in-afcon-final-over-penalty-award",
-    "title": "Senegal walk off in Afcon final over penalty award",
-    "description": "Senegal temporarily refuse to finish the Africa Cup of Nations final after hosts Morocco were awarded a controversial stoppage time-penalty with the game level at 0-0.",
+    "slug": "allegri-milan-focus-on-top-four-fullkrug-impact-off-the-bench",
+    "title": "Allegri: ‘Milan focus on top four, Fullkrug impact off the bench’",
+    "description": "Max Allegri welcomes Niclas Fullkrug’s impact on Milan, scoring the winner off the bench against Lecce, and continues to focus on a top four finish rather than the Scudetto.The Rossoneri had dropped...",
     "pubDate": "2026-01-18",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/senegal-walk-off-afcon-final-211636921.html",
+    "link": "https://sports.yahoo.com/articles/allegri-milan-focus-top-four-223500450.html",
     "source": "Google News"
   },
   {
-    "slug": "patriots-vs-texans-live-score-updates-highlights-from-2026-nfl-playoff-game",
-    "title": "Patriots vs. Texans live score, updates, highlights from 2026 NFL playoff game",
-    "description": "The Sporting News is tracking live scoring updates and highlights for Patriots vs. Texans in the AFC divisional round on Sunday. Follow for complete results from the 2026 NFL playoff game here.",
+    "slug": "botafogo-line-up-aiming-to-stay-perfect-in-carioc-o-2026",
+    "title": "📋 Botafogo line-up: aiming to stay perfect in Cariocão 2026",
+    "description": "Botafogo returns to the field this Sunday (18th) at 8:30 PM (Brasília time), when they visit Sampaio Corrêa at the Lourivaldão Stadium in Saquarema, in the Região dos Lagos, for the second round o...",
     "pubDate": "2026-01-18",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/patriots-vs-texans-live-score-170002349.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "patriots-vs-texans-live-updates-score-news-for-nfl-divisional-playoffs",
-    "title": "Patriots vs. Texans: Live updates, score, news for NFL divisional playoffs",
-    "description": "New England looks to punch their ticket to the AFC Championship Game.",
-    "pubDate": "2026-01-18",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/patriots-vs-texans-live-updates-191500042.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "bath-v-saracens-and-leicester-at-bordeaux-champions-cup-last-16",
-    "title": "Bath v Saracens and Leicester at Bordeaux - Champions Cup last 16",
-    "description": "Bath will play Saracens in the last 16 of the Champions Cup, while Leicester travel to holders Bordeaux and Bristol face six-time winners Toulouse away.",
-    "pubDate": "2026-01-18",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/english-ties-leinster-host-edinburgh-203633635.html",
+    "link": "https://sports.yahoo.com/articles/botafogo-line-aiming-stay-perfect-223500732.html",
     "source": "Google News"
   },
   {
@@ -747,309 +765,21 @@
     "source": "Google News"
   },
   {
-    "slug": "where-florida-stands-in-net-rankings-after-beating-vanderbilt",
-    "title": "Where Florida stands in NET rankings after beating Vanderbilt",
-    "description": "Florida didn't make a big jump in the NET after beating Vanderbilt, as some expected. Here's where the Gators stand.",
+    "slug": "santos-line-up-to-face-guarani-aiming-to-bounce-back-in-the-paulist-o",
+    "title": "📋 Santos line up to face Guarani, aiming to bounce back in the Paulistão",
+    "description": "Santos returns to the field this Sunday (18th), at 8:30 pm (Brasília time), when they visit Guarani at the Brinco de Ouro da Princesa Stadium in Campinas, for the closing match of the third round of ...",
     "pubDate": "2026-01-18",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/where-florida-stands-net-rankings-213736494.html",
+    "link": "https://sports.yahoo.com/articles/santos-line-face-guarani-aiming-223400862.html",
     "source": "Google News"
   },
   {
-    "slug": "baltimore-ravens-completed-an-interview-with-bills-39-oc-joe-brady",
-    "title": "Baltimore Ravens completed an interview with Bills&#39; OC Joe Brady",
-    "description": "After the Bills' loss to the Broncos, Buffalo OC Joe Brady interviewed for the Ravens head coaching position",
+    "slug": "titans-to-interview-robert-saleh-in-person-monday",
+    "title": "Titans to interview Robert Saleh in-person Monday",
+    "description": "The Titans have at least three finalists for their head coaching job, including Robert Saleh",
     "pubDate": "2026-01-18",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/baltimore-ravens-completed-interview-bills-213725652.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "gregoritsch-admits-his-luck-in-escaping-red",
-    "title": "Gregoritsch admits his luck in escaping red",
-    "description": "Igor Matanovic scored the equalizer for Freiburg in their come-from-behind draw away at Augsburg. In doing so, the Serbian striker helped his former teammate Michael Gregoritsch to avoid a direct send...",
-    "pubDate": "2026-01-18",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/gregoritsch-admits-luck-escaping-red-213700342.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "patriots-rb-rhamondre-stevenson-questionable-to-return-with-injury",
-    "title": "Patriots RB Rhamondre Stevenson questionable to return with injury",
-    "description": "Patriots running back Rhamondre Stevenson exited Sunday's game early with an injury.",
-    "pubDate": "2026-01-18",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/patriots-rb-rhamondre-stevenson-questionable-213644532.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "world-class-star-is-now-returning-to-liverpool",
-    "title": "World-class star is now RETURNING to Liverpool",
-    "description": "A world-class star is finally coming back to Liverpool. Let's face it, even though this season still has a long way to go it already feels like a campaign that has ended for the Reds. There's not much...",
-    "pubDate": "2026-01-18",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/world-class-star-now-returning-213500079.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "is-woody-marks-injured-latest-on-texans-rb",
-    "title": "Is Woody Marks injured? Latest on Texans RB",
-    "description": "Houston's offensive players are dropping like flies in New England.",
-    "pubDate": "2026-01-18",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/woody-marks-injured-latest-texans-213407815.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "tennessee-football-adds-colorado-qb-ryan-staub-from-transfer-portal",
-    "title": "Tennessee football adds Colorado QB Ryan Staub from transfer portal",
-    "description": "Colorado QB Ryan Staub has committed to Tennessee out of the portal, joining George MacIntyre and Faizon Brandon. Here's what to know about Staub.",
-    "pubDate": "2026-01-18",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/tennessee-football-adds-colorado-qb-213224774.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "rhamondre-stevenson-injury-update-for-patriots-39-playoff-game",
-    "title": "Rhamondre Stevenson injury update for Patriots&#39; playoff game",
-    "description": "Here's the latest on Rhamondre Stevenson's status during the Patriots' playoff game on Sunday.",
-    "pubDate": "2026-01-18",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/rhamondre-stevenson-injury-patriots-playoff-213215505.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "texans-lose-dalton-schultz-to-a-calf-injury-during-injury-riddled-first-half-vs-patriots",
-    "title": "Texans lose Dalton Schultz to a calf injury during injury-riddled first half vs. Patriots",
-    "description": "The Texans battled a number of injuries in the first half Sunday.",
-    "pubDate": "2026-01-18",
-    "image": "",
-    "link": "https://sports.yahoo.com/nfl/breaking-news/article/texans-lose-dalton-schultz-to-a-calf-injury-during-injury-riddled-first-half-vs-patriots-213200224.html",
-    "source": "Chris Cwik"
-  },
-  {
-    "slug": "pacific-northwest-sportswatch-daily-listings",
-    "title": "Pacific Northwest Sportswatch Daily Listings",
-    "description": "",
-    "pubDate": "2026-01-18",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/pacific-northwest-sportswatch-daily-listings-213145465.html",
-    "source": "The Associated Press"
-  },
-  {
-    "slug": "39-you-can-39-t-just-have-talent-39-texas-a-m-hc-bucky-mcmillan-on-texas-win",
-    "title": "&#39;You can&#39;t just have talent&#39;: Texas A&M HC Bucky McMillan on Texas win",
-    "description": "Texas A&M HC Bucky McMillan reflects on the historic win over Texas in Austin during Saturday's post-game radio interview.",
-    "pubDate": "2026-01-18",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/cant-just-talent-texas-m-213141562.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "how-many-amateurs-are-playing-in-the-2026-masters-meet-the-7-qualified",
-    "title": "How many amateurs are playing in the 2026 Masters? Meet the 7 qualified",
-    "description": "The 90th edition of the Masters include winners of some of the biggest amateur events in the world in 2025 and now 2026.",
-    "pubDate": "2026-01-18",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/many-amateurs-playing-2026-masters-213118670.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "tst-best-bets-january-18-2026",
-    "title": "TST Best Bets- January 18, 2026",
-    "description": "The Sporting Tribune's best bets for Sunday January 18, 2026.",
-    "pubDate": "2026-01-18",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/tst-best-bets-january-18-213100416.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "best-and-worst-pff-grades-from-the-panthers-39-2025-season",
-    "title": "Best and worst PFF grades from the Panthers&#39; 2025 season",
-    "description": "Which Panthers finished with the highest (and lowest) PFF grades from their 2025 season?",
-    "pubDate": "2026-01-18",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/best-worst-pff-grades-panthers-213045957.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "three-georgia-bulldogs-to-play-in-senior-bowl",
-    "title": "Three Georgia Bulldogs to play in Senior Bowl",
-    "description": "The Georgia Bulldogs will be participating in the 2026 Senior Bowl and the practices leading up to the Jan. 31 predraft scrimmage",
-    "pubDate": "2026-01-18",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/three-georgia-bulldogs-play-senior-213038038.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "maven-thinks-second-generation-wwe-star-is-next-john-cena",
-    "title": "Maven Thinks Second-Generation WWE Star Is Next John Cena",
-    "description": "Former WWE star Maven has named a star who could be the next John Cena, and his pick moves away from the unanimous choice of Cody Rhodes.",
-    "pubDate": "2026-01-18",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/maven-thinks-second-generation-wwe-213000799.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "harry-kane-not-fearing-loss-of-rhythm-if-bayern-munich-wins-early-title",
-    "title": "Harry Kane not fearing loss of rhythm if Bayern Munich wins early title",
-    "description": "FC Bayern could ice the Bundesliga title very early this season.",
-    "pubDate": "2026-01-18",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/harry-kane-not-fearing-loss-213000287.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "jessica-pegula-shares-the-crazy-reaction-she-received-from-other-players-about-her-podcast",
-    "title": "Jessica Pegula shares the ‘crazy’ reaction she received from other players about her podcast",
-    "description": "Jessica Pegula has been one of tennis’ most consistent elite-level players of the last few years, routinely making it deep at the big events whilst remaining around the top of the world rankings. However, she blends that professionalism and incredible talent with a great personality, which has been",
-    "pubDate": "2026-01-18",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/jessica-pegula-shares-crazy-reaction-213000985.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "what-kim-caldwell-said-about-lady-vols-forward-janiah-barker-injury",
-    "title": "What Kim Caldwell said about Lady Vols forward Janiah Barker injury",
-    "description": "Janiah Barker went down in the fourth quarter of Tennessee's win over Alabama on Jan. 18 and did not return to the game.",
-    "pubDate": "2026-01-18",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/kim-caldwell-said-lady-vols-213000191.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "woody-marks-injury-update-for-texans-39-playoff-game-vs-patriots",
-    "title": "Woody Marks injury update for Texans&#39; playoff game vs. Patriots",
-    "description": "Marks sat out a series after laying a vicious hit on Craig Woodson after an interception",
-    "pubDate": "2026-01-18",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/woody-marks-injury-texans-playoff-212952176.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "steelers-coaching-rumors-tracker-latest-news-on-chris-shula-brian-flores-other-potential-mike-tomlin-replacements",
-    "title": "Steelers coaching rumors tracker: Latest news on Chris Shula, Brian Flores, other potential Mike Tomlin replacements",
-    "description": "Who will the Steelers bring in to replace Mike Tomlin? Here's the latest on Pittsburgh's first coaching search in 19 years.",
-    "pubDate": "2026-01-18",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/steelers-coaching-rumors-tracker-latest-195437408.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "afcon-final-descends-into-farce-as-senegal-leave-field-in-protest-over-morocco-penalty",
-    "title": "AFCON final descends into farce as Senegal leave field in protest over Morocco penalty",
-    "description": "There were extraordinary scenes at the end of the Africa Cup of Nations final.",
-    "pubDate": "2026-01-18",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/afcon-final-descends-farce-senegal-212803754.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "woody-marks-questionable-to-return-with-shoulder-injury",
-    "title": "Woody Marks questionable to return with shoulder injury",
-    "description": "The injuries are piling up for the Texans in the first half of Sunday’s matchup with the Patriots, as New England has taken a 21-10 lead in the second quarter.",
-    "pubDate": "2026-01-18",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/woody-marks-questionable-return-shoulder-212743209.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "grizzlies-beat-magic-as-nba-returns-to-london",
-    "title": "Grizzlies beat Magic as NBA returns to London",
-    "description": "The Memphis Grizzlies overturned Thursday's loss to the Orlando Magic in Berlin with a 126-109 victory in London",
-    "pubDate": "2026-01-18",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/grizzlies-beat-magic-nba-returns-201001093.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "alabama-football-lands-commitment-from-2026-wide-receiver",
-    "title": "Alabama football lands commitment from 2026 wide receiver",
-    "description": "Alabama has landed a commitment from Maurice Mathis Jr., a wide receiver in the 2026 recruiting cycle.",
-    "pubDate": "2026-01-18",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/alabama-football-lands-commitment-2026-212530052.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "3-things-that-stood-out-from-wisconsin-s-win-over-rutgers-stars-are-starting-to-shine",
-    "title": "3 things that stood out from Wisconsin’s win over Rutgers: Stars are starting to shine",
-    "description": "The Badgers added to their win streak on Saturday.",
-    "pubDate": "2026-01-18",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/3-things-stood-wisconsin-win-212519677.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "legends-cup-brings-football-history-to-life",
-    "title": "Legends Cup brings football history to life",
-    "description": "It began long before the first whistle. As soon as you entered SAP Garden, you noticed how much this place was charged with expectations and memories. People stopped in the corridors, pointed at jerse...",
-    "pubDate": "2026-01-18",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/legends-cup-brings-football-history-212500239.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "live-coverage-patriots-vs-texans",
-    "title": "Live Coverage: Patriots vs. Texans",
-    "description": "The Patriots host the Texans with a trip to the AFC Championship Game on the line. MassLive has full coverage from Gillette Stadium.",
-    "pubDate": "2026-01-18",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/live-coverage-patriots-vs-texans-174828497.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "liverpool-are-eyeing-a-move-for-this-real-madrid-midfielder-dream-option-for-slot",
-    "title": "Liverpool Are Eyeing A Move For This Real Madrid Midfielder: Dream Option For Slot?",
-    "description": "In a recent report, Fichajes mentioned that Liverpool are eyeing a move for Real Madrid midfielder Eduardo Camavinga. It has been claimed that the Reds are eager to get a deal done for the France inte...",
-    "pubDate": "2026-01-18",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/liverpool-eyeing-move-real-madrid-212500152.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "the-top-5-free-agents-the-browns-must-bring-back-in-2026",
-    "title": "The Top 5 free agents the Browns must bring back in 2026",
-    "description": "Cleveland is facing a $27-million salary cap deficit and record $80-million Deshaun Watson hit. Can they keep their stars? Which three stars to the Browns need to sign back in free agency to avoid a total roster collapse?",
-    "pubDate": "2026-01-18",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/top-5-free-agents-browns-212440025.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "afcon-final-senegal-lead-in-extra-time-after-storming-off-pitch-before-morocco-miss-injury-time-penalty",
-    "title": "Afcon final: Senegal lead in extra-time after storming off pitch before Morocco miss injury-time penalty",
-    "description": "Follow live text commentary, score updates and match stats from Senegal vs Morocco in the 2025 Africa Cup of Nations",
-    "pubDate": "2026-01-18",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/afcon-hosts-morocco-meet-senegal-173555960.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "christian-mccaffrey-receives-the-highest-praise-from-kyle-shanahan",
-    "title": "Christian McCaffrey receives the highest praise from Kyle Shanahan",
-    "description": "Shanahan made sure to give the running back his props after another amazing season.",
-    "pubDate": "2026-01-18",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/christian-mccaffrey-receives-highest-praise-212410567.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "southern-miss-dl-transfer-mason-clinton-commits-to-florida",
-    "title": "Southern Miss DL transfer Mason Clinton commits to Florida",
-    "description": "Former Southern Miss defensive lineman Mason Clinton has committed to Florida out of the NCAA transfer portal, On3 has learned. Clinton also considered Baylor and Oregon before making his commitment to Jon Sumrall’s Gators. Clinton spent one year with the Golden Eagles and will have two years of eli",
-    "pubDate": "2026-01-18",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/southern-miss-dl-transfer-mason-212406503.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "dalton-schultz-injury-update-on-texans-te",
-    "title": "Dalton Schultz injury: Update on Texans TE",
-    "description": "Stroud is down another weapon.",
-    "pubDate": "2026-01-18",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/dalton-schultz-injury-texans-te-212357398.html",
+    "link": "https://sports.yahoo.com/articles/titans-interview-robert-saleh-person-223240926.html",
     "source": "Google News"
   },
   {
@@ -1062,84 +792,390 @@
     "source": "Google News"
   },
   {
-    "slug": "watch-texans-take-lead-over-patriots-with-christian-kirk-td",
-    "title": "WATCH: Texans take lead over Patriots with Christian Kirk TD",
-    "description": "Welcome back to the end zone, Houston Texans Christian Kirk.",
+    "slug": "patriots-vs-texans-live-updates-score-news-for-nfl-divisional-playoffs",
+    "title": "Patriots vs. Texans: Live updates, score, news for NFL divisional playoffs",
+    "description": "New England looks to punch their ticket to the AFC Championship Game.",
     "pubDate": "2026-01-18",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/watch-texans-lead-over-patriots-212252522.html",
+    "link": "https://sports.yahoo.com/articles/patriots-vs-texans-live-updates-191500042.html",
     "source": "Google News"
   },
   {
-    "slug": "rhamondre-stevenson-injury-update-latest-news-on-patriots-rb-39-s-status-in-divisional-round-game",
-    "title": "Rhamondre Stevenson injury update: Latest news on Patriots RB&#39;s status in divisional round game",
-    "description": "New England Patriots running back Rhamondre Stevenson is dealing with an injury in the first half of the divisional round game versus the Houston Texans.",
+    "slug": "washington-d-c-sets-u-s-women-s-hockey-attendance-record",
+    "title": "Washington, D.C., sets U.S. women’s hockey attendance record",
+    "description": "The PWHL set another attendance record on Sunday. An announced crowd of 17,228 packed into Capital One Arena in Washington, D.C., to witness the New York Sirens’ 2-1 victory over the Montreal Victoire. That is the largest in-arena crowd for a professional women’s hockey game in the U.S. The previous",
     "pubDate": "2026-01-18",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/rhamondre-stevenson-injury-latest-news-212245757.html",
+    "link": "https://sports.yahoo.com/articles/washington-d-c-sets-u-223104331.html",
     "source": "Google News"
   },
   {
-    "slug": "should-texans-bench-c-j-stroud-fans-call-for-backup-qb-davis-mills",
-    "title": "Should Texans bench C.J. Stroud? Fans call for backup QB Davis Mills",
-    "description": "This is not good.",
+    "slug": "pep-guardiola-unable-to-see-a-way-out-of-man-city-s-erling-haaland-problem",
+    "title": "Pep Guardiola unable to see a way out of Man City’s Erling Haaland problem",
+    "description": "The striker has played more minutes that any other Manchester City player this season but Guardiola ‘needs’ his top scorer to lead the line",
     "pubDate": "2026-01-18",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/texans-bench-c-j-stroud-212238363.html",
+    "link": "https://sports.yahoo.com/articles/pep-guardiola-unable-see-way-223027006.html",
     "source": "Google News"
   },
   {
-    "slug": "mateo-pulcini-wins-latin-america-amateur-in-a-playoff-his-next-stop-is-the-masters",
-    "title": "Mateo Pulcini wins Latin America Amateur in a playoff. His next stop is the Masters",
-    "description": "Mateo Pulcini made a pair of big par putts over the final hour and finished with a 3-foot par save on the second playoff hole to win the Latin America Amateur Championship on Sunday, earning the Argentine a spot in the Masters, U.S. Open and British Open.  Pulcini, at 25 the oldest winner of the Lat",
+    "slug": "cavs-vs-thunder-how-to-watch-odds-and-injury-report",
+    "title": "Cavs vs. Thunder: How to watch, odds, and injury report",
+    "description": "We’ll see how the Cavs stack up against the best team in the league.",
     "pubDate": "2026-01-18",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/mateo-pulcini-wins-latin-america-212230495.html",
+    "link": "https://sports.yahoo.com/articles/cavs-vs-thunder-watch-odds-223007558.html",
     "source": "Google News"
   },
   {
-    "slug": "who-is-texans-39-backup-qb-depth-chart-comes-into-focus-as-c-j-stroud-struggles-vs-patriots",
-    "title": "Who is Texans&#39; backup QB? Depth chart comes into focus as C.J. Stroud struggles vs. Patriots",
-    "description": "Who is the Houston Texans' backup quarterback? Let's take a look at the team's quarterback depth chart with C.J. Stroud struggling in the divisional round versus the New England Patriots.",
+    "slug": "pep-on-marmoush-return-after-afcon-involvement",
+    "title": "Pep on Marmoush return after AFCON involvement",
+    "description": "Pep Guardiola says Omar Marmoush is likely to miss this week’s UEFA Champions League clash with Bodo/Glimt. Match Preview Bodo Glimt v City: Kick-off time, team news and TV coverage Marmoush has bee...",
     "pubDate": "2026-01-18",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/texans-backup-qb-depth-chart-212214755.html",
+    "link": "https://sports.yahoo.com/articles/pep-marmoush-return-afcon-involvement-223000780.html",
     "source": "Google News"
   },
   {
-    "slug": "magic-lose-to-grizzlies-in-london-split-europe-trip",
-    "title": "Magic lose to Grizzlies in London, split Europe trip",
-    "description": "When the Orlando Magic captured a seven-point victory against the Memphis Grizzlies on Thursday in Berlin, Jamahl Mosley‘s squad had to overcome a 20-point first-half deficit to take down Memphis. Orlando, however, was unable to complete a similar comeback over the Western Conference foe Sunday in L",
+    "slug": "can-2025-achraf-hakimi-in-tears-after-the-lost-final",
+    "title": "CAN 2025: Achraf Hakimi in tears after the lost final",
+    "description": "Achraf HakimiThis CAN 2025 final will be forever etched in the history of African football. After a string of controversial refereeing decisions, Morocco, who seemed poised to win the final, slipped u...",
     "pubDate": "2026-01-18",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/magic-lose-grizzlies-london-split-212200383.html",
+    "link": "https://sports.yahoo.com/articles/2025-achraf-hakimi-tears-lost-223000403.html",
     "source": "Google News"
   },
   {
-    "slug": "dan-hurley-needs-one-of-his-point-guards-in-fouling-rehab-the-other-to-make-better-decisions",
-    "title": "Dan Hurley needs one of his point guards in ‘fouling rehab,’ the other to ‘make better decisions’",
-    "description": "WASHINGTON, D.C. – Silas Demary Jr.’s impact on the game has been clear on both ends of the court for UConn men’s basketball. When he’s on the bench, the issues holding the Huskies back have been accentuated. After UConn’s win over Marquette on Jan. 4, when Demary was limited to only 21 minutes as h",
+    "slug": "8216-extraordinary-8217-man-city-star-expected-to-miss-champions-league-clash",
+    "title": "&#8216;Extraordinary&#8217; Man City star expected to miss Champions League clash",
+    "description": "Pep Guardiola says he does not expect Omar Marmoush to return to the Manchester City squad for the game against Bodo/Glimt.The Egypt striker has been taking part in the Africa Cup of Nations and ended...",
     "pubDate": "2026-01-18",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/dan-hurley-needs-one-point-212100969.html",
+    "link": "https://sports.yahoo.com/articles/extraordinary-man-city-star-expected-223000661.html",
     "source": "Google News"
   },
   {
-    "slug": "washington-sets-new-american-women-39-s-hockey-attendance-record",
-    "title": "Washington Sets New American Women&#39;s Hockey Attendance Record",
-    "description": "Washington, DC is the new owner of an American professional women's hockey attendance record with 17,228 at Capital One Arena.",
+    "slug": "rennae-stubbs-makes-a-big-amanda-anisimova-claim-before-the-australian-open",
+    "title": "Rennae Stubbs makes a big Amanda Anisimova claim before the Australian Open",
+    "description": "Amanda Anisimova will be eyeing a strong run at the Australian Open after impressing in recent Grand Slams. Anisimova takes on Simona Waltert in the first round of the Australian Open, where she is the fourth seed.",
     "pubDate": "2026-01-18",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/washington-sets-american-womens-hockey-212038829.html",
+    "link": "https://sports.yahoo.com/articles/rennae-stubbs-makes-big-amanda-223000196.html",
     "source": "Google News"
   },
   {
-    "slug": "how-to-watch-illinois-vs-maryland-game-time-tv-channel-online-streaming-and-odds",
-    "title": "How to Watch Illinois vs. Maryland: Game Time, TV Channel, Online Streaming and Odds",
-    "description": "A heavy favorite again.",
+    "slug": "mississippi-state-women-take-advantage-of-no-7-kentucky-39-s-shooting-woes-in-71-59-win",
+    "title": "Mississippi State women take advantage of No. 7 Kentucky&#39;s shooting woes in 71-59 win",
+    "description": "",
     "pubDate": "2026-01-18",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/watch-illinois-vs-maryland-game-212012706.html",
+    "link": "https://sports.yahoo.com/articles/mississippi-state-women-advantage-no-222915021.html",
+    "source": "ROBBIE FAULK"
+  },
+  {
+    "slug": "berry-wallace-scores-career-high-29-no-25-illinois-women-edge-northwestern-74-71",
+    "title": "Berry Wallace scores career-high 29, No. 25 Illinois women edge Northwestern 74-71",
+    "description": "Berry Wallace scored a career-high 29 points, 12 in the fourth quarter, and No. 25 Illinois held off a fourth-quarter rally to defeat Northwestern 74-71 on Sunday.  Illinois took the lead for good with 2 1/2 minutes left in the second quarter and led 58-51 heading to the fourth.  Although Illinois r",
+    "pubDate": "2026-01-18",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/berry-wallace-scores-career-high-222847163.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "afcon-controversy-explained-why-senegal-left-the-pitch-in-protest",
+    "title": "AFCON controversy explained: Why Senegal left the pitch in protest",
+    "description": "After a controversial penalty was award to Morocco in the 98th minute of the AFCON final, Senegal players left the pitch. Here's what happened next.",
+    "pubDate": "2026-01-18",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/afcon-controversy-explained-why-senegal-222823714.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "nfl-fans-turned-c-j-stroud-39-s-abysmal-first-half-into-a-meme",
+    "title": "NFL fans turned C.J. Stroud&#39;s abysmal first half into a meme",
+    "description": "C.J. Stroud could not have played worse in the first half against the Patriots.",
+    "pubDate": "2026-01-18",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/nfl-fans-turned-c-j-222805404.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "senegal-walk-off-in-afcon-final-over-penalty-award",
+    "title": "Senegal walk off in Afcon final over penalty award",
+    "description": "Senegal beat Morocco to win the Africa Cup of Nations for a second time - but only after the final was overshadowed when they temporarily refuse to play when the hosts are awarded a controversial stoppage time-penalty with the match 0-0.",
+    "pubDate": "2026-01-18",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/senegal-walk-off-afcon-final-211636921.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "man-lone-hero-for-senegal-defies-chaos-in-the-final",
+    "title": "🏆 Mané lone hero for Senegal, defies chaos in the final! 💥",
+    "description": "A final like this in the Africa Cup of Nations had never been seen before. But, probably, the comparison could even be extended to all international competitions.Watch the entire Serie BKT live on One...",
+    "pubDate": "2026-01-18",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/man-hero-senegal-defies-chaos-222700096.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "senegal-beat-hosts-morocco-to-win-afcon-2025-after-farcical-walk-off",
+    "title": "Senegal beat hosts Morocco to win AFCON 2025 after farcical walk-off",
+    "description": "Pape Gueye scores in 1-0 win after extra time after Senegal leave the field to protest a penalty decision.",
+    "pubDate": "2026-01-18",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/senegal-beat-hosts-morocco-win-222617919.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "he-can-t-behave-like-that-frenkie-de-jong-blasts-referee-after-barcelona-lose-to-real-sociedad",
+    "title": "‘He can’t behave like that’ – Frenkie de Jong blasts referee after Barcelona lose to Real Sociedad",
+    "description": "The Dutchman was not happy after the game.",
+    "pubDate": "2026-01-18",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/t-behave-frenkie-jong-blasts-222607238.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "patriots-vs-texans-live-score-updates-highlights-from-2026-nfl-playoff-game",
+    "title": "Patriots vs. Texans live score, updates, highlights from 2026 NFL playoff game",
+    "description": "The Sporting News is tracking live scoring updates and highlights for Patriots vs. Texans in the AFC divisional round on Sunday. Follow for complete results from the 2026 NFL playoff game here.",
+    "pubDate": "2026-01-18",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/patriots-vs-texans-live-score-170002349.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "buffs-land-big-commitment-from-former-texas-receiver",
+    "title": "Buffs land big commitment from former Texas receiver",
+    "description": "We are back with more good news! Deion Sanders and Colorado have landed a big-time commitment from former Texas Longhorns wide receiver DeAndre Moore, adding even more talent to a room that has already seen a massive overhaul this portal cycle. (Pun intended) In three seasons in Austin, Moore became",
+    "pubDate": "2026-01-18",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/buffs-land-big-commitment-former-222551890.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "josh-allen-39-s-bills-nightmare-could-continue-with-potential-coach-departure",
+    "title": "Josh Allen&#39;s Bills nightmare could continue with potential coach departure",
+    "description": "This would be problematic for Josh.",
+    "pubDate": "2026-01-18",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/josh-allens-bills-nightmare-could-222509878.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "xabi-alonso-39-s-perfect-forward-is-already-at-liverpool-but-it-39-s-not-florian-wirtz",
+    "title": "Xabi Alonso&#39;s perfect forward is already at Liverpool but it&#39;s NOT Florian Wirtz",
+    "description": "Saturday’s 1-1 draw against Burnley at Anfield was a disappointing result for Liverpool, but the Reds U21 side provided some relief on an otherwise poor afternoon. An hour before Arne Slot’s side ...",
+    "pubDate": "2026-01-18",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/xabi-alonsos-perfect-forward-already-222500858.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "afcon-nicolas-jackson-s-senegal-crowned-champions-after-controversial-finale",
+    "title": "AFCON: Nicolas Jackson’s Senegal crowned champions after controversial finale",
+    "description": "Nicolas Jackson’s Senegal won the African Cup of Nations after a dramatic extra-time win over hosts Morocco. The Bayern Munich striker added the continent’s biggest silverware to last season’s E...",
+    "pubDate": "2026-01-18",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/afcon-nicolas-jackson-senegal-crowned-222500114.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "celtic-boss-spotted-at-fir-park-amid-rumoured-interest-in-this-motherwell-attacker-why-the-hoops-should-consider-a-move",
+    "title": "Celtic Boss Spotted At Fir Park Amid Rumoured Interest In This Motherwell Attacker: Why The Hoops Should Consider A Move",
+    "description": "Amid the hunt for a new ‘number 9’, interim Celtic boss Martin O’Neill was spotted at Fir Park, fuelling speculations over a potential move for high-flying Motherwell ace Tawanda Maswanhise. Acc...",
+    "pubDate": "2026-01-18",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/celtic-boss-spotted-fir-park-222500449.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "how-did-bears-change-their-starting-ol-before-playoff-game",
+    "title": "How did Bears change their starting OL before playoff game?",
+    "description": "The Bears made a significant change to their starting offensive line ahead of their divisional round game against the Rams.",
+    "pubDate": "2026-01-18",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/did-bears-change-starting-ol-222452953.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "afcon-golden-boot-final-standings-for-top-goal-scorers-at-2025-africa-cup-of-nations",
+    "title": "AFCON Golden Boot: Final standings for top goal scorers at 2025 Africa Cup of Nations",
+    "description": "The race to be crowned top goal-scorer at the Africa Cup of Nations was intense.",
+    "pubDate": "2026-01-18",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/afcon-golden-boot-updated-standings-114549602.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "robert-saleh-will-interview-in-person-with-titans-for-coach-vacancy",
+    "title": "Robert Saleh will interview in-person with Titans for coach vacancy",
+    "description": "The Tennessee Titans will interview San Francisco 49ers defensive coordinator Robert Saleh in person for their coaching vacancy on Jan. 19, a source told The Tennessean.",
+    "pubDate": "2026-01-18",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/robert-saleh-interview-person-titans-222225983.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "mizzou-adds-2026-commitment-from-lee-s-summit-wr-karsten-fiene",
+    "title": "Mizzou adds 2026 commitment from Lee’s Summit WR Karsten Fiene",
+    "description": "The Tigers make a late addition to the 2026 high school class.",
+    "pubDate": "2026-01-18",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/mizzou-adds-2026-commitment-lee-222209923.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "flau-39-jae-johnson-39-s-23-points-10-rebounds-lead-no-6-lsu-past-no-13-oklahoma-91-72",
+    "title": "Flau&#39;jae Johnson&#39;s 23 points, 10 rebounds lead No. 6 LSU past No. 13 Oklahoma 91-72",
+    "description": "Jada Richard added 21 points for the Tigers (17-2, 3-2 Southeastern Conference), who knocked off the Sooners after beating then-No. 2 Texas last Sunday.  Aaliyah Chavez, Oklahoma’s star freshman, was held to 11 points on 3-for-14 shooting.",
+    "pubDate": "2026-01-18",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/flaujae-johnsons-23-points-10-222115224.html",
+    "source": "CLIFF BRUNT"
+  },
+  {
+    "slug": "knicks-injury-tracker-jalen-brunson-josh-hart-questionable-for-monday-39-s-game-vs-mavericks",
+    "title": "Knicks Injury Tracker: Jalen Brunson, Josh Hart questionable for Monday&#39;s game vs. Mavericks",
+    "description": "The latest injury news and possible return dates for New York Knicks players...",
+    "pubDate": "2026-01-18",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/knicks-injury-tracker-mitchell-robinson-221106673.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "barcelona-player-ratings-against-real-sociedad-lamine-yamal-stars-in-defeat",
+    "title": "Barcelona player ratings against Real Sociedad: Lamine Yamal stars in defeat",
+    "description": "Barcelona have lost for the first time since November, with Real Sociedad emerging as 2-1 winners at Anoeta on Sunday evening.Joan Garcia – 6He’s been in fantastic form in recent weeks, but it was...",
+    "pubDate": "2026-01-18",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/barcelona-player-ratings-against-real-222000270.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "can-2025-senegal-defeats-morocco-on-their-turf-and-clinches-a-second-star",
+    "title": "CAN 2025: Senegal defeats Morocco on their turf and clinches a second star",
+    "description": "After a high-octane first half and a second period that remained on a knife edge, the Africa Cup of Nations final descended into chaos and extreme tension in the dying moments of regulation time. In t...",
+    "pubDate": "2026-01-18",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/2025-senegal-defeats-morocco-turf-222000451.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "patriots-vs-texans-weather-how-slick-foxboro-conditions-has-played-a-factor-in-turnover-filled-playoff-game",
+    "title": "Patriots vs. Texans weather: How slick Foxboro conditions has played a factor in turnover-filled playoff game",
+    "description": "The New England defense was dominant in a first half that had five total turnovers.",
+    "pubDate": "2026-01-18",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/patriots-vs-texans-weather-slick-214817752.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "yamal-gets-9-5-pedri-with-7-5-barcelona-players-rated-in-tough-loss-vs-real-sociedad",
+    "title": "Yamal Gets 9.5, Pedri With 7.5 | Barcelona Players Rated In Tough Loss Vs Real Sociedad",
+    "description": "Barcelona faced off against Real Sociedad at the Reale Arena earlier tonight as they hoped to secure a good result on the road in La Liga. The Catalan giants made a slow start to the game and conceded...",
+    "pubDate": "2026-01-18",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/yamal-gets-9-5-pedri-222000147.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "ohio-state-transfer-dl-trajen-odom-commits-to-arkansas-out-of-ncaa-transfer-portal",
+    "title": "Ohio State transfer DL Trajen Odom commits to Arkansas out of NCAA Transfer Portal",
+    "description": "Ohio State transfer defensive lineman Trajen Odom has committed to Arkansas out of the NCAA Transfer Portal, according to On3’s Hayes Fawcett. Odom, who redshirted as a true freshman this past season, will have all four years of collegiate eligibility remaining in Fayetteville. The 6-foot-3 and 295-",
+    "pubDate": "2026-01-18",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/ohio-state-transfer-dl-trajen-221641228.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "shock-result-barcelona-beaten-by-real-sociedad",
+    "title": "🚨 Shock result: Barcelona beaten by Real Sociedad",
+    "description": "Barça falls in La Liga, beaten 2-1 by a clinical Real Sociedad.After a first half largely dominated with notably three goals disallowed for the Catalans, Mikel Oyarzabal opened the scoring for the ho...",
+    "pubDate": "2026-01-18",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/shock-result-barcelona-beaten-real-221900966.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "who-has-won-the-most-afcon-titles-full-list-of-all-time-africa-cup-of-nations-champions",
+    "title": "Who has won the most AFCON titles? Full list of all-time Africa Cup of Nations champions",
+    "description": "The Africa Cup of Nations returned in December 2025, but which nation is the most successful in the competition's history?",
+    "pubDate": "2026-01-18",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/won-most-afcon-titles-full-140000505.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "cfp-national-championship-2026-florida-state-fans-predict-miami-vs-indiana",
+    "title": "CFP National Championship 2026: Florida State fans predict Miami vs. Indiana",
+    "description": "What do FSU Seminole fans, Las Vegas, and the rest of America have in common?",
+    "pubDate": "2026-01-18",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/cfp-national-championship-2026-florida-221741993.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "joe-thuney-will-move-to-lt-for-the-bears-vs-rams",
+    "title": "Joe Thuney will move to LT for the Bears vs. Rams",
+    "description": "The Bears are starting Joe Thuney at left tackle against the Rams, according to a source.",
+    "pubDate": "2026-01-18",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/joe-thuney-move-lt-bears-221700108.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "twitter-reacts-to-c-j-stroud-39-s-four-first-half-picks-against-patriots",
+    "title": "Twitter reacts to C.J. Stroud&#39;s four first-half picks against Patriots",
+    "description": "Texans quarterback C.J. Stroud threw four interceptions in the first half of Sunday's divisional game against the Patriots.",
+    "pubDate": "2026-01-18",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/twitter-reacts-c-j-strouds-221615152.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "broncos-sign-former-cowboys-qb-after-bo-nix-injury",
+    "title": "Broncos sign former Cowboys QB after Bo Nix injury",
+    "description": "Denver needed another quarterback.",
+    "pubDate": "2026-01-18",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/broncos-sign-former-cowboys-qb-221612197.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "craig-counsell-reveals-how-the-cubs-can-unlock-the-quot-next-level-quot-of-edward-cabrera",
+    "title": "Craig Counsell Reveals How the Cubs Can Unlock the &quot;Next Level&quot; of Edward Cabrera",
+    "description": "The Chicago Cubs believe an elite defense backing and emphasis on strike throwing can help Edward Cabrera turn flashes into consistency.",
+    "pubDate": "2026-01-18",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/craig-counsell-reveals-cubs-unlock-221526655.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "rome-odunze-jimmy-garoppolo-active-for-bears-rams",
+    "title": "Rome Odunze, Jimmy Garoppolo active for Bears-Rams",
+    "description": "Bears wide receiver Rome Odunze will be in the lineup for Sunday's game against the Rams.",
+    "pubDate": "2026-01-18",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/rome-odunze-jimmy-garoppolo-active-221519269.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "real-sociedad-end-barca-winning-streak-to-tighten-liga-title-race",
+    "title": "Real Sociedad end Barca winning streak to tighten Liga title race",
+    "description": "Real Sociedad damaged Barcelona's title defence ambitions with a surprise 2-1 victory on Sunday in La Liga as Hansi Flick's side fell to a first defeat in 12 matches.The midfielder was able to gather the rebound and cross for Guedes, who fired La Real ahead again.",
+    "pubDate": "2026-01-18",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/real-sociedad-end-barca-winning-221502369.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "bears-to-start-joe-thuney-at-left-tackle-vs-rams",
+    "title": "Bears to start Joe Thuney at left tackle vs. Rams",
+    "description": "The Bears are making changes to their offensive line before their divisional playoff vs. the Rams, where Joe Thuney is kicking out to left tackle.",
+    "pubDate": "2026-01-18",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/bears-start-joe-thuney-left-221425383.html",
     "source": "Google News"
   },
   {
@@ -1185,24 +1221,6 @@
     "pubDate": "2026-01-17",
     "image": "",
     "link": "https://www.bbc.com/sport/football/videos/cgezq8nqjqqo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport"
-  },
-  {
-    "slug": "nba-plans-to-tap-into-european-football-culture",
-    "title": "NBA plans to 'tap into European football culture'",
-    "description": "NBA commissioner Adam Silver says he is looking make the most of existing football clubs in his bid to launch NBA Europe.",
-    "pubDate": "2026-01-17",
-    "image": "",
-    "link": "https://www.bbc.com/sport/basketball/articles/cr57qly4l5go?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport"
-  },
-  {
-    "slug": "pakistan-tv-break-232-year-record-in-trophy-win",
-    "title": "Pakistan TV break 232-year record in trophy win",
-    "description": "Pakistan TV break a 232-year record by successfully defending the lowest total in first-class cricket to beat Sui Northern in the President's Trophy.",
-    "pubDate": "2026-01-17",
-    "image": "",
-    "link": "https://www.bbc.com/sport/cricket/articles/cx2p759mm30o?at_medium=RSS&at_campaign=rss",
     "source": "BBC Sport"
   },
   {
