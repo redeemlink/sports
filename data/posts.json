@@ -38,7 +38,7 @@
   {
     "slug": "cristobal-bemoans-targeting-call-on-canes-lucas",
     "title": "Cristobal bemoans targeting call on Canes' Lucas",
-    "description": "Miami coach Mario Cristobal said the punishment that goes with a targeting call made in the second half needs to be reevaluated.",
+    "description": "Miami coach Mario Cristobal says the punishment that goes with a targeting call made in the second half needs to be reevaluated.",
     "pubDate": "2026-01-18",
     "image": "",
     "link": "https://www.espn.com/college-football/story/_/id/47651007/mario-cristobal-bemoans-targeting-call-miami-xavier-lucas",
@@ -47,7 +47,7 @@
   {
     "slug": "seahawks-showcase-full-arsenal-blow-out-49ers",
     "title": "Seahawks showcase full arsenal, blow out 49ers",
-    "description": "The Seahawks delivered an all-three-phases beatdown of the 49ers on Saturday, racing to a 17-0 lead and never looking back in a 41-6 win to advance to the NFC title game.",
+    "description": "The Seahawks delivered an all-three-phases beatdown of the 49ers, racing to a 17-0 lead and never looking back in a 41-6 win to advance to the NFC title game.",
     "pubDate": "2026-01-18",
     "image": "",
     "link": "https://www.espn.com/nfl/story/_/id/47648598/seahawks-showcase-full-arsenal-blowout-victory-49ers",
@@ -65,7 +65,7 @@
   {
     "slug": "allen-devastated-but-loss-not-on-qb-bills-say",
     "title": "Allen devastated, but loss not on QB, Bills say",
-    "description": "After another playoff loss that ended a promising season for the Bills, quarterback Josh Allen told reporters that \"I feel like I let my teammates down tonight,\" though Buffalo players and coaches disagreed after the Broncos won 33-30 on Saturday night.",
+    "description": "After another playoff loss that ended a promising season for the Bills, quarterback Josh Allen told reporters that \"I feel like I let my teammates down tonight,\" though Buffalo players and coaches disagreed.",
     "pubDate": "2026-01-18",
     "image": "",
     "link": "https://www.espn.com/nfl/story/_/id/47647463/josh-allen-buffalo-bills-lament-missed-opportunities",
@@ -133,6 +133,15 @@
     "image": "",
     "link": "https://www.espn.com/nfl/story/_/id/47621274/texans-demeco-ryans-patriots-mike-vrabel-former-players-coach",
     "source": "DJ Bien-Aime"
+  },
+  {
+    "slug": "stories-that-explain-patriots-head-coach-mike-vrabel-from-the-past-and-present",
+    "title": "Stories that explain Patriots head coach Mike Vrabel -- from the past and present",
+    "description": "We talked with former teammates, colleagues and players about their favorite Vrabel memories.",
+    "pubDate": "2026-01-18",
+    "image": "",
+    "link": "https://www.espn.com/nfl/story/_/id/47622009/new-england-patriots-coach-mike-vrabel-stories-playoffs-houston-texans",
+    "source": "Mike Reiss"
   },
   {
     "slug": "kevin-stefanski-to-falcons-grading-the-hire-and-the-impact-on-penix",
@@ -279,24 +288,6 @@
     "source": "J.J. Post"
   },
   {
-    "slug": "first-round-s-on-me-depaul-coach-holtmann-covers-drinks-for-students-after-marquette-win",
-    "title": "'First round's on me': DePaul coach Holtmann covers drinks for students after Marquette win",
-    "description": "Chris Holtmann seems to have DePaul moving in the right direction. And after record student attendance, the coach gave back in a very collegiate manner: free drinks.",
-    "pubDate": "2026-01-18",
-    "image": "",
-    "link": "https://www.espn.com/mens-college-basketball/story/_/id/47642973/chris-holtmann-depaul-coach-buys-drinks-marquette-win",
-    "source": "J.J. Post"
-  },
-  {
-    "slug": "rams-bears-set-to-join-list-of-coldest-playoff-games",
-    "title": "Rams-Bears set to join list of coldest playoff games",
-    "description": "The coldest-ever postseason game remains the 1967 \"Ice Bowl\" between Green Bay and Dallas.",
-    "pubDate": "2026-01-18",
-    "image": "",
-    "link": "https://www.espn.com/nfl/story/_/id/39283620/coldest-ever-nfl-playoff-games-chiefs-dolphins-2023-frozen",
-    "source": "Anthony Gharib"
-  },
-  {
     "slug": "spurs-chiefs-consider-sacking-frank-as-fans-turn",
     "title": "Spurs chiefs consider sacking Frank as fans turn",
     "description": "Tottenham head coach Thomas Frank is under significant internal scrutiny with the club considering calling time on his seven-month reign.",
@@ -369,15 +360,6 @@
     "source": "BBC Sport"
   },
   {
-    "slug": "williams-history-making-day-ends-in-narrow-defeat",
-    "title": "Williams' history-making day ends in narrow defeat",
-    "description": "Venus Williams makes history at the Australian Open but the 45-year-old falls to a narrow defeat by Olga Danilovic in the first round.",
-    "pubDate": "2026-01-18",
-    "image": "",
-    "link": "https://www.bbc.com/sport/tennis/articles/c5y503l49gvo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport"
-  },
-  {
     "slug": "luckily-i-grabbed-her-player-helps-ball-girl-after-collapse",
     "title": "'Luckily I grabbed her' - player helps ball girl after collapse",
     "description": "Turkish player Zeynep Sonmez says it was \"instinct\" to help after a ball girl fainted during day one of the 2026 Australian Open.",
@@ -420,6 +402,15 @@
     "pubDate": "2026-01-18",
     "image": "",
     "link": "https://www.bbc.com/sport/football/articles/clynjj2ngy8o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport"
+  },
+  {
+    "slug": "britain-s-fery-causes-first-upset-of-australian-open",
+    "title": "Britain's Fery causes first upset of Australian Open",
+    "description": "British qualifier Arthur Fery claims another notable Grand Slam scalp by stunning 20th seed Flavio Cobolli on day one of the Australian Open.",
+    "pubDate": "2026-01-18",
+    "image": "",
+    "link": "https://www.bbc.com/sport/tennis/articles/clywqv1evx5o?at_medium=RSS&at_campaign=rss",
     "source": "BBC Sport"
   },
   {
@@ -468,15 +459,6 @@
     "source": "BBC Sport"
   },
   {
-    "slug": "britain-s-fery-causes-first-upset-of-australian-open",
-    "title": "Britain's Fery causes first upset of Australian Open",
-    "description": "British qualifier Arthur Fery claims another notable Grand Slam scalp by stunning 20th seed Flavio Cobolli on day one of the Australian Open.",
-    "pubDate": "2026-01-18",
-    "image": "",
-    "link": "https://www.bbc.com/sport/tennis/articles/clywqv1evx5o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport"
-  },
-  {
     "slug": "chiefs-rout-cardiff-to-seal-home-tie-in-last-16",
     "title": "Chiefs rout Cardiff to seal home tie in last 16",
     "description": "Bachuki Tchumbadze scores an early double as Exeter Chiefs overcome a reshuffled Cardiff side to book a home tie in the last 16 of the European Challenge Cup.",
@@ -519,6 +501,15 @@
     "pubDate": "2026-01-18",
     "image": "",
     "link": "https://www.bbc.com/sport/football/articles/cy7me6n0re6o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport"
+  },
+  {
+    "slug": "starc-smith-and-curran-take-sixers-to-big-bash-play-offs",
+    "title": "Starc, Smith and Curran take Sixers to Big Bash play-offs",
+    "description": "Sydney Sixers secure second place in the Big Bash League and their place in Tuesday's qualifier match with a five-wicket win over Brisbane Heat.",
+    "pubDate": "2026-01-18",
+    "image": "",
+    "link": "https://www.bbc.co.uk/sport/cricket/franchise-cricket?at_medium=RSS&at_campaign=rss",
     "source": "BBC Sport"
   },
   {
@@ -601,6 +592,105 @@
     "image": "",
     "link": "https://www.bbc.com/sport/golf/articles/cn0y92p02xqo?at_medium=RSS&at_campaign=rss",
     "source": "BBC Sport"
+  },
+  {
+    "slug": "gary-o-39-neil-leads-strasbourg-to-2-1-win-over-metz-in-ligue-1-debut",
+    "title": "Gary O&#39;Neil leads Strasbourg to 2-1 win over Metz in Ligue 1 debut",
+    "description": "Strasbourg new coach Gary O’Neil enjoyed a succesful Ligue 1 debut, guiding his team to a 2-1 win over local rival Metz in the French league on Sunday.  O'Neil, who started his tenure with a comfortable win at a fourth-tier club to reach the last 16 of the French Cup last weekend, was appointed earl",
+    "pubDate": "2026-01-18",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/gary-oneil-leads-strasbourg-2-161906316.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "steelers-reportedly-expected-to-speak-to-super-bowl-champion-head-coach",
+    "title": "Steelers Reportedly Expected To Speak To Super Bowl Champion Head Coach",
+    "description": "The Pittsburgh Steelers could reportedly pursue an accomplished head coach to replace Mike Tomlin. Pittsburgh is expected to talk to Mike McCarthy about their coaching vacancy, per ESPN’s Adam Schefter. The Pittsburgh native spent the 2025 season away from the sidelines after completing a five-year",
+    "pubDate": "2026-01-18",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/steelers-reportedly-expected-speak-super-161812341.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "will-power-is-determined-to-make-penske-regret-writing-him-off-as-he-joins-andretti",
+    "title": "Will Power is determined to make Penske regret writing him off as he joins Andretti",
+    "description": "Will Power casually walked through the near-empty fan zone at Daytona International Speedway in a simple, white firesuit void of any Penske or Verizon Wireless logos.  One of the winningest drivers in IndyCar history was practically unnoticeable at an unfamiliar track where few should have recognize",
+    "pubDate": "2026-01-18",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/power-determined-penske-regret-writing-161600916.html",
+    "source": "JENNA FRYER"
+  },
+  {
+    "slug": "steelers-players-reportedly-want-aaron-rodgers-to-return-to-team-in-2026",
+    "title": "Steelers players reportedly want Aaron Rodgers to return to team in 2026",
+    "description": "Aaron Rodgers was well-loved by Steelers players last season.",
+    "pubDate": "2026-01-18",
+    "image": "",
+    "link": "https://sports.yahoo.com/nfl/article/steelers-players-reportedly-want-aaron-rodgers-to-return-to-team-in-2026-161435321.html",
+    "source": "Chris Cwik"
+  },
+  {
+    "slug": "resurgent-wolves-hold-newcastle-to-0-0-draw-in-premier-league",
+    "title": "Resurgent Wolves hold Newcastle to 0-0 draw in Premier League",
+    "description": "Wolverhampton, the Premier League's last-placed team, continued its resurgence by holding Newcastle to a 0-0 draw to extend its unbeaten run to five games in all competitions.  Wolves collected just two points from its first 18 league games, but has earned six points from its last four.  Wolves need",
+    "pubDate": "2026-01-18",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/resurgent-wolves-hold-newcastle-0-161001625.html",
+    "source": "STEVE DOUGLAS"
+  },
+  {
+    "slug": "eagles-interviewed-jim-bob-cooter-for-offensive-coordinator",
+    "title": "Eagles interviewed Jim Bob Cooter for offensive coordinator",
+    "description": "The Eagles looked to the staff of one of their former offensive coordinators as they look to fill that role on Nick Sirianni's staff for the 2026 season.",
+    "pubDate": "2026-01-18",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/eagles-interviewed-jim-bob-cooter-160506473.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "georgia-football-enters-the-mix-for-nation-39-s-no-2-running-back",
+    "title": "Georgia football enters the mix for nation&#39;s No. 2 running back",
+    "description": "The Georgia Bulldogs have extended a scholarship offer to four-star running back recruit Acely Brown",
+    "pubDate": "2026-01-18",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/georgia-football-enters-mix-nations-160424962.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "indiana-39-s-curt-cignetti-ahead-of-monday-night-39-s-national-championship-39-you-don-39-t-go-to-war-with-warm-milk-and-cookies-39",
+    "title": "Indiana&#39;s Curt Cignetti ahead of Monday night&#39;s national championship: &#39;You don&#39;t go to war with warm milk and cookies&#39;",
+    "description": "Indiana can move to 16-0 with a win over Miami on Monday night.",
+    "pubDate": "2026-01-18",
+    "image": "",
+    "link": "https://sports.yahoo.com/college-football/breaking-news/article/indianas-curt-cignetti-ahead-of-monday-nights-national-championship-you-dont-go-to-war-with-warm-milk-and-cookies-160352602.html",
+    "source": "Nick Bromberg"
+  },
+  {
+    "slug": "romano-chelsea-8220-agreed-personal-terms-8221-with-top-target-negotiating-team-already-in-france",
+    "title": "Romano: Chelsea &#8220;agreed personal terms&#8221; with top target, negotiating team already in France",
+    "description": "Chelsea are closing in on a major January signing, in a window where they weren’t expected to sign anyone.The Blues have decided to pull the trigger on bringing in a top new central defender, with R...",
+    "pubDate": "2026-01-18",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/romano-chelsea-agreed-personal-terms-160000986.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "texans-used-deshaun-watson-trade-to-shift-from-dysfunction-to-dominant-defense",
+    "title": "Texans used Deshaun Watson trade to shift from dysfunction to dominant defense",
+    "description": "Four years ago, the Browns made the single worst transaction in NFL history, trading for quarterback Deshaun Watson, ripping up his existing deal, and signing him to a five-year, fully-guaranteed, $230 million contract.",
+    "pubDate": "2026-01-18",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/texans-used-deshaun-watson-trade-155338926.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "report-steelers-are-expected-to-speak-to-mike-mccarthy-about-head-coaching-job",
+    "title": "Report: Steelers are expected to speak to Mike McCarthy about head coaching job",
+    "description": "Former Packers and Cowboys head coach Mike McCarthy is from Pittsburgh and a report on Sunday says that he's on the radar of the hometown team as they look for Mike Tomlin's successor.",
+    "pubDate": "2026-01-18",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/report-steelers-expected-speak-mike-155336090.html",
+    "source": "Google News"
   },
   {
     "slug": "report-man-united-move-for-brazilian-midfielder-after-liverpool-step-aside",
@@ -747,8 +837,17 @@
     "source": "Google News"
   },
   {
+    "slug": "toronto-blue-jays-have-every-reason-to-pivot-to-cody-bellinger-in-free-agency",
+    "title": "Toronto Blue Jays Have Every Reason to Pivot to Cody Bellinger in Free Agency",
+    "description": "The slugging outfielder would help now and in the future.",
+    "pubDate": "2026-01-18",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/toronto-blue-jays-every-reason-153910087.html",
+    "source": "Google News"
+  },
+  {
     "slug": "australian-open-2026-venus-williams-makes-history-in-loss-carlos-alcaraz-aryna-sabalenka-win-easily",
-    "title": "Australian Open 2026: Venus Williams makes history in loss, Carlos Alcaraz, Aryna Sabalenka win easily",
+    "title": "Australian Open 2026: Venus Williams makes history in loss; Carlos Alcaraz, Aryna Sabalenka win easily",
     "description": "Venus Williams nearly continued her history-making run Sunday.",
     "pubDate": "2026-01-18",
     "image": "",
@@ -942,114 +1041,6 @@
     "pubDate": "2026-01-18",
     "image": "",
     "link": "https://sports.yahoo.com/articles/report-bayern-munich-could-pass-153000175.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "rams-vs-bears-predictions-picks-best-bets-for-the-nfc-divisional-round-today",
-    "title": "Rams vs Bears Predictions, Picks & Best Bets for the NFC Divisional Round Today",
-    "description": "Our Rams vs. Bears predictions and NFL picks expect Davante Adams to eclipse his receiving yard total in today's Divisional Round game at Soldier Field.",
-    "pubDate": "2026-01-18",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/rams-vs-bears-predictions-picks-120000415.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "eagles-agree-to-new-deal-with-special-teams-coordinator-michael-clay",
-    "title": "Eagles agree to new deal with special teams coordinator Michael Clay",
-    "description": "The Eagles are in the market for a new offensive coordinator, but they will not need to find a new special teams coordinator as well.",
-    "pubDate": "2026-01-18",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/eagles-agree-deal-special-teams-152831430.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "michael-clay-to-return-as-eagles-special-teams-coordinator",
-    "title": "Michael Clay to return as Eagles special teams coordinator",
-    "description": "Despite interviewing elsewhere, Michael Clay will return to Philadelphia in 2026.",
-    "pubDate": "2026-01-18",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/michael-clay-return-eagles-special-152803096.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "frank-on-the-brink-as-romero-calls-for-unity-amid-spurs-39-disaster-39",
-    "title": "Frank on the brink as Romero calls for unity amid Spurs &#39;disaster&#39;",
-    "description": "Thomas Frank is in danger of being sacked after his future as Tottenham manager was reportedly discussed by the club's hierarchy on Sunday.Only half a season after being hired from Brentford with a reputation as one of the most talented managers in the Premier League, Frank is anxiously awaiting a v",
-    "pubDate": "2026-01-18",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/frank-brink-romero-calls-unity-152737023.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "seahawks-39-rashid-shaheed-39-s-kick-return-touchdown-registers-beastquake-level-seismic-activity",
-    "title": "Seahawks&#39; Rashid Shaheed&#39;s kick return touchdown registers Beastquake-level seismic activity",
-    "description": "The \"Speedquake\" will go down in Seahawks history.",
-    "pubDate": "2026-01-18",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/seahawks-rashid-shaheeds-kick-return-152727292.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "fernando-mendoza-39-s-brother-leaks-plans-for-indiana-after-national-championship",
-    "title": "Fernando Mendoza&#39;s brother leaks plans for Indiana after national championship",
-    "description": "Alberto Mendoza says he’s ready to take over in Bloomington.",
-    "pubDate": "2026-01-18",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/fernando-mendozas-brother-leaks-plans-152616804.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "penn-state-remains-in-mix-for-5-star-dylan-mingo-with-commit-date-set",
-    "title": "Penn State remains in mix for 5-star Dylan Mingo with commit date set",
-    "description": "5-star guard Dylan Mingo could follow in his brother's footsteps to Happy Valley.",
-    "pubDate": "2026-01-18",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/penn-state-remains-mix-5-152549839.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "steelers-want-aaron-rodgers-back-in-2026-per-espn-39-s-adam-schefter",
-    "title": "Steelers want Aaron Rodgers back in 2026, per ESPN&#39;s Adam Schefter",
-    "description": "The Pittsburgh Steelers are reportedly interested in running it back for another season with Aaron Rodgers, despite Mike Tomlin stepping down.",
-    "pubDate": "2026-01-18",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/steelers-want-aaron-rodgers-back-152518038.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "the-biggest-bargains-of-the-2025-summer-transfer-window",
-    "title": "The biggest bargains of the 2025 summer transfer window",
-    "description": "With the Premier League season having passed the midway point, football fans have more than enough of a sample size to make conclusions on their club’s summer transfer business. Of course, most pla...",
-    "pubDate": "2026-01-18",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/biggest-bargains-2025-summer-transfer-152400582.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "man-united-s-lisandro-martinez-paul-scholes-should-come-to-my-house-and-criticise-me-to-my-face",
-    "title": "Man United’s Lisandro Martinez: Paul Scholes should come to my house and criticise me to my face",
-    "description": "Scholes and his fomer United teammate Nicky Butt joked that Erling Haaland would run with Martinez under his arm like ‘a little toddler’ ahead of the Manchester derby",
-    "pubDate": "2026-01-18",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/man-united-lisandro-martinez-paul-120000497.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "bills-39-sean-mcdermott-made-unprecedented-decision-after-controversial-brandin-cooks-catch-turned-interception",
-    "title": "Bills&#39; Sean McDermott made unprecedented decision after controversial Brandin Cooks catch-turned-interception",
-    "description": "He's probably never done this before.",
-    "pubDate": "2026-01-18",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/bills-sean-mcdermott-made-unprecedented-152319743.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "nationals-notebook-driveline-hire-top-100-nats-vs-spending",
-    "title": "Nationals notebook: Driveline hire, top-100, Nats vs. spending",
-    "description": "Another hire from Driveline for the Washington Nationals, top-100 recognition for one star plus Nats vs. MLB spending",
-    "pubDate": "2026-01-18",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/nationals-notebook-driveline-hire-top-152251625.html",
     "source": "Google News"
   },
   {
