@@ -1,8 +1,8 @@
 [
   {
-    "slug": "source-bills-fire-mcdermott-after-playoff-failures",
-    "title": "Source: Bills fire McDermott after playoff failures",
-    "description": "The Bills have fired head coach Sean McDermott, a source told ESPN, after the team again failed to reach the Super Bowl, despite a 98-50 record in his nine seasons.",
+    "slug": "bills-fire-mcdermott-beane-promoted-to-president",
+    "title": "Bills fire McDermott; Beane promoted to president",
+    "description": "The Bills fired coach Sean McDermott and promoted Brandon Beane to president after Buffalo again failed to reach the Super Bowl despite its regular-season success.",
     "pubDate": "2026-01-19",
     "image": "",
     "link": "https://www.espn.com/nfl/story/_/id/47660266/source-bills-fire-coach-sean-mcdermott",
@@ -315,15 +315,6 @@
     "source": "Marc Raimondi and Jeremy Fowler and Daniel Oyefusi and Ben Solak"
   },
   {
-    "slug": "john-harbaugh-to-the-giants-eight-questions-and-a-grade-for-new-york-s-move",
-    "title": "John Harbaugh to the Giants! Eight questions and a grade for New York's move",
-    "description": "The 63-year-old has been able to call his own shot in this coaching search and wound up choosing the Giants.",
-    "pubDate": "2026-01-19",
-    "image": "",
-    "link": "https://www.espn.com/nfl/story/_/id/47616742/new-york-giants-hire-coach-john-harbaugh-know-five-year-deal",
-    "source": "Jordan Raanan and Dan Graziano and Ben Solak and Jamison Hensley and Jordan Reid"
-  },
-  {
     "slug": "transfer-rumors-news-chelsea-open-to-fern-ndez-exit-madrid-psg-interested",
     "title": "Transfer rumors, news: Chelsea open to Fernández exit; Madrid, PSG interested",
     "description": "Chelsea's Enzo Fernández could be available this summer as Real Madrid and PSG monitor his situation. Transfer Talk has the latest.",
@@ -465,15 +456,6 @@
     "pubDate": "2026-01-19",
     "image": "",
     "link": "https://www.bbc.com/sport/tennis/videos/czx3n3qe4kgo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport"
-  },
-  {
-    "slug": "moment-player-elbows-opponent-in-face",
-    "title": "Moment player elbows opponent in face",
-    "description": "An amateur footballer has been arrested by police over an alleged assault and suspended by his club.",
-    "pubDate": "2026-01-19",
-    "image": "",
-    "link": "https://www.bbc.com/sport/football/videos/cvg1k71z9ryo?at_medium=RSS&at_campaign=rss",
     "source": "BBC Sport"
   },
   {
@@ -621,21 +603,21 @@
     "source": "BBC Sport"
   },
   {
+    "slug": "foster-marshall-secure-fifth-world-indoor-pairs-title",
+    "title": "Foster & Marshall secure fifth World Indoor pairs title",
+    "description": "Scotland's Paul Foster and Alex Marshall become World Indoor Bowls pairs champions together for the fifth time.",
+    "pubDate": "2026-01-19",
+    "image": "",
+    "link": "https://www.bbc.com/sport/articles/cy05y292yeko?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport"
+  },
+  {
     "slug": "carlson-succeeds-northeast-as-glamorgan-captain",
     "title": "Carlson succeeds Northeast as Glamorgan captain",
     "description": "The 27-year-old all-rounder succeeds Sam Northeast following his return to Kent.",
     "pubDate": "2026-01-19",
     "image": "",
     "link": "https://www.bbc.com/sport/cricket/articles/cew8475wngzo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport"
-  },
-  {
-    "slug": "win-over-saracens-confirms-glasgow-as-contenders-on-two-fronts",
-    "title": "Win over Saracens confirms Glasgow as contenders on two fronts",
-    "description": "Glasgow Warriors 28-3 Champions Cup defeat of Saracens shows Franco Smith's side are an elite side who are contenders for two titles this season, writes Tom English.",
-    "pubDate": "2026-01-19",
-    "image": "",
-    "link": "https://www.bbc.com/sport/rugby-union/articles/cy59qn0g400o?at_medium=RSS&at_campaign=rss",
     "source": "BBC Sport"
   },
   {
@@ -684,6 +666,15 @@
     "source": "BBC Sport"
   },
   {
+    "slug": "win-over-saracens-confirms-glasgow-as-contenders-on-two-fronts",
+    "title": "Win over Saracens confirms Glasgow as contenders on two fronts",
+    "description": "Glasgow Warriors 28-3 Champions Cup defeat of Saracens shows Franco Smith's side are an elite side who are contenders for two titles this season, writes Tom English.",
+    "pubDate": "2026-01-19",
+    "image": "",
+    "link": "https://www.bbc.com/sport/rugby-union/articles/cy59qn0g400o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport"
+  },
+  {
     "slug": "macintyre-laments-breaking-putter-after-fourth-place-finish",
     "title": "MacIntyre laments breaking putter after fourth-place finish",
     "description": "Scotland's Robert MacIntyre cards a best-of-the-day 63 to finish in a share of fourth at the PGA Tour's season-opening Sony Open in Hawaii but blames his \"attitude\" earlier in the tournament for falling short of the title.",
@@ -720,12 +711,12 @@
     "source": "BBC Sport"
   },
   {
-    "slug": "dalot-would-have-been-given-red-card-in-europe",
-    "title": "Dalot 'would have been given red card in Europe'",
-    "description": "Manchester United's Diogo Dalot was not sent off against Manchester City after his foul on Jeremy Doku was \"glancing\" contact.",
+    "slug": "man-city-sign-guehi-from-palace-what-will-he-bring",
+    "title": "Man City sign Guehi from Palace - what will he bring?",
+    "description": "Man City sign Crystal Palace captain Marc Guehi for £20m - but what will the England defender add to Pep Guardiola's side?",
     "pubDate": "2026-01-19",
     "image": "",
-    "link": "https://www.bbc.com/sport/football/articles/cn5616rve3eo?at_medium=RSS&at_campaign=rss",
+    "link": "https://www.bbc.com/sport/articles/cwy8lve847eo?at_medium=RSS&at_campaign=rss",
     "source": "BBC Sport"
   },
   {
@@ -756,6 +747,447 @@
     "source": "BBC Sport"
   },
   {
+    "slug": "vikes-views-who-do-you-want-to-watch-super-bowl-sunday",
+    "title": "Vikes Views: Who Do You Want to Watch Super Bowl Sunday?",
+    "description": "Championship weekend is upon us! The Seattle Seahawks will host the Los Angeles Rams and the Denver Broncos will host the New England Patriots. All four teams have had relatively recent success, but three of the four with different QBs. There are a few Viking ties on the teams and a few people we li",
+    "pubDate": "2026-01-19",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/vikes-views-want-watch-super-155051754.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "should-the-pistons-go-all-in-at-the-trade-deadline-8-potential-targets-who-could-turn-detroit-into-a-title-favorite",
+    "title": "Should the Pistons go all-in at the trade deadline? 8 potential targets who could turn Detroit into a title favorite",
+    "description": "The Pistons have their foundation in place — and the ammo to address any holes on their roster.",
+    "pubDate": "2026-01-19",
+    "image": "",
+    "link": "https://sports.yahoo.com/nba/article/should-the-pistons-go-all-in-at-the-trade-deadline-8-potential-targets-who-could-turn-detroit-into-a-title-favorite-155025537.html",
+    "source": "Kevin O&#39;Connor"
+  },
+  {
+    "slug": "gareth-taylor-very-pleased-by-liverpool-women-s-6-0-cup-triumph",
+    "title": "Gareth Taylor “Very Pleased” By Liverpool Women’s 6-0 Cup Triumph",
+    "description": "With the new signings delivering in the FA Cup, next up is proving they can score and get results in league play.",
+    "pubDate": "2026-01-19",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/gareth-taylor-very-pleased-liverpool-155000709.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "report-brighton-star-set-for-serie-a-return",
+    "title": "Report: Brighton star set for Serie A return",
+    "description": "Fiorentina Sound Out Brighton Defender Diego CoppolaFiorentina are exploring defensive reinforcements and have turned their attention to the Premier League. One name under consideration is Diego Coppo...",
+    "pubDate": "2026-01-19",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/report-brighton-star-set-serie-155000505.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "monday-cheese-curds-waiting-is-over-for-lafleur-bears-knocked-out",
+    "title": "Monday Cheese Curds: Waiting is over for LaFleur; Bears knocked out",
+    "description": "Chicago’s season ended with a thud on Sunday, a day after Matt LaFleur inked his new contract.",
+    "pubDate": "2026-01-19",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/monday-cheese-curds-waiting-over-154810140.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "dave-bunker-survives-tough-conditions-for-golfweek-poy-classic-win",
+    "title": "Dave Bunker survives tough conditions for Golfweek POY Classic win",
+    "description": "Bunker’s victory in the Golfweek Player of the Year Classic on Jan. 18 felt “more like survival than trying to win a tournament.”",
+    "pubDate": "2026-01-19",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/dave-bunker-survives-tough-conditions-154807867.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "juve-want-mingueza-napoli-renew-roma-chase-dragusin",
+    "title": "🔥 Juve want Mingueza, Napoli renew, Roma chase Dragusin 🤑",
+    "description": "The weekend is behind us, but matchday 21 of Serie A concludes this evening with the last two games. Watch all of Serie BKT live on OneFootball for only €9.99 a month. Click here to purchase the La...",
+    "pubDate": "2026-01-19",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/juve-want-mingueza-napoli-renew-154800979.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "eintracht-frankfurt-set-to-fill-coaching-void-with-marco-rose",
+    "title": "Eintracht Frankfurt set to fill coaching void with Marco Rose?",
+    "description": "Markus Krösche revealed that Dennis Schmitt and Alexander Meier will become interim coaches for Eintracht Frankfurt's trip to Baku following the dismissal of Dino Toppmöller.However, the signs are s...",
+    "pubDate": "2026-01-19",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/eintracht-frankfurt-set-fill-coaching-154700490.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "to-be-honest-i-think-there-39-s-very-limited-interest-in",
+    "title": "To be honest, I think there&#39;s very limited interest in …",
+    "description": "To be honest, I think there's very limited interest in …",
+    "pubDate": "2026-01-19",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/honest-think-theres-very-limited-154557511.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "staying-true-to-myself-adebayo-said-ahead-of",
+    "title": "“Staying true to myself,” Adebayo said ahead of …",
+    "description": "“Staying true to myself,” Adebayo said ahead of …",
+    "pubDate": "2026-01-19",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/staying-true-myself-adebayo-said-154556191.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "kristaps-porzingis-zaccharie-risacher-out-one-week",
+    "title": "Kristaps Porzingis, Zaccharie Risacher out one week",
+    "description": "Kristaps Porzingis, Zaccharie Risacher out one week",
+    "pubDate": "2026-01-19",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/kristaps-porzingis-zaccharie-risacher-one-154555085.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "usa-today-sports-ranks-texas-football-2026-preseason-no-1",
+    "title": "USA TODAY Sports ranks Texas Football 2026 preseason No. 1",
+    "description": "The Texas Longhorns are projected to be the No. 1 team in 2026 by USA TODAY Sports.",
+    "pubDate": "2026-01-19",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/usa-today-sports-ranks-texas-154531079.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "pff-5-highest-graded-buffalo-bills-players-on-defense-vs-broncos",
+    "title": "PFF: 5 highest-graded Buffalo Bills players on defense vs. Broncos",
+    "description": "The five highest-graded Buffalo Bills players on defense in the divisional round loss to the Denver Broncos, according to Pro Football Focus.",
+    "pubDate": "2026-01-19",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/pff-5-highest-graded-buffalo-154525486.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "marc-casado-united-make-move-for-barcelona-8217-s-8220-joshua-kimmich-8221",
+    "title": "Marc Casado: United make move for Barcelona&#8217;s &#8220;Joshua Kimmich&#8221;",
+    "description": "Manchester United could attempt to strengthen Michael Carrick’s squad during the final stretch of the winter transfer window, despite a dominant 2-0 win over local rivals Manchester City.As reporte...",
+    "pubDate": "2026-01-19",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/marc-casado-united-move-barcelona-154500498.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "bills-owner-terry-pegula-we-need-a-new-structure-to-get-to-the-next-level",
+    "title": "Bills owner Terry Pegula: We need a new structure to get to the next level",
+    "description": "Pegula confirmed Sean McDermott's firing and announced GM Brandon Beane is now president of football operations.",
+    "pubDate": "2026-01-19",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/bills-owner-terry-pegula-structure-154412570.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "39-admiral-job-39-bills-39-sean-mcdermott-statement-has-embarrassing-typo",
+    "title": "&#39;Admiral job&#39;? Bills&#39; Sean McDermott statement has embarrassing typo",
+    "description": "Oops. Fans are roasted the heck out of this.",
+    "pubDate": "2026-01-19",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/admiral-job-bills-sean-mcdermott-154405773.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "panthers-announce-return-of-defender-on-monday",
+    "title": "Panthers announce return of defender on Monday",
+    "description": "The Panthers have signed back a defender.",
+    "pubDate": "2026-01-19",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/panthers-announce-return-defender-monday-154359058.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "brignone-plans-comeback-in-kronplatz-schmid-frets-after-ankle-break",
+    "title": "Brignone plans comeback in Kronplatz, Schmid frets after ankle break",
+    "description": "Italian ski star Federica Brignone has announced a World Cup comeback after a long injury lay-off, meaning she could be fit for the Winter Olympics in her home country next month. The overall World Cup champion suffered fractures in her lower left leg in a crash at the national championships in Apri",
+    "pubDate": "2026-01-19",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/brignone-plans-comeback-kronplatz-schmid-154334175.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "klopp-happy-at-red-bull-and-laughs-off-madrid-links",
+    "title": "Klopp happy at Red Bull and laughs off Madrid links",
+    "description": "Jürgen Klopp still has no interest in returning to coaching after just over a year as Red Bull's Global Head of Soccer, media reports quoted him as saying on Monday. The former Liverpool boss was in the stands for RB Leipzig's 5-1 Bundesliga loss to Bayern Munich on Saturday but his interest in the",
+    "pubDate": "2026-01-19",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/klopp-happy-red-bull-laughs-154333530.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "how-sadio-man-s-calm-saved-the-afcon-final-from-absolute-chaos",
+    "title": "How Sadio Mané’s calm saved the Afcon final from absolute chaos",
+    "description": "The veteran is known for his sense of responsibility And it was apparent as his Senegal teammates threatened to quit African’s football’s showpiece",
+    "pubDate": "2026-01-19",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/sadio-man-calm-saved-afcon-154317369.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "kyren-williams-passes-pro-bowler-in-rams-39-postseason-rushing-yards",
+    "title": "Kyren Williams passes Pro Bowler in Rams&#39; postseason rushing yards",
+    "description": "Los Angeles Rams running back Kyren Williams rushed for 87 yards on Sunday and moved up the franchise's list of postseason rushing leaders.",
+    "pubDate": "2026-01-19",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/kyren-williams-passes-pro-bowler-154226538.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "mike-vrabel-makes-admission-on-broncos-qb-jarrett-stidham",
+    "title": "Mike Vrabel makes admission on Broncos QB Jarrett Stidham",
+    "description": "Coach Mike Vrabel admitted that the Patriots \"did a lot of work\" on Broncos quarterback Jarrett Stidham in the offseason.",
+    "pubDate": "2026-01-19",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/mike-vrabel-makes-admission-broncos-154223469.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "out-on-loan-man-city-defender-rules-out-early-return-despite-defensive-injuries",
+    "title": "Out on loan Man City defender rules out early return despite defensive injuries",
+    "description": "Manuel Akanji says there is no chance of returning to Manchester City from his loan spell at Inter Milan this month.City have been dealt several defensive injury blows of late with Ruben Dias, Josko G...",
+    "pubDate": "2026-01-19",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/loan-man-city-defender-rules-154200675.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "falcons-announce-important-coaching-decision",
+    "title": "Falcons Announce Important Coaching Decision",
+    "description": "Despite hiring a new head coach in Kevin Stefanski, the Atlanta Falcons will be retaining their in-house defensive coordinator into 2026 and beyond. According to NFL sources Adam Schefter and Tom Pelissero, Atlanta is bringing back Jeff Ulbrich in the role of defensive coordinator. The news broke on",
+    "pubDate": "2026-01-19",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/falcons-announce-important-coaching-decision-154157228.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "is-klopp-cocktail-adding-to-fan-frustration",
+    "title": "Is Klopp cocktail adding to fan frustration?",
+    "description": "Roy Hodgson's troubled spell in charge of Liverpool is - rightly or wrongly - often held up by fans as an example of dark times at Anfield.  When supporters have criticised Arne Slot on social platforms, some have been quick to tell them they would have struggled to survive the Hodgson era if they a",
+    "pubDate": "2026-01-19",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/slot-struggling-under-weight-klopps-145813339.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "how-to-watch-mavs-vs-knicks-tv-live-stream-info-preview-for-mlk-day-quadruple-header-on-nbc-and-peacock",
+    "title": "How to watch Mavs vs. Knicks: TV/live stream info, preview for MLK Day quadruple header on NBC and Peacock",
+    "description": "Tonight's game is the second meeting between the Mavs and Knicks this season.",
+    "pubDate": "2026-01-19",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/watch-mavs-vs-knicks-tv-154018945.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "fantasy-basketball-waiver-wire-jaylon-tyson-embraces-39-next-man-up-39-mentality",
+    "title": "Fantasy Basketball Waiver Wire: Jaylon Tyson embraces &#39;Next Man Up&#39; mentality",
+    "description": "Jaylon Tyson has made the most of his opportunities for the injury-riddled Cavaliers.",
+    "pubDate": "2026-01-19",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/fantasy-basketball-waiver-wire-jaylon-154018093.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "chiefs-request-interview-with-eric-bieniemy-for-oc-job",
+    "title": "Chiefs request interview with Eric Bieniemy for OC job",
+    "description": "The Kansas City Chiefs could be considering a reunion at offensive coordinator with Bears running backs coach Eric Bieniemy.",
+    "pubDate": "2026-01-19",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/chiefs-request-interview-eric-bieniemy-154016793.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "gu-hi-test-your-knowledge-of-our-new-signing",
+    "title": "Guéhi: Test your knowledge of our new signing",
+    "description": "England international Marc Guéhi is our second signing of the winter transfer window, but how much do you know about him? Men's Team City is the perfect place to improve, says Guéhi The 25-year-old ...",
+    "pubDate": "2026-01-19",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/gu-hi-test-knowledge-signing-154000682.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "exclusive-barcelona-confident-club-captain-will-stay-at-club-until-the-end-of-new-contract",
+    "title": "Exclusive: Barcelona confident club captain will stay at club until the end of new contract",
+    "description": "Frenkie de Jong is currently in his seventh season at FC Barcelona. Having arrived at the club back in 2019 from AFC Ajax for a significant fee, the Dutchman, for long, divided opinions among the fanb...",
+    "pubDate": "2026-01-19",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/exclusive-barcelona-confident-club-captain-154000875.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "city-is-the-perfect-place-to-improve-says-gu-hi",
+    "title": "City is the perfect place to improve, says Guéhi",
+    "description": "New signing Marc Guéhi says being a Manchester City player will help him to become the very best footballer he can be. Men's Team City complete Marc Guéhi signing The 25-year-old has agreed a five-a...",
+    "pubDate": "2026-01-19",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/city-perfect-place-improve-says-154000386.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "gu-hi-i-can-t-wait-to-work-alongside-amazing-foden-and-stones",
+    "title": "Guéhi: I can’t wait to work alongside ‘amazing’ Foden and Stones",
+    "description": "New signing Marc Guéhi says he is hugely excited at now being able to call ‘amazing’ England team-mates Phil Foden and John Stones his Manchester City colleagues too. Men's Team City complete Mar...",
+    "pubDate": "2026-01-19",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/gu-hi-t-wait-alongside-154000424.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "why-watford-makes-sense-for-bove-and-how-calafiori-is-involved",
+    "title": "Why Watford makes sense for Bove and how Calafiori is involved",
+    "description": "Edoardo Bove is close to formally completing his transfer to Watford, and will reunite with his close friend and current Arsenal defender Riccardo Calafiori once the deal goes through. Here is a look ...",
+    "pubDate": "2026-01-19",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/why-watford-makes-sense-bove-154000679.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "gu-hi-39-s-city-squad-number-revealed",
+    "title": "Guéhi&#39;s City squad number revealed",
+    "description": "Marc Guéhi will wear the No.15 shirt for Manchester City after the defender completed his move from Crystal Palace on Monday. Men's Team City complete Marc Guéhi signing Guéhi, 25, has put pen to p...",
+    "pubDate": "2026-01-19",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/gu-city-squad-number-revealed-154000682.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "city-complete-marc-gu-hi-signing",
+    "title": "City complete Marc Guéhi signing",
+    "description": "Manchester City are delighted to confirm the signing of Marc Guéhi from Crystal Palace on a five-and-a-half-year deal. Men's Team City is the perfect place to improve, says Guéhi The 25-year-old Eng...",
+    "pubDate": "2026-01-19",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/city-complete-marc-gu-hi-154000047.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "michigan-state-basketball-march-madness-bracketology-projections-jan-19",
+    "title": "Michigan State basketball March Madness bracketology projections: Jan. 19",
+    "description": "Michigan State basketball continues its path to Tom Izzo's 28th straight NCAA tournament bid. Here's where Spartans are in the Jan. 19 projections.",
+    "pubDate": "2026-01-19",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/michigan-state-basketball-march-madness-153953166.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "women-s-basketball-clara-silva-s-double-double-leads-no-10-tcu-past-arizona",
+    "title": "Women’s Basketball: Clara Silva’s double-double leads No. 10 TCU past Arizona",
+    "description": "Clara Silva recorded fifteen points and 11 rebounds in the win.",
+    "pubDate": "2026-01-19",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/women-basketball-clara-silva-double-153934677.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "tigers-in-the-nfl-playoffs-safety-rj-mickens",
+    "title": "Tigers in the NFL Playoffs: Safety RJ Mickens",
+    "description": "Former Clemson star RJ Mickens made an impression on fans in the NFL playoff game against the New England Patriots.",
+    "pubDate": "2026-01-19",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/tigers-nfl-playoffs-safety-rj-153931481.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "man-city-sign-guehi-from-palace-what-will-he-bring",
+    "title": "Man City sign Guehi from Palace - what will he bring?",
+    "description": "Man City sign Crystal Palace captain Marc Guehi for £20m - but what will the England defender add to Pep Guardiola's side?",
+    "pubDate": "2026-01-19",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/man-city-sign-guehi-palace-153900495.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "former-auburn-db-carlton-davis-has-big-day-in-patriots-win-over-texans",
+    "title": "Former Auburn DB Carlton Davis has big day in Patriots win over Texans",
+    "description": "The former Auburn cornerback's performance was a bright spot in the Patriot's AFC Divisional Round win over the Texans on Sunday.",
+    "pubDate": "2026-01-19",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/former-auburn-db-carlton-davis-153838137.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "fantasy-baseball-rankings-top-shortstops-for-2026-mlb-season",
+    "title": "Fantasy Baseball Rankings: Top shortstops for 2026 MLB season",
+    "description": "Our fantasy baseball draft rankings are live for the 2026 MLB season — check out the shortstops!",
+    "pubDate": "2026-01-19",
+    "image": "",
+    "link": "https://sports.yahoo.com/fantasy/article/fantasy-baseball-rankings-top-shortstops-for-2026-mlb-season-153812385.html",
+    "source": "Yahoo Sports Fantasy Staff"
+  },
+  {
+    "slug": "ex-giants-coach-brian-daboll-already-being-discussed-as-a-sean-mcdermott-replacement",
+    "title": "Ex-Giants coach Brian Daboll already being discussed as a Sean McDermott replacement",
+    "description": "Speculation has already begun that Daboll could be at the top of the Bills’ list of potential replacements.",
+    "pubDate": "2026-01-19",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/ex-giants-coach-brian-daboll-153801568.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "foster-marshall-secure-fifth-world-indoor-pairs-title",
+    "title": "Foster & Marshall secure fifth World Indoor pairs title",
+    "description": "Scotland's Paul Foster and Alex Marshall become World Indoor Bowls pairs champions together for the fifth time.",
+    "pubDate": "2026-01-19",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/foster-marshall-secure-fifth-world-153752210.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "guehi-becomes-latest-signing-in-man-city-39-s-big-recruitment-drive-after-leaving-palace",
+    "title": "Guehi becomes latest signing in Man City&#39;s big recruitment drive after leaving Palace",
+    "description": "Manchester City completed the signing of England defender Marc Guehi from Crystal Palace for a reported 20 million pounds ($26.7 million) on Monday, bolstering the team's options amid a run of big injuries at center back.  Guehi, who would have been a free agent at the end of the season, almost join",
+    "pubDate": "2026-01-19",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/guehi-becomes-latest-signing-man-153742986.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "falcons-retain-jeff-ulbrich-as-defensive-coordinator",
+    "title": "Falcons retain Jeff Ulbrich as defensive coordinator",
+    "description": "The Falcons will not have a new defensive coordinator in 2026.",
+    "pubDate": "2026-01-19",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/falcons-retain-jeff-ulbrich-defensive-153726789.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "bills-players-wtf-reaction-to-sean-mcdermott-firing",
+    "title": "Bills players ‘WTF’ reaction to Sean McDermott firing",
+    "description": "There was apparently some shock in Buffalo.",
+    "pubDate": "2026-01-19",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/bills-players-wtf-reaction-sean-153723347.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "aew-dynamite-viewership-ratings-report-1-14-2026",
+    "title": "AEW Dynamite Viewership & Ratings Report: 1/14/2026",
+    "description": "\"AEW Dynamite's\" viewership increases for the second week in a row to continue its hot start to 2026.",
+    "pubDate": "2026-01-19",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/aew-dynamite-viewership-ratings-report-153706783.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "man-city-spending-under-pep-guardiola-how-transfers-compare-to-rest-of-premier-league-39-big-six-39",
+    "title": "Man City spending under Pep Guardiola: How transfers compare to rest of Premier League &#39;big six&#39;",
+    "description": "Antoine Semenyo has joined Manchester City from Bournemouth and Pep Guardiola's men might not be done with their January business.",
+    "pubDate": "2026-01-19",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/man-city-spending-under-pep-080001041.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "ranking-nfl-39-s-10-head-coach-open-jobs-for-2026-from-best-giants-to-worst-raiders",
+    "title": "Ranking NFL&#39;s 10 head coach open jobs for 2026, from best (Giants) to worst (Raiders)",
+    "description": "There are another nine eams needing new head coaches for the 2026 NFL season and beyond after another rough round of firings and one resigning. Here's looking at the vacant jobs from most to least appealing.",
+    "pubDate": "2026-01-19",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/ranking-nfls-head-coach-openings-210940581.html",
+    "source": "Google News"
+  },
+  {
     "slug": "the-jaguars-should-be-feeling-great-about-liam-coen-right-now",
     "title": "The Jaguars should be feeling great about Liam Coen right now",
     "description": "The NFL head coach hiring cycle is unhinged this year — thank goodness the Jaguars aren’t in the market.",
@@ -765,445 +1197,13 @@
     "source": "Google News"
   },
   {
-    "slug": "report-chiefs-request-permission-to-interview-bears-39-eric-bieniemy",
-    "title": "REPORT: Chiefs request permission to interview Bears&#39; Eric Bieniemy",
-    "description": "According to multiple reports, the Kansas City Chiefs are requesting permission to interview Chicago Bears RB Coach Eric Bieniemy | @EdEastonJr",
-    "pubDate": "2026-01-19",
+    "slug": "barry-secures-deserved-win-for-everton-against-villa",
+    "title": "Barry secures deserved win for Everton against Villa",
+    "description": "Everton's Thierno Barry capitalises on a mistake by Aston Villa's Emi Martinez for a 1-0 win to The Toffees, which stops Villa going second in the Premier League.",
+    "pubDate": "2026-01-18",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/report-chiefs-request-permission-interview-153528310.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "new-coaching-candidates-for-the-cardinals-impact-of-john-harbaugh-to-giants",
-    "title": "New coaching candidates for the Cardinals, impact of John Harbaugh to Giants",
-    "description": "Talking Matt Burke and Arthur Smith, while also discussing the rest of the NFL head coaching openings.",
-    "pubDate": "2026-01-19",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/coaching-candidates-cardinals-impact-john-153248452.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "ufc-324-how-to-watch-gaethje-vs-pimblett-vegas-lineup-odds-more",
-    "title": "UFC 324: How to watch Gaethje vs. Pimblett, Vegas lineup, odds, more",
-    "description": "Here's what you need to know to watch UFC 324 on Paramount+ – the promotion’s debut on its new broadcast platform.",
-    "pubDate": "2026-01-19",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/ufc-324-watch-gaethje-vs-153030307.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "marc-guehi-outlines-motivation-behind-joining-man-city-after-completing-20m-transfer",
-    "title": "Marc Guehi outlines motivation behind joining Man City after completing £20m transfer",
-    "description": "The England international has penned a five-and-a-half year contract at the Etihad Stadium and could make his debut against Wolves on Saturday",
-    "pubDate": "2026-01-19",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/marc-guehi-outlines-motivation-behind-153029611.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "reading-39-have-to-react-39-after-loss-marriott",
-    "title": "Reading &#39;have to react&#39; after loss - Marriott",
-    "description": "Reading striker Jack Marriott says his side \"have to react\" after losing to Leyton Orient on Saturday.",
-    "pubDate": "2026-01-19",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/reading-react-loss-marriott-151339547.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "citiparks-looking-to-hire-umpires-for-upcoming-baseball-softball-season",
-    "title": "CitiParks looking to hire umpires for upcoming baseball, softball season",
-    "description": "Pittsburgh Parks and Recreation is looking to hire umpires.",
-    "pubDate": "2026-01-19",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/citiparks-looking-hire-umpires-upcoming-153022801.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "lions-contract-tracker-depth-chart-of-signed-players-free-agents-cap-hits",
-    "title": "Lions contract tracker: Depth chart of signed players, free agents & cap hits",
-    "description": "This article will update with every 2026 signing, so be sure to bookmark and reference it throughout the offseason!",
-    "pubDate": "2026-01-19",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/lions-contract-tracker-depth-chart-153000959.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "lamine-camara-and-kr-pin-diatta-are-crowned-african-champions-with-senegal",
-    "title": "Lamine Camara and Krépin Diatta are crowned African champions with Senegal!",
-    "description": "After a nail-biting victory against Morocco (1-0), the host country of the competition, the two Monaco midfielders won the final of the 2025 Africa Cup of Nations with the Lions of Teranga.They did it...",
-    "pubDate": "2026-01-19",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/lamine-camara-kr-pin-diatta-153000146.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "rascalz-39-s-trey-miguel-takes-39-break-39-from-wrestling-released-from-aew",
-    "title": "Rascalz&#39;s Trey Miguel Takes &#39;Break&#39; From Wrestling, Released From AEW",
-    "description": "The Rascalz, who debuted in AEW last week, did not feature Trey Miguel on Dynamite, and he has announced he will be taking a break from wrestling.",
-    "pubDate": "2026-01-19",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/rascalzs-trey-miguel-takes-break-153000359.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "ferran-torres-set-to-miss-barcelona-s-champions-league-trip-to-slavia-prague",
-    "title": "Ferran Torres set to miss Barcelona’s Champions League trip to Slavia Prague",
-    "description": "The Spain star has hamstring trouble.",
-    "pubDate": "2026-01-19",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/ferran-torres-set-miss-barcelona-153000277.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "exiled-fc-barcelona-keeper-marc-andr-ter-stegen-could-be-headed-to-girona-to-save-his-world-cup-spot",
-    "title": "Exiled FC Barcelona keeper Marc-André ter Stegen could be headed to Girona to save his World Cup spot",
-    "description": "No longer needed at Barca, ter Stegen is headed elsewhere",
-    "pubDate": "2026-01-19",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/exiled-fc-barcelona-keeper-marc-153000052.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "chelsea-8217-s-record-signing-is-no-longer-8220-untouchable-8221-and-top-teams-are-8220-monitoring-closely-8221-ahead-of-summer-move",
-    "title": "Chelsea&#8217;s record signing is no longer &#8220;untouchable&#8221; and top teams are &#8220;monitoring closely&#8221; ahead of summer move",
-    "description": "TeamTalk are the latest site to jump on the rumours that Chelsea are willing to sell Enzo Fernandez, and that there are two teams interested in taking him.The Argentine midfielder is apparently a targ...",
-    "pubDate": "2026-01-19",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/chelsea-record-signing-no-longer-153000866.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "kr-sche-opens-up-on-quot-difficult-decision-quot-behind-toppm-ller-sacking",
-    "title": "Krösche opens up on &quot;difficult decision&quot; behind Toppmöller sacking",
-    "description": "At Eintracht Frankfurt's press conference today ahead of their Champions League trip to face Qarabag FK midweek, Markus Krösche revealed why Dino Toppmöller was sacked on Sunday.“First of all, I w...",
-    "pubDate": "2026-01-19",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/kr-sche-opens-difficult-decision-152900470.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "ufc-commentator-jon-anik-says-promotion-s-fight-cards-are-way-too-long",
-    "title": "UFC commentator Jon Anik says promotion’s fight cards are ‘way too long’",
-    "description": "Anik, the voice of the UFC, thinks fight cards would benefit from being much shorter",
-    "pubDate": "2026-01-19",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/ufc-commentator-jon-anik-says-152848662.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "f1-news-haas-unveils-the-vf-26-for-the-2026-season",
-    "title": "F1 news: Haas unveils the VF-26 for the 2026 season",
-    "description": "TGR Haas F1 Team shared their livery, and design, for the 2026 F1 season",
-    "pubDate": "2026-01-19",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/f1-news-haas-unveils-vf-152830677.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "report-frank-drops-mathys-tel-from-champions-league-squad-for-dom-solanke",
-    "title": "REPORT: Frank drops Mathys Tel from Champions League squad for Dom Solanke",
-    "description": "Boy, I dunno.",
-    "pubDate": "2026-01-19",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/report-frank-drops-mathys-tel-152723215.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "rams-snap-counts-major-shakeups-at-te-and-cb-vs-bears",
-    "title": "Rams snap counts: Major shakeups at TE and CB vs. Bears",
-    "description": "The Rams nearly abandoned their 13 personnel grouping against the Bears, causing limited opportunities for Tyler Higbee and the TEs.",
-    "pubDate": "2026-01-19",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/rams-snap-counts-major-shakeups-152715369.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "bills-sean-mcdermott-replacement-floated-by-nfl-insider",
-    "title": "Bills’ Sean McDermott Replacement Floated By NFL Insider",
-    "description": "The Buffalo Bills fired Sean McDermott on Monday, and there’s already one name circulating in connection to Buffalo’s fresh head coaching vacancy. Within a couple of hours of the McDermott news going public, The Athletic’s Dianni Russini connected a very interesting name to the Bills: Brian Daboll.",
-    "pubDate": "2026-01-19",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/bills-sean-mcdermott-replacement-floated-152701438.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "the-playlist-week-14-fantasy-basketball-waiver-wire-pickups-and-lineup-advice",
-    "title": "The Playlist: Week 14 fantasy basketball waiver wire pickups and lineup advice",
-    "description": "Week 14 of the fantasy basketball season is here, and Dan Titus has you covered with all the need-to-know waiver wire info.",
-    "pubDate": "2026-01-19",
-    "image": "",
-    "link": "https://sports.yahoo.com/fantasy/article/the-playlist-week-14-fantasy-basketball-waiver-wire-pickups-and-lineup-advice-152659388.html",
-    "source": "Dan Titus"
-  },
-  {
-    "slug": "bills-coaching-candidates-8-options-after-sean-mcdermott-fired",
-    "title": "Bills coaching candidates: 8 options after Sean McDermott fired",
-    "description": "The Buffalo Bills fired Sean McDermott after nine seasons. Who could replace him? Here are the team's most likely options.",
-    "pubDate": "2026-01-19",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/bills-coaching-candidates-8-options-152656642.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "real-madrid-chelsea-return-to-champions-league-with-rookie-coaches-in-season-of-firings",
-    "title": "Real Madrid, Chelsea return to Champions League with rookie coaches in season of firings",
-    "description": "Real Madrid and Chelsea resume in the Champions League this week after the winter break with new coaches working in the competition for the first time.  Job losses are a strong theme in a season where patience has run thin in the board room and 11 of the 36 Champions League clubs changed coach.  Nin",
-    "pubDate": "2026-01-19",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/real-madrid-chelsea-return-champions-152634078.html",
-    "source": "GRAHAM DUNBAR"
-  },
-  {
-    "slug": "why-the-buffalo-bills-got-it-wrong-with-the-sean-mcdermott-firing",
-    "title": "Why the Buffalo Bills Got It Wrong with the Sean McDermott Firing",
-    "description": "Hours after the Buffalo Bills suffered a heartbreaking overtime loss to the Denver Broncos in overtime, it was announced that […]",
-    "pubDate": "2026-01-19",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/why-buffalo-bills-got-wrong-152541058.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "76ers-discuss-keys-for-cleaning-up-late-game-execution-close-out-wins",
-    "title": "76ers discuss keys for cleaning up late game execution, close out wins",
-    "description": "The Philadelphia 76ers discuss the keys for cleaning up their late game execution and find a way to close out wins after recent stretch.",
-    "pubDate": "2026-01-19",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/76ers-discuss-keys-cleaning-game-152527919.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "watch-january-2026-reading-women-s-team-update",
-    "title": "Watch: January 2026 Reading Women’s Team Update",
-    "description": "Ross was joined by TTE’s Reading Women correspondent Peter Matthews to check in how the team is getting on.",
-    "pubDate": "2026-01-19",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/watch-january-2026-reading-women-152503762.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "game-preview-and-thread-carolina-hurricanes-vs-buffalo-sabres",
-    "title": "Game Preview and Thread: Carolina Hurricanes vs Buffalo Sabres",
-    "description": "The Carolina Hurricanes (30-15-4) have been on fire over their last two games and they are looking to continue that level of play this afternoon at 1:30 PM against the Buffalo Sabres (26-16-5) at home. After dominating the Florida Panthers 9-1 on Friday, including six third period goals, the Canes b",
-    "pubDate": "2026-01-19",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/game-preview-thread-carolina-hurricanes-152445576.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "bills-fire-sean-mcdermott-3-reasons-browns-must-hire-him-as-next-hc",
-    "title": "Bills fire Sean McDermott: 3 reasons Browns must hire him as next HC",
-    "description": "After the Bills shocking Monday morning firing of Sean McDermott, the Cleveland Browns have a golden opportunity to land the veteran head coach they've coveted for a decade.",
-    "pubDate": "2026-01-19",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/bills-fire-sean-mcdermott-3-152443643.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "is-slot-struggling-under-the-weight-of-klopp-39-s-legacy",
-    "title": "Is Slot struggling under the weight of Klopp&#39;s legacy?",
-    "description": "Roy Hodgson's troubled spell in charge of Liverpool is - rightly or wrongly - often held up by fans as an example of dark times at Anfield.  When supporters have criticised Arne Slot on social platforms, some have been quick to tell them they would have struggled to survive the Hodgson era if they a",
-    "pubDate": "2026-01-19",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/slot-struggling-under-weight-klopps-145813339.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "trump-announces-plan-to-control-college-football-schedule-to-protect-army-navy-game",
-    "title": "Trump announces plan to control college football schedule to protect Army-Navy game",
-    "description": "President teased an upcoming executive order that would force television networks to preserve a time slot and day for the annual rivalry game",
-    "pubDate": "2026-01-19",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/trump-announces-plan-control-college-152246236.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "my-heart-aches-brahim-d-az-issues-an-apology",
-    "title": "🥺 My heart aches: Brahim Díaz issues an apology",
-    "description": "Without a doubt, yesterday was one of the most difficult days in the life of the Real Madrid player. The forward missed a penalty just minutes before the end of the Africa Cup against Senegal and was ...",
-    "pubDate": "2026-01-19",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/heart-aches-brahim-d-az-152200724.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "editorial-depaul-gets-ensnared-in-a-sports-gambling-scandal-that-should-raise-alarms-at-the-ncaa",
-    "title": "Editorial: DePaul gets ensnared in a sports gambling scandal that should raise alarms at the NCAA",
-    "description": "Thursday was a dark day for college basketball in general and DePaul University in particular. A sprawling indictment unsealed by the U.S. attorney’s office in the Eastern District of Pennsylvania laid out an alleged gambling conspiracy in which players were recruited to underperform in specific gam",
-    "pubDate": "2026-01-19",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/editorial-depaul-gets-ensnared-sports-152200373.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "americans-abroad-five-haji-wright-luca-koleosho-end-goal-droughts",
-    "title": "Americans Abroad Five: Haji Wright, Luca Koleosho end goal droughts",
-    "description": "For two Americans Abroad, their goals over the weekend had been a long time coming.",
-    "pubDate": "2026-01-19",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/americans-abroad-five-haji-wright-152145380.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "real-madrid-announce-squad-for-champions-league-match-against-monaco",
-    "title": "Real Madrid announce squad for Champions League match against Monaco",
-    "description": "Real Madrid have published their squad list for Tuesday’s match against Monaco in the Champions League. REAL MADRID SQUAD LIST:Goalkeepers: Courtois, Lunin and Fran González.Defenders: Carvajal, Alaba, Asencio, Fran García and Huijsen.Midfielders: Bellingham, Camavinga, Valverde, Tchouameni, Arda Gü",
-    "pubDate": "2026-01-19",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/real-madrid-announce-squad-champions-152121213.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "after-caleb-williams-miracle-should-the-bears-have-gone-for-2",
-    "title": "After Caleb Williams’ miracle, should the Bears have gone for 2? ",
-    "description": "Throughout the season, Ben Johnson has been aggressive with his play calling, but with the season on the line, opted to play for overtime in the Bears divisional round game against the Rams.",
-    "pubDate": "2026-01-19",
-    "image": "",
-    "link": "https://sports.yahoo.com/nfl/article/after-caleb-williams-miracle-should-the-bears-have-gone-for-2-152102228.html",
-    "source": "Jay Busbee"
-  },
-  {
-    "slug": "nation-39-s-no-1-qb-elijah-haven-names-his-top-four-schools",
-    "title": "Nation&#39;s No. 1 QB Elijah Haven names his top four schools",
-    "description": "Five-star quarterback recruit Elijah Haven lists the Georgia Bulldogs, three other SEC programs among his top four schools",
-    "pubDate": "2026-01-19",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/nations-no-1-qb-elijah-152035408.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "sean-mcvay-ties-don-shula-with-10-playoff-wins-before-turning-45",
-    "title": "Sean McVay ties Don Shula with 10 playoff wins before turning 45",
-    "description": "The Los Angeles Rams coach continues to break NFL records.",
-    "pubDate": "2026-01-19",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/sean-mcvay-ties-don-shula-152029566.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "bills-fire-head-coach-sean-mcdermott-could-miami-pivot-their-search",
-    "title": "Bills fire head coach Sean McDermott; Could Miami pivot their search?",
-    "description": "The Buffalo Bills fired Sean McDermott on Monday. Could he factor into the Miami Dolphins’ head coach search?",
-    "pubDate": "2026-01-19",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/bills-fire-head-coach-sean-152018413.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "seahawks-patriots-favored-in-nfl-conference-championship-games",
-    "title": "Seahawks, Patriots Favored in NFL Conference Championship Games",
-    "description": "Heavy action on Seattle, New England following dominant performances in NFL Divisional Round wins.",
-    "pubDate": "2026-01-19",
-    "image": "",
-    "link": "https://www.covers.com/industry/seahawks-patriots-favored-in-nfl-conference-championship-games-jan-19-2026",
-    "source": "Google News"
-  },
-  {
-    "slug": "mystery-lingers-around-alvaro-arbeloa-8217-s-contract-length-at-real-madrid",
-    "title": "Mystery lingers around Alvaro Arbeloa&#8217;s contract length at Real Madrid",
-    "description": "Last Monday was one filled with shake-ups at Real Madrid, as the club opted to dismiss Xabi Alonso as manager and replace him with Alvaro Arbeloa.The 43-year-old former defender had been in charge of ...",
-    "pubDate": "2026-01-19",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/mystery-lingers-around-alvaro-arbeloa-152000237.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "will-bills-39-coaching-surprise-throw-a-wrench-in-dolphins-39-search",
-    "title": "Will Bills&#39; coaching surprise throw a wrench in Dolphins&#39; search?",
-    "description": "Sean McDermott is out as the Bills' head coach. Will that affect the Dolphins' search?",
-    "pubDate": "2026-01-19",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/bills-coaching-surprise-throw-wrench-151954007.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "barry-murphy-keen-to-add-full-back-options",
-    "title": "Barry-Murphy keen to add full-back options",
-    "description": "Cardiff City's \"exciting\" victory over Bradford on Saturday that helped extend their lead at the top of the League One summit came with one concern, as Perry Ng was withdrawn at half-time with a suspected ankle issue.  Bluebirds boss Brian Barry Murphy said the defender \"didn't seem totally comforta",
-    "pubDate": "2026-01-19",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/barry-murphy-keen-add-full-145929578.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "akron-lb-markus-boswell-signs-with-texas-football-from-transfer-portal",
-    "title": "Akron LB Markus Boswell signs with Texas football from transfer portal",
-    "description": "Markus Boswell joins an SEC powerhouse",
-    "pubDate": "2026-01-19",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/akron-lb-markus-boswell-signs-151937870.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "who-should-be-the-week-5-longplex-athlete-of-the-week-for-girls-basketball",
-    "title": "Who should be the Week 5 Longplex Athlete of the Week for Girls Basketball?",
-    "description": "Who should be the Week 5 Longplex Girls Basketball Athlete of the Week? Check out the high school stars who were nominated and cast your vote today!",
-    "pubDate": "2026-01-19",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/week-5-longplex-athlete-week-151932875.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "giants-39-john-harbaugh-should-already-have-a-100-million-regret",
-    "title": "Giants&#39; John Harbaugh should already have a $100 million regret",
-    "description": "Patience could've played out well in this case.",
-    "pubDate": "2026-01-19",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/giants-john-harbaugh-already-100-151925111.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "inter-boss-cristian-chivu-hails-mikel-arteta-ahead-of-champions-league-tie-against-arsenal",
-    "title": "Inter boss Cristian Chivu hails Mikel Arteta ahead of Champions League tie against Arsenal",
-    "description": "Inter manager Cristian Chivu has expressed his immense respect for Mikel Arteta ahead of the Nerazzurri’s crucial Champions League clash with Arsenal on Tuesday, admitting he views the Spaniard as a...",
-    "pubDate": "2026-01-19",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/inter-boss-cristian-chivu-hails-151900873.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "bears-rbs-coach-eric-bieniemy-expected-to-return-to-chiefs-as-oc",
-    "title": "Bears RBs coach Eric Bieniemy expected to return to Chiefs as OC",
-    "description": "The Chiefs have requested permission to interview Bears RBs coach Eric Bieniemy for offensive coordinator.",
-    "pubDate": "2026-01-19",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/bears-rbs-coach-eric-bieniemy-151803805.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "curacao-send-off-39-a-serious-build-up-game-39-for-scots",
-    "title": "Curacao send-off &#39;a serious build-up game&#39; for Scots",
-    "description": "Hosting the smallest nation to play at the World Cup in Scotland's final home friendly before this summer's finals will still be \"a serious build-up game\" for the hosts, former winger Pat Nevin insists.  Curacao, who visit on Saturday, 30 May, are ranked 84th in the world - 48 places below Steve Cla",
-    "pubDate": "2026-01-19",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/curacao-send-off-serious-build-151800474.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "bruins-expected-to-improve-roster-through-trade-after-not-landing-rasmus-andersson",
-    "title": "Bruins Expected To ‘Improve’ Roster Through Trade After Not Landing Rasmus Andersson",
-    "description": "The Boston Bruins had a chance to acquire Calgary Flames star defenseman Rasmus Andersson, but an extension wasn’t agreed to. With the Bruins unable to get an extension done, Calgary ended up trading Andersson to the Vegas Golden Knights. Although Boston missed out on the star defenseman, the intere",
-    "pubDate": "2026-01-19",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/bruins-expected-improve-roster-trade-151727622.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "lsu-football-adds-athletic-transfer-portal-wide-receiver",
-    "title": "LSU football adds athletic transfer portal wide receiver",
-    "description": "LSU football added another wide receiver to its transfer portal room. The Tigers transfer class ranks No. 1 in the country, per 247Sports.",
-    "pubDate": "2026-01-19",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/lsu-football-adds-athletic-transfer-151646255.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "vikings-turmoil-addison-flores-2026-plans",
-    "title": "Vikings Turmoil: Addison, Flores & 2026 Plans",
-    "description": "Addison drama, Flores' future, QB uncertainty & RB rebuild — Vikings offseason unpacked on 2OB",
-    "pubDate": "2026-01-19",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/vikings-turmoil-addison-flores-2026-151638530.html",
-    "source": "Google News"
+    "link": "https://www.bbc.com/sport/football/videos/c62r5xexrw9o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport"
   },
   {
     "slug": "results-fans-fall-outs-factors-that-lead-to-managerial-pressure",
@@ -1230,15 +1230,6 @@
     "pubDate": "2026-01-18",
     "image": "",
     "link": "https://www.bbc.com/sport/football/articles/cm24736mrm7o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport"
-  },
-  {
-    "slug": "barry-secures-deserved-win-for-everton-against-villa",
-    "title": "Barry secures deserved win for Everton against Villa",
-    "description": "Everton's Thierno Barry capitalises on a mistake by Aston Villa's Emi Martinez for a 1-0 win to The Toffees, which stops Villa going second in the Premier League.",
-    "pubDate": "2026-01-18",
-    "image": "",
-    "link": "https://www.bbc.com/sport/football/videos/c62r5xexrw9o?at_medium=RSS&at_campaign=rss",
     "source": "BBC Sport"
   },
   {
@@ -1278,12 +1269,12 @@
     "source": "BBC Sport"
   },
   {
-    "slug": "chelsea-in-talks-for-rennes-defender-jacquet",
-    "title": "Chelsea in talks for Rennes defender Jacquet",
-    "description": "Chelsea hold talks to sign Rennes centre-back Jeremy Jacquet during the winter transfer window.",
+    "slug": "tearful-allen-reflects-on-play-off-loss-to-broncos",
+    "title": "Tearful Allen reflects on play-off loss to Broncos",
+    "description": "Buffalo Bills quarterback Josh Allen struggles to hold back tears as he reacts to their loss to the Denver Broncos in the NFL play-offs divisional round.",
     "pubDate": "2026-01-18",
     "image": "",
-    "link": "https://www.bbc.com/sport/football/articles/cp82eqdg56go?at_medium=RSS&at_campaign=rss",
+    "link": "https://www.bbc.com/sport/american-football/videos/c78ez11rl0mo?at_medium=RSS&at_campaign=rss",
     "source": "BBC Sport"
   },
   {
