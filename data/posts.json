@@ -99,22 +99,31 @@
     "source": "NFL Nation, Seth Walder and Matt Bowen"
   },
   {
+    "slug": "it-shaped-my-dna-the-very-miami-story-of-mario-cristobal",
+    "title": "'It shaped my DNA': The very Miami story of Mario Cristobal",
+    "description": "The Miami native and former University of Miami lineman has built his alma mater into a juggernaut",
+    "pubDate": "2026-01-19",
+    "image": "",
+    "link": "https://www.espn.com/college-football/story/_/id/47639398/mario-cristobal-miami-college-football-playoff-title-game",
+    "source": "Andrea Adelson"
+  },
+  {
     "slug": "the-man-the-meme-the-legend-curt-cignetti-s-rise-to-viral-fame",
     "title": "The man, the meme, the legend: Curt Cignetti's rise to viral fame",
-    "description": "Curt Cignetti has lots to be happy about, but you wouldn't know it by looking at him. His players and assistants break down their favorite Cignetti memes and faces.",
+    "description": "Curt Cignetti has lots to be happy about, but you wouldn't know it by looking at him.",
     "pubDate": "2026-01-19",
     "image": "",
     "link": "https://www.espn.com/college-football/story/_/id/47642648/indiana-miami-game-curt-cignetti-smile-face-memes",
     "source": "Adam Rittenberg"
   },
   {
-    "slug": "carson-beck-the-runner-the-miami-qb-is-finally-using-his-feet",
-    "title": "Carson Beck the runner? The Miami QB is finally using his feet",
-    "description": "This latest addition to Beck's arsenal has been a revelation for the Hurricanes.",
+    "slug": "everyone-has-someone-to-cheer-for-inside-fernando-mendoza-s-miami-homecoming",
+    "title": "'Everyone has someone to cheer for': Inside Fernando Mendoza's Miami homecoming",
+    "description": "Indiana's quarterback has deep roots in South Florida, creating some split loyalties for the title game.",
     "pubDate": "2026-01-19",
     "image": "",
-    "link": "https://www.espn.com/college-football/story/_/id/47643135/college-football-playoff-national-championship-miami-carson-beck-running",
-    "source": "David Hale"
+    "link": "https://www.espn.com/college-football/story/_/id/47651219/cfp-national-championship-indiana-qb-fernando-mendoza-deep-miami-roots",
+    "source": "Ryan McGee"
   },
   {
     "slug": "patriots-hold-off-texans-in-turnover-filled-divisional-round-playoff-game",
@@ -144,6 +153,15 @@
     "source": "Kevin Seifert"
   },
   {
+    "slug": "nba-midseason-grades-expectations-exceeded-short-lived-runs-and-what-to-watch",
+    "title": "NBA midseason grades: Expectations exceeded, short-lived runs and what to watch",
+    "description": "Kevin Pelton gives a grade for all 30 teams halfway through the season. Which teams exceeded expectations?",
+    "pubDate": "2026-01-19",
+    "image": "",
+    "link": "https://www.espn.com/nba/story/_/id/47613037/2026-nba-regular-midseason-grades-all-30-teams",
+    "source": "Kevin Pelton"
+  },
+  {
     "slug": "10-nba-teams-that-could-swing-trade-season-s-final-20-days",
     "title": "10 NBA teams that could swing trade season's final 20 days",
     "description": "Tim Bontemps and Brian Windhorst have the latest intel on 10 teams with major deadline decisions.",
@@ -153,13 +171,40 @@
     "source": "Tim Bontemps and Brian Windhorst"
   },
   {
-    "slug": "giannis-and-the-bucks-four-possible-pathways-forward-in-milwaukee-at-the-deadline",
-    "title": "Giannis and the Bucks: Four possible pathways forward in Milwaukee at the deadline",
-    "description": "The Bucks and Antetokounmpo currently sit in 11th place ahead of the trade deadline. What are their options?",
+    "slug": "the-afc-north-1-coach-2-starting-qbs-many-questions",
+    "title": "The AFC North: 1 coach, 2 (?) starting QBs, many questions",
+    "description": "Mike Tomlin, John Harbaugh and Kevin Stefanski are gone, and probably Aaron Rodgers. So what's next?",
     "pubDate": "2026-01-19",
     "image": "",
-    "link": "https://www.espn.com/nba/story/_/id/47621750/the-four-paths-milwaukee-bucks-giannis-take-ahead-deadline",
-    "source": "Jamal Collier"
+    "link": "https://www.espn.com/nfl/story/_/id/47641425/afc-north-roundtable-cleveland-browns-cincinnati-bengals-pittsburgh-steelers-baltimore-ravens-coaches",
+    "source": "Ben Baby and Jamison Hensley and Daniel Oyefusi and Brooke Pryor"
+  },
+  {
+    "slug": "will-colts-daniel-jones-run-it-back-in-2026",
+    "title": "Will Colts, Daniel Jones run it back in 2026?",
+    "description": "There's mutual interest, but there's also the matter of the QB's recovery from a December torn Achilles.",
+    "pubDate": "2026-01-19",
+    "image": "",
+    "link": "https://www.espn.com/nfl/story/_/id/47624055/indianapolis-colts-daniel-jones-2026-outlook",
+    "source": "Stephen Holder"
+  },
+  {
+    "slug": "al-west-update-will-m-s-spend-more-will-astros-make-a-deal",
+    "title": "AL West update: Will M's spend more? Will Astros make a deal?",
+    "description": "With spring training less than a month away, here's what left to be done in the division.",
+    "pubDate": "2026-01-19",
+    "image": "",
+    "link": "https://www.espn.com/mlb/story/_/id/47621615/mlb-2026-free-agency-update-al-west-mariners-astros-rangers-angels-athletics",
+    "source": "Alden Gonzalez"
+  },
+  {
+    "slug": "sizing-up-the-al-central-what-each-team-still-needs-to-do-before-spring-training",
+    "title": "Sizing up the AL Central: What each team still needs to do before spring training",
+    "description": "There haven't been a lot of headline deals in this division so far, but there's still work left this winter.",
+    "pubDate": "2026-01-19",
+    "image": "",
+    "link": "https://www.espn.com/mlb/story/_/id/47631039/mlb-2026-free-agency-update-al-central-tigers-guardians-twins-royals-white-sox",
+    "source": "Jesse Rogers"
   },
   {
     "slug": "nhl-trade-grades-why-the-rasmus-andersson-swap-could-be-a-big-win-for-both-teams",
@@ -171,6 +216,15 @@
     "source": "Ryan Clark"
   },
   {
+    "slug": "which-injuries-will-have-the-biggest-impact-on-the-olympic-hockey-tournament",
+    "title": "Which injuries will have the biggest impact on the Olympic hockey tournament?",
+    "description": "Leo Carlsson, Brayden Point and Seth Jones are among those ailing ahead of Milan Cortina. Plus, what to watch in the NHL this week.",
+    "pubDate": "2026-01-19",
+    "image": "",
+    "link": "https://www.espn.com/nhl/story/_/id/47651197/nhl-2025-26-best-games-week-olympics-injuries-leo-carlsson-brayden-point-seth-jones",
+    "source": "Arda Ocal"
+  },
+  {
     "slug": "i-just-want-to-do-australia-proud-alex-de-minaur-on-challenges-ahead",
     "title": "'I just want to do Australia proud': Alex de Minaur on challenges ahead",
     "description": "Alex de Minaur talked to ESPN about his home major, his \"Best Actor\" award and the ongoing challenge of playing Alcaraz and Sinner.",
@@ -178,6 +232,42 @@
     "image": "",
     "link": "https://www.espn.com/tennis/story/_/id/47646623/2026-australian-open-alex-de-minaur-interview",
     "source": "D'Arcy Maine"
+  },
+  {
+    "slug": "indiana-could-go-16-0-with-a-title-game-win-but-it-wouldn-t-be-the-first-meet-1894-yale",
+    "title": "Indiana could go 16-0 with a title game win -- but it wouldn't be the first. Meet 1894 Yale",
+    "description": "Indiana could complete a 16-0 season with a national championship win over Miami on Monday night. But it won't be the first team to accomplish the feat.",
+    "pubDate": "2026-01-19",
+    "image": "",
+    "link": "https://www.espn.com/college-football/story/_/id/47640640/1894-yale-bulldogs-first-college-football-team-16-0",
+    "source": "J.J. Post"
+  },
+  {
+    "slug": "will-heisman-winning-qb-fernando-mendoza-fall-victim-to-the-national-title-curse",
+    "title": "Will Heisman-winning QB Fernando Mendoza fall victim to the national title curse?",
+    "description": "Winning the Heisman at quarterback and the national title in the same year is hard to do.",
+    "pubDate": "2026-01-19",
+    "image": "",
+    "link": "https://www.espn.com/college-football/story/_/id/47633493/heisman-curse-college-football-national-championship-quarterbacks",
+    "source": "Kalan Hooks"
+  },
+  {
+    "slug": "chaotic-afcon-final-an-embarrassment-to-soccer",
+    "title": "Chaotic AFCON final an embarrassment to soccer",
+    "description": "Fan clashes, VAR controversies, missed penalties, a walkout, Senegal's extra time winner - the AFCON final had it all.",
+    "pubDate": "2026-01-19",
+    "image": "",
+    "link": "https://www.espn.com/espn/story/_/id/47655996/afcon-2025-final-been-more-embarrassing-african-football",
+    "source": "Ed Dove"
+  },
+  {
+    "slug": "why-clamor-for-man-united-tottenham-dna-makes-no-sense",
+    "title": "Why clamor for Man United, Tottenham 'DNA' makes no sense",
+    "description": "Fans of Man United and Spurs expect a certain style of play, but it's nothing to do with DNA. Nobody complains when their team is winning.",
+    "pubDate": "2026-01-19",
+    "image": "",
+    "link": "https://www.espn.com/soccer/story/_/id/47658633/why-clamor-manchester-united-tottenham-dna-makes-no-sense",
+    "source": "Mark Ogden"
   },
   {
     "slug": "denver-advances-but-bo-nix-is-out-six-questions-about-where-the-broncos-go-from-here",
@@ -196,33 +286,6 @@
     "image": "",
     "link": "https://www.espn.com/nfl/story/_/id/47656008/nick-foles-trolls-new-england-patriots-denver-broncos-backup-qb-super-bowl-lii",
     "source": "Anthony Gharib"
-  },
-  {
-    "slug": "seahawks-start-fast-and-roll-past-49ers-advance-to-nfc-championship-game",
-    "title": "Seahawks start fast and roll past 49ers, advance to NFC Championship Game",
-    "description": "Kenneth Walker III and Ernest Jones IV led the Seahawks past their division rival on Saturday.",
-    "pubDate": "2026-01-19",
-    "image": "",
-    "link": "https://www.espn.com/nfl/story/_/id/47638881/nfl-san-francisco-49ers-seattle-seahawks-playoffs-sam-darnold-brock-purdy",
-    "source": "Brady Henderson and Nick Wagoner"
-  },
-  {
-    "slug": "chaotic-afcon-final-an-embarrassment-to-soccer",
-    "title": "Chaotic AFCON final an embarrassment to soccer",
-    "description": "Fan clashes, VAR controversies, missed penalties, a walkout, Senegal's extra time winner - the AFCON final had it all.",
-    "pubDate": "2026-01-19",
-    "image": "",
-    "link": "https://www.espn.com/espn/story/_/id/47655996/afcon-2025-final-been-more-embarrassing-african-football",
-    "source": "Ed Dove"
-  },
-  {
-    "slug": "var-review-did-arsenal-deserve-a-penalty",
-    "title": "VAR review: Did Arsenal deserve a penalty?",
-    "description": "The VAR cleared Forest's Ola Aina on a possible handball that would have given Arsenal a game-changing penalty.",
-    "pubDate": "2026-01-19",
-    "image": "",
-    "link": "https://www.espn.com/soccer/story/_/id/47639315/man-uniteds-dalot-got-sent-vs-man-city",
-    "source": "Andy Davies, Special to ESPN"
   },
   {
     "slug": "kevin-stefanski-to-falcons-grading-the-hire-and-the-impact-on-penix",
@@ -961,69 +1024,6 @@
     "image": "",
     "link": "https://sports.yahoo.com/articles/georgia-rb-elected-college-football-111326505.html",
     "source": "Google News"
-  },
-  {
-    "slug": "man-united-deliver-huge-blow-to-man-city-title-hopes-with-shock-derby-win",
-    "title": "Man United deliver huge blow to Man City title hopes with shock derby win",
-    "description": "Manchester City's title bid is as good as over after Manchester United won the midfield battle at Old Trafford.",
-    "pubDate": "2026-01-18",
-    "image": "",
-    "link": "https://www.espn.com/soccer/story/_/id/47638492/man-united-deliver-huge-blow-man-city-title-hopes-shock-derby-win",
-    "source": "Mark Ogden and Rob Dawson"
-  },
-  {
-    "slug": "will-fernando-mendoza-be-the-next-heisman-winning-qb-to-fall-victim-to-the-national-championship-curse",
-    "title": "Will Fernando Mendoza be the next Heisman-winning QB to fall victim to the national championship curse?",
-    "description": "Since 1988, seven quarterbacks who have won the Heisman Trophy and earned a title game berth have fallen in the national championship game. Is Mendoza next?",
-    "pubDate": "2026-01-18",
-    "image": "",
-    "link": "https://www.espn.com/college-football/story/_/id/47633493/heisman-curse-college-football-national-championship-quarterbacks",
-    "source": "Kalan Hooks"
-  },
-  {
-    "slug": "can-miami-become-the-latest-team-to-lift-the-national-title-on-home-field",
-    "title": "Can Miami become the latest team to lift the national title on 'home' field?",
-    "description": "Miami will be playing close to campus, but others have played for a title in their home state.",
-    "pubDate": "2026-01-18",
-    "image": "",
-    "link": "https://www.espn.com/college-football/story/_/id/47633708/miami-college-football-playoff-national-title-home-field",
-    "source": "J.J. Post"
-  },
-  {
-    "slug": "men-s-duke-is-a-1-seed-again",
-    "title": "Men's: Duke is a 1-seed again",
-    "description": "Is the ACC back? Eight single-digit seeds -- including one on the top line -- and a couple of bubble teams would suggest so.",
-    "pubDate": "2026-01-18",
-    "image": "",
-    "link": "https://www.espn.com/espn/feature/story/_/page/bracketology/ncaa-bracketology-2026-march-madness-men-field-predictions",
-    "source": "Joe Lunardi"
-  },
-  {
-    "slug": "women-s-south-carolina-ascends-to-no-2-overall",
-    "title": "Women's: South Carolina ascends to No. 2 overall",
-    "description": "Texas, which fell at South Carolina on Thursday, tumbles to the final No. 1 seed after its second straight loss.",
-    "pubDate": "2026-01-18",
-    "image": "",
-    "link": "https://www.espn.com/espn/feature/story/_/id/30423107/ncaa-women-bracketology-2026-women-college-basketball-projections",
-    "source": "Charlie Creme"
-  },
-  {
-    "slug": "mlb-offseason-grades-mets-pivot-to-bichette-after-dodgers-sign-top-free-agent-tucker",
-    "title": "MLB offseason grades: Mets pivot to Bichette after Dodgers sign top free agent Tucker",
-    "description": "We've got you covered with grades and analysis on every winter signing and big offseason trade.",
-    "pubDate": "2026-01-18",
-    "image": "",
-    "link": "https://www.espn.com/mlb/story/_/id/46994593/2025-26-mlb-offseason-grades-free-agency-trade-analysis",
-    "source": "Bradford Doolittle and David Schoenfield"
-  },
-  {
-    "slug": "how-will-latest-moves-rock-the-nl-east",
-    "title": "How will latest moves rock the NL East?",
-    "description": "After the Mets landed Bo Bichette, here's what's next in one of baseball's most dynamic divisions.",
-    "pubDate": "2026-01-18",
-    "image": "",
-    "link": "https://www.espn.com/mlb/story/_/id/47621011/mlb-2026-free-agency-nl-east-update-mets-phillies-braves-marlins-nationals",
-    "source": "Jorge Castillo"
   },
   {
     "slug": "results-fans-fall-outs-factors-that-lead-to-managerial-pressure",
