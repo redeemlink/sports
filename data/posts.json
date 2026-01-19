@@ -117,15 +117,6 @@
     "source": "Ryan McGee"
   },
   {
-    "slug": "los-angeles-prevails-in-divisional-round-win-over-chicago",
-    "title": "Los Angeles prevails in divisional round win over Chicago",
-    "description": "The Bears had been kings of comeback wins, but the Rams are the ones advancing to the NFC title game.",
-    "pubDate": "2026-01-19",
-    "image": "",
-    "link": "https://www.espn.com/nfl/story/_/id/47652705/los-angeles-rams-prevail-divisional-round-win-chicago-bears",
-    "source": "Sarah Barshop and Courtney Cronin"
-  },
-  {
     "slug": "let-s-overreact-to-divisional-round-games-pause-stroud-s-extension-talks-concern-about-stafford",
     "title": "Let's overreact to divisional round games: Pause Stroud's extension talks? Concern about Stafford?",
     "description": "Hold off on any new Stroud deals? Matthew Stafford is in a funk? No Super Bowl yet again for Buffalo? Let's make sense of every divisional round game.",
@@ -135,6 +126,15 @@
     "source": "Dan Graziano and Ben Solak"
   },
   {
+    "slug": "los-angeles-prevails-in-divisional-round-win-over-chicago",
+    "title": "Los Angeles prevails in divisional round win over Chicago",
+    "description": "The Bears had been kings of comeback wins, but the Rams are the ones advancing to the NFC title game.",
+    "pubDate": "2026-01-19",
+    "image": "",
+    "link": "https://www.espn.com/nfl/story/_/id/47652705/los-angeles-rams-prevail-divisional-round-win-chicago-bears",
+    "source": "Sarah Barshop and Courtney Cronin"
+  },
+  {
     "slug": "patriots-hold-off-texans-in-turnover-filled-divisional-round-playoff-game",
     "title": "Patriots hold off Texans in turnover-filled divisional round playoff game",
     "description": "New England advanced to the AFC Championship Game to face the Denver Broncos.",
@@ -142,15 +142,6 @@
     "image": "",
     "link": "https://www.espn.com/nfl/story/_/id/47653807/patriots-overcome-texans-turnovers-afc-divisional-playoff-game",
     "source": "Mike Reiss and DJ Bien-Aime"
-  },
-  {
-    "slug": "chaotic-afcon-final-an-embarrassment-to-soccer",
-    "title": "Chaotic AFCON final an embarrassment to soccer",
-    "description": "Fan clashes, VAR controversies, missed penalties, a walkout, Senegal's extra time winner - the AFCON final had it all.",
-    "pubDate": "2026-01-19",
-    "image": "",
-    "link": "https://www.espn.com/espn/story/_/id/47655996/afcon-2025-final-been-more-embarrassing-african-football",
-    "source": "Ed Dove"
   },
   {
     "slug": "man-united-stun-rivals-city-senegal-win-afcon-amid-controversy-barcelona-lose-more",
@@ -171,6 +162,15 @@
     "source": "Mark Ogden"
   },
   {
+    "slug": "chaotic-afcon-final-an-embarrassment-to-soccer",
+    "title": "Chaotic AFCON final an embarrassment to soccer",
+    "description": "Fan clashes, VAR controversies, missed penalties, a walkout, Senegal's extra time winner - the AFCON final had it all.",
+    "pubDate": "2026-01-19",
+    "image": "",
+    "link": "https://www.espn.com/espn/story/_/id/47655996/afcon-2025-final-been-more-embarrassing-african-football",
+    "source": "Ed Dove"
+  },
+  {
     "slug": "10-nba-teams-that-could-swing-trade-season-s-final-20-days",
     "title": "10 NBA teams that could swing trade season's final 20 days",
     "description": "Tim Bontemps and Brian Windhorst have the latest intel on 10 teams with major deadline decisions.",
@@ -178,24 +178,6 @@
     "image": "",
     "link": "https://www.espn.com/nba/story/_/id/47620890/nba-trade-deadline-10-teams-watch-lakers-warriors-bucks-mavs-celtics-grizzlies-more",
     "source": "Tim Bontemps and Brian Windhorst"
-  },
-  {
-    "slug": "the-afc-north-1-coach-2-starting-qbs-many-questions",
-    "title": "The AFC North: 1 coach, 2 (?) starting QBs, many questions",
-    "description": "Mike Tomlin, John Harbaugh and Kevin Stefanski are gone, and probably Aaron Rodgers. So what's next?",
-    "pubDate": "2026-01-19",
-    "image": "",
-    "link": "https://www.espn.com/nfl/story/_/id/47641425/afc-north-roundtable-cleveland-browns-cincinnati-bengals-pittsburgh-steelers-baltimore-ravens-coaches",
-    "source": "Ben Baby and Jamison Hensley and Daniel Oyefusi and Brooke Pryor"
-  },
-  {
-    "slug": "will-colts-daniel-jones-run-it-back-in-2026",
-    "title": "Will Colts, Daniel Jones run it back in 2026?",
-    "description": "There's mutual interest, but there's also the matter of the QB's recovery from a December torn Achilles.",
-    "pubDate": "2026-01-19",
-    "image": "",
-    "link": "https://www.espn.com/nfl/story/_/id/47624055/indianapolis-colts-daniel-jones-2026-outlook",
-    "source": "Stephen Holder"
   },
   {
     "slug": "al-west-update-will-m-s-spend-more-will-astros-make-a-deal",
@@ -214,6 +196,24 @@
     "image": "",
     "link": "https://www.espn.com/mlb/story/_/id/47631039/mlb-2026-free-agency-update-al-central-tigers-guardians-twins-royals-white-sox",
     "source": "Jesse Rogers"
+  },
+  {
+    "slug": "the-afc-north-1-coach-2-starting-qbs-many-questions",
+    "title": "The AFC North: 1 coach, 2 (?) starting QBs, many questions",
+    "description": "Mike Tomlin, John Harbaugh and Kevin Stefanski are gone, and probably Aaron Rodgers. So what's next?",
+    "pubDate": "2026-01-19",
+    "image": "",
+    "link": "https://www.espn.com/nfl/story/_/id/47641425/afc-north-roundtable-cleveland-browns-cincinnati-bengals-pittsburgh-steelers-baltimore-ravens-coaches",
+    "source": "Ben Baby and Jamison Hensley and Daniel Oyefusi and Brooke Pryor"
+  },
+  {
+    "slug": "will-colts-daniel-jones-run-it-back-in-2026",
+    "title": "Will Colts, Daniel Jones run it back in 2026?",
+    "description": "There's mutual interest, but there's also the matter of the QB's recovery from a December torn Achilles.",
+    "pubDate": "2026-01-19",
+    "image": "",
+    "link": "https://www.espn.com/nfl/story/_/id/47624055/indianapolis-colts-daniel-jones-2026-outlook",
+    "source": "Stephen Holder"
   },
   {
     "slug": "nhl-trade-grades-why-the-rasmus-andersson-swap-could-be-a-big-win-for-both-teams",
@@ -342,12 +342,12 @@
     "source": "BBC Sport"
   },
   {
-    "slug": "senegal-reserve-keeper-jokes-after-afcon-towel-scuffles",
-    "title": "Senegal reserve keeper jokes after Afcon towel scuffles",
-    "description": "Senegal's reserve goalkeeper Yehvann Diouf jokes about his unique role in his side's chaotic Afcon final victory on Sunday.",
+    "slug": "shameful-and-terrible-look-the-chaos-that-marred-senegal-s-afcon-triumph",
+    "title": "'Shameful' and 'terrible look' - the chaos that marred Senegal's Afcon triumph",
+    "description": "Senegal beat Morocco to win the Africa Cup of Nations after the final is overshadowed when they temporarily refuse to play.",
     "pubDate": "2026-01-19",
     "image": "",
-    "link": "https://www.bbc.com/sport/articles/cvgndz4pd2xo?at_medium=RSS&at_campaign=rss",
+    "link": "https://www.bbc.com/sport/football/articles/c70ljednyl6o?at_medium=RSS&at_campaign=rss",
     "source": "BBC Sport"
   },
   {
@@ -378,24 +378,6 @@
     "source": "BBC Sport"
   },
   {
-    "slug": "shameful-and-terrible-look-the-chaos-that-marred-senegal-s-afcon-triumph",
-    "title": "'Shameful' and 'terrible look' - the chaos that marred Senegal's Afcon triumph",
-    "description": "Senegal beat Morocco to win the Africa Cup of Nations after the final is overshadowed when they temporarily refuse to play.",
-    "pubDate": "2026-01-19",
-    "image": "",
-    "link": "https://www.bbc.com/sport/football/articles/c70ljednyl6o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport"
-  },
-  {
-    "slug": "which-managers-might-be-free-in-the-summer",
-    "title": "Which managers might be free in the summer?",
-    "description": "A summer of managerial change could be on the cards with a World Cup, contracts expiring, and clubs already hunting for new bosses.",
-    "pubDate": "2026-01-19",
-    "image": "",
-    "link": "https://www.bbc.com/sport/articles/c041qv2n2zqo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport"
-  },
-  {
     "slug": "man-bailed-after-alleged-amateur-football-assault",
     "title": "Man bailed after alleged amateur football assault",
     "description": "North Wales Police is investigating an alleged attack during an amateur football match on Saturday.",
@@ -411,6 +393,15 @@
     "pubDate": "2026-01-19",
     "image": "",
     "link": "https://www.bbc.com/sport/articles/cj0nevde1e4o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport"
+  },
+  {
+    "slug": "we-are-not-top-five-contenders-is-january-make-or-break-for-villa",
+    "title": "'We are not top-five contenders' - is January make or break for Villa?",
+    "description": "After manager Unai Emery says Aston Villa are not top-five contenders in the Premier League, BBC Sport looks at the importance of the transfer window.",
+    "pubDate": "2026-01-19",
+    "image": "",
+    "link": "https://www.bbc.com/sport/football/articles/cwyn1rqrd20o?at_medium=RSS&at_campaign=rss",
     "source": "BBC Sport"
   },
   {
@@ -468,15 +459,6 @@
     "source": "BBC Sport"
   },
   {
-    "slug": "we-are-not-top-five-contenders-is-january-make-or-break-for-villa",
-    "title": "'We are not top-five contenders' - is January make or break for Villa?",
-    "description": "After manager Unai Emery says Aston Villa are not top-five contenders in the Premier League, BBC Sport looks at the importance of the transfer window.",
-    "pubDate": "2026-01-19",
-    "image": "",
-    "link": "https://www.bbc.com/sport/football/articles/cwyn1rqrd20o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport"
-  },
-  {
     "slug": "ups-and-downs-as-swiatek-begins-bid-for-history-with-win",
     "title": "'Ups and downs' as Swiatek begins bid for history with win",
     "description": "Iga Swiatek's bid to complete the career Grand Slam gets off to an underwhelming start as she struggles past Chinese qualifier Yuan Yue in the Australian Open first round.",
@@ -513,21 +495,21 @@
     "source": "BBC Sport"
   },
   {
-    "slug": "cats-sleepless-nights-and-michael-jackson-fuel-gautier-s-ufc-dream",
-    "title": "Cats, sleepless nights and Michael Jackson fuel Gautier's UFC dream",
-    "description": "Cameroonian middleweight Ateba Gautier speaks to BBC Sport about his dream of becoming UFC champion.",
-    "pubDate": "2026-01-19",
-    "image": "",
-    "link": "https://www.bbc.com/sport/mixed-martial-arts/articles/c9qp095v5w2o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport"
-  },
-  {
     "slug": "wilson-set-to-stay-at-west-ham-despite-exit-talks",
     "title": "Wilson set to stay at West Ham despite exit talks",
     "description": "West Ham block plans for striker Callum Wilson to leave the club this month after putting talks over his contract termination on hold.",
     "pubDate": "2026-01-19",
     "image": "",
     "link": "https://www.bbc.com/sport/football/articles/cje1knekv5jo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport"
+  },
+  {
+    "slug": "cats-sleepless-nights-and-michael-jackson-fuel-gautier-s-ufc-dream",
+    "title": "Cats, sleepless nights and Michael Jackson fuel Gautier's UFC dream",
+    "description": "Cameroonian middleweight Ateba Gautier speaks to BBC Sport about his dream of becoming UFC champion.",
+    "pubDate": "2026-01-19",
+    "image": "",
+    "link": "https://www.bbc.com/sport/mixed-martial-arts/articles/c9qp095v5w2o?at_medium=RSS&at_campaign=rss",
     "source": "BBC Sport"
   },
   {
@@ -594,6 +576,15 @@
     "source": "BBC Sport"
   },
   {
+    "slug": "not-young-any-more-wawrinka-40-battles-into-second-round",
+    "title": "'Not young any more' - Wawrinka, 40, battles into second round",
+    "description": "Veterans Stan Wawrinka and Marin Cilic roll back the years to advance to the Australian Open second round.",
+    "pubDate": "2026-01-19",
+    "image": "",
+    "link": "https://www.bbc.com/sport/tennis/articles/c36844ddr38o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport"
+  },
+  {
     "slug": "foster-marshall-secure-fifth-world-indoor-pairs-title",
     "title": "Foster & Marshall secure fifth World Indoor pairs title",
     "description": "Scotland's Paul Foster and Alex Marshall become World Indoor Bowls pairs champions together for the fifth time.",
@@ -639,15 +630,6 @@
     "source": "BBC Sport"
   },
   {
-    "slug": "not-young-any-more-wawrinka-40-battles-into-second-round",
-    "title": "'Not young any more' - Wawrinka, 40, battles into second round",
-    "description": "Veterans Stan Wawrinka and Marin Cilic roll back the years to advance to the Australian Open second round.",
-    "pubDate": "2026-01-19",
-    "image": "",
-    "link": "https://www.bbc.com/sport/tennis/articles/c36844ddr38o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport"
-  },
-  {
     "slug": "red-cards-var-and-offside-laws-facing-ifab-review",
     "title": "Red cards, VAR and offside laws facing Ifab review",
     "description": "The Ifab's annual business meeting in London will discuss changes to the laws for the Fifa World Cup and domestic leagues.",
@@ -681,6 +663,15 @@
     "pubDate": "2026-01-19",
     "image": "",
     "link": "https://www.bbc.com/sport/golf/articles/c5yvlv9n2y9o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport"
+  },
+  {
+    "slug": "rams-win-overtime-thriller-to-join-patriots-in-nfl-final-four",
+    "title": "Rams win overtime thriller to join Patriots in NFL final four",
+    "description": "The Los Angeles Rams secure a nail-biting win in Chicago to beat the Bears in the NFL play-offs and follow the New England Patriots into the Conference Championships.",
+    "pubDate": "2026-01-19",
+    "image": "",
+    "link": "https://www.bbc.com/sport/american-football/articles/c5y294wl480o?at_medium=RSS&at_campaign=rss",
     "source": "BBC Sport"
   },
   {
@@ -729,193 +720,373 @@
     "source": "BBC Sport"
   },
   {
-    "slug": "ramsay-an-39-intriguing-39-appointment",
-    "title": "Ramsay an &#39;intriguing&#39; appointment",
-    "description": "Here is what you had to say about new West Bromwich Albion boss Eric Ramsay.",
+    "slug": "sean-mcdermott-fired-the-6-most-intriguing-candidates-to-replace-bills-coach-after-another-early-postseason-exit",
+    "title": "Sean McDermott fired: The 6 most intriguing candidates to replace Bills coach after another early postseason exit",
+    "description": "The Bills' next head coach will face extremely lofty expectations.",
     "pubDate": "2026-01-19",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/ramsay-intriguing-appointment-164952501.html",
+    "link": "https://sports.yahoo.com/nfl/article/sean-mcdermott-fired-the-6-most-intriguing-candidates-to-replace-bills-coach-after-another-early-postseason-exit-162344631.html",
+    "source": "Chris Cwik"
+  },
+  {
+    "slug": "diaz-will-39-have-nightmares-39-over-39-panenka-39-failure",
+    "title": "Diaz will &#39;have nightmares&#39; over &#39;Panenka&#39; failure",
+    "description": "Brahim Diaz had the chance to win Afcon for Morocco, but his choice to try a Panenka ended up costing his side dearly as Senegal hit back to win the game in extra time.",
+    "pubDate": "2026-01-19",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/diaz-nightmares-over-panenka-failure-003523238.html",
     "source": "Google News"
   },
   {
-    "slug": "two-buffalo-bills-named-trade-candidates-but-only-one-is-realistic",
-    "title": "Two Buffalo Bills named trade candidates but only one is realistic",
-    "description": "A Sports Illustrated writer has highlighted two possible trade candidates for the Buffalo Bills going into the offseason, but only one of them is likely to be moved.",
+    "slug": "39-shameful-39-and-39-terrible-look-39-the-chaos-that-marred-senegal-39-s-triumph",
+    "title": "&#39;Shameful&#39; and &#39;terrible look&#39; - the chaos that marred Senegal&#39;s triumph",
+    "description": "Senegal beat Morocco to win the Africa Cup of Nations after the final is overshadowed when they temporarily refuse to play.",
     "pubDate": "2026-01-19",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/two-buffalo-bills-named-trade-164803513.html",
+    "link": "https://sports.yahoo.com/articles/senegal-walk-off-afcon-final-211636921.html",
     "source": "Google News"
   },
   {
-    "slug": "big-ten-men-39-s-college-basketball-power-rankings-for-january-19",
-    "title": "Big Ten men&#39;s college basketball power rankings for January 19",
-    "description": "Nebraska has current hold of the Big Ten, and USC is still looking to make a name for itself in the conference and move off the NCAA bubble",
+    "slug": "milwaukee-bucks-injury-report-latest-on-giannis-starters-odds",
+    "title": "Milwaukee Bucks injury report: Latest on Giannis, starters, odds",
+    "description": "The Milwaukee Bucks try to snap a three-game losing streak this afternoon in Atlanta vs. the Hawks.",
     "pubDate": "2026-01-19",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/big-ten-mens-college-basketball-164723485.html",
+    "link": "https://sports.yahoo.com/articles/milwaukee-bucks-injury-report-latest-162154126.html",
     "source": "Google News"
   },
   {
-    "slug": "2026-college-football-national-championship-game-how-to-watch-indiana-vs-miami-online-for-free",
-    "title": "2026 College Football National Championship Game: How to Watch Indiana vs. Miami Online for Free",
-    "description": "The CFP National Championship game kicks off today (Jan. 19) at 7:30 p.m. ET.",
+    "slug": "ralphy-velazquez-is-our-no-4-guardians-prospect-who-should-be-no-5",
+    "title": "Ralphy Velazquez is our No. 4 Guardians prospect. Who should be No. 5?",
+    "description": "The fiery lefty impressed in his debut",
     "pubDate": "2026-01-19",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/2026-college-football-national-championship-164719641.html",
+    "link": "https://sports.yahoo.com/articles/ralphy-velazquez-no-4-guardians-162118984.html",
     "source": "Google News"
   },
   {
-    "slug": "the-morning-after-the-bears-39-heartbreaking-divisional-loss-vs-rams",
-    "title": "The Morning After...the Bears&#39; heartbreaking divisional loss vs. Rams",
-    "description": "The Bears suffered a tough overtime loss to the Rams in the divisional playoffs. Our staff share their thoughts on the game and this magical season.",
+    "slug": "vanderbilt-football-losing-assistant-receivers-coach-jafar-williams-per-report",
+    "title": "Vanderbilt football losing assistant receivers coach Jafar Williams, per report",
+    "description": "Vanderbilt football is reportedly losing assistant wide receivers coach Jafar Williams to Georgia Tech.",
     "pubDate": "2026-01-19",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/morning-bears-heartbreaking-divisional-loss-164520672.html",
+    "link": "https://sports.yahoo.com/articles/vanderbilt-football-losing-assistant-receivers-161941278.html",
     "source": "Google News"
   },
   {
-    "slug": "pff-5-highest-graded-buffalo-bills-players-on-offense-vs-broncos",
-    "title": "PFF: 5 highest-graded Buffalo Bills players on offense vs. Broncos",
-    "description": "The five highest-graded Buffalo Bills players on offense in the divisional round loss to the Denver Broncos, according to Pro Football Focus.",
+    "slug": "adapt-or-die-college-sports-must-undergo-massive-restructuring-to-fix-current-issues",
+    "title": "Adapt or Die: College sports must undergo massive restructuring to fix current issues",
+    "description": "Organizations that cling to legacy models – even successful ones – eventually fail. For years, we made it a Blockbuster night. Now we Netflix and chill. Kodak sold millions of rolls of film every year. Then digital cameras rendered film obsolete. The same is true in nature. Species that adapt surviv",
     "pubDate": "2026-01-19",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/pff-5-highest-graded-buffalo-164513517.html",
+    "link": "https://sports.yahoo.com/articles/adapt-die-college-sports-must-161826802.html",
     "source": "Google News"
   },
   {
-    "slug": "kyle-shanahan-reveals-message-to-his-team-after-49ers-were-eliminated",
-    "title": "Kyle Shanahan reveals message to his team after 49ers were eliminated",
-    "description": "The 49ers fell to the Seahawks on Saturday and were eliminated from the playoffs. Kyle Shanahan shared what he wants his team to know after the game.",
+    "slug": "dodgers-offseason-praised-by-mlb-writer",
+    "title": "Dodgers’ Offseason Praised By MLB Writer",
+    "description": "Even before the Los Angeles Dodgers and Kyle Tucker agreed to a ridiculous four-year, $240 million deal, people were talking about the Dodgers as having had a successful offseason. Adding star closer Edwin Díaz will do that for you. In discussing the five MLB clubs that had the best offseasons, Blea",
     "pubDate": "2026-01-19",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/kyle-shanahan-reveals-message-team-164506370.html",
+    "link": "https://sports.yahoo.com/articles/dodgers-offseason-praised-mlb-writer-161800152.html",
     "source": "Google News"
   },
   {
-    "slug": "watford-sign-london-city-lionesses-keeper-hillyerd-on-loan",
-    "title": "Watford sign London City Lionesses keeper Hillyerd on loan",
-    "description": "FA Women’s National League Southern Premier Division club Watford have signed London City Lionesses goalkeeper Sophie Hillyerd on loan for the remainder of the season.The Golden Girls announced the ...",
+    "slug": "former-clemson-running-back-keith-adams-jr-lands-at-georgia-state",
+    "title": "Former Clemson running back Keith Adams Jr. lands at Georgia State",
+    "description": "After a loud exit from Clemson, former Tigers’ running back Keith Adams Jr. lands at Georgia State.",
     "pubDate": "2026-01-19",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/watford-sign-london-city-lionesses-164500167.html",
+    "link": "https://sports.yahoo.com/articles/former-clemson-running-back-keith-161749803.html",
     "source": "Google News"
   },
   {
-    "slug": "mandas-nears-bournemouth-on-loan-with-obligation-from-lazio-details-revealed",
-    "title": "Mandas nears Bournemouth on loan with obligation from Lazio: Details revealed",
-    "description": "Lazio goalkeeper Christos Mandas is close to completing his transfer from Lazio to Premier League side AFC Bournemouth in a move that could bring in more than €20m for the Biancocelesti.Mandas closi...",
+    "slug": "falcons-officially-retain-jeff-ulbrich-as-defensive-coordinator",
+    "title": "Falcons officially retain Jeff Ulbrich as defensive coordinator",
+    "description": "Falcons defensive coordinator Jeff Ulbrich officially returns for 2026 NFL season",
     "pubDate": "2026-01-19",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/mandas-nears-bournemouth-loan-obligation-164500131.html",
+    "link": "https://sports.yahoo.com/articles/falcons-officially-retain-jeff-ulbrich-161734586.html",
     "source": "Google News"
   },
   {
-    "slug": "southern-utah-transfer-wr-shane-carr-commits-to-kentucky",
-    "title": "Southern Utah transfer WR Shane Carr commits to Kentucky",
-    "description": "Southern Utah transfer wide receiver Shane Carr has committed to Kentucky, On3’s Pete Nakos reports. This past season, the Bakersfield native hauled in 50 receptions for 744 yards and four touchdowns. Over the past two years, Carr boasts 81 catches for 1,371 yards and 10 touchdowns. He becomes Kentu",
+    "slug": "muwfc-advance-in-fa-cup-with-big-win-over-burnley",
+    "title": "MUWFC advance in FA Cup with big win over Burnley",
+    "description": "Manchester United Women advanced to the fifth round of the FA Cup on Sunday with a prolific performance from a rotated squad featuring several newcomers. Striker Lea Schuller, a transfer from Bayern Munich, and Layla Drury, a 16 year old academy player, capped off a dominant 5-0 win over Burnley at",
     "pubDate": "2026-01-19",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/southern-utah-transfer-wr-shane-164427394.html",
+    "link": "https://sports.yahoo.com/articles/muwfc-advance-fa-cup-big-161729308.html",
     "source": "Google News"
   },
   {
-    "slug": "cremonese-v-verona-zerbin-lirola-start-montip-out",
-    "title": "✅Cremonese v Verona: Zerbin, Lirola start, Montipò out ❌",
-    "description": "The 21st matchday of Serie A continues with the clash at the Zini in Cremona between Cremonese and Verona.Watch all of Serie BKT live on OneFootball for only €9.99 per month. Click here to purchase ...",
+    "slug": "the-transfer-miscalculation-that-saw-liverpool-lose-marc-guehi-to-man-city",
+    "title": "The transfer miscalculation that saw Liverpool lose Marc Guehi to Man City",
+    "description": "Having come so close to signing the England international over the summer, Liverpool must now swallow the bitter pill of having been out-thought by City",
     "pubDate": "2026-01-19",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/cremonese-v-verona-zerbin-lirola-164400809.html",
+    "link": "https://sports.yahoo.com/articles/marc-guehi-outlines-motivation-behind-153029611.html",
     "source": "Google News"
   },
   {
-    "slug": "can-hyundai-challenge-toyota-in-wrc-2026",
-    "title": "Can Hyundai challenge Toyota in WRC 2026?",
-    "description": "Extensive work addressing the weaknesses of its World Rally Championship challenger has left Hyundai confident it can offer a stronger challenge to Toyota in 2026",
+    "slug": "2026-tennessee-football-way-too-early-top-25-ranking",
+    "title": "2026 Tennessee football way-too-early top 25 ranking",
+    "description": "Way-too-early top 25 ranking for Tennessee's 2026 football season.",
     "pubDate": "2026-01-19",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/hyundai-challenge-toyota-wrc-2026-164306469.html",
+    "link": "https://sports.yahoo.com/articles/2026-tennessee-football-way-too-161653389.html",
     "source": "Google News"
   },
   {
-    "slug": "fuchs-praises-new-signing-biggins-39-39-omnipresent-39-debut",
-    "title": "Fuchs praises new signing Biggins&#39; &#39;omnipresent&#39; debut",
-    "description": "Despite late heartbreak against Gillingham on Saturday, Newport County supporters were given a glimpse of what their January reinforcements can offer.  Two of the Exiles' newest arrivals, former County defender Ryan Delaney and Shrewsbury loanee Harrison Biggins, were put straight into the starting",
+    "slug": "cfp-national-championship-2026-college-football-fans-predict-miami-vs-indiana",
+    "title": "CFP National Championship 2026: College football fans predict Miami vs. Indiana",
+    "description": "Will it be IU tonight? Follow the crowd or buck the trend? Choose your own adventure and let’s go.",
     "pubDate": "2026-01-19",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/fuchs-praises-signing-biggins-omnipresent-164234136.html",
+    "link": "https://sports.yahoo.com/articles/cfp-national-championship-2026-college-161634309.html",
     "source": "Google News"
   },
   {
-    "slug": "palm-beach-post-girls-athlete-of-the-week-vote-on-our-latest-nominees",
-    "title": "Palm Beach Post Girls Athlete of the Week: Vote on our latest nominees",
-    "description": "Vote on a winner from top girls athletes' performances throughout Palm Beach County last week.",
+    "slug": "danny-green-on-lakers-covid-title-even-if-it-wasn-39-t-a-bubble-year-we-still-would-have-won",
+    "title": "Danny Green on Lakers COVID title: Even if it wasn&#39;t a bubble year, we still would have won",
+    "description": "Danny Green on Lakers COVID title: Even if it wasn't a bubble year, we still would have won",
     "pubDate": "2026-01-19",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/palm-beach-post-girls-athlete-164220672.html",
+    "link": "https://sports.yahoo.com/articles/danny-green-lakers-covid-title-161559018.html",
     "source": "Google News"
   },
   {
-    "slug": "romano-says-here-we-go-ter-stegen-set-for-loan-move-to-girona",
-    "title": "🚨Romano says HERE WE GO: Ter Stegen set for loan move to Girona",
-    "description": "In a completely unexpected move, Girona FC has reached a verbal agreement with FC Barcelona for the incorporation of Marc-André ter Stegen. After the German goalkeeper's \"green light\" last week, both...",
+    "slug": "danny-green-on-kawhi-leonard-do-i-think-he-surpassed",
+    "title": "Danny Green on Kawhi Leonard: Do I think he surpassed …",
+    "description": "Danny Green on Kawhi Leonard: Do I think he surpassed …",
     "pubDate": "2026-01-19",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/romano-says-ter-stegen-set-164200398.html",
+    "link": "https://sports.yahoo.com/articles/danny-green-kawhi-leonard-think-161558400.html",
     "source": "Google News"
   },
   {
-    "slug": "patriots-vs-broncos-predictions-early-picks-odds-for-afc-championship-game",
-    "title": "Patriots vs Broncos Predictions - Early Picks & Odds for AFC Championship Game",
-    "description": "Jason Logan's early leans for the AFC Championship Game like the Under. Early Patriots vs. Broncos predictions for Sunday, January 25.",
+    "slug": "the-hawks-have-upgraded-dyson-daniels-right-ankle",
+    "title": "The Hawks have upgraded Dyson Daniels (right ankle …",
+    "description": "The Hawks have upgraded Dyson Daniels (right ankle …",
     "pubDate": "2026-01-19",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/patriots-vs-broncos-predictions-early-164200877.html",
+    "link": "https://sports.yahoo.com/articles/hawks-upgraded-dyson-daniels-ankle-161556435.html",
     "source": "Google News"
   },
   {
-    "slug": "arizona-cardinals-request-second-interview-with-packers-dc-jeff-hafley",
-    "title": "Arizona Cardinals request second interview with Packers DC Jeff Hafley",
-    "description": "Jeff Hafley has lots of interest for head coaching jobs, including the Cardinals.",
+    "slug": "one-play-by-puka-nacua-shows-his-incredible-value-and-it-wasn-39-t-even-a-catch",
+    "title": "One play by Puka Nacua shows his incredible value – and it wasn&#39;t even a catch",
+    "description": "For the second week in a row, Puka Nacua made a play to help the Rams without even catching the ball.",
     "pubDate": "2026-01-19",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/arizona-cardinals-request-second-interview-164144977.html",
+    "link": "https://sports.yahoo.com/articles/one-play-puka-nacua-shows-161547162.html",
     "source": "Google News"
   },
   {
-    "slug": "nflsu-divisional-round-recap",
-    "title": "NFLSU Divisional Round Recap",
-    "description": "An LSU Tiger will be a Super Bowl 60 champion",
+    "slug": "mike-tomlin-will-not-be-buffalo-bills-39-next-head-coach-here-39-s-why",
+    "title": "Mike Tomlin will not be Buffalo Bills&#39; next head coach. Here&#39;s why",
+    "description": "The Buffalo Bills are searching for a new head coach after firing Sean McDermott. It almost certainly won't be Mike Tomlin.",
     "pubDate": "2026-01-19",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/nflsu-divisional-round-recap-164144629.html",
+    "link": "https://sports.yahoo.com/articles/mike-tomlin-not-buffalo-bills-161542538.html",
     "source": "Google News"
   },
   {
-    "slug": "texas-hs-standout-cam-newton-commits-to-deion-sanders-and-colorado",
-    "title": "Texas HS standout Cam Newton commits to Deion Sanders and Colorado",
-    "description": "Coach Prime and the Buffs make a rare move.",
+    "slug": "bears-qb-caleb-williams-shares-instant-reaction-to-final-int-vs-rams",
+    "title": "Bears QB Caleb Williams shares instant reaction to final INT vs. Rams",
+    "description": "Bears quarterback Caleb Williams shared his instant reaction to his final interception against the Rams.",
     "pubDate": "2026-01-19",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/texas-hs-standout-cam-newton-164039178.html",
+    "link": "https://sports.yahoo.com/articles/bears-qb-caleb-williams-shares-161517250.html",
     "source": "Google News"
   },
   {
-    "slug": "somehow-bills-39-brandon-beane-got-a-promotion-despite-terrible-draft-history-nightmare-wr-signings-in-free-agency",
-    "title": "Somehow, Bills&#39; Brandon Beane got a promotion despite terrible draft history, nightmare WR signings in free agency",
-    "description": "This doesn't really make a lot of sense.",
+    "slug": "braves-sign-ex-orioles-infielder-as-ha-seong-kim-replacement-after-freak-ice-injury",
+    "title": "Braves sign ex-Orioles infielder as Ha-Seong Kim replacement after freak ice injury",
+    "description": "The Braves needed to add another shortstop this winter.",
     "pubDate": "2026-01-19",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/somehow-bills-brandon-beane-got-164038688.html",
+    "link": "https://sports.yahoo.com/articles/braves-sign-ex-orioles-infielder-161508197.html",
     "source": "Google News"
   },
   {
-    "slug": "2026-nfl-offseason-previews-your-guide-to-bills-bears-49ers-and-every-eliminated-team-39-s-work-ahead",
-    "title": "2026 NFL offseason previews: Your guide to Bills, Bears, 49ers and every eliminated team&#39;s work ahead",
-    "description": "Here is an in-depth look at each team, from how their 2025 season went and what their salary cap and free agent situations look like to their draft capital and glaring needs.",
+    "slug": "fantasy-basketball-high-score-perfect-lineup-for-week-13-where-did-all-the-scoring-go",
+    "title": "Fantasy Basketball High Score Perfect Lineup for Week 13: Where did all the scoring go???",
+    "description": "We're looking at the top scores from Yahoo High Score to form the Week 13 perfect fantasy basketball lineup.",
     "pubDate": "2026-01-19",
     "image": "",
-    "link": "https://sports.yahoo.com/nfl/article/2026-nfl-offseason-previews-your-guide-to-bills-bears-49ers-and-every-eliminated-teams-work-ahead-164028514.html",
-    "source": "Dan Pizzuta"
+    "link": "https://sports.yahoo.com/fantasy/article/fantasy-basketball-high-score-perfect-lineup-for-week-13-where-did-all-the-scoring-go-161424818.html",
+    "source": "Ben Zweiman"
+  },
+  {
+    "slug": "eagles-oc-search-raises-eyebrows-with-two-failed-candidates-in-the-mix",
+    "title": "Eagles OC search raises eyebrows with two failed candidates in the mix",
+    "description": "The Eagles reportedly are interested in two young OCs who have failed elsewhere.",
+    "pubDate": "2026-01-19",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/eagles-oc-search-raises-eyebrows-155248768.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "bills-sack-coach-mcdermott-after-play-off-defeat",
+    "title": "Bills sack coach McDermott after play-off defeat",
+    "description": "The Buffalo Bills sack coach Sean McDermott after a play-off defeat by the Denver Broncos.",
+    "pubDate": "2026-01-19",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/bills-sack-coach-mcdermott-play-161002812.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "controversy-rages-on-morocco-to-protest-senegal-s-withdrawal",
+    "title": "💥Controversy rages on: Morocco to protest Senegal’s withdrawal",
+    "description": "The Royal Moroccan Football Federation (FRMF) has officially filed a complaint with CAF and FIFA following the incidents that occurred in the final of AFCON 2026. The Moroccan body is demanding legal ...",
+    "pubDate": "2026-01-19",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/controversy-rages-morocco-protest-senegal-161400724.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "texas-a-m-ranks-among-sec-39-s-most-valuable-athletic-programs",
+    "title": "Texas A&M ranks among SEC&#39;s most valuable athletic programs",
+    "description": "Texas A&M ranks among the most valuable athletic departments in the conference, per CNBC.",
+    "pubDate": "2026-01-19",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/texas-m-ranks-among-secs-161359515.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "under-fire-frank-claims-backing-of-spurs-hierarchy",
+    "title": "Under-fire Frank claims backing of Spurs hierarchy",
+    "description": "Thomas Frank insisted he retains the support of Tottenham's hierarchy after the under-fire boss met with the club's powerbrokers on Monday.Accepting the responsiblity for Tottenham's plight, Frank said: \"Even the best manager in the world, Pep Guardiola, says 'I am nothing without my players' and it",
+    "pubDate": "2026-01-19",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/under-fire-frank-claims-backing-161257166.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "truist-championship-lands-big-sponsor",
+    "title": "Truist Championship lands big sponsor",
+    "description": "The Truist Championship has added HendrickCars.com as a sponsor for the PGA Tour event, organizers disclosed this morning.",
+    "pubDate": "2026-01-19",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/truist-championship-lands-big-sponsor-161221924.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "where-did-notre-dame-land-in-on3-s-way-too-early-top-25-for-2026",
+    "title": "Where did Notre Dame land in On3’s way-too-early top-25 for 2026",
+    "description": "Notre Dame football is viewed as one of the top teams entering the 2026 season, as On3 ranks them near the top of its way-too-early top-25.",
+    "pubDate": "2026-01-19",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/where-did-notre-dame-land-161216219.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "bills-have-fired-sean-mcdermott-after-another-playoff-disappointment",
+    "title": "Bills have fired Sean McDermott after another playoff disappointment",
+    "description": "The Buffalo Bills have decided to part ways with head coach Sean McDermott, who has spent the last nine seasons on the sideline in Buffalo.",
+    "pubDate": "2026-01-19",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/bills-fired-sean-mcdermott-another-161210580.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "dolphins-to-have-in-person-interviews-with-patrick-graham-kelvin-sheppard-on-monday",
+    "title": "Dolphins to have in-person interviews with Patrick Graham, Kelvin Sheppard on Monday",
+    "description": "Much of the focus on the Dolphins' head coaching search in recent days has been on their second meeting with Packers defensive coordinator Jeff Hafley, but he's not the only candidate meeting with the team on Monday.",
+    "pubDate": "2026-01-19",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/dolphins-person-interviews-patrick-graham-161204476.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "former-cowboys-qb-ben-dinucci-signs-with-broncos-ahead-of-afc-title-game",
+    "title": "Former Cowboys QB Ben DiNucci signs with Broncos ahead of AFC title game",
+    "description": "Ben DiNucci was a small-school longshot to even make an NFL roster. Improbably, he's now closer to a Super Bowl berth than Dak Prescott has ever been.",
+    "pubDate": "2026-01-19",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/former-cowboys-qb-ben-dinucci-161111959.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "3-reasons-why-jaguars-39-coordinators-are-garnering-head-coach-interest",
+    "title": "3 reasons why Jaguars&#39; coordinators are garnering head coach interest",
+    "description": "Here are three reasons why the Jacksonville Jaguars' coordinators are garnering head coaching interest from other teams.",
+    "pubDate": "2026-01-19",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/3-reasons-why-jaguars-coordinators-161100502.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "afcon-2025-final-quot-my-heart-hurts-quot-brahim-diaz-breaks-his-silence",
+    "title": "AFCON 2025 final: &quot;My heart hurts&quot;... Brahim Diaz breaks his silence",
+    "description": "Brahim Daiz - Edouard MendyOn his Instagram account, Brahim Diaz broke his silence after a wild night in the 2025 Africa Cup of Nations final between Morocco and Senegal.Since Morocco's defeat and Sen...",
+    "pubDate": "2026-01-19",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/afcon-2025-final-heart-hurts-161100493.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "kristaps-porzingis-zaccharie-risacher-to-be-re-evaluated-in-a-week",
+    "title": "Kristaps Porzingis, Zaccharie Risacher to be re-evaluated in a week",
+    "description": "Kristaps Porzingis, Zaccharie Risacher to be re-evaluated in a week",
+    "pubDate": "2026-01-19",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/kristaps-porzingis-zaccharie-risacher-evaluated-161059612.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "mark-sears-has-returned-to-the-wisconsin-herd-of-the",
+    "title": "Mark Sears has returned to the Wisconsin Herd of the …",
+    "description": "Mark Sears has returned to the Wisconsin Herd of the …",
+    "pubDate": "2026-01-19",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/mark-sears-returned-wisconsin-herd-161058001.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "jayson-tatum-getting-a-full-workout-in-at-celtics",
+    "title": "Jayson Tatum getting a full workout in at Celtics …",
+    "description": "Jayson Tatum getting a full workout in at Celtics …",
+    "pubDate": "2026-01-19",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/jayson-tatum-getting-full-workout-161057224.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "telegraph-media-group-owner-and-liverpool-fc-investor",
+    "title": "Telegraph Media Group owner and Liverpool FC investor …",
+    "description": "Telegraph Media Group owner and Liverpool FC investor …",
+    "pubDate": "2026-01-19",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/telegraph-media-group-owner-liverpool-161056361.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "redbird-is-very-interested-in-acquiring-one-of-the",
+    "title": "RedBird is “very interested” in acquiring one of the …",
+    "description": "RedBird is “very interested” in acquiring one of the …",
+    "pubDate": "2026-01-19",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/redbird-very-interested-acquiring-one-161055097.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "houston-texans-player-claimed-he-was-told-he-d-be-yanked-from-game-for-stop-the-genocide-message-on-his-eye-tape",
+    "title": "Houston Texans Player Claimed He Was Told He’d Be Yanked from Game for ‘Stop the Genocide’ Message on His Eye Tape",
+    "description": "Texans linebacker Azeez Al-Shaair claimed there were threats to pull him from last week's playoff game for having \"stop the genocide\" written on his eye black.",
+    "pubDate": "2026-01-19",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/houston-texans-player-claimed-told-161041313.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "mississippi-state-ol-zack-owens-commits-to-mizzou",
+    "title": "Mississippi State OL Zack Owens commits to Mizzou",
+    "description": "The Tigers add another lineman with Power Four experience.",
+    "pubDate": "2026-01-19",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/mississippi-state-ol-zack-owens-161007312.html",
+    "source": "Google News"
   },
   {
     "slug": "2026-saudi-arabia-darts-masters-day-1-first-round-live-results-scores-schedule-bracket",
@@ -927,255 +1098,75 @@
     "source": "Google News"
   },
   {
-    "slug": "can-2025-morocco-wants-to-recruit-andr-s-iniesta-after-final-defeat",
-    "title": "CAN 2025: Morocco wants to recruit Andrés Iniesta after final defeat",
-    "description": "Andrés IniestaMorocco is already gearing up to strengthen its staff following their CAN 2025 final defeat to Senegal. The Moroccan Federation is aiming to sign Andrés Iniesta.A true legend of Barça...",
+    "slug": "the-insane-reason-liverpool-won-39-t-make-any-january-signings",
+    "title": "The insane reason Liverpool won&#39;t make ANY January signings",
+    "description": "FSG distracted by issues over the pondA significant spend was authorised by Liverpool’s American owners in the summer, but the first half of the season has clearly shown that more investment is nece...",
     "pubDate": "2026-01-19",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/2025-morocco-wants-recruit-andr-164000259.html",
+    "link": "https://sports.yahoo.com/articles/insane-reason-liverpool-wont-january-161000988.html",
     "source": "Google News"
   },
   {
-    "slug": "dysfunction-fuels-10-total-coaching-changes",
-    "title": "Dysfunction fuels 10 total coaching changes",
-    "description": "Once coach says NFL currently has \"the worst collective of 32 owners in league history.\"",
+    "slug": "miami-vs-indiana-props-the-best-prop-picks-for-today-39-s-cfp-national-championship-game",
+    "title": "Miami vs Indiana Props: The Best Prop Picks for Today&#39;s CFP National Championship Game",
+    "description": "Miami vs. Indiana player props for the CFP National Championship Game. More fireworks from Carson Beck and Malachi Toney.",
     "pubDate": "2026-01-19",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/dysfunction-fuels-10-total-coaching-163959324.html",
+    "link": "https://sports.yahoo.com/articles/miami-vs-indiana-props-best-161000598.html",
     "source": "Google News"
   },
   {
-    "slug": "bears-get-bad-free-agent-news-on-star-safety-jaquan-brisker",
-    "title": "Bears get bad free-agent news on star safety Jaquan Brisker",
-    "description": "This doesn't bode well for the young safety to come back to Chicago.",
+    "slug": "roma-and-aston-villa-fans-react-as-malen-scores-on-impressive-serie-a-debut",
+    "title": "Roma and Aston Villa fans react as Malen scores on impressive Serie A debut",
+    "description": "Donyell Malen scored a goal on his Roma debut against Torino on Sunday, sparking social media reactions from Giallorossi and Aston Villa fans.Dutch striker Malen took just 26 minutes to score his firs...",
     "pubDate": "2026-01-19",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/bears-bad-free-agent-news-163928364.html",
+    "link": "https://sports.yahoo.com/articles/roma-aston-villa-fans-react-161000516.html",
     "source": "Google News"
   },
   {
-    "slug": "multiple-teams-want-to-schedule-second-interviews-with-broncos-pass-game-coordinator-qb-coach-davis-webb",
-    "title": "Multiple teams want to schedule second interviews with Broncos pass game coordinator/QB coach Davis Webb",
-    "description": "According to the NFL Network’s league insider, Tom Pelissero, multiple teams would like to schedule second interviews with Denver Broncos pass game coordinator/quarterbacks coach Davis Webb. He has interviewed virtually with the Las Vegas Raiders and Baltimore Ravens, per reports, and now is being l",
+    "slug": "bills-coaching-rumors-tracker-latest-news-on-brian-daboll-joe-brady-other-potential-sean-mcdermott-replacements",
+    "title": "Bills coaching rumors tracker: Latest news on Brian Daboll, Joe Brady, other potential Sean McDermott replacements",
+    "description": "Who will the Bills bring in to replace Sean McDermott? Here's the latest on Buffalo's head coaching search.",
     "pubDate": "2026-01-19",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/multiple-teams-want-schedule-second-163850096.html",
+    "link": "https://sports.yahoo.com/articles/bills-coaching-rumors-tracker-latest-160941264.html",
     "source": "Google News"
   },
   {
-    "slug": "national-anthem-performance-at-chicago-bears-game-hailed-as-greatest-of-all-time-sparks-debate",
-    "title": "National Anthem Performance at Chicago Bears Game Hailed as ‘Greatest of All Time,’ Sparks Debate",
-    "description": "Fans are clearly divided after Jim Cornelison’s rendition of the National Anthem at the Los Angeles Rams versus the Chicago Bears game has been hailed as one of the best versions of all time. Cornelison, 61, belted out the iconic tune in freezing conditions at Soldier Field on Sunday, January 18, an",
+    "slug": "frank-on-having-39-limited-39-players-his-position-and-needing-fan-support",
+    "title": "Frank on having &#39;limited&#39; players, his position and needing fan support",
+    "description": "Spurs boss Thomas Frank has been speaking to the media before Tuesday's Champions League game against Borussia Dortmund at Tottenham Hotspur Stadium (kick-off 20:00 GMT).  Xavi Simons \"has a swollen ankle\" and he didn't train on Monday, but he will \"play through pain\" because of a lack of other opti",
     "pubDate": "2026-01-19",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/national-anthem-performance-chicago-bears-163822710.html",
+    "link": "https://sports.yahoo.com/articles/frank-having-limited-players-position-160815293.html",
     "source": "Google News"
   },
   {
-    "slug": "senegal-reserve-keeper-jokes-after-afcon-towel-scuffles",
-    "title": "Senegal reserve keeper jokes after Afcon towel scuffles",
-    "description": "Senegal's reserve goalkeeper Yehvann Diouf jokes about his unique role in his side's chaotic Afcon final victory on Sunday.",
+    "slug": "celtics-39-jaylen-brown-threatening-to-steal-a-major-jayson-tatum-record-this-season",
+    "title": "Celtics&#39; Jaylen Brown threatening to steal a major Jayson Tatum record this season",
+    "description": "Jaylen Brown is having an insane season.",
     "pubDate": "2026-01-19",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/senegal-keeper-jokes-afcon-towel-163820254.html",
+    "link": "https://sports.yahoo.com/articles/celtics-jaylen-brown-threatening-steal-160653829.html",
     "source": "Google News"
   },
   {
-    "slug": "mma-junkie-radio-3635-guests-usman-nurmagomedov-masvidal-more",
-    "title": "MMA Junkie Radio #3635: Guests Usman Nurmagomedov, Masvidal, more",
-    "description": "Check out the latest episode of MMA Junkie Radio with \"Gorgeous\" George and \"Goze.\"",
+    "slug": "will-tonight-be-another-indiana-blowout-why-tim-tebow-doesn-39-t-think-so",
+    "title": "Will tonight be another Indiana blowout? Why Tim Tebow doesn&#39;t think so",
+    "description": "After blowing out Alabama and Oregon, Indiana enters tonight's national championship game vs. Miami as heavy favorites. Will we see another blowout?",
     "pubDate": "2026-01-19",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/mma-junkie-radio-3635-guests-163815102.html",
+    "link": "https://sports.yahoo.com/articles/tonight-another-indiana-blowout-why-160646180.html",
     "source": "Google News"
   },
   {
-    "slug": "rams-assistant-lands-2nd-head-coaching-interview-with-browns",
-    "title": "Rams assistant lands 2nd head coaching interview with Browns",
-    "description": "The Browns want to meet with rising Rams assistant Nate Scheelhaase for a 2nd time, but they'll need to wait a week to do so.",
+    "slug": "ishowspeed-learns-francis-ngannou-power-the-hard-way-during-soccer-cameo",
+    "title": "IShowSpeed learns Francis Ngannou power the hard way during soccer cameo",
+    "description": "Francis Ngannou had a chance encounter with IShowSpeed at the AFCON final and gave the streamer a quick reminder of what it is really like to be in combat sports. The former UFC heavyweight champion, now competing in the PFL, met up with Speed before the match for a chat that was caught on camera.",
     "pubDate": "2026-01-19",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/rams-assistant-lands-2nd-head-163815788.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "bears-vs-rams-ben-johnson-and-caleb-williams-disappointed-yet-hopeful",
-    "title": "Bears vs Rams: Ben Johnson and Caleb Williams disappointed yet hopeful",
-    "description": "All the Bears' snap counts, a spotlight on some individual statistics, a few team stats, and more about the Bears' OT loss to the Rams from @wiltfongjr.",
-    "pubDate": "2026-01-19",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/bears-vs-rams-ben-johnson-163814705.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "nfl-head-coaching-desirability-index-which-open-vacancies-are-most-coveted",
-    "title": "NFL Head Coaching Desirability Index: Which Open Vacancies Are Most Coveted?",
-    "description": "Which NFL head coaching openings are the most appealing? We rank the open jobs by quarterback situation, roster strength, cap space, and long-term upside.",
-    "pubDate": "2026-01-19",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/nfl-head-coaching-desirability-index-140000850.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "drake-maye-patriots-must-navigate-historically-tough-defenses-to-make-super-bowl",
-    "title": "Drake Maye, Patriots Must Navigate Historically Tough Defenses To Make Super Bowl",
-    "description": "For all the talk regarding the New England Patriots’ strength of schedule, Drake Maye has faced one of the hardest playoff paths imaginable. New England began the postseason with a 16-3 win over the Los Angeles Chargers, who ended the regular season ranked fifth in total defense. The Patriots then k",
-    "pubDate": "2026-01-19",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/drake-maye-patriots-must-navigate-163730239.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "brian-flores-moves-one-step-closer-to-hc-job",
-    "title": "Brian Flores Moves One Step Closer to HC Job",
-    "description": "The NFL coaching carousel is getting down to the nitty-gritty, and if Minnesota Vikings defensive coordinator Brian Flores plays his […]",
-    "pubDate": "2026-01-19",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/brian-flores-moves-one-step-163654626.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "seton-hall-basketball-visits-st-john-39-s-in-39-prize-fight-at-the-garden-39",
-    "title": "Seton Hall basketball visits St. John&#39;s in &#39;prize fight at the Garden&#39;",
-    "description": "Radio analyst and former Hall assistant Greg Herenda on the Pirates' fouling, shooting and marquee inside matchup vs. the Johnnies.",
-    "pubDate": "2026-01-19",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/seton-hall-basketball-visits-st-163630965.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "bills-39-jordan-phillips-calls-sean-mcdermott-39-s-firing-39-sickening-39-in-instagram-post",
-    "title": "Bills&#39; Jordan Phillips calls Sean McDermott&#39;s firing &#39;sickening&#39; in Instagram post",
-    "description": "The Bills decided to move on from their head coach following an NFL playoff exit, and one player isn't too thrilled with the move.",
-    "pubDate": "2026-01-19",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/bills-jordan-phillips-calls-sean-163627972.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "pick-of-the-stats-watford-v-portsmouth",
-    "title": "Pick of the stats: Watford v Portsmouth",
-    "description": "Here are the key stats for Watford v Portsmouth",
-    "pubDate": "2026-01-19",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/pick-stats-watford-v-portsmouth-163517756.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "bengals-sign-te-tanner-hudson-to-one-year-extension",
-    "title": "Bengals sign TE Tanner Hudson to one-year extension",
-    "description": "Tight end Tanner Hudson will be staying in Cincinnati.",
-    "pubDate": "2026-01-19",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/bengals-sign-te-tanner-hudson-163515966.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "senegal-win-afcon-after-chaotic-final-against-morocco",
-    "title": "Senegal win Afcon after chaotic final against Morocco",
-    "description": "Senegal beat Morocco to claim their second Afcon title despite walking off the pitch after a late penalty award which also sparked chaos in the stands.",
-    "pubDate": "2026-01-19",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/afcon-hosts-morocco-meet-senegal-173555960.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "beever-jones-and-walsh-close-to-chelsea-returns",
-    "title": "Beever-Jones and Walsh close to Chelsea returns",
-    "description": "England internationals Aggie Beever-Jones and Keira Walsh returned to full training with Chelsea on Monday morning after recovering from minor injuries.",
-    "pubDate": "2026-01-19",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/beever-jones-walsh-close-chelsea-163344447.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "colts-make-final-decision-on-daniel-jones-39-role-on-their-2026-qb-depth-chart-amid-free-agency-injury",
-    "title": "Colts make final decision on Daniel Jones&#39; role on their 2026 QB depth chart amid free agency, injury",
-    "description": "Indy has to figure out the most important position in sports.",
-    "pubDate": "2026-01-19",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/colts-final-decision-daniel-jones-163242903.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "fifa-condemns-senegal-s-actions-morocco-protest-paper-predicts-sanctions",
-    "title": "Fifa condemns Senegal’s actions, Morocco protest, paper predicts sanctions",
-    "description": "The decision to leave the field during the African Cup of Nations final after a penalty was awarded to Morocco could cause problems for the now two-time African champion Senegal.Gianni Infantino, pres...",
-    "pubDate": "2026-01-19",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/fifa-condemns-senegal-actions-morocco-163200572.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "bears-face-difficult-secondary-free-agent-decisions-with-negative-12-7-million-in-cap-space",
-    "title": "Bears face difficult secondary free agent decisions with negative $12.7 million in cap space",
-    "description": "This won't be easy for the Bears this offseason.",
-    "pubDate": "2026-01-19",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/bears-face-difficult-secondary-free-163131415.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "3-arizona-cardinals-coaching-candidates-are-finalists-for-titans",
-    "title": "3 Arizona Cardinals coaching candidates are finalists for Titans",
-    "description": "The Cardinals have looked at Matt Nagy, Jeff Hafley and Robert Saleh to be head coach. They are finalists in Tennessee.",
-    "pubDate": "2026-01-19",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/3-arizona-cardinals-coaching-candidates-163121996.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "whittingham-effect-shows-as-michigan-opens-no-11-for-2026",
-    "title": "Whittingham effect shows as Michigan opens No. 11 for 2026",
-    "description": "On3 slots Michigan No. 11 in its early 2026 power rankings after roster retention, portal additions, and the hire of Kyle Whittingham.",
-    "pubDate": "2026-01-19",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/whittingham-effect-shows-michigan-opens-163104437.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "where-auburn-football-ranks-in-latest-transfer-portal-rankings",
-    "title": "Where Auburn football ranks in latest transfer portal rankings",
-    "description": "The transfer portal has officially closed. Here's a look at where Auburn football's haul stacks up with the best in the country.",
-    "pubDate": "2026-01-19",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/where-auburn-football-ranks-latest-163054827.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "lydia-ko-nelly-korda-help-raise-4-million-for-charity-at-pebble-beach",
-    "title": "Lydia Ko, Nelly Korda help raise $4 million for charity at Pebble Beach",
-    "description": "The money will be used to support the next generation of girls and women in golf.",
-    "pubDate": "2026-01-19",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/lydia-ko-nelly-korda-help-163039218.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "bo-nix-39-s-wife-izzy-shares-heartbreaking-photo-following-news-of-injury",
-    "title": "Bo Nix&#39;s wife, Izzy, shares heartbreaking photo following news of injury",
-    "description": "Bo Nix's wife, Izzy, shared a behind-the-scenes photo following the news of his season-ending ankle injury.",
-    "pubDate": "2026-01-19",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/bo-nixs-wife-izzy-shares-163033467.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "keeping-kanu-39-feels-like-a-new-signing-39-sadler",
-    "title": "Keeping Kanu &#39;feels like a new signing&#39; - Sadler",
-    "description": "Walsall head coach Mat Sadler says keeping loanee Daniel Kanu for the rest of the season feels like a new signing.",
-    "pubDate": "2026-01-19",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/keeping-kanu-feels-signing-sadler-163023085.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "which-managers-might-be-free-in-the-summer",
-    "title": "Which managers might be free in the summer?",
-    "description": "A summer of managerial change could be on the cards with a World Cup, contracts expiring, and clubs already hunting for new bosses.",
-    "pubDate": "2026-01-19",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/managers-might-free-summer-163016272.html",
+    "link": "https://sports.yahoo.com/articles/ishowspeed-learns-francis-ngannou-power-160630293.html",
     "source": "Google News"
   },
   {
