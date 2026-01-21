@@ -1,5 +1,14 @@
 [
   {
+    "slug": "baseball-hall-of-fame-voting-winners-losers-and-who-could-get-in-next",
+    "title": "Baseball Hall of Fame voting winners, losers and who could get in next",
+    "description": "The results are in! Our experts break down the highs and lows of the 2026 vote and look ahead to 2027.",
+    "pubDate": "2026-01-21",
+    "image": "",
+    "link": "https://www.espn.com/mlb/story/_/id/47673705/mlb-baseball-hall-fame-2026-voting-beltran-jones-winners-losers",
+    "source": "ESPN"
+  },
+  {
     "slug": "sources-mcdaniel-set-to-become-chargers-oc",
     "title": "Sources: McDaniel set to become Chargers OC",
     "description": "Former Miami Dolphins head coach Mike McDaniel is expected to become the Los Angeles Chargers' offensive coordinator, sources told ESPN.",
@@ -81,13 +90,22 @@
     "source": "Jason Jordan"
   },
   {
-    "slug": "baseball-hall-of-fame-voting-winners-losers-and-who-could-get-in-next",
-    "title": "Baseball Hall of Fame voting winners, losers and who could get in next",
-    "description": "The results are in! Our experts break down the highs and lows of the 2026 vote and look ahead to 2027.",
+    "slug": "8-8-in-the-playoffs-with-josh-allen-buffalo-fired-sean-mcdermott-but-there-s-more-blame-to-go-around",
+    "title": "8-8 in the playoffs with Josh Allen? Buffalo fired Sean McDermott, but there's more blame to go around",
+    "description": "With postseason losses piling up, the Bills fired McDermott. But will it change anything? And where did things go wrong?",
     "pubDate": "2026-01-21",
     "image": "",
-    "link": "https://www.espn.com/mlb/story/_/id/47673705/mlb-baseball-hall-fame-2026-voting-beltran-jones-winners-losers",
-    "source": "ESPN"
+    "link": "https://www.espn.com/nfl/story/_/id/47660090/2026-nfl-offseason-buffalo-bills-fire-sean-mcdermott-coach-allen-beane-playoff-loss",
+    "source": "Ben Solak"
+  },
+  {
+    "slug": "mlb-offseason-grades-rating-mets-latest-pickup-in-trade-for-luis-robert-jr",
+    "title": "MLB offseason grades: Rating Mets' latest pickup in trade for Luis Robert Jr.",
+    "description": "We've got you covered with grades and analysis on every winter signing and big offseason trade.",
+    "pubDate": "2026-01-21",
+    "image": "",
+    "link": "https://www.espn.com/mlb/story/_/id/46994593/2025-26-mlb-offseason-grades-free-agency-trade-analysis",
+    "source": "Bradford Doolittle and David Schoenfield"
   },
   {
     "slug": "men-s-bracketology-don-t-write-off-houston-just-yet",
@@ -162,6 +180,24 @@
     "source": "Dan Graziano and Ben Solak"
   },
   {
+    "slug": "cfp-takeaways-even-as-a-favored-goliath-indiana-s-win-stands-alone-in-sports-history",
+    "title": "CFP takeaways: Even as a favored Goliath, Indiana's win stands alone in sports history",
+    "description": "Put it next to the Miracle on Ice or NC State and Villanova. In a wild title game, here's how Indiana beat Miami.",
+    "pubDate": "2026-01-21",
+    "image": "",
+    "link": "https://www.espn.com/college-football/story/_/id/47666920/college-football-playoff-2026-title-game-takeaways-indiana-hoosiers-miami-hurricanes",
+    "source": "Bill Connelly"
+  },
+  {
+    "slug": "wetzel-hoosiers-delivered-a-national-title-for-the-everyman",
+    "title": "Wetzel: Hoosiers delivered a national title for the everyman",
+    "description": "Curt Cignetti's relentless group of discards and misfits showed what the transfer portal made possible.",
+    "pubDate": "2026-01-21",
+    "image": "",
+    "link": "https://www.espn.com/college-football/story/_/id/47672384/hoosiers-delivered-national-title-everyman",
+    "source": "Dan Wetzel"
+  },
+  {
     "slug": "indiana-yes-indiana-is-the-national-champ-how-curt-cignetti-and-the-hoosiers-did-it",
     "title": "Indiana -- yes, Indiana! -- is the national champ! How Curt Cignetti and the Hoosiers did it",
     "description": "The program that was once the least successful in all of FBS is now the national champion.",
@@ -198,12 +234,30 @@
     "source": "J.J. Post"
   },
   {
+    "slug": "out-of-sorts-raducanu-out-in-australian-open-second-round",
+    "title": "Out-of-sorts Raducanu out in Australian Open second round",
+    "description": "Britain's Emma Raducanu is below-par in an Australian Open second-round defeat by Austria's Anastasia Potapova.",
+    "pubDate": "2026-01-21",
+    "image": "",
+    "link": "https://www.bbc.com/sport/tennis/articles/c620l640jz2o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport"
+  },
+  {
     "slug": "good-signs-or-just-buying-time-spurs-remain-divided-on-frank-future",
     "title": "'Good signs' or just buying time? Spurs remain divided on Frank future",
     "description": "Many Tottenham fans have already lost faith in Thomas Frank - but did Tuesday's 2-0 win over Borussia Dortmund give cause for optimism?",
     "pubDate": "2026-01-21",
     "image": "",
     "link": "https://www.bbc.com/sport/football/articles/cj4lqy2np2zo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport"
+  },
+  {
+    "slug": "i-can-teach-pimblett-some-lessons-gaethje",
+    "title": "I can teach Pimblett some lessons - Gaethje",
+    "description": "Justin Gaethje describes himself as the \"underdog\" against Paddy Pimblett on Saturday at UFC 324.",
+    "pubDate": "2026-01-21",
+    "image": "",
+    "link": "https://www.bbc.com/sport/mixed-martial-arts/articles/cgrd1z9jzjyo?at_medium=RSS&at_campaign=rss",
     "source": "BBC Sport"
   },
   {
@@ -243,381 +297,300 @@
     "source": "BBC Sport"
   },
   {
-    "slug": "report-lakers-could-try-to-trade-for-michael-porter-jr",
-    "title": "Report: Lakers could try to trade for Michael Porter Jr.",
-    "description": "According to one report, the Lakers could try to make a play for Michael Porter Jr. on the trade market.",
+    "slug": "ucla-wins-the-battle-of-the-season-in-69-67-victory-over-no-4-purdue",
+    "title": "UCLA wins the battle of the season in 69-67 victory over No. 4 Purdue",
+    "description": "The Bruins looked like a new team with the way that they battled against one of the best teams in the country for the win.",
     "pubDate": "2026-01-21",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/report-lakers-could-try-trade-045327628.html",
+    "link": "https://sports.yahoo.com/articles/ucla-wins-battle-season-69-064256414.html",
     "source": "Google News"
   },
   {
-    "slug": "fernando-mendoza-goes-all-out-at-miami-nightclub-with-teammates-after-national-championship-win",
-    "title": "Fernando Mendoza goes all out at Miami nightclub with teammates after national championship win",
-    "description": "The Hoosiers QB lives a bit afte major victory.",
+    "slug": "liverpool-get-serious-about-signing-78m-centre-back",
+    "title": "Liverpool get SERIOUS about signing £78m centre-back",
+    "description": "Liverpool are facing a centre-back shakeup over the coming transfer windows. The future of Ibrahima Konate is a key concern - with the 26-year-old out of contract at the end of the season. If no new d...",
     "pubDate": "2026-01-21",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/fernando-mendoza-goes-miami-nightclub-045320980.html",
+    "link": "https://sports.yahoo.com/articles/liverpool-serious-signing-78m-centre-064000326.html",
     "source": "Google News"
   },
   {
-    "slug": "sheppard-leads-rockets-to-sink-spurs-in-texas-derby",
-    "title": "Sheppard leads Rockets to sink Spurs in Texas derby",
-    "description": "The Houston Rockets snapped the San Antonio Spurs' three-game winning streak on Tuesday, overturning a 16-point deficit to score a 111-106 over their in-form Texas rivals.The Rockets trailed by 16 points in the third quarter before a 13-0 run helped them erase San Antonio's advantage.",
+    "slug": "bilodeau-s-late-3-pointer-helps-ucla-stun-no-4-purdue-snapping-boilermakers-9-game-winning-streak",
+    "title": "Bilodeau’s late 3-pointer helps UCLA stun No. 4 Purdue, snapping Boilermakers’ 9-game winning streak",
+    "description": "Tyler Bilodeau hit a go-ahead 3-pointer with eight seconds remaining, and UCLA rallied to edge No. 4 Purdue.",
+    "pubDate": "2026-01-21",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/bilodeau-3-pointer-helps-ucla-063916752.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "australian-open-live-scores-schedule-results-updates-for-ao-tennis-2026",
+    "title": "Australian Open LIVE, Scores, schedule, results, updates for AO tennis 2026",
+    "description": "Everything you need to be across what's happening at Melbourne Park.",
+    "pubDate": "2026-01-21",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/australian-open-live-schedule-results-050901865.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "council-39-s-late-scoring-helps-no-19-kansas-beat-colorado-75-69-win-with-bill-self-missing-from-bench",
+    "title": "Council&#39;s late scoring helps No. 19 Kansas beat Colorado 75-69 win with Bill Self missing from bench",
+    "description": "Melvin Council Jr. scored 10 of his 18 points over the final 5:07 and No. 19 Kansas held off Colorado 75-69 on Tuesday night with assistant coach Jacque Vaughn leading the Jayhawks as Bill Self recovers from a precautionary trip to the hospital.  The Jayhawks (14-5, 4-2 Big 12) led 60-59 with 5:50 t",
+    "pubDate": "2026-01-21",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/councils-scoring-helps-no-19-063600438.html",
+    "source": "PAT GRAHAM"
+  },
+  {
+    "slug": "39-uncomfortable-39-galbraith-to-be-assessed-matos",
+    "title": "&#39;Uncomfortable&#39; Galbraith to be assessed - Matos",
+    "description": "Ethan Galbraith is to be \"assessed\" after being substituted in Swansea City's 3-1 victory over Blackburn Rovers on Tuesday.  The 24-year-old left the field in the 66th minute after feeling \"uncomfortable\" but Swansea boss Vitor Matos said the substitution was just a \"precaution\".  \"He had a knock ag",
+    "pubDate": "2026-01-21",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/uncomfortable-galbraith-assessed-matos-063234289.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "real-madrid-face-fight-to-keep-highly-rated-victor-valdepenas-as-arsenal-eye-summer-raid",
+    "title": "Real Madrid face fight to keep highly rated Victor Valdepenas as Arsenal eye summer raid",
+    "description": "Real Madrid are facing a serious fight to keep hold of highly rated academy talent Victor Valdepenas as European giants plot a summer raid.According to Fabrizio Romano, Premier League giants Arsenal a...",
+    "pubDate": "2026-01-21",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/real-madrid-face-fight-keep-063000633.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "fc-bayern-vs-union-saint-gilloise-champions-league-preview-team-news-and-predicted-lineups",
+    "title": "FC Bayern vs. Union Saint-Gilloise Champions League preview: Team news and predicted lineups",
+    "description": "FC Bayern will welcome Union Saint-Gilloise to the Allianz Arena in what promises to be a key showdown as the Bavarians look to edge closer to securing a place in the Champions League round of 16. Bay...",
+    "pubDate": "2026-01-21",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/fc-bayern-vs-union-saint-063000060.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "kansas-basketball-earns-3rd-straight-big-12-win-by-beating-colorado",
+    "title": "Kansas basketball earns 3rd-straight Big 12 win by beating Colorado",
+    "description": "Big 12 Conference play continued for Kansas basketball on Tuesday. Here’s more on how the Jayhawks were able to come away with a win against Colorado.",
+    "pubDate": "2026-01-21",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/kansas-basketball-earns-3rd-straight-063000769.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "rasmus-hojlund-man-united-loanee-8217-s-tough-2026-persists",
+    "title": "Rasmus Hojlund: Man United loanee&#8217;s tough 2026 persists",
+    "description": "Manchester United had two players in loan action on Tuesday evening.To find out where all of United’s players are on loan this season, click here.Rasmus HojlundHojlund failed to score yet again for ...",
+    "pubDate": "2026-01-21",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/rasmus-hojlund-man-united-loanee-063000405.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "chelsea-apparently-discussing-an-option-that-will-see-them-fail-to-fix-january-needs",
+    "title": "Chelsea apparently discussing an option that will see them fail to fix January needs",
+    "description": "Chelsea are apparently discussing one transfer option that will fail to see them fix their January needs this winter window.We have been hearing about how Chelsea desperately want to sign a new centre...",
+    "pubDate": "2026-01-21",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/chelsea-apparently-discussing-option-see-063000661.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "official-fc-barcelona-s-marc-andr-ter-stegen-heads-to-girona-fc-on-loan",
+    "title": "Official: FC Barcelona’s Marc-André ter Stegen heads to Girona FC on loan",
+    "description": "The FC Barcelona stalwart is taking a late run for a spot with Germany.",
+    "pubDate": "2026-01-21",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/official-fc-barcelona-marc-andr-063000069.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "boris-becker-hits-out-at-naomi-osaka-s-contradictory-australian-open-outfit",
+    "title": "Boris Becker hits out at Naomi Osaka’s ‘contradictory’ Australian Open outfit",
+    "description": "Osaka stole the show at the Australian Open with a spectacular jellyfish-inspired design, but Becker had mixed views",
+    "pubDate": "2026-01-21",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/boris-becker-hits-naomi-osaka-062902035.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "winter-haven-39-s-johnnie-lawson-lauds-bennett-as-player-coach-winter-haven-beats-lakeland-look-around-county",
+    "title": "Winter Haven&#39;s Johnnie Lawson lauds Bennett as player, coach; Winter Haven beats Lakeland; Look around county",
+    "description": "Winter Haven's Johnnie Lawson lauded Bennett, because she is that good of a player and coach;. Also, Winter Haven basketball beat Lakeland. And here is a look around county.",
+    "pubDate": "2026-01-21",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/winter-havens-johnnie-lawson-lauds-062902945.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "desperate-for-a-signature-win-ucla-gets-it-with-2-point-upset-of-no-4-purdue",
+    "title": "Desperate for a signature win, UCLA gets it with 2-point upset of No. 4 Purdue",
+    "description": "UCLA coach Mick Cronin put Donovan Dent, Eric Dailey Jr. and Tyler Bilodeau on blast in front of their teammates after a 12-point loss at Ohio State last weekend.  “I think we all responded right away, even before we got on the plane after he got on us,” Dent said.  It showed Tuesday night, when UCL",
+    "pubDate": "2026-01-21",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/desperate-signature-win-ucla-gets-062711916.html",
+    "source": "BETH HARRIS"
+  },
+  {
+    "slug": "analysis-defensive-lapses-cost-utah-again-in-loss-at-kansas-state-where-big-12-s-top-2-scorers-put-on-a-show",
+    "title": "Analysis: Defensive lapses cost Utah again in loss at Kansas State where Big 12’s top 2 scorers put on a show",
+    "description": "The Haggerty-Brown offensive showdown stole the spotlight, but Wildcats’ late-game play was better than the Utes.",
+    "pubDate": "2026-01-21",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/analysis-defensive-lapses-cost-utah-062710007.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "out-of-sorts-raducanu-beaten-at-australian-open",
+    "title": "Out-of-sorts Raducanu beaten at Australian Open",
+    "description": "Britain's Emma Raducanu is below-par in an Australian Open second-round defeat by Austria's Anastasia Potapova.",
+    "pubDate": "2026-01-21",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/sorts-raducanu-beaten-australian-open-051955737.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "hoopshype-daily-immanuel-quickley-goes-off-for-40-luka-doncic-reigns-in-denver",
+    "title": "HoopsHype Daily: Immanuel Quickley goes off for 40, Luka Doncic reigns in Denver",
+    "description": "The best and worst of the day in the NBA",
+    "pubDate": "2026-01-21",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/hoopshype-daily-nikola-jokic-dominates-080518513.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "tst-images-ucla-beat-purdue-69-67-at-pauley-pavilion",
+    "title": "TST Images: UCLA beat Purdue, 69-67, at Pauley Pavilion",
+    "description": "LOS ANGELES -- The UCLA Bruins beat the Purdue Boilermakers, 69-67, at Pauley Pavilion on January 20, 2026 and The Sporting Tribune's Jordan Teller was there to capture the following TST Images.",
+    "pubDate": "2026-01-21",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/tst-images-ucla-beat-purdue-062510500.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "turkiye-s-sonmez-storms-into-australian-open-2026-third-round",
+    "title": "Turkiye’s Sonmez storms into Australian Open 2026 third round",
+    "description": "Zeynep Sonmez wins in straight sets to enter the third round of a Grand Slam for the second time in six months.",
+    "pubDate": "2026-01-21",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/turkiye-sonmez-storms-australian-open-062337636.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "devils-hold-off-oilers-for-a-solid-2-1-victory",
+    "title": "Devils Hold Off Oilers for a Solid 2-1 Victory",
+    "description": "On Tuesday night, the New Jersey Devils completed the second half of a western Canada back-to-back with another win, a […]",
+    "pubDate": "2026-01-21",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/devils-hold-off-oilers-solid-062307495.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "doncic-triple-double-leads-lakers-comeback-over-nuggets-rockets-down-spurs",
+    "title": "Doncic triple-double leads Lakers comeback over Nuggets, Rockets down Spurs",
+    "description": "Luka Doncic bagged a 38-point triple-double as the Los Angeles Lakers staged a second-half rally to claim a 115-107 road victory over the Denver Nuggets in Colorado on Tuesday.But an improved Los Angeles defensive effort stymied Murray after half-time and Doncic and LeBron James kept the points flow",
     "pubDate": "2026-01-21",
     "image": "",
     "link": "https://sports.yahoo.com/articles/sheppard-leads-rockets-sink-spurs-045014314.html",
     "source": "Google News"
   },
   {
-    "slug": "mets-acquire-cf-luis-robert-jr-in-a-trade-with-the-white-sox",
-    "title": "Mets acquire CF Luis Robert Jr. in a trade with the White Sox",
-    "description": "",
+    "slug": "i-can-teach-pimblett-some-lessons-gaethje",
+    "title": "I can teach Pimblett some lessons - Gaethje",
+    "description": "Justin Gaethje describes himself as the \"underdog\" against Paddy Pimblett on Saturday at UFC 324.",
     "pubDate": "2026-01-21",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/mets-acquire-cf-luis-robert-044935903.html",
-    "source": "JAY COHEN"
-  },
-  {
-    "slug": "nhl-star-jack-hughes-hits-game-400-with-devils",
-    "title": "NHL star Jack Hughes hits game 400 with Devils",
-    "description": "In the midst of younger brother Luke Hughes dealing with what appears to be a shoulder injury, star New Jersey Devils' forward of Jack Hughes hit his No. 400 NHL game at only 24.",
-    "pubDate": "2026-01-21",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/nhl-star-jack-hughes-hits-044844428.html",
+    "link": "https://sports.yahoo.com/articles/teach-pimblett-lessons-gaethje-061923007.html",
     "source": "Google News"
   },
   {
-    "slug": "chevalier-at-fault-in-psg-s-shocking-defeat-to-sporting-in-champions-league",
-    "title": "Chevalier at fault in PSG’s shocking defeat to Sporting in Champions League",
-    "description": "Reigning champions Paris Saint-Germain suffered a shocking 2-1 defeat against Sporting in their penultimate Champions League group stage game.Despite PSG’s attacking impetus and domination in posses...",
+    "slug": "titans-lose-out-to-chargers-for-mike-mcdaniel",
+    "title": "Titans lose out to Chargers for Mike McDaniel",
+    "description": "The Tennessee Titans lost out on potential offensive coordinator Mike McDaniel, who agreed to terms with the Los Angeles Chargers.",
     "pubDate": "2026-01-21",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/chevalier-fault-psg-shocking-defeat-044800866.html",
+    "link": "https://sports.yahoo.com/articles/titans-lose-chargers-mike-mcdaniel-061906112.html",
     "source": "Google News"
   },
   {
-    "slug": "bills-predicted-to-sign-pro-bowl-wide-receiver-for-josh-allen-in-2026",
-    "title": "Bills predicted to sign Pro Bowl wide receiver for Josh Allen in 2026",
-    "description": "The Buffalo Bills fired their head coach after another disappointing end to the season, and it's clear the team needs to get some help for Josh Allen.",
+    "slug": "devils-pick-up-back-to-back-road-wins-after-holding-on-to-2-1-victory-over-oilers",
+    "title": "Devils pick up back-to-back road wins after holding on to 2-1 victory over Oilers",
+    "description": "Arseny Gritsyuk and Cody Glass each had a goal and an assist and the New Jersey Devils held on to beat the Edmonton Oilers 2-1 on Tuesday night.",
     "pubDate": "2026-01-21",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/bills-predicted-sign-pro-bowl-044738868.html",
+    "link": "https://sports.yahoo.com/articles/devils-pick-back-back-road-061840059.html",
     "source": "Google News"
   },
   {
-    "slug": "patriots-39-robert-kraft-lays-out-nfl-39-s-mandate-to-get-bigger-richer-18-games-international-play-for-all-32-teams",
-    "title": "Patriots&#39; Robert Kraft lays out NFL&#39;s mandate to get bigger, richer: 18 games, international play for all 32 teams",
-    "description": "Kraft spoke in the most assertive tone we’ve heard to date from a league power broker on the NFL's desire to expand the schedule and broaden global horizons.",
+    "slug": "january-21-news-and-notes",
+    "title": "January 21 News and Notes",
+    "description": "• Carlos Beltran and Andruw Jones were elected to Cooperstown. • The White Sox finally traded Luis Robert. (What can I say? I’m not a fan.) The Mets surrendered Luisangel Acuna and Truman Pauley for him. • The ATHLETICS, whose payroll is already higher than the Guardians’, thought they were acquirin",
     "pubDate": "2026-01-21",
     "image": "",
-    "link": "https://sports.yahoo.com/nfl/article/patriots-robert-kraft-lays-out-nfls-mandate-to-get-bigger-richer-18-games-international-play-for-all-32-teams-044732333.html",
-    "source": "Charles Robinson"
-  },
-  {
-    "slug": "blue-jay-swimming-and-diving-team-gets-a-full-team-effort-on-tuesday",
-    "title": "Blue Jay swimming and diving team gets a full-team effort on Tuesday",
-    "description": "Jan. 20—JAMESTOWN — It takes two things to win 75% of the events at a high school swimming and diving meet — talent and a full-team effort. The Blue Jays have both. Head coach Ben Smith guided the Jamestown High School boy's swimming and diving team to a 106-79 dual win against Mandan Tuesday night.",
-    "pubDate": "2026-01-21",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/blue-jay-swimming-diving-team-044700377.html",
+    "link": "https://sports.yahoo.com/articles/january-21-news-notes-061735516.html",
     "source": "Google News"
   },
   {
-    "slug": "mizzou-falls-to-top-25-georgia-in-74-72-nailbiter",
-    "title": "Mizzou falls to top-25 Georgia in 74-72 nailbiter",
-    "description": "The Bulldogs hit a shot in the final 10 seconds to decide the outcome",
+    "slug": "devils-hold-off-oilers-2-1-extend-perfect-record-when-leading-after-two-periods",
+    "title": "Devils hold off Oilers 2-1, extend perfect record when leading after two periods",
+    "description": "Arseny Gritsyuk and Cody Glass each had a goal and an assist and the New Jersey Devils held on to beat the Edmonton Oilers 2-1 on Tuesday night.  The Devils, who improved to 17-0-0 when leading after two periods, have won four of their last five outings, including a 2-1 overtime victory on Monday ag",
     "pubDate": "2026-01-21",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/mizzou-falls-top-25-georgia-044637154.html",
+    "link": "https://sports.yahoo.com/articles/devils-hold-off-oilers-2-061518893.html",
     "source": "Google News"
   },
   {
-    "slug": "warriors-gm-mike-dunleavy-jr-not-planning-to-deal-jimmy-butler-39-s-contract-ponders-jonathan-kuminga-39-s-trade-value-39-there-needs-to-be-demand-39",
-    "title": "Warriors GM Mike Dunleavy Jr. not planning to deal Jimmy Butler&#39;s contract, ponders Jonathan Kuminga&#39;s trade value: &#39;There needs to be demand&#39;",
-    "description": "The NBA trade deadline is Feb. 5. The Warriors have a lot to figure out before then.",
+    "slug": "lakers-player-grades-l-a-makes-spirited-comeback-to-defeat-nuggets",
+    "title": "Lakers player grades: L.A. makes spirited comeback to defeat Nuggets",
+    "description": "The Lakers trailed the Nuggets by as many as 16 points on Tuesday, but they dominated the second half en route to an impressive victory.",
     "pubDate": "2026-01-21",
     "image": "",
-    "link": "https://sports.yahoo.com/nba/breaking-news/article/warriors-gm-mike-dunleavy-jr-not-planning-to-deal-jimmy-butlers-contract-ponders-jonathan-kumingas-trade-value-there-needs-to-be-demand-044620803.html",
-    "source": "Jason Owens"
-  },
-  {
-    "slug": "blue-jays-39-hot-shooting-dominates-minot-north-tuesday",
-    "title": "Blue Jays&#39; hot shooting dominates Minot North Tuesday",
-    "description": "Jan. 20—JAMESTOWN — If you would have walked into Jerry Meyer Arena on Tuesday night, you would have thought the Jamestown High School girl's basketball team was hosting a clinic on how to shoot 3-pointers. The Blue Jays picked up conference win No. 2 on Tuesday evening, easily dispatching Minot Nor",
-    "pubDate": "2026-01-21",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/blue-jays-hot-shooting-dominates-044600503.html",
+    "link": "https://sports.yahoo.com/articles/lakers-player-grades-l-makes-061334673.html",
     "source": "Google News"
   },
   {
-    "slug": "player-ratings-manchester-united-u21s-3-2-sporting-cp-b",
-    "title": "Player Ratings: Manchester United U21s 3-2 Sporting CP B",
-    "description": "Manchester United rounded out the group stage of the Premier League International Cup with a win over Sporting Clube de Portugal B.This is our player ratings for the match. You can read a detailed mat...",
+    "slug": "get-excited-liverpool-bid-for-87m-forward-is-imminent",
+    "title": "Get EXCITED: Liverpool bid for £87m forward is imminent",
+    "description": "Liverpool in the driving seat for DiomandeOne player who has been tipped to come in and add options on either side of the attack is Yan Diomande. The young Ivorian’s reputation has exploded over the...",
     "pubDate": "2026-01-21",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/player-ratings-manchester-united-u21s-044500958.html",
+    "link": "https://sports.yahoo.com/articles/excited-liverpool-bid-87m-forward-061000620.html",
     "source": "Google News"
   },
   {
-    "slug": "chargers-hire-mike-mcdaniel-as-offensive-coordinator",
-    "title": "Chargers hire Mike McDaniel as Offensive Coordinator",
-    "description": "LOS ANGELES — Days after a brutal, season-ending loss to the New England Patriots, a game that felt depressingly familiar in how it unraveled, the Chargers dismissed offensive coordinator Greg Roman.",
+    "slug": "barcelona-forward-ferran-torres-to-miss-three-games-with-muscle-injury",
+    "title": "Barcelona forward Ferran Torres to miss three games with muscle injury",
+    "description": "Barcelona have been dealt a massive injury blow after confirming that Ferran Torres will miss the next three games due to a muscle issue.The Catalan giants confirmed the setback on their official X ac...",
     "pubDate": "2026-01-21",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/chargers-hire-mike-mcdaniel-offensive-044351127.html",
+    "link": "https://sports.yahoo.com/articles/barcelona-forward-ferran-torres-miss-061000297.html",
     "source": "Google News"
   },
   {
-    "slug": "tom-izzo-tells-player-he-39-can-39-t-guard-my-mother-39-during-oregon-win",
-    "title": "Tom Izzo tells player he &#39;can&#39;t guard my mother&#39; during Oregon win",
-    "description": "Tom Izzo was in rare form during the Spartans' win over Oregon",
+    "slug": "fulham-in-talks-to-sign-man-city-ace-oscar-bobb",
+    "title": "Fulham in talks to sign Man City ace Oscar Bobb",
+    "description": "Fulham have opened talks to sign Manchester City winger Oscar Bobb, according to Fabrizio Romano.Fulham are exploring the possibility of bringing the 22-year-old talent to Craven Cottage as they look ...",
     "pubDate": "2026-01-21",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/tom-izzo-tells-player-cant-044226236.html",
+    "link": "https://sports.yahoo.com/articles/fulham-talks-sign-man-city-061000463.html",
     "source": "Google News"
   },
   {
-    "slug": "millender-39-s-three-point-play-in-final-seconds-lifts-no-21-georgia-past-missouri-74-72",
-    "title": "Millender&#39;s three-point play in final seconds lifts No. 21 Georgia past Missouri 74-72",
-    "description": "Marcus “Smurf” Millender scored 18 points and converted a go-ahead three-point play with 5.5 seconds left to lift No. 21 Georgia to a 74-72 victory over Missouri on Tuesday night.  Jeremiah Wilkinson had 14 points and Kannon Catchings added 12 for the Bulldogs (16-3, 4-2 Southeastern Conference), wh",
+    "slug": "raptors-vs-warriors-jonathan-kuminga-sees-floor-after-multiple-dnps",
+    "title": "Raptors vs. Warriors: Jonathan Kuminga sees floor after multiple DNPs",
+    "description": "Warriors forward Jonathan Kuminga finally cracked the rotation following the Jimmy Butler injury. Here's how he did vs. the Toronto Raptors.",
     "pubDate": "2026-01-21",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/millenders-three-point-play-final-044201047.html",
-    "source": "DAVID SOLOMON"
-  },
-  {
-    "slug": "jason-kelce-has-no-filter-as-he-drops-nsfw-joke-at-nfl-game",
-    "title": "Jason Kelce Has No Filter as He Drops NSFW Joke at NFL Game",
-    "description": "Fans of the New Heights podcast are aware of Jason Kelce’s sharp and often wicked sense of humor. However, it seems like Kelce may have taken his sense of humor a little too far. The Eagles alum made an NSFW joke during ESPN’s pregame coverage of an NFL playoff game between the Houston Texans and […",
-    "pubDate": "2026-01-21",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/jason-kelce-no-filter-drops-044000496.html",
+    "link": "https://sports.yahoo.com/articles/raptors-vs-warriors-jonathan-kuminga-060946589.html",
     "source": "Google News"
   },
   {
-    "slug": "3-takeaways-from-utah-s-3-point-loss-at-kansas-state",
-    "title": "3 takeaways from Utah’s 3-point loss at Kansas State",
-    "description": "Game matched up two of the Big 12’s best scorers in Terrence Brown and P.J. Haggerty — and they put on a show.",
+    "slug": "new-jersey-devils-grind-out-2-1-win-over-edmonton-oilers",
+    "title": "New Jersey Devils Grind Out 2-1 Win Over Edmonton Oilers",
+    "description": "Jake Allen and the third line led the way, and New Jersey got a big two points in Edmonton",
     "pubDate": "2026-01-21",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/3-takeaways-utah-3-point-043751879.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "observations-from-blues-39-3-1-loss-to-jets",
-    "title": "Observations From Blues&#39; 3-1 Loss To Jets",
-    "description": "Speciality teams, especially penalty kill, fail again; Blues waste solid 5-on-5 game with inability to finish",
-    "pubDate": "2026-01-21",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/observations-blues-3-1-loss-043635191.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "hall-scores-19-pettiford-adds-17-auburn-beats-ole-miss-78-66",
-    "title": "Hall scores 19, Pettiford adds 17, Auburn beats Ole Miss 78-66",
-    "description": "",
-    "pubDate": "2026-01-21",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/hall-scores-19-pettiford-adds-043613338.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "mets-acquire-cf-luis-robert-jr-in-trade-with-white-sox-days-after-landing-bo-bichette-in-free-agency",
-    "title": "Mets acquire CF Luis Robert Jr. in trade with White Sox, days after landing Bo Bichette in free agency",
-    "description": "Luis Robert Jr. is headed to the Mets.",
-    "pubDate": "2026-01-21",
-    "image": "",
-    "link": "https://sports.yahoo.com/mlb/breaking-news/article/mets-acquire-cf-luis-robert-jr-in-trade-with-white-sox-days-after-landing-bo-bichette-in-free-agency-043416839.html",
-    "source": "Ryan Young"
-  },
-  {
-    "slug": "what-tom-izzo-had-to-say-about-michigan-state-39-s-win-over-oregon",
-    "title": "What Tom Izzo had to say about Michigan State&#39;s win over Oregon",
-    "description": "What Tom Izzo had to say about Michigan State's win over Oregon",
-    "pubDate": "2026-01-21",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/tom-izzo-had-michigan-states-043234571.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "mlb-world-left-fuming-as-alex-rodriguez-s-cooperstown-wait-drags-on-while-carlos-beltr-n-s-dark-past-gets-buried",
-    "title": "MLB World Left Fuming as Alex Rodriguez’s Cooperstown Wait Drags On While Carlos Beltrán’s Dark Past Gets Buried",
-    "description": "The voting for the 2026 Hall of Fame is done and dusted, and surely it didn’t go without controversy. The major highlight of this year’s event is the selection of Carlos Beltrán and Andruw Jones, as they secured 75% votes in the Ballot.",
-    "pubDate": "2026-01-21",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/mlb-world-left-fuming-alex-043232990.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "b-j-edwards-scores-24-points-leads-smu-over-wake-forest-91-79",
-    "title": "B.J. Edwards scores 24 points, leads SMU over Wake Forest 91-79",
-    "description": "",
-    "pubDate": "2026-01-21",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/b-j-edwards-scores-24-043121543.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "acuff-scores-17-and-no-20-arkansas-routs-no-15-vanderbilt-93-68",
-    "title": "Acuff scores 17 and No. 20 Arkansas routs No. 15 Vanderbilt 93-68",
-    "description": "Darius Acuff Jr. scored 17 points and No. 20 Arkansas routed Vanderbilt 93-68 on Wednesday night to hand the 15th-ranked Commodoes their third consecutive loss.  The freshman shot 7 of 14 from the field and had five assists as Arkansas (14-5, 4-2 Southeastern Conference) shot 58% from the field and",
-    "pubDate": "2026-01-21",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/acuff-scores-17-no-20-043004254.html",
-    "source": "ERIC W. BOLIN"
-  },
-  {
-    "slug": "report-terry-pegula-brandon-beane-weren-39-t-pleased-with-sean-mcdermott-39-s-concerns-about-talent",
-    "title": "Report: Terry Pegula, Brandon Beane weren&#39;t pleased with Sean McDermott&#39;s concerns about talent",
-    "description": "It was two against one, and the one is the one who got fired.",
-    "pubDate": "2026-01-21",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/report-terry-pegula-brandon-beane-042859708.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "yankees-get-good-news-on-cody-bellinger-free-agency-with-mets-39-luis-robert-trade",
-    "title": "Yankees get good news on Cody Bellinger free agency with Mets&#39; Luis Robert trade",
-    "description": "This could line up right in the Bronx.",
-    "pubDate": "2026-01-21",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/yankees-good-news-cody-bellinger-042853886.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "couch-3-quick-takes-on-michigan-state-basketball-39-s-68-52-win-at-oregon",
-    "title": "Couch: 3 quick takes on Michigan State basketball&#39;s 68-52 win at Oregon",
-    "description": "From Eugene, Oregon, columnist Graham Couch breaks down the Spartans' performance in a win at Oregon on Tuesday night with three quick takes.",
-    "pubDate": "2026-01-21",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/couch-3-quick-takes-michigan-042816911.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "chargers-tab-mike-mcdaniel-to-lead-offense-under-jim-harbaugh",
-    "title": "Chargers Tab Mike McDaniel to Lead Offense Under Jim Harbaugh",
-    "description": "The Sporting Tribune's Fernando Ramirez writes that the Chargers brass didn't let Mike McDaniel leave LA without agreeing to be their OC, which was a smart move.",
-    "pubDate": "2026-01-21",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/chargers-tab-mike-mcdaniel-lead-042708077.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "west-coast-sweep-complete-as-spartans-pull-away-from-oregon-68-52",
-    "title": "West Coast Sweep Complete as Spartans Pull Away From Oregon 68-52",
-    "description": "Spartans overcame a sluggish start and Oregon's early zone to secure a dominant second-half surge, completing their West Coast sweep with their fifth straight win.",
-    "pubDate": "2026-01-21",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/west-coast-sweep-complete-spartans-042701858.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "report-brian-daboll-interviewed-for-eagles-39-offensive-coordinator-job",
-    "title": "Report: Brian Daboll interviewed for Eagles&#39; offensive coordinator job",
-    "description": "The Eagles interviewed Brian Daboll for their offensive coordinator vacancy on Tuesday, Jeff McLane of the Philadelphia Inquirer reports.",
-    "pubDate": "2026-01-21",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/report-brian-daboll-interviewed-eagles-042638156.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "boys-basketball-roundup-sexton-tops-everett",
-    "title": "Boys basketball roundup: Sexton tops Everett",
-    "description": "The highlights from Tuesday, Jan. 20 games featuring area teams.",
-    "pubDate": "2026-01-21",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/boys-basketball-roundup-sexton-tops-042558163.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "39-incredible-39-toney-39-s-hot-streak-continues-as-hat-trick-sends-al-ahli-second",
-    "title": "&#39;Incredible&#39; Toney&#39;s hot streak continues as hat-trick sends Al Ahli second",
-    "description": "Ivan Toney continued his incredible run of in front of goal to hit a hat-trick against Al Khaleej on Tuesday night and thrust Al Ahli into second in the 2025-26 Roshn Saudi League.The Englishman, seco...",
-    "pubDate": "2026-01-21",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/incredible-toneys-hot-streak-continues-042500582.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "sooners-star-lb-tries-last-resort-after-15-minutes-of-college-lacrosse-costs-ncaa-eligibility",
-    "title": "Sooners’ Star LB Tries Last Resort After 15 Minutes of College Lacrosse Costs NCAA Eligibility",
-    "description": "The NCAA has been getting hit left and right for the last couple of years. And the crux of it remains fixated on the eligibility rules.",
-    "pubDate": "2026-01-21",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/sooners-star-lb-tries-last-042459168.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "carson-cooper-coen-carr-spark-michigan-state-basketball-past-oregon",
-    "title": "Carson Cooper, Coen Carr spark Michigan State basketball past Oregon",
-    "description": "Michigan State basketball score: Jeremy Fears Jr. and Carson Cooper combined for 22 points in the second half as MSU beat Oregon, 68-52.",
-    "pubDate": "2026-01-21",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/carson-cooper-coen-carr-spark-042458762.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "christian-anderson-has-26-points-with-8-of-no-12-texas-tech-39-s-record-17-3s-in-92-73-win-at-baylor",
-    "title": "Christian Anderson has 26 points with 8 of No. 12 Texas Tech&#39;s record 17 3s in 92-73 win at Baylor",
-    "description": "Christian Anderson had 26 points while making eight of Texas Tech's program record-tying 17 3-pointers and the No. 12 Red Raiders beat Baylor 92-73 on Tuesday night for their fourth win in a row.  Donovan Atwell had 21 points on seven 3s, all in the first half, and JT Toppin scored 22 points for the",
-    "pubDate": "2026-01-21",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/christian-anderson-26-points-8-042456282.html",
-    "source": "STEPHEN HAWKINS"
-  },
-  {
-    "slug": "mets-39-luis-robert-jr-trade-finally-solves-centerfield-crisis-with-long-awaited-white-sox-move",
-    "title": "Mets&#39; Luis Robert Jr. trade finally solves centerfield crisis with long-awaited White Sox move",
-    "description": "This was coming for a while.",
-    "pubDate": "2026-01-21",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/mets-luis-robert-jr-trade-042419716.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "australian-open-men-s-and-women-s-seed-list-and-tracker",
-    "title": "Australian Open men’s and women’s seed list and tracker",
-    "description": "Follow the progress of the top-32 players in the men’s and women’s draw at the Australian Open",
-    "pubDate": "2026-01-21",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/australian-open-men-women-seed-073656546.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "willow-dorsey-and-hope-tomasek-lead-academy-past-rogers-65-45",
-    "title": "Willow Dorsey and Hope Tomasek, Lead Academy Past Rogers 65–45",
-    "description": "LITTLE-RIVER ACADEMY, Texas (FOX 44) —The Academy Lady Bees jumped out early and never looked back, rolling past the Rogers Lady Eagles 65–45 in an intense matchup Tuesday night.",
-    "pubDate": "2026-01-21",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/willow-dorsey-hope-tomasek-lead-042347026.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "arman-tsarukyan-was-so-scared-he-admits-doing-the-unthinkable-after-first-pro-mma-fight",
-    "title": "Arman Tsarukyan Was “So Scared” He Admits Doing the Unthinkable After First Pro MMA Fight",
-    "description": "Arman Tsarukyan has moved through 2026 like a man with something to prove. The UFC keeps hanging the lightweight belt just out of reach, Dana White keeps hinting at trust issues, and ‘Ahalkalakets’ keeps winning under every imaginable ruleset.",
-    "pubDate": "2026-01-21",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/arman-tsarukyan-scared-admits-doing-042342572.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "osu-captain-brandon-inniss-gives-special-attention-to-high-school-friend-who-transferred-as-safety",
-    "title": "OSU Captain Brandon Inniss Gives Special Attention to High School Friend Who Transferred as Safety",
-    "description": "WR Brandon Inniss made his decision public on Thursday. Ohio State’s captain is staying for another season in Scarlet and Gray.",
-    "pubDate": "2026-01-21",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/osu-captain-brandon-inniss-gives-042317745.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "haggerty-scores-34-go-ahead-basket-in-final-minute-as-kansas-state-holds-off-utah-81-78",
-    "title": "Haggerty scores 34, go-ahead basket in final minute as Kansas State holds off Utah 81-78",
-    "description": "PJ Haggerty poured in 34 points and gave Kansas State the lead in the final minute in an 81-78 win over Utah on Tuesday.  Haggerty’s jump shot with 39 seconds left gave the Wildcats (10-9, 1-5 Big 12) a two-point lead that they held onto for their first Big 12 win of the season.  David Castillo had",
-    "pubDate": "2026-01-21",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/haggerty-scores-34-ahead-basket-042219757.html",
+    "link": "https://sports.yahoo.com/articles/jersey-devils-grind-2-1-060919951.html",
     "source": "Google News"
   },
   {
@@ -630,76 +603,148 @@
     "source": "Google News"
   },
   {
-    "slug": "jermell-charlo-avoids-vargas-2-0-situation-with-brother-jermall-after-scathing-remarks-go-viral",
-    "title": "Jermell Charlo Avoids Vargas 2.0 Situation With Brother Jermall After Scathing Remarks Go Viral",
-    "description": "Disagreements between brothers aren’t uncommon. However, a disagreement recently nearly turned violent when a clip of Fernando Vargas Jr.",
+    "slug": "rockets-26-15-rally-past-spurs-as-reed-sheppard-sparks-late-comeback",
+    "title": "Rockets (26-15) rally past Spurs as Reed Sheppard sparks late comeback",
+    "description": "The Rockets trailed division rival San Antonio by 16 points in the second half before Reed Sheppard (21 points, 40% on 3-pointers) led a comeback win.",
     "pubDate": "2026-01-21",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/jermell-charlo-avoids-vargas-2-042214777.html",
+    "link": "https://sports.yahoo.com/articles/rockets-26-15-rally-past-060534615.html",
     "source": "Google News"
   },
   {
-    "slug": "mike-bianchi-after-indiana-wins-cfp-national-title-there-are-no-excuses-left-for-florida-fsu-and-yes-you-too-ucf",
-    "title": "Mike Bianchi: After Indiana wins CFP national title, there are no excuses left for Florida, FSU and, yes, you, too, UCF!",
-    "description": "ORLANDO, Fla. — Now, there are no excuses left. None. Not for Florida. Not for Florida State. And not even for UCF, which still enjoys a little grace as the youngest member of the big-boy table — but only a little. In the modern era of college football, the words rebuild, timeline and foundation hav",
+    "slug": "rangers-fall-short-despite-j-t-miller-39-s-two-goals-in-4-3-loss-to-kings",
+    "title": "Rangers fall short despite J.T. Miller&#39;s two goals in 4-3 loss to Kings",
+    "description": "Kevin Fiala had a goal and an assist, and Anton Forsberg made 28 saves after taking over for the injured Darcy Kuemper in the Los Angeles Kings’ 4-3 victory over the slumping New York Rangers on Tuesday night.",
     "pubDate": "2026-01-21",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/mike-bianchi-indiana-wins-cfp-042200483.html",
+    "link": "https://sports.yahoo.com/articles/rangers-fall-short-despite-j-060505816.html",
     "source": "Google News"
   },
   {
-    "slug": "lancaster-suffers-another-tough-loss-falling-at-teays-valley",
-    "title": "Lancaster suffers another tough loss, falling at Teays Valley",
-    "description": "The Lancaster boys' basketball team was right there, but faltered in crunch time, losing its sixth consecutive game on the road at Teays Valley.",
+    "slug": "nfl-insiders-predict-dolphins-to-land-packers-free-agent-qb-in-offseason",
+    "title": "NFL Insiders Predict Dolphins to Land Packers’ Free Agent QB in Offseason",
+    "description": "Could the Miami Dolphins replace Tua Tagovailoa with Malik Willis this offseason?",
     "pubDate": "2026-01-21",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/lancaster-suffers-another-tough-loss-042142679.html",
+    "link": "https://sports.yahoo.com/articles/nfl-insiders-predict-dolphins-land-060421756.html",
     "source": "Google News"
   },
   {
-    "slug": "three-takeaways-from-michigan-state-basketball-39-s-win-over-oregon",
-    "title": "Three takeaways from Michigan State basketball&#39;s win over Oregon",
-    "description": "Three takeaways from Michigan State basketball's win over Oregon",
+    "slug": "fc-breakfast-luis-enrique-loses-his-cool-senegal-on-fire",
+    "title": "☕️🥐 FC Breakfast: Luis Enrique loses his cool 🤣, Senegal on fire 🔥",
+    "description": "Luis Enrique's Breakdown 🤣Tuesday night, the Parisians and their coach experienced a complicated evening, with a last-second defeat against Sporting. When asked about the reason for his team's loss...",
     "pubDate": "2026-01-21",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/three-takeaways-michigan-state-basketballs-042140274.html",
+    "link": "https://sports.yahoo.com/articles/fc-breakfast-luis-enrique-loses-060200290.html",
     "source": "Google News"
   },
   {
-    "slug": "rockets-vs-spurs-twelve-minutes-of-reed-sheppard-one-stolen-game-in-houston",
-    "title": "Rockets vs. Spurs: Twelve Minutes of Reed Sheppard, One Stolen Game In Houston",
-    "description": "Reed Sheppard ignited a fourth-quarter explosion, single-handedly snatching victory from the Spurs with electrifying plays and a decisive offensive barrage.",
+    "slug": "adzija-scores-torrent-39-s-1st-short-handed-goal-in-6-4-win-over-sceptres",
+    "title": "Adzija scores Torrent&#39;s 1st short-handed goal in 6-4 win over Sceptres",
+    "description": "Lexie Adzija scored Seattle's first short-handed goal of the season in the third period to take the lead for good, and the Torrent beat the Toronto Sceptres 6-4 on Tuesday night to snap a three-game losing streak.  The expansion Torrent set the franchise's single-game record for goals (six) and tied",
     "pubDate": "2026-01-21",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/rockets-vs-spurs-twelve-minutes-042133728.html",
+    "link": "https://sports.yahoo.com/articles/adzija-scores-torrents-1st-short-060116458.html",
     "source": "Google News"
   },
   {
-    "slug": "jeremy-fears-jr-takes-flight-as-michigan-state-basketball-tops-oregon",
-    "title": "Jeremy Fears Jr. takes flight as Michigan State basketball tops Oregon",
-    "description": "Michigan State basketball score: Jeremy Fears Jr. and Carson Cooper combined for 22 points in the second half as MSU beat Oregon, 68-52.",
+    "slug": "mud-gremlins-and-bum-slides-among-spine-race-tales",
+    "title": "Mud gremlins and bum slides among Spine Race tales",
+    "description": "Spine Race champions Anna Troup and Rhys Beddoe share their anecdotes from the race.",
     "pubDate": "2026-01-21",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/jeremy-fears-jr-takes-flight-041938734.html",
+    "link": "https://sports.yahoo.com/articles/mud-gremlins-bum-slides-among-060028112.html",
     "source": "Google News"
   },
   {
-    "slug": "jeremy-fears-jr-takes-flight-as-michigan-state-basketball-tops-oregon",
-    "title": "Jeremy Fears Jr. takes flight as Michigan State basketball tops Oregon",
-    "description": "Michigan State basketball score: Jeremy Fears Jr. and Carson Cooper combined for 22 points in the second half as MSU beat Oregon, 68-52.",
+    "slug": "anton-forsberg-excels-in-relief-of-injured-darcy-kuemper-in-la-kings-39-4-3-win-over-slumping-rangers",
+    "title": "Anton Forsberg excels in relief of injured Darcy Kuemper in LA Kings&#39; 4-3 win over slumping Rangers",
+    "description": "Kevin Fiala had a goal and an assist, and Anton Forsberg made 28 saves after taking over for the injured Darcy Kuemper in the Los Angeles Kings' 4-3 victory over the slumping New York Rangers on Tuesday night.  Adrian Kempe, Taylor Ward and Andrei Kuzmenko also scored for the Kings, who snapped a fo",
     "pubDate": "2026-01-21",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/jeremy-fears-jr-takes-flight-041938472.html",
+    "link": "https://sports.yahoo.com/articles/anton-forsberg-excels-relief-injured-060010200.html",
+    "source": "GREG BEACHAM"
+  },
+  {
+    "slug": "ranking-all-32-nfl-coaching-jobs-by-tiers-from-best-chiefs-to-worst-raiders",
+    "title": "Ranking all 32 NFL coaching jobs by tiers, from best (Chiefs) to worst (Raiders)",
+    "description": "Not every NFL coaching jobs are created equal and set up the head coach to have the same kind of success. Here's a tiered ranking of the most to least favorable situations, based on owner, GM, quarterback and personnel potential.",
+    "pubDate": "2026-01-21",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/ranking-32-nfl-coaching-jobs-060002566.html",
     "source": "Google News"
   },
   {
-    "slug": "8-8-in-the-playoffs-with-josh-allen-buffalo-fired-sean-mcdermott-but-there-s-more-blame-to-go-around",
-    "title": "8-8 in the playoffs with Josh Allen? Buffalo fired Sean McDermott, but there's more blame to go around",
-    "description": "With postseason losses piling up, the Bills fired McDermott. But will it change anything? And where did things go wrong?",
-    "pubDate": "2026-01-20",
+    "slug": "qaraba-a-dam-vs-eintracht-frankfurt-champions-league-preview-team-news-and-predicted-lineups",
+    "title": "Qarabağ Ağdam vs. Eintracht Frankfurt Champions League preview: Team news and predicted lineups",
+    "description": "Qarabağ Ağdam and Eintracht Frankfurt meet in what has become a pivotal Champions League fixture for both sides at the Tofiq Bahramov Republican Stadium in Baku. With the group stage entering its fi...",
+    "pubDate": "2026-01-21",
     "image": "",
-    "link": "https://www.espn.com/nfl/story/_/id/47660090/2026-nfl-offseason-buffalo-bills-fire-sean-mcdermott-coach-allen-beane-playoff-loss",
-    "source": "Ben Solak"
+    "link": "https://sports.yahoo.com/articles/qaraba-dam-vs-eintracht-frankfurt-060000273.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "exclusive-man-utd-legend-urges-ineos-to-renew-the-contract-of-terrific-star",
+    "title": "Exclusive: Man Utd legend urges INEOS to renew the contract of terrific star",
+    "description": "Former Manchester United defender Gary Pallister believes Harry Maguire has warranted a place at Carrington beyond the current campaign.The Sheffield native joined the Red Devils on a £80 million tra...",
+    "pubDate": "2026-01-21",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/exclusive-man-utd-legend-urges-060000606.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "fan-letters-can-sunderland-become-a-front-foot-team",
+    "title": "Fan Letters: Can Sunderland Become A “Front Foot” Team?",
+    "description": "RR reader Mark wants Sunderland to release the handbrake and become more attack-minded — what do you think?",
+    "pubDate": "2026-01-21",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/fan-letters-sunderland-become-front-060000357.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "on-this-day-28th-jan-1981-new-man-debuts-as-sunderland-beat-manchester-united",
+    "title": "On This Day (28th Jan 1981): New Man Debuts As Sunderland Beat Manchester United!",
+    "description": "This was another memorable night at Roker Park, with two teams going at it from first to last and a raucous Roker crowd lapping up the performance and the victory against one of the top tier’s big guns!",
+    "pubDate": "2026-01-21",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/day-28th-jan-1981-man-060000343.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "bouncing-back-sunderland-s-mental-strength-shines",
+    "title": "Bouncing Back: Sunderland’s Mental Strength Shines",
+    "description": "For the fifth time this season, Sunderland followed up a defeat with a win in the Premier League - a vital skill!",
+    "pubDate": "2026-01-21",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/bouncing-back-sunderland-mental-strength-060000954.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "adam-wharton-man-united-strike-gold-in-pursuit-of-crystal-palace-star",
+    "title": "Adam Wharton: Man United strike gold in pursuit of Crystal Palace star",
+    "description": "Manchester United have received a fresh boost in their pursuit of Crystal Palace maestro Adam Wharton as the club’s summer plans begin to take shape, according to the latest report.Generational Tale...",
+    "pubDate": "2026-01-21",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/adam-wharton-man-united-strike-060000974.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "til-the-end-on-the-pitch-and-in-the-stands",
+    "title": "‘Til The End…On The Pitch And In The Stands?",
+    "description": "John Wilson looks at the ongoing issue of early exits from the Stadium of Light — a matter of concern, or not?",
+    "pubDate": "2026-01-21",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/til-end-pitch-stands-060000402.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "lasses-spotlight-kitching-and-watson-light-up-2025-and-sweep-the-nefwa-awards",
+    "title": "Lasses Spotlight: Kitching And Watson Light Up 2025 And Sweep The NEFWA Awards!",
+    "description": "Charlotte Patterson reports on yet more thoroughly merited recognition of two of Sunderland Women’s key players!",
+    "pubDate": "2026-01-21",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/lasses-spotlight-kitching-watson-light-060000725.html",
+    "source": "Google News"
   },
   {
     "slug": "obviously-we-would-have-a-great-team-what-russian-nhlers-are-saying-about-missing-the-olympics",
@@ -727,24 +772,6 @@
     "image": "",
     "link": "https://www.espn.com/college-football/story/_/id/47610677/college-football-way-too-early-top-25-2026-season",
     "source": "Mark Schlabach"
-  },
-  {
-    "slug": "cfp-takeaways-even-as-a-favored-goliath-indiana-s-win-stands-alone-in-sports-history",
-    "title": "CFP takeaways: Even as a favored Goliath, Indiana's win stands alone in sports history",
-    "description": "Put it next to the Miracle on Ice or NC State and Villanova. In a wild title game, here's how Indiana beat Miami.",
-    "pubDate": "2026-01-20",
-    "image": "",
-    "link": "https://www.espn.com/college-football/story/_/id/47666920/college-football-playoff-2026-title-game-takeaways-indiana-hoosiers-miami-hurricanes",
-    "source": "Bill Connelly"
-  },
-  {
-    "slug": "wetzel-hoosiers-delivered-a-national-title-for-the-everyman",
-    "title": "Wetzel: Hoosiers delivered a national title for the everyman",
-    "description": "Curt Cignetti's relentless group of discards and misfits showed what the transfer portal made possible.",
-    "pubDate": "2026-01-20",
-    "image": "",
-    "link": "https://www.espn.com/college-football/story/_/id/47672384/hoosiers-delivered-national-title-everyman",
-    "source": "Dan Wetzel"
   },
   {
     "slug": "vin-cius-j-nior-roars-back-into-form-much-to-the-bernab-u-s-delight",
@@ -954,21 +981,21 @@
     "source": "BBC Sport"
   },
   {
-    "slug": "slot-hints-salah-will-start-for-liverpool-in-marseille",
-    "title": "Slot hints Salah will start for Liverpool in Marseille",
-    "description": "Arne Slot suggests Mohamed Salah will return to the Liverpool starting line-up against Marseille in Wednesday's Champions League tie, insisting his relationship with the forward is \"as normal as it's always been\".",
-    "pubDate": "2026-01-20",
-    "image": "",
-    "link": "https://www.bbc.com/sport/football/articles/c9wx7ykl098o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport"
-  },
-  {
     "slug": "stalker-sent-underwear-pictures-to-liverpool-midfielder-hobinger",
     "title": "Stalker sent underwear pictures to Liverpool midfielder Hobinger",
     "description": "Father-of-two Mangal Dalal, 42, is given a restraining order for stalking the Reds midfielder.",
     "pubDate": "2026-01-20",
     "image": "",
     "link": "https://www.bbc.com/news/articles/cjw1y2nx5w7o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport"
+  },
+  {
+    "slug": "slot-hints-salah-will-start-for-liverpool-in-marseille",
+    "title": "Slot hints Salah will start for Liverpool in Marseille",
+    "description": "Arne Slot suggests Mohamed Salah will return to the Liverpool starting line-up against Marseille in Wednesday's Champions League tie, insisting his relationship with the forward is \"as normal as it's always been\".",
+    "pubDate": "2026-01-20",
+    "image": "",
+    "link": "https://www.bbc.com/sport/football/articles/c9wx7ykl098o?at_medium=RSS&at_campaign=rss",
     "source": "BBC Sport"
   },
   {
@@ -999,15 +1026,6 @@
     "source": "BBC Sport"
   },
   {
-    "slug": "aspinall-questions-crowd-at-new-saudi-tournament",
-    "title": "Aspinall questions crowd at new Saudi tournament",
-    "description": "Nathan Aspinall says he feels the crowds attending the Saudi Arabia Darts Masters \"weren’t all there of their own accord\".",
-    "pubDate": "2026-01-20",
-    "image": "",
-    "link": "https://www.bbc.com/sport/darts/articles/c20dg6n2093o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport"
-  },
-  {
     "slug": "villa-interested-in-mateta-wednesday-s-gossip",
     "title": "Villa interested in Mateta - Wednesday's gossip",
     "description": "Aston Villa explore Jean-Philippe Mateta and Tammy Abraham moves, Manchester United decline Ajax's Manuel Ugarte approach and Bournemouth fight to keep Marcos Senesi.",
@@ -1017,12 +1035,12 @@
     "source": "BBC Sport"
   },
   {
-    "slug": "fulham-in-talks-to-sign-man-city-winger-bobb",
-    "title": "Fulham in talks to sign Man City winger Bobb",
-    "description": "Fulham are in talks to sign winger Oscar Bobb from fellow Premier League side Manchester City.",
+    "slug": "aspinall-questions-crowd-at-new-saudi-tournament",
+    "title": "Aspinall questions crowd at new Saudi tournament",
+    "description": "Nathan Aspinall says he feels the crowds attending the Saudi Arabia Darts Masters \"weren’t all there of their own accord\".",
     "pubDate": "2026-01-20",
     "image": "",
-    "link": "https://www.bbc.com/sport/football/articles/cly93z00gxko?at_medium=RSS&at_campaign=rss",
+    "link": "https://www.bbc.com/sport/darts/articles/c20dg6n2093o?at_medium=RSS&at_campaign=rss",
     "source": "BBC Sport"
   },
   {
@@ -1032,6 +1050,15 @@
     "pubDate": "2026-01-20",
     "image": "",
     "link": "https://www.bbc.com/sport/tennis/articles/cj0n1r4384po?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport"
+  },
+  {
+    "slug": "fulham-in-talks-to-sign-man-city-winger-bobb",
+    "title": "Fulham in talks to sign Man City winger Bobb",
+    "description": "Fulham are in talks to sign winger Oscar Bobb from fellow Premier League side Manchester City.",
+    "pubDate": "2026-01-20",
+    "image": "",
+    "link": "https://www.bbc.com/sport/football/articles/cly93z00gxko?at_medium=RSS&at_campaign=rss",
     "source": "BBC Sport"
   },
   {
@@ -1053,15 +1080,6 @@
     "source": "BBC Sport"
   },
   {
-    "slug": "the-day-i-discovered-the-everton-contract-revie-never-signed",
-    "title": "The day I discovered the Everton contract Revie never signed",
-    "description": "This is the story of how an unsigned contract that lay hidden in a bungalow for more than 50 years could have changed the course of English football.",
-    "pubDate": "2026-01-20",
-    "image": "",
-    "link": "https://www.bbc.com/sport/football/articles/cy8yp1nqd21o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport"
-  },
-  {
     "slug": "francis-hennessey-and-hamer-webb-make-wales-squad",
     "title": "Francis, Hennessey and Hamer-Webb make Wales squad",
     "description": "Wales boss Steve Tandy recalls prop Tomas Francis and calls up uncapped Bath centre Louis Hennessey and Leicester wing Gabriel Hamer-Webb.",
@@ -1071,21 +1089,12 @@
     "source": "BBC Sport"
   },
   {
-    "slug": "why-iraola-s-bournemouth-future-is-uncertain",
-    "title": "Why Iraola's Bournemouth future is uncertain",
-    "description": "With his contract expiring in the summer, Andoni Iraola's future at Bournemouth is unclear after two successful seasons in charge.",
+    "slug": "the-day-i-discovered-the-everton-contract-revie-never-signed",
+    "title": "The day I discovered the Everton contract Revie never signed",
+    "description": "This is the story of how an unsigned contract that lay hidden in a bungalow for more than 50 years could have changed the course of English football.",
     "pubDate": "2026-01-20",
     "image": "",
-    "link": "https://www.bbc.com/sport/football/articles/ckgklrne80vo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport"
-  },
-  {
-    "slug": "refs-boss-webb-backs-officials-over-dalot-incident",
-    "title": "Refs' boss Webb backs officials over Dalot incident",
-    "description": "Premier League referees' boss Howard Webb rejects claims that his officials made a mistake by not sending off Diogo Dalot in Saturday's Manchester derby.",
-    "pubDate": "2026-01-20",
-    "image": "",
-    "link": "https://www.bbc.com/sport/football/articles/cp3741nlep5o?at_medium=RSS&at_campaign=rss",
+    "link": "https://www.bbc.com/sport/football/articles/cy8yp1nqd21o?at_medium=RSS&at_campaign=rss",
     "source": "BBC Sport"
   },
   {
@@ -1107,12 +1116,30 @@
     "source": "BBC Sport"
   },
   {
+    "slug": "why-iraola-s-bournemouth-future-is-uncertain",
+    "title": "Why Iraola's Bournemouth future is uncertain",
+    "description": "With his contract expiring in the summer, Andoni Iraola's future at Bournemouth is unclear after two successful seasons in charge.",
+    "pubDate": "2026-01-20",
+    "image": "",
+    "link": "https://www.bbc.com/sport/football/articles/ckgklrne80vo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport"
+  },
+  {
     "slug": "joshua-s-driver-appears-in-court-after-crash-that-killed-two",
     "title": "Joshua's driver appears in court after crash that killed two",
     "description": "The former heavyweight champion was a passenger in the crash, which killed two of his team members.",
     "pubDate": "2026-01-20",
     "image": "",
     "link": "https://www.bbc.com/news/articles/cew8jxze027o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport"
+  },
+  {
+    "slug": "refs-boss-webb-backs-officials-over-dalot-incident",
+    "title": "Refs' boss Webb backs officials over Dalot incident",
+    "description": "Premier League referees' boss Howard Webb rejects claims that his officials made a mistake by not sending off Diogo Dalot in Saturday's Manchester derby.",
+    "pubDate": "2026-01-20",
+    "image": "",
+    "link": "https://www.bbc.com/sport/football/articles/cp3741nlep5o?at_medium=RSS&at_campaign=rss",
     "source": "BBC Sport"
   },
   {
@@ -1143,30 +1170,12 @@
     "source": "BBC Sport"
   },
   {
-    "slug": "father-to-be-ruud-ready-to-leave-melbourne-early",
-    "title": "Father-to-be Ruud ready to leave Melbourne early",
-    "description": "Norway's Casper Ruud says he \"probably won't be here the next day\" if his wife goes into labour during the Australian Open.",
-    "pubDate": "2026-01-20",
-    "image": "",
-    "link": "https://www.bbc.com/sport/tennis/articles/c79rxznj1ljo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport"
-  },
-  {
     "slug": "legal-action-considered-over-ospreys-future-as-players-hit-out",
     "title": "Legal action considered over Ospreys future as players hit out",
     "description": "Swansea's local authority is considering legal action amid growing doubts over the future of the Ospreys and claims players have been \"kept in the dark\" over the region's fate.",
     "pubDate": "2026-01-20",
     "image": "",
     "link": "https://www.bbc.com/sport/rugby-union/articles/cwynpqv5xxwo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport"
-  },
-  {
-    "slug": "marseille-in-talks-with-arsenal-over-nwaneri-loan",
-    "title": "Marseille in talks with Arsenal over Nwaneri loan ",
-    "description": "French club Marseille are in talks to sign Arsenal midfielder Ethan Nwaneri on loan for the rest of the season.",
-    "pubDate": "2026-01-20",
-    "image": "",
-    "link": "https://www.bbc.com/sport/football/articles/cx2kd5j5xm7o?at_medium=RSS&at_campaign=rss",
     "source": "BBC Sport"
   },
   {
