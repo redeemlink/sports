@@ -234,6 +234,15 @@
     "source": "Charlie Creme"
   },
   {
+    "slug": "buffalo-fired-sean-mcdermott-but-there-s-more-blame-to-go-around",
+    "title": "Buffalo fired Sean McDermott, but there's more blame to go around",
+    "description": "With postseason losses piling up, the Bills fired coach Sean McDermott. But will it change anything?",
+    "pubDate": "2026-01-21",
+    "image": "",
+    "link": "https://www.espn.com/nfl/story/_/id/47660090/2026-nfl-offseason-buffalo-bills-fire-sean-mcdermott-coach-allen-beane-playoff-loss",
+    "source": "Ben Solak"
+  },
+  {
     "slug": "are-patriots-qb-drake-maye-s-turnovers-an-issue-against-the-broncos",
     "title": "Are Patriots QB Drake Maye's turnovers an issue against the Broncos?",
     "description": "The Broncos' defense is the best in the league at getting to the quarterback. How will the Patriots respond?",
@@ -405,15 +414,6 @@
     "source": "BBC Sport"
   },
   {
-    "slug": "unreal-crowd-carries-last-briton-standing-norrie",
-    "title": "'Unreal' crowd carries last Briton standing Norrie",
-    "description": "British number two Cameron Norrie pulls through a rain-delayed match to move past United States' Emilio Nava in the Australian Open second round.",
-    "pubDate": "2026-01-21",
-    "image": "",
-    "link": "https://www.bbc.com/sport/tennis/articles/c1lzr15mq90o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport"
-  },
-  {
     "slug": "no-desire-for-world-cup-boycott-over-greenland",
     "title": "'No desire' for World Cup boycott over Greenland",
     "description": "The French government is not currently in favour of boycotting this summer's World Cup over US President Donald Trump's threats to annex Greenland, according to the country's sports minister.",
@@ -441,12 +441,12 @@
     "source": "BBC Sport"
   },
   {
-    "slug": "england-re-hire-2005-ashes-pace-coach-cooley",
-    "title": "England re-hire 2005 Ashes pace coach Cooley",
-    "description": "England make a further addition to their backroom staff by re-hiring Troy Cooley as national pace-bowling lead.",
+    "slug": "what-we-learned-from-afcon-2025",
+    "title": "What we learned from Afcon 2025",
+    "description": "After chaotic scenes in the Africa Cup of Nations final, BBC Sport Africa explores what else we learned from just under a month of competition in Morocco.",
     "pubDate": "2026-01-21",
     "image": "",
-    "link": "https://www.bbc.com/sport/cricket/articles/c0q45xe7ev8o?at_medium=RSS&at_campaign=rss",
+    "link": "https://www.bbc.com/sport/football/articles/c620nnj0z8lo?at_medium=RSS&at_campaign=rss",
     "source": "BBC Sport"
   },
   {
@@ -486,6 +486,15 @@
     "source": "BBC Sport"
   },
   {
+    "slug": "unreal-crowd-carries-last-briton-standing-norrie",
+    "title": "'Unreal' crowd carries last Briton standing Norrie",
+    "description": "British number two Cameron Norrie pulls through a rain-delayed match to move past United States' Emilio Nava in the Australian Open second round.",
+    "pubDate": "2026-01-21",
+    "image": "",
+    "link": "https://www.bbc.com/sport/tennis/articles/c1lzr15mq90o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport"
+  },
+  {
     "slug": "how-radwan-rediscovered-love-of-rugby-at-leicester",
     "title": "How Radwan rediscovered 'love of rugby' at Leicester",
     "description": "Winger Adam Radwan says he contemplated leaving the Prem before Leicester Tigers signed him from Newcastle.",
@@ -504,8 +513,44 @@
     "source": "BBC Sport"
   },
   {
-    "slug": "fans-have-every-right-to-be-annoyed-i-made-terrible-mistake-brook",
-    "title": "Fans have 'every right to be annoyed, I made terrible mistake' - Brook",
+    "slug": "england-re-hire-2005-ashes-pace-coach-cooley",
+    "title": "England re-hire 2005 Ashes pace coach Cooley",
+    "description": "England make a further addition to their backroom staff by re-hiring Troy Cooley as national pace-bowling lead.",
+    "pubDate": "2026-01-21",
+    "image": "",
+    "link": "https://www.bbc.com/sport/cricket/articles/c0q45xe7ev8o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport"
+  },
+  {
+    "slug": "villa-s-injury-woes-worsen-as-mcginn-set-for-spell-out",
+    "title": "Villa's injury woes worsen as McGinn set for spell out",
+    "description": "Injury-hit Aston Villa suffer another blow, with captain John McGinn facing a number of weeks on the sidelines.",
+    "pubDate": "2026-01-21",
+    "image": "",
+    "link": "https://www.bbc.com/sport/football/articles/cdren103ye2o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport"
+  },
+  {
+    "slug": "ospreys-told-of-cardiff-interest-as-players-walk-out-of-meeting",
+    "title": "Ospreys told of Cardiff interest as players walk out of meeting",
+    "description": "Ospreys head coach Mark Jones says the squad have been told their owners Y11 Sport & Media are in talks to buy rivals Cardiff.",
+    "pubDate": "2026-01-21",
+    "image": "",
+    "link": "https://www.bbc.com/sport/rugby-union/articles/c9qpe3jz1y8o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport"
+  },
+  {
+    "slug": "bellingham-responds-to-partying-claims-with-joke-drinking-celebration",
+    "title": "Bellingham responds to partying claims with 'joke' drinking celebration",
+    "description": "Jude Bellingham responds to partying claims with a goal celebration in the Champions League win over Monaco.",
+    "pubDate": "2026-01-21",
+    "image": "",
+    "link": "https://www.bbc.com/sport/articles/c24g6r250veo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport"
+  },
+  {
+    "slug": "fans-have-every-right-to-be-annoyed-brook",
+    "title": "Fans have 'every right to be annoyed' - Brook",
     "description": "Harry Brook says supporters have “every right to be annoyed” by his behaviour after he was punched by a nightclub bouncer on England’s tour of New Zealand that preceded the Ashes.",
     "pubDate": "2026-01-21",
     "image": "",
@@ -522,39 +567,12 @@
     "source": "BBC Sport"
   },
   {
-    "slug": "ospreys-told-of-cardiff-interest-as-players-walk-out-of-meeting",
-    "title": "Ospreys told of Cardiff interest as players walk out of meeting",
-    "description": "Ospreys head coach Mark Jones says the squad have been told their owners Y11 Sport & Media are in talks to buy rivals Cardiff.",
-    "pubDate": "2026-01-21",
-    "image": "",
-    "link": "https://www.bbc.com/sport/rugby-union/articles/c9qpe3jz1y8o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport"
-  },
-  {
     "slug": "mayes-hits-england-record-score-in-u19s-world-cup",
     "title": "Mayes hits England record score in U19s World Cup",
     "description": "Hampshire's Ben Mayes smashes 191 - an England U19s World Cup record - against Scotland in Harare.",
     "pubDate": "2026-01-21",
     "image": "",
     "link": "https://www.bbc.com/sport/articles/c62nd1e21ego?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport"
-  },
-  {
-    "slug": "bellingham-responds-to-partying-claims-with-joke-drinking-celebration",
-    "title": "Bellingham responds to partying claims with 'joke' drinking celebration",
-    "description": "Jude Bellingham responds to partying claims with a goal celebration in the Champions League win over Monaco.",
-    "pubDate": "2026-01-21",
-    "image": "",
-    "link": "https://www.bbc.com/sport/articles/c24g6r250veo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport"
-  },
-  {
-    "slug": "good-signs-or-just-buying-time-spurs-remain-divided-on-frank-future",
-    "title": "'Good signs' or just buying time? Spurs remain divided on Frank future",
-    "description": "Many Tottenham fans have already lost faith in Thomas Frank - but did Tuesday's 2-0 win over Borussia Dortmund give cause for optimism?",
-    "pubDate": "2026-01-21",
-    "image": "",
-    "link": "https://www.bbc.com/sport/football/articles/cj4lqy2np2zo?at_medium=RSS&at_campaign=rss",
     "source": "BBC Sport"
   },
   {
@@ -567,30 +585,12 @@
     "source": "BBC Sport"
   },
   {
-    "slug": "teenager-todaro-makes-italy-s-six-nations-squad",
-    "title": "Teenager Todaro makes Italy's Six Nations squad",
-    "description": "Northampton's teenage wing Edoardo Todaro is rewarded for his prolific breakthrough campaign with a place in Italy's Six Nations squad.",
-    "pubDate": "2026-01-21",
-    "image": "",
-    "link": "https://www.bbc.com/sport/rugby-union/articles/c8d0yn864rmo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport"
-  },
-  {
     "slug": "marseille-agree-loan-deal-for-arsenal-s-nwaneri",
     "title": "Marseille agree loan deal for Arsenal's Nwaneri",
     "description": "French club Marseille agree to sign Arsenal midfielder Ethan Nwaneri on loan for the rest of the season.",
     "pubDate": "2026-01-21",
     "image": "",
     "link": "https://www.bbc.com/sport/football/articles/cx2kd5j5xm7o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport"
-  },
-  {
-    "slug": "venues-announced-for-historic-women-s-lions-tour-of-nz",
-    "title": "Venues announced for historic women's Lions tour of NZ",
-    "description": "The British and Irish Lions will play three Tests in Auckland, Wellington and Christchurch on their landmark first women's tour to New Zealand.",
-    "pubDate": "2026-01-21",
-    "image": "",
-    "link": "https://www.bbc.com/sport/rugby-union/articles/cm2j81r3ry0o?at_medium=RSS&at_campaign=rss",
     "source": "BBC Sport"
   },
   {
@@ -603,30 +603,39 @@
     "source": "BBC Sport"
   },
   {
+    "slug": "good-signs-or-just-buying-time-spurs-remain-divided-on-frank-future",
+    "title": "'Good signs' or just buying time? Spurs remain divided on Frank future",
+    "description": "Many Tottenham fans have already lost faith in Thomas Frank - but did Tuesday's 2-0 win over Borussia Dortmund give cause for optimism?",
+    "pubDate": "2026-01-21",
+    "image": "",
+    "link": "https://www.bbc.com/sport/football/articles/cj4lqy2np2zo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport"
+  },
+  {
+    "slug": "venues-announced-for-historic-women-s-lions-tour-of-nz",
+    "title": "Venues announced for historic women's Lions tour of NZ",
+    "description": "The British and Irish Lions will play three Tests in Auckland, Wellington and Christchurch on their landmark first women's tour to New Zealand.",
+    "pubDate": "2026-01-21",
+    "image": "",
+    "link": "https://www.bbc.com/sport/rugby-union/articles/cm2j81r3ry0o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport"
+  },
+  {
+    "slug": "teenager-todaro-makes-italy-s-six-nations-squad",
+    "title": "Teenager Todaro makes Italy's Six Nations squad",
+    "description": "Northampton's teenage wing Edoardo Todaro is rewarded for his prolific breakthrough campaign with a place in Italy's Six Nations squad.",
+    "pubDate": "2026-01-21",
+    "image": "",
+    "link": "https://www.bbc.com/sport/rugby-union/articles/c8d0yn864rmo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport"
+  },
+  {
     "slug": "meet-dana-white-s-favourite-boxer-as-zuffa-boxing-launches",
     "title": "Meet Dana White's favourite boxer as Zuffa Boxing launches",
     "description": "Meet Callum Walsh, the Irishman tasked with kicking off Zuffa Boxing and living up to being Dana White's first boxer.",
     "pubDate": "2026-01-21",
     "image": "",
     "link": "https://www.bbc.com/sport/boxing/articles/ckg21vr7ynwo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport"
-  },
-  {
-    "slug": "us-opens-priority-visa-appointment-system-for-world-cup",
-    "title": "US opens priority visa appointment system for World Cup",
-    "description": "World Cup 2026 ticket holders can now access priority visa appointments for travel to the United States - but doubt remains whether fans from every country to have qualified will be able to enter.",
-    "pubDate": "2026-01-21",
-    "image": "",
-    "link": "https://www.bbc.com/sport/football/articles/cr4kwv1qyx5o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport"
-  },
-  {
-    "slug": "rangers-opponents-stranraer-face-cup-expulsion",
-    "title": "Rangers' opponents Stranraer face cup expulsion ",
-    "description": "Stranraer face the prospect of Scottish Cup expulsion and losing out on a money-spinning trip to face Rangers at Ibrox after fielding an ineligible player in Monday's win over Queen's Park.",
-    "pubDate": "2026-01-21",
-    "image": "",
-    "link": "https://www.bbc.com/sport/football/articles/c1klpx4ggl7o?at_medium=RSS&at_campaign=rss",
     "source": "BBC Sport"
   },
   {
@@ -639,21 +648,12 @@
     "source": "BBC Sport"
   },
   {
-    "slug": "bournemouth-close-on-30-6m-move-for-brazilian-rayan",
-    "title": "Bournemouth close on £30.6m move for Brazilian Rayan",
-    "description": "The 19-year-old is in advanced talks about moving to the south coast and will help the Cherries replace Antoine Semenyo, who joined Manchester City last week.",
+    "slug": "rangers-opponents-stranraer-face-cup-expulsion",
+    "title": "Rangers' opponents Stranraer face cup expulsion ",
+    "description": "Stranraer face the prospect of Scottish Cup expulsion and losing out on a money-spinning trip to face Rangers at Ibrox after fielding an ineligible player in Monday's win over Queen's Park.",
     "pubDate": "2026-01-21",
     "image": "",
-    "link": "https://www.bbc.com/sport/football/articles/c3ve1y4vqyno?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport"
-  },
-  {
-    "slug": "bbc-to-show-st-mirren-falkirk-scottish-cup-ties",
-    "title": "BBC to show St Mirren & Falkirk Scottish Cup ties",
-    "description": "BBC Scotland will broadcast live television coverage of Airdrieonians v St Mirren and Stenhousemuir v Falkirk in the Scottish Cup.",
-    "pubDate": "2026-01-21",
-    "image": "",
-    "link": "https://www.bbc.com/sport/football/articles/c701rywe1v1o?at_medium=RSS&at_campaign=rss",
+    "link": "https://www.bbc.com/sport/football/articles/c1klpx4ggl7o?at_medium=RSS&at_campaign=rss",
     "source": "BBC Sport"
   },
   {
@@ -663,6 +663,15 @@
     "pubDate": "2026-01-21",
     "image": "",
     "link": "https://www.bbc.com/sport/tennis/articles/c9qpe5zynjvo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport"
+  },
+  {
+    "slug": "us-opens-priority-visa-appointment-system-for-world-cup",
+    "title": "US opens priority visa appointment system for World Cup",
+    "description": "World Cup 2026 ticket holders can now access priority visa appointments for travel to the United States - but doubt remains whether fans from every country to have qualified will be able to enter.",
+    "pubDate": "2026-01-21",
+    "image": "",
+    "link": "https://www.bbc.com/sport/football/articles/cr4kwv1qyx5o?at_medium=RSS&at_campaign=rss",
     "source": "BBC Sport"
   },
   {
@@ -684,12 +693,30 @@
     "source": "BBC Sport"
   },
   {
+    "slug": "bournemouth-close-on-30-6m-move-for-brazilian-rayan",
+    "title": "Bournemouth close on £30.6m move for Brazilian Rayan",
+    "description": "The 19-year-old is in advanced talks about moving to the south coast and will help the Cherries replace Antoine Semenyo, who joined Manchester City last week.",
+    "pubDate": "2026-01-21",
+    "image": "",
+    "link": "https://www.bbc.com/sport/football/articles/c3ve1y4vqyno?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport"
+  },
+  {
     "slug": "champions-league-quiz-name-every-city-to-host-a-final",
     "title": "Champions League quiz: Name every city to host a final",
     "description": "The Champions League and its forerunner the European Cup have a combined 70-year history. Can you name all the cities that have staged the final of the men's competition?",
     "pubDate": "2026-01-21",
     "image": "",
     "link": "https://www.bbc.com/sport/football/articles/c7v0871l89po?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport"
+  },
+  {
+    "slug": "bbc-to-show-st-mirren-falkirk-scottish-cup-ties",
+    "title": "BBC to show St Mirren & Falkirk Scottish Cup ties",
+    "description": "BBC Scotland will broadcast live television coverage of Airdrieonians v St Mirren and Stenhousemuir v Falkirk in the Scottish Cup.",
+    "pubDate": "2026-01-21",
+    "image": "",
+    "link": "https://www.bbc.com/sport/football/articles/c701rywe1v1o?at_medium=RSS&at_campaign=rss",
     "source": "BBC Sport"
   },
   {
@@ -1260,15 +1287,6 @@
     "source": "BBC Sport"
   },
   {
-    "slug": "audi-aim-to-be-most-successful-f1-team-in-history",
-    "title": "Audi aim to be most successful F1 team in history",
-    "description": "Audi is entering Formula 1 for the first time in its history this season, having taken over the Swiss-based Sauber team.",
-    "pubDate": "2026-01-20",
-    "image": "",
-    "link": "https://www.bbc.com/sport/formula1/articles/cdex6del18xo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport"
-  },
-  {
     "slug": "the-day-i-discovered-the-everton-contract-revie-never-signed",
     "title": "The day I discovered the Everton contract Revie never signed",
     "description": "This is the story of how an unsigned contract that lay hidden in a bungalow for more than 50 years could have changed the course of English football.",
@@ -1350,30 +1368,12 @@
     "source": "BBC Sport"
   },
   {
-    "slug": "man-city-sign-guehi-from-palace-what-will-he-bring",
-    "title": "Man City sign Guehi from Palace - what will he bring?",
-    "description": "Man City sign Crystal Palace captain Marc Guehi for £20m - but what will the England defender add to Pep Guardiola's side?",
-    "pubDate": "2026-01-19",
-    "image": "",
-    "link": "https://www.bbc.com/sport/articles/cwy8lve847eo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport"
-  },
-  {
     "slug": "man-utd-s-complicated-relationship-with-class-of-92",
     "title": "Man Utd's complicated relationship with Class of 92",
     "description": "Manchester United and the class of 92 have a complicated relationship. But is it a problem?",
     "pubDate": "2026-01-19",
     "image": "",
     "link": "https://www.bbc.com/sport/football/articles/cew84renxjgo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport"
-  },
-  {
-    "slug": "an-ambassador-for-african-football-mane-is-senegal-s-afcon-hero",
-    "title": "'An ambassador for African football' - Mane is Senegal's Afcon hero",
-    "description": "Senegal forward Sadio Mane is the hero once again, but this time for unexpected reasons as his side leaves the pitch during the chaotic Afcon final win over Morocco.",
-    "pubDate": "2026-01-18",
-    "image": "",
-    "link": "https://www.bbc.com/sport/football/articles/clynjj2ngy8o?at_medium=RSS&at_campaign=rss",
     "source": "BBC Sport"
   },
   {
