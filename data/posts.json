@@ -189,12 +189,12 @@
     "source": "Myron Medcalf"
   },
   {
-    "slug": "transfer-rumors-news-saudi-league-eyes-salah-vin-cius-jr-plus-50-more",
-    "title": "Transfer rumors, news: Saudi league eyes Salah, Vinícius Jr. plus 50 more",
-    "description": "The Saudi Pro League has big plans to sign Liverpool's Mohamed Salah and Real Madrid's Vinícius Júnior. Transfer Talk has the latest.",
+    "slug": "transfer-rumors-news-alexander-arnold-not-told-to-leave-real-madrid",
+    "title": "Transfer rumors, news: Alexander-Arnold not told to leave Real Madrid",
+    "description": "Could's Trent Alexander-Arnold time at Real Madrid be short-lived? Transfer Talk has the latest.",
     "pubDate": "2026-01-24",
     "image": "",
-    "link": "https://www.espn.com/soccer/story/_/id/47701762/transfer-rumors-news-saudi-league-eyes-salah-vinicius-jr-plus-50-more",
+    "link": "https://www.espn.com/soccer/story/_/id/47712117/transfer-rumors-news-trent-alexander-arnold-not-told-leave-real-madrid",
     "source": "ESPN"
   },
   {
@@ -234,12 +234,12 @@
     "source": "BBC Sport"
   },
   {
-    "slug": "surviving-bombs-and-hunger-to-become-a-professional-tennis-player",
-    "title": "Surviving bombs and hunger to become a professional tennis player",
-    "description": "Tennis is seen as a rich sport. But many stars, including Novak Djokovic and Elina Svitolina, have forged successful careers from humble beginnings.",
+    "slug": "it-breaks-my-heart-two-time-champion-osaka-withdraws-through-injury",
+    "title": "'It breaks my heart' - two-time champion Osaka withdraws through injury",
+    "description": "Two-time champion Naomi Osaka withdraws from the Australian Open shortly before she was due to play home qualifier Maddison Inglis.",
     "pubDate": "2026-01-24",
     "image": "",
-    "link": "https://www.bbc.com/sport/tennis/articles/cvgrrpp93y3o?at_medium=RSS&at_campaign=rss",
+    "link": "https://www.bbc.com/sport/tennis/articles/c1klgw1zkp9o?at_medium=RSS&at_campaign=rss",
     "source": "BBC Sport"
   },
   {
@@ -252,6 +252,24 @@
     "source": "BBC Sport"
   },
   {
+    "slug": "heavy-rain-forces-off-matches-at-tannadice-montrose",
+    "title": "Heavy rain forces off matches at Tannadice & Montrose",
+    "description": "The Scottish Premiership match between Dundee United and St Mirren and the League 1 fixture between Montrose and Peterhead are postponed because of waterlogged pitches.",
+    "pubDate": "2026-01-24",
+    "image": "",
+    "link": "https://www.bbc.com/sport/football/articles/cjdj9l2xpv3o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport"
+  },
+  {
+    "slug": "surviving-bombs-and-hunger-to-become-a-professional-tennis-player",
+    "title": "Surviving bombs and hunger to become a professional tennis player",
+    "description": "Tennis is seen as a rich sport. But many stars, including Novak Djokovic and Elina Svitolina, have forged successful careers from humble beginnings.",
+    "pubDate": "2026-01-24",
+    "image": "",
+    "link": "https://www.bbc.com/sport/tennis/articles/cvgrrpp93y3o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport"
+  },
+  {
     "slug": "heart-surgery-darkest-nights-the-unbreakable-baltic-gladiator",
     "title": "Heart surgery & darkest nights - the unbreakable 'Baltic Gladiator'",
     "description": "Modestas Bukauskas' \"whole life has all been about mental resilience\" as the UFC fighter tells BBC Sport his remarkable story.",
@@ -261,30 +279,12 @@
     "source": "BBC Sport"
   },
   {
-    "slug": "antetokounmpo-expects-to-miss-up-to-six-weeks",
-    "title": "Antetokounmpo expects to miss up to six weeks",
-    "description": "Milwaukee Bucks star Giannis Antetokounmpo expects to be out for about four to six weeks with a calf injury.",
-    "pubDate": "2026-01-24",
-    "image": "",
-    "link": "https://www.bbc.com/sport/basketball/articles/cn4083gknplo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport"
-  },
-  {
     "slug": "walsh-wins-on-zuffa-boxing-opening-night",
     "title": "Walsh wins on Zuffa Boxing opening night",
     "description": "Zuffa Boxing held its inaugural event at the home of the UFC on Friday in Las Vegas, with Ireland's Callum Walsh winning the headline fight.",
     "pubDate": "2026-01-24",
     "image": "",
     "link": "https://www.bbc.com/sport/boxing/articles/cvgnjp5ppgqo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport"
-  },
-  {
-    "slug": "san-francisco-49ers-legend-brodie-dies-aged-90",
-    "title": "San Francisco 49ers legend Brodie dies aged 90",
-    "description": "San Francisco 49ers legendary quarterback John Brodie has died at the age of 90.",
-    "pubDate": "2026-01-24",
-    "image": "",
-    "link": "https://www.bbc.com/sport/american-football/articles/c9dvn0z940qo?at_medium=RSS&at_campaign=rss",
     "source": "BBC Sport"
   },
   {
@@ -306,21 +306,30 @@
     "source": "BBC Sport"
   },
   {
+    "slug": "antetokounmpo-expects-to-miss-up-to-six-weeks",
+    "title": "Antetokounmpo expects to miss up to six weeks",
+    "description": "Milwaukee Bucks star Giannis Antetokounmpo expects to be out for about four to six weeks with a calf injury.",
+    "pubDate": "2026-01-24",
+    "image": "",
+    "link": "https://www.bbc.com/sport/basketball/articles/cn4083gknplo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport"
+  },
+  {
+    "slug": "san-francisco-49ers-legend-brodie-dies-aged-90",
+    "title": "San Francisco 49ers legend Brodie dies aged 90",
+    "description": "San Francisco 49ers legendary quarterback John Brodie has died at the age of 90.",
+    "pubDate": "2026-01-24",
+    "image": "",
+    "link": "https://www.bbc.com/sport/american-football/articles/c9dvn0z940qo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport"
+  },
+  {
     "slug": "the-podcast-co-hosts-who-will-be-opponents-in-melbourne",
     "title": "The podcast co-hosts who will be opponents in Melbourne",
     "description": "Madison Keys and Jessica Pegula have something else to attend to before they meet in the Australian Open fourth round - recording an episode of their podcast together.",
     "pubDate": "2026-01-24",
     "image": "",
     "link": "https://www.bbc.com/sport/tennis/articles/c98jgw2kzd3o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport"
-  },
-  {
-    "slug": "is-sinner-alcaraz-in-danger-of-making-majors-boring",
-    "title": "Is Sinner-Alcaraz in danger of making majors boring?",
-    "description": "Though the Carlos Alcaraz and Jannik Sinner rivalry is thrilling, tennis correspondent Russell Fuller ponders whether it could make Grand Slams boring.",
-    "pubDate": "2026-01-24",
-    "image": "",
-    "link": "https://www.bbc.com/sport/tennis/articles/c17x0zw2x1go?at_medium=RSS&at_campaign=rss",
     "source": "BBC Sport"
   },
   {
@@ -333,174 +342,336 @@
     "source": "BBC Sport"
   },
   {
-    "slug": "tomas-cvancara-delighted-to-be-in-running-for-hearts-test",
-    "title": "Tomas Cvancara delighted to be in running for Hearts test",
-    "description": "New signing, Tomas Cvancara gave his first media conference at Lennoxtown on Friday ahead of the weekend’s big game when the Martin O’Neill’s Celtic side travel to take on Hearts at Tynecastle o...",
+    "slug": "is-sinner-alcaraz-in-danger-of-making-majors-boring",
+    "title": "Is Sinner-Alcaraz in danger of making majors boring?",
+    "description": "Though the Carlos Alcaraz and Jannik Sinner rivalry is thrilling, tennis correspondent Russell Fuller ponders whether it could make Grand Slams boring.",
     "pubDate": "2026-01-24",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/tomas-cvancara-delighted-running-hearts-093000875.html",
+    "link": "https://www.bbc.com/sport/tennis/articles/c17x0zw2x1go?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport"
+  },
+  {
+    "slug": "second-surgery-for-davies-with-return-this-season-in-doubt",
+    "title": "Second surgery for Davies with return this season in doubt ",
+    "description": "Tottenham defender Ben Davies has undergone a second operation on a broken ankle and is a doubt for the World Cup should Wales qualify.",
+    "pubDate": "2026-01-24",
+    "image": "",
+    "link": "https://www.bbc.com/sport/football/articles/c93vjdkv74do?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport"
+  },
+  {
+    "slug": "aging-lexus-at-ceiling-as-1-5s-deficit-shows-at-rolex-24",
+    "title": "Aging Lexus “at ceiling” as 1.5s deficit shows at Rolex 24",
+    "description": "Kyle Kirkwood still believes in the aging Lexus, but is bracing for a tough weekend at Daytona",
+    "pubDate": "2026-01-24",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/aging-lexus-ceiling-1-5s-103601877.html",
     "source": "Google News"
   },
   {
-    "slug": "anna-mallardi-promoted-to-the-women-s-first-team",
-    "title": "Anna Mallardi promoted to the Women’s First Team!",
-    "description": "Just a little over 11 months after signing her first professional contract with the club, Anna Mallardi has officially been promoted to the Juventus Women’s First Team. The 16-year-old goalkeeper w...",
+    "slug": "injury-updates-on-3-arsenal-players-pre-manchester-united",
+    "title": "Injury updates on 3 Arsenal players pre-Manchester United",
+    "description": "Mikel Arteta has given the latest on Riccardo Calafiori, Piero Hincapie, and Kai Havertz ahead of Arsenal’s match against Manchester United on Sunday.Photo by Alex Pantling/Getty ImagesThe good news...",
     "pubDate": "2026-01-24",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/anna-mallardi-promoted-women-first-093000578.html",
+    "link": "https://sports.yahoo.com/articles/injury-updates-3-arsenal-players-103500302.html",
     "source": "Google News"
   },
   {
-    "slug": "the-telegraph-reveal-chelsea-8217-s-cole-palmer-stance-amid-manchester-united-links",
-    "title": "The Telegraph reveal Chelsea&#8217;s Cole Palmer stance amid Manchester United links",
-    "description": "Cole Palmer is part of a new generation of “untouchables” who Chelsea have no interest in selling according to journalist Matt Law.The England international joined Chelsea in the summer of 2023 fr...",
+    "slug": "osaka-withdraws-from-australian-open-before-match",
+    "title": "Osaka withdraws from Australian Open before match",
+    "description": "Two-time champion Naomi Osaka withdraws from the Australian Open shortly before she was due to play home qualifier Maddison Inglis.",
     "pubDate": "2026-01-24",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/telegraph-reveal-chelsea-cole-palmer-093000855.html",
+    "link": "https://sports.yahoo.com/articles/osaka-withdraws-australian-open-match-093328771.html",
     "source": "Google News"
   },
   {
-    "slug": "aaron-glenn-fires-several-more-jets-assistant-coaches",
-    "title": "Aaron Glenn fires several more Jets assistant coaches",
-    "description": "Jets head coach Aaron Glenn is significantly changing his coaching staff.",
+    "slug": "bengals-39-quiet-superstar-is-key-part-of-the-future-in-cincinnati",
+    "title": "Bengals&#39; quiet superstar is key part of the future in Cincinnati",
+    "description": "The national side is starting to wake up to what Bengals fans already know with this breakout player.",
     "pubDate": "2026-01-24",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/aaron-glenn-fires-several-more-092901384.html",
+    "link": "https://sports.yahoo.com/articles/bengals-quiet-superstar-key-part-103032136.html",
     "source": "Google News"
   },
   {
-    "slug": "39-rangers-steal-march-over-sunderland-39-s-neil-39-gossip",
-    "title": "&#39;Rangers steal march over Sunderland&#39;s Neil&#39; - gossip",
-    "description": "Rangers have stolen a march on Sheffield United in the race to sign 24-year-old midfielder Dan Neil from Sunderland, but that could potentially free up 31-year-old Joe Rothwell to join the Blades from the Ibrox club.  Rangers are interested in Hajduk Split defensive midfielder Niko Sigur, but the 22",
+    "slug": "cakewalk-or-brutal-stretch-making-sense-of-patriots-schedule-debate",
+    "title": "Cakewalk or brutal stretch? Making sense of Patriots’ schedule debate",
+    "description": "The New England Patriots faced the easiest schedule in the NFL. How much does that matter before the AFC championship game vs. the Denver Broncos?",
     "pubDate": "2026-01-24",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/rangers-steal-march-over-sunderlands-092704475.html",
+    "link": "https://sports.yahoo.com/articles/cakewalk-brutal-stretch-making-sense-103025103.html",
     "source": "Google News"
   },
   {
-    "slug": "ravens-39-dc-opening-creates-another-problem-for-commanders-39-search",
-    "title": "Ravens&#39; DC opening creates another problem for Commanders&#39; search",
-    "description": "One of the Commanders' options at defensive coordinator is interviewing with the Ravens.",
+    "slug": "caf-champions-league-rs-berkane-pyramids-fc-probable-lineups",
+    "title": "CAF Champions League / RS Berkane - Pyramids FC: probable lineups",
+    "description": "CAF Champions League: probable lineups for RS Berkane - Pyramids FCCAF Champions League / RS Berkane - Pyramids FC: probable lineupsThis Saturday evening, RS Berkane hosts Pyramids FC for a highly ant...",
     "pubDate": "2026-01-24",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/ravens-dc-opening-creates-another-092336506.html",
+    "link": "https://sports.yahoo.com/articles/caf-champions-league-rs-berkane-103000591.html",
     "source": "Google News"
   },
   {
-    "slug": "opposition-lowdown-barnsley-looking-to-do-double-over-reading",
-    "title": "Opposition Lowdown: Barnsley Looking To Do Double Over Reading",
-    "description": "Reading return home to the SCL this Saturday when they take on Barnsley. Join us as we take a closer look at the opposition.",
+    "slug": "serie-a-what-time-and-channel-is-juventus-vs-napoli-on",
+    "title": "Serie A: What time and channel is Juventus vs Napoli on?",
+    "description": "What time and channel is Juventus vs Napoli on?Juventus/@juventusOne of the marquee fixtures of Serie A’s 22nd matchday Serie A sees Juventus take on Napoli. Two heavyweights at the top of the table...",
     "pubDate": "2026-01-24",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/opposition-lowdown-barnsley-looking-double-092226360.html",
+    "link": "https://sports.yahoo.com/articles/serie-time-channel-juventus-vs-103000806.html",
     "source": "Google News"
   },
   {
-    "slug": "8220-it-doesn-8217-t-make-sense-8221-8211-jan-molby-reacts-to-andy-robertson-8217-s-potential-liverpool-exit",
-    "title": "&#8220;It doesn&#8217;t make sense&#8221; &#8211; Jan Molby reacts to Andy Robertson&#8217;s Potential Liverpool Exit",
-    "description": "Jan Molby Reacts to Andy Robertson’s Potential Spurs MoveWhen Anfield Index’s Molby on the Spot podcast dropped its latest episode, the headline topic was clear: Andy Robertson’s potential move ...",
+    "slug": "cavs-at-magic-how-to-watch-odds-and-injury-report",
+    "title": "Cavs at Magic: How to watch, odds, and injury report",
+    "description": "The Cavaliers open up their first of two-straight games against the Magic.",
     "pubDate": "2026-01-24",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/doesn-t-sense-jan-molby-092200304.html",
+    "link": "https://sports.yahoo.com/articles/cavs-magic-watch-odds-injury-103000577.html",
     "source": "Google News"
   },
   {
-    "slug": "naomi-osaka-withdraws-from-australian-open-before-third-round-match",
-    "title": "Naomi Osaka withdraws from Australian Open before third-round match",
-    "description": "Naomi Osaka withdrew from the Australian Open before her scheduled third-round match against Australian qualifier Maddison Inglis, ending a campaign noted for fashion and friction.  The two-time Australian Open champion announced it on social media without divulging her injury, posting on Instagram",
+    "slug": "with-college-football-playoff-not-growing-notre-dame-needs-to-be-top-12-for-a-bid-here-s-its-path-in-2026",
+    "title": "With College Football Playoff not growing, Notre Dame needs to be Top 12 for a bid. Here’s its path in 2026.",
+    "description": "CHICAGO — After controversially being left out of the College Football Playoff in 2025, Notre Dame knows what it has to do to get into the 2026 playoff — be ranked in the Top 12. The College Football Playoff announced Friday that it will remain at 12 teams next season after expansion talks between t",
     "pubDate": "2026-01-24",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/naomi-osaka-withdraws-australian-open-092150794.html",
+    "link": "https://sports.yahoo.com/articles/college-football-playoff-not-growing-103000527.html",
     "source": "Google News"
   },
   {
-    "slug": "australian-open-djokovic-in-control-injured-osaka-pulls-out-listen-follow",
-    "title": "Australian Open: Djokovic in control, injured Osaka pulls out - listen & follow",
-    "description": "Ten-time Australian Open champion Novak Djokovic takes on Botic van de Zandschulp, with Iga Swiatek also in third-round action.",
+    "slug": "man-city-starting-xi-vs-wolves-confirmed-team-news-and-predicted-lineup",
+    "title": "Man City Starting XI vs Wolves: Confirmed Team News and Predicted Lineup",
+    "description": "Manchester City v Wolves: Guehi Set for Etihad DebutManchester City welcome Wolves to the Etihad with defensive reinforcement arriving at a critical moment. Marc Guehi is poised to make his Manchester...",
     "pubDate": "2026-01-24",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/australian-open-djokovic-wins-first-085353653.html",
+    "link": "https://sports.yahoo.com/articles/man-city-starting-xi-vs-103000469.html",
     "source": "Google News"
   },
   {
-    "slug": "mcgeeney-expects-39-tough-one-39-for-armagh-in-monaghan",
-    "title": "McGeeney expects &#39;tough one&#39; for Armagh in Monaghan",
-    "description": "Armagh football manager Kieran McGeeney expects Sunday's Division One opener away to Monaghan [14:00 GMT, live on BBC iPlayer and BBC Sport NI website] to be a \"tough one\".",
+    "slug": "how-to-watch-providence-men-39-s-basketball-vs-georgetown-on-jan-24",
+    "title": "How to watch Providence men&#39;s basketball vs. Georgetown on Jan. 24",
+    "description": "The Friars welcome former coach Ed Cooley and Georgetown to downtown Providence on Saturday, June 24. Here's how to watch and listen to the game.",
     "pubDate": "2026-01-24",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/mcgeeney-expects-tough-one-armagh-092028695.html",
+    "link": "https://sports.yahoo.com/articles/watch-providence-mens-basketball-vs-102915316.html",
     "source": "Google News"
   },
   {
-    "slug": "caf-champions-league-es-tunis-simba-sc-history-of-encounters",
-    "title": "CAF Champions League / ES Tunis - Simba SC: history of encounters",
-    "description": "CAF Champions League / ES Tunis - Simba SC: who holds the historic advantage?CAF Champions League / ES Tunis - Simba SC: history of encountersThis Saturday, Espérance Sportive de Tunis and Simba SC a...",
+    "slug": "ducati-marc-marquez-helped-protected-francesco-bagnaia-in-rough-moments",
+    "title": "Ducati: Marc Marquez “helped, protected” Francesco Bagnaia in rough moments",
+    "description": "Davide Tardozzi opens up on the relationship between Marc Marquez and Francesco Bagnaia",
     "pubDate": "2026-01-24",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/caf-champions-league-es-tunis-092000315.html",
+    "link": "https://sports.yahoo.com/articles/ducati-marc-marquez-helped-protected-102619270.html",
     "source": "Google News"
   },
   {
-    "slug": "premier-league-what-time-and-channel-is-arsenal-vs-manchester-united",
-    "title": "Premier League: What time and channel is Arsenal vs Manchester United?",
-    "description": "What time and channel is Arsenal vs Manchester United?Arsenal – Manchester United/@sofootArsenal host Manchester United this Sunday as part of Matchday 23 in the Premier League.Mikel Arteta’s men ...",
+    "slug": "conor-gallagher-starts-for-tottenham-as-thomas-frank-makes-three-changes-vs-burnley",
+    "title": "Conor Gallagher starts for Tottenham as Thomas Frank makes three changes vs Burnley",
+    "description": "Tottenham Hotspur travel to Turf Moor to take on Burnley on Saturday afternoon, with both bottom-half sides desperate to pick up points in the Premier League.Neither club is where they hoped to be at ...",
     "pubDate": "2026-01-24",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/premier-league-time-channel-arsenal-092000388.html",
+    "link": "https://sports.yahoo.com/articles/conor-gallagher-starts-tottenham-thomas-102500666.html",
     "source": "Google News"
   },
   {
-    "slug": "eilish-mccolgan-39-i-39-ve-got-a-big-year-of-sport-but-no-wedding-plans-39",
-    "title": "Eilish McColgan: &#39;I&#39;ve got a big year of sport but no wedding plans&#39;",
-    "description": "The Scottish athlete announced her engagement in May but is focused on a home Commonwealth Games.",
+    "slug": "blockbuster-bundesliga-forward-duo-is-coming-to-liverpool",
+    "title": "BLOCKBUSTER Bundesliga forward duo is coming to Liverpool",
+    "description": "LFC watching Diomande and El MalaThe Merseysiders appear to have their eyes focussed firmly on the Bundesliga and TWO up-and-coming young attackers could provide the answers in next summer’s transfe...",
     "pubDate": "2026-01-24",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/eilish-mccolgan-ive-got-big-225716279.html",
+    "link": "https://sports.yahoo.com/articles/blockbuster-bundesliga-forward-duo-coming-102500056.html",
     "source": "Google News"
   },
   {
-    "slug": "capitals-have-39-tapped-into-39-ganguly-and-pollock-39-s-experience-mills",
-    "title": "Capitals have &#39;tapped into&#39; Ganguly and Pollock&#39;s experience - Mills",
-    "description": "Pretoria Capitals have \"tapped into\" the experience of coaches Sourav Ganguly and Shaun Pollock to reach their second SA20 final, says former England bowler Tymal Mills.  Ganguly took on his first head coach role for this season, having previously been director of cricket, while Pollock is assistant",
+    "slug": "giannis-antetokounmpo-expects-to-be-out-at-least-a-month",
+    "title": "Giannis Antetokounmpo expects to be out at least a month",
+    "description": "Giannis Antetokounmpo expects to be out at least a month",
     "pubDate": "2026-01-24",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/capitals-tapped-ganguly-pollocks-experience-091746934.html",
+    "link": "https://sports.yahoo.com/articles/giannis-antetokounmpo-expects-least-month-102459605.html",
     "source": "Google News"
   },
   {
-    "slug": "serie-a-probable-line-ups-como-torino-fiorentina-cagliari-lecce-lazio",
-    "title": "Serie A Probable line-ups: Como-Torino, Fiorentina-Cagliari, Lecce-Lazio",
-    "description": "Three Serie A matches are in store on Saturday’s schedule: Como vs. Torino, Fiorentina vs. Cagliari and Lecce vs. Lazio. Have a look at the probable line-ups for each match below.The 22nd round of S...",
+    "slug": "anthony-davis-to-return-following-all-star-break",
+    "title": "Anthony Davis to return following All-Star break?",
+    "description": "Anthony Davis to return following All-Star break?",
     "pubDate": "2026-01-24",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/serie-probable-line-ups-como-091500562.html",
+    "link": "https://sports.yahoo.com/articles/anthony-davis-return-following-star-102458307.html",
     "source": "Google News"
   },
   {
-    "slug": "how-do-everton-cope-without-jack-grealish",
-    "title": "How do Everton cope without Jack Grealish?",
-    "description": "Forty-eight hours is a long time in football. When it comes to Everton, 48 hours may as well be several weeks.Just two days on from celebrating a fantastic, hard-earned win at Aston Villa, Everton fan...",
+    "slug": "davis-has-begun-light-on-court-work-since-rejoining",
+    "title": "Davis has begun light on-court work since rejoining …",
+    "description": "Davis has begun light on-court work since rejoining …",
     "pubDate": "2026-01-24",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/everton-cope-without-jack-grealish-091500796.html",
+    "link": "https://sports.yahoo.com/articles/davis-begun-light-court-since-102457747.html",
     "source": "Google News"
   },
   {
-    "slug": "jack-grealish-s-foot-injury-leaves-everton-with-a-transfer-conundrum",
-    "title": "Jack Grealish’s foot injury leaves Everton with a transfer conundrum",
-    "description": "When Jack Grealish joined Everton on loan for the 2025/26 season, hopes were high that he could rediscover the form that persuaded Manchester City to pay big money for him.He made an immediate impact ...",
+    "slug": "aaron-gordon-reinjures-hamstring",
+    "title": "Aaron Gordon reinjures hamstring",
+    "description": "Aaron Gordon reinjures hamstring",
     "pubDate": "2026-01-24",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/jack-grealish-foot-injury-leaves-091500532.html",
+    "link": "https://sports.yahoo.com/articles/aaron-gordon-reinjures-hamstring-102456688.html",
     "source": "Google News"
   },
   {
-    "slug": "is-jordan-pickford-the-best-goalkeeper-in-the-premier-league",
-    "title": "Is Jordan Pickford the best goalkeeper in the Premier League?",
-    "description": "When goalkeepers make mistakes, it invariably, 9 times out of 10, will result in a goal being conceded. It is just the nature of the position.And those moments, those blunders, can stand out and be us...",
+    "slug": "some-guys-it-s-just-something-that-they-deal-with",
+    "title": "“Some guys, it’s just something that they deal with,” …",
+    "description": "“Some guys, it’s just something that they deal with,” …",
     "pubDate": "2026-01-24",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/jordan-pickford-best-goalkeeper-premier-091500406.html",
+    "link": "https://sports.yahoo.com/articles/guys-just-something-deal-102455375.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "nic-claxton-to-undergo-mri",
+    "title": "Nic Claxton to undergo MRI",
+    "description": "Nic Claxton to undergo MRI",
+    "pubDate": "2026-01-24",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/nic-claxton-undergo-mri-102454839.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "cheers-stan-wawrinka-bids-farewell-at-australian-open-with-beers-and-gratitude",
+    "title": "Cheers! Stan Wawrinka bids farewell at Australian Open with beers and gratitude",
+    "description": "Stan Wawrinka said goodbye after his loss to Taylor Fritz and then grabbed two beers from a courtside ice box, cracked the cans with the Australian Open tournament director and saluted the crowd.  Wawrinka won the first of his three Grand Slam titles in Australia in 2014.  With a 4 1/2-hour, five-se",
+    "pubDate": "2026-01-24",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/cheers-stan-wawrinka-bids-farewell-102449282.html",
+    "source": "JOHN PYE"
+  },
+  {
+    "slug": "sean-mcvay-quot-it-39-s-wild-quot-that-i-39-ve-been-in-my-job-the-second-longest-of-any-nfl-coach",
+    "title": "Sean McVay: &quot;It&#39;s wild&quot; that I&#39;ve been in my job the second-longest of any NFL coach",
+    "description": "\"I think what you realize is how hard this league is. How volatile it is,\" McVay said of outlasting most of his coaching colleagues.",
+    "pubDate": "2026-01-24",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/sean-mcvay-wild-ive-job-102258197.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "antetokounmpo-expects-to-miss-up-to-six-weeks",
+    "title": "Antetokounmpo expects to miss up to six weeks",
+    "description": "Milwaukee Bucks star Giannis Antetokounmpo expects to be out for about four to six weeks with a calf injury.",
+    "pubDate": "2026-01-24",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/antetokounmpo-expects-miss-six-weeks-072540243.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "arne-slot-still-faces-major-questions-despite-liverpool-8217-s-win-over-marseille-8211-opinion",
+    "title": "Arne Slot still faces major questions despite Liverpool&#8217;s win over Marseille &#8211; Opinion",
+    "description": "Is Liverpool’s Performance Against Marseille Papering Over Cracks?Liverpool’s performance in France was exactly what this group needed — and exactly what it has always been good at. An open game...",
+    "pubDate": "2026-01-24",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/arne-slot-still-faces-major-102000836.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "ajax-tried-to-sign-barcelona-midfielder-on-loan-but-flick-blocked-the-move",
+    "title": "Ajax tried to sign Barcelona midfielder on loan but Flick blocked the move",
+    "description": "According to a recent report from SPORT, Dutch giants Ajax were keen on signing Barcelona midfielder Marc Bernal on loan during the January transfer window, but the club decided against the move.Berna...",
+    "pubDate": "2026-01-24",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/ajax-tried-sign-barcelona-midfielder-102000191.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "caf-champions-league-js-kabylie-as-far-probable-lineups",
+    "title": "CAF Champions League / JS Kabylie – AS FAR: probable lineups",
+    "description": "CAF Champions League: probable lineups for JS Kabylie – AS FARCAF Champions League / JS Kabylie – AS FAR: probable lineupsThis Saturday, JS Kabylie and AS FAR Rabat meet for a crucial clash on mat...",
+    "pubDate": "2026-01-24",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/caf-champions-league-js-kabylie-102000080.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "caf-champions-league-es-tunis-simba-sc-probable-lineups",
+    "title": "CAF Champions League / ES Tunis – Simba SC: probable lineups",
+    "description": "CAF Champions League: probable lineups for ES Tunis - Simba SCCAF Champions League / ES Tunis – Simba SC: probable lineupsThis Saturday, Espérance Sportive de Tunis hosts Simba SC in a decisive cla...",
+    "pubDate": "2026-01-24",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/caf-champions-league-es-tunis-102000080.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "how-college-tennis-became-a-grand-slam-incubator-and-took-over-the-australian-open",
+    "title": "How college tennis became a Grand Slam incubator and took over the Australian Open",
+    "description": "MELBOURNE, Australia — Ben Shelton used to be a lonely man after the first couple of rounds at a Grand Slam, the rare college tennis player able to find his way to the business end among the professional lifers and junior prodigies. A lot changes in a few years. During the middle weekend of this Aus",
+    "pubDate": "2026-01-24",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/college-tennis-became-grand-slam-101605911.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "four-players-out-in-tennessee-alabama-basketball-game",
+    "title": "Four players out in Tennessee-Alabama basketball game",
+    "description": "Four players are out in the Tennessee-Alabama basketball game on Saturday.",
+    "pubDate": "2026-01-24",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/four-players-tennessee-alabama-basketball-101601898.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "what-s-going-on-with-undav-hoene-and-co-react-to-his-dip-in-form",
+    "title": "What’s going on with Undav? Hoeneß and co react to his dip in form",
+    "description": "After his strong start to the season, Deniz Undav currently seems to be experiencing a goal drought. Across all competitions, he already has 12 goals, but since the 3-2 win against Frankfurt, things j...",
+    "pubDate": "2026-01-24",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/going-undav-hoene-co-react-101600332.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "olympic-gs-champion-hector-leads-1st-run-of-last-gs-before-milan-cortina-games-shiffrin-4th",
+    "title": "Olympic GS champion Hector leads 1st run of last GS before Milan Cortina Games. Shiffrin 4th",
+    "description": "Sara Hector led the opening run of a women’s World Cup giant slalom Saturday, the last race in the discipline before the Swedish skier defends her Olympic title next month.  Hector edged out Camille Rast of Switzerland by 0.02 seconds, with GS rankings leader Julia Scheib of Austria 0.26 back in thi",
+    "pubDate": "2026-01-24",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/olympic-gs-champion-hector-leads-101446172.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "prevc-wins-agin-to-tie-takanashi-39-s-ski-jumping-record",
+    "title": "Prevc wins agin to tie Takanashi&#39;s ski jumping record",
+    "description": "Nika Prevc returned to winning ways in Japan on Saturday to tie a women's ski jumping World Cup record. The Slovenia great claimed victory at an 18th different venue in her career with her success in Sapporo which drew her level with Japan's Sara Takanashi.",
+    "pubDate": "2026-01-24",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/prevc-wins-agin-tie-takanashis-101331886.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "heavy-rain-forces-off-matches-at-tannadice-montrose",
+    "title": "Heavy rain forces off matches at Tannadice & Montrose",
+    "description": "The Scottish Premiership match between Dundee United and St Mirren and the League 1 fixture between Montrose and Peterhead are postponed because of waterlogged pitches.",
+    "pubDate": "2026-01-24",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/pitch-inspection-dundee-united-v-181508308.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "backup-qbs-to-win-a-super-bowl-jarrett-stidham-has-a-chance-to-join-tom-brady-kurt-warner-in-special-history",
+    "title": "Backup QBs to win a Super Bowl: Jarrett Stidham has a chance to join Tom Brady, Kurt Warner in special history",
+    "description": "Even Super Bowl-winning sides need reinforcements under center every now and then.",
+    "pubDate": "2026-01-24",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/backup-qbs-win-super-bowl-101001549.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "done-deal-juventus-have-full-en-nesyri-agreement-and-plot-medical",
+    "title": "Done deal: Juventus have full En-Nesyri agreement and plot medical",
+    "description": "Multiple outlets in Italy are reporting that Juventus have a full agreement in place with the club and player to bring Youssef En-Nesyri over to Turin from Fenerbahce in January.Juventus have En-Nesyr...",
+    "pubDate": "2026-01-24",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/done-deal-juventus-full-en-101000016.html",
     "source": "Google News"
   },
   {
@@ -513,273 +684,129 @@
     "source": "Google News"
   },
   {
-    "slug": "sumo-club-owner-urges-women-to-take-up-the-sport",
-    "title": "Sumo club owner urges women to take up the sport",
-    "description": "Richard Riggs, from Barnsley Sumo Club, says he believes the sport is for everyone.",
+    "slug": "who-was-the-commanders-39-secret-superstar-39-in-2025",
+    "title": "Who was the Commanders &#39;secret superstar&#39; in 2025?",
+    "description": "Washington's offensive line is a team strength. Sam Cosmi is a big reason why.",
     "pubDate": "2026-01-24",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/sumo-club-owner-urges-women-091119450.html",
+    "link": "https://sports.yahoo.com/articles/commanders-secret-superstar-2025-100906571.html",
     "source": "Google News"
   },
   {
-    "slug": "journalist-another-liverpool-defender-linked-with-january-exit-as-ac-milan-make-late-move",
-    "title": "Journalist: Another Liverpool defender linked with January exit as AC Milan make late move",
-    "description": "Milan keen on last-minute deal for Liverpool’s Joe GomezCalciomercato have reported that AC Milan are considering a late approach for Liverpool defender Joe Gomez, a move that could yet add intrigue...",
+    "slug": "the-providence-journal-39-s-top-sports-stories-for-the-week-ending-jan-24",
+    "title": "The Providence Journal&#39;s top sports stories for the week ending Jan. 24",
+    "description": "This week's top stories covered the Pats' journey in the playoffs, the retirement of Zdeno Chara's No. 33 by the Bruins and boys hoops rankings.",
     "pubDate": "2026-01-24",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/journalist-another-liverpool-defender-linked-091100820.html",
+    "link": "https://sports.yahoo.com/articles/providence-journals-top-sports-stories-100847511.html",
     "source": "Google News"
   },
   {
-    "slug": "tsimikas-to-return-to-liverpool-as-robertson-8217-s-replacement",
-    "title": "Tsimikas to return to Liverpool as Robertson&#8217;s replacement",
-    "description": "Kostas Tsimikas’ spell at Roma could be coming to an end.After only six months in the Italian capital, the Greek fullback is tipped to make an anticipated return to Liverpool.According to Il Messagg...",
+    "slug": "nba-results-january-23-2026-winners-and-losers",
+    "title": "NBA results: January 23, 2026 – winners and losers",
+    "description": "Friday night in the NBA brought close finishes, big scoring runs, and a few injury scares. Several teams used strong fourth quarters to change the story of their games. A few stars carried heavy loads, while others watched late leads…",
     "pubDate": "2026-01-24",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/tsimikas-return-liverpool-robertson-replacement-091100258.html",
+    "link": "https://sports.yahoo.com/articles/nba-results-january-23-2026-100845364.html",
     "source": "Google News"
   },
   {
-    "slug": "lightning-take-on-the-blue-jackets-on-3-game-win-streak",
-    "title": "Lightning take on the Blue Jackets on 3-game win streak",
-    "description": "",
+    "slug": "alex-honnold-says-he-s-being-paid-an-embarrassing-amount-for-tapei-101-climb",
+    "title": "Alex Honnold says he’s being paid an ‘embarrassing amount’ for Tapei 101 climb",
+    "description": "‘Skyscraper Live’ will see Honnold attempt to climb the tallest building in Taiwan",
     "pubDate": "2026-01-24",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/lightning-blue-jackets-3-game-091058243.html",
-    "source": "The Associated Press"
-  },
-  {
-    "slug": "new-jersey-visits-seattle-after-glass-39-2-goal-game",
-    "title": "New Jersey visits Seattle after Glass&#39; 2-goal game",
-    "description": "",
-    "pubDate": "2026-01-24",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/jersey-visits-seattle-glass-2-091058995.html",
-    "source": "The Associated Press"
-  },
-  {
-    "slug": "pittsburgh-brings-3-game-win-streak-into-matchup-against-vancouver",
-    "title": "Pittsburgh brings 3-game win streak into matchup against Vancouver",
-    "description": "",
-    "pubDate": "2026-01-24",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/pittsburgh-brings-3-game-win-091057171.html",
-    "source": "The Associated Press"
-  },
-  {
-    "slug": "flames-bring-losing-streak-into-game-against-the-ducks",
-    "title": "Flames bring losing streak into game against the Ducks",
-    "description": "",
-    "pubDate": "2026-01-24",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/flames-bring-losing-streak-game-091057510.html",
-    "source": "The Associated Press"
-  },
-  {
-    "slug": "maple-leafs-bring-3-game-losing-streak-into-matchup-against-the-avalanche",
-    "title": "Maple Leafs bring 3-game losing streak into matchup against the Avalanche",
-    "description": "",
-    "pubDate": "2026-01-24",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/maple-leafs-bring-3-game-091057610.html",
-    "source": "The Associated Press"
-  },
-  {
-    "slug": "edmonton-and-washington-hit-the-ice-in-non-conference-matchup",
-    "title": "Edmonton and Washington hit the ice in non-conference matchup",
-    "description": "",
-    "pubDate": "2026-01-24",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/edmonton-washington-hit-ice-non-091057299.html",
-    "source": "The Associated Press"
-  },
-  {
-    "slug": "he-could-fetch-10m-will-this-werder-star-still-make-a-move",
-    "title": "He could fetch €10m: will this Werder star still make a move?",
-    "description": "What is happening in this winter transfer window at Werder Bremen? Do the Green-Whites have to cope with a painful departure?Justin Njinmah might leave the club for Italy. According to the Italian por...",
-    "pubDate": "2026-01-24",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/could-fetch-10m-werder-star-091000735.html",
+    "link": "https://sports.yahoo.com/articles/alex-honnold-says-being-paid-200235718.html",
     "source": "Google News"
   },
   {
-    "slug": "spurs-close-door-on-mathys-tel-8217-s-exit",
-    "title": "Spurs close door on Mathys Tel&#8217;s exit",
-    "description": "After Vaz and Malen, Roma are looking to make at least one more signing in attack. Baldanzi and Bailey have left Trigoria, while Dovbyk will be out for a long time. Venturino arrived from Genoa, but t...",
+    "slug": "report-willie-taggart-will-join-new-york-giants-39-staff-in-some-capacity",
+    "title": "Report: Willie Taggart will join New York Giants&#39; staff in some capacity",
+    "description": "The New York Giants are expected to hire Willie Taggart to John Harbaugh's coaching staff in a yet-to-be-determined role.",
     "pubDate": "2026-01-24",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/spurs-close-door-mathys-tel-090800981.html",
+    "link": "https://sports.yahoo.com/articles/report-willie-taggart-join-york-100817688.html",
     "source": "Google News"
   },
   {
-    "slug": "mclaren-boss-urges-f1-to-openly-communicate-new-regulations-to-fans",
-    "title": "McLaren boss urges F1 to openly communicate new regulations to fans",
-    "description": "The 2026 F1 campaign will introduce a widespread set of regulation changes and the new ruleset is pretty complicated",
+    "slug": "michigan-basketball-will-go-as-far-as-guards-take-it",
+    "title": "Michigan basketball will go as far as guards take it",
+    "description": "\"I don't take those words lightly,\" Michigan basketball forward Yaxel Lendeborg said of Trey Burke saying \"National championship or bust.\"",
     "pubDate": "2026-01-24",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/mclaren-boss-urges-f1-openly-090530211.html",
+    "link": "https://sports.yahoo.com/articles/michigan-basketball-far-guards-100811258.html",
     "source": "Google News"
   },
   {
-    "slug": "half-a-world-away",
-    "title": "Half A World Away",
-    "description": "“It’s all so far removed from a chilly and disappointing Saturday in Scunthorpe!”, reflects Mike Stubbs as he heads to London on the train for today’s game!",
+    "slug": "detroit-pistons-need-outside-shooting-and-that-39-s-never-been-clearer",
+    "title": "Detroit Pistons need outside shooting, and that&#39;s never been clearer",
+    "description": "In a league that has embraced the 3-point shot more each passing season, the Detroit Pistons are winning games while being anemic to it.",
     "pubDate": "2026-01-24",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/half-world-away-090526728.html",
+    "link": "https://sports.yahoo.com/articles/detroit-pistons-outside-shooting-thats-100811486.html",
     "source": "Google News"
   },
   {
-    "slug": "sri-lanka-wins-the-toss-and-elects-to-bat-in-the-second-odi-against-england",
-    "title": "Sri Lanka wins the toss and elects to bat in the second ODI against England",
-    "description": "",
+    "slug": "detroit-pistons-need-outside-shooting-and-that-39-s-never-been-clearer",
+    "title": "Detroit Pistons need outside shooting, and that&#39;s never been clearer",
+    "description": "In a league that has embraced the 3-point shot more each passing season, the Detroit Pistons are winning games while being anemic to it.",
     "pubDate": "2026-01-24",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/sri-lanka-wins-toss-elects-090322216.html",
+    "link": "https://sports.yahoo.com/articles/detroit-pistons-outside-shooting-thats-100811500.html",
     "source": "Google News"
   },
   {
-    "slug": "is-sinner-alcaraz-in-danger-of-making-majors-boring",
-    "title": "Is Sinner-Alcaraz in danger of making majors boring?",
-    "description": "Though the Carlos Alcaraz and Jannik Sinner rivalry is thrilling, tennis correspondent Russell Fuller ponders whether it could make Grand Slams boring.",
+    "slug": "michigan-basketball-will-go-as-far-as-guards-take-it",
+    "title": "Michigan basketball will go as far as guards take it",
+    "description": "\"I don't take those words lightly,\" Michigan basketball forward Yaxel Lendeborg said of Trey Burke saying \"National championship or bust.\"",
     "pubDate": "2026-01-24",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/sinner-alcaraz-danger-making-majors-162629215.html",
+    "link": "https://sports.yahoo.com/articles/michigan-basketball-far-guards-100811719.html",
     "source": "Google News"
   },
   {
-    "slug": "the-podcast-co-hosts-who-will-be-opponents-in-melbourne",
-    "title": "The podcast co-hosts who will be opponents in Melbourne",
-    "description": "Madison Keys and Jessica Pegula have something else to attend to before they meet in the Australian Open fourth round - recording an episode of their podcast together.",
+    "slug": "former-titans-coordinator-dennard-wilson-interviews-with-chargers",
+    "title": "Former Titans coordinator Dennard Wilson interviews with Chargers",
+    "description": "Former Tennessee Titans defensive coordinator Dennard Wilson interviewed with the Los Angeles Chargers for their open coordinator position.",
     "pubDate": "2026-01-24",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/podcast-co-hosts-opponents-melbourne-074836477.html",
+    "link": "https://sports.yahoo.com/articles/former-titans-coordinator-dennard-wilson-100804632.html",
     "source": "Google News"
   },
   {
-    "slug": "could-gus-bradley-be-in-play-for-titans-defensive-coordinator-opening",
-    "title": "Could Gus Bradley be in play for Titans defensive coordinator opening?",
-    "description": "NFL Insider speculates San Francisco 49ers assistant head coach Gus Bradley could be in play for the Tennessee Titans defensive coordinator opening.",
+    "slug": "nebraska-basketball-updates-injury-status-of-forward-braden-frager",
+    "title": "Nebraska basketball updates injury status of forward Braden Frager",
+    "description": "Nebraska basketball freshman Braden Frager has been declared day-to-day with an ankle injury.",
     "pubDate": "2026-01-24",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/could-gus-bradley-play-titans-090255802.html",
+    "link": "https://sports.yahoo.com/articles/nebraska-basketball-updates-injury-status-100706405.html",
     "source": "Google News"
   },
   {
-    "slug": "army-men-earn-inside-lacrosse-no-12-national-preseason-ranking",
-    "title": "Army men earn Inside Lacrosse No. 12 national preseason ranking",
-    "description": "Army men's lacrosse tabbed No. 12 in Inside Lacrosse magazine NCAA Div. I preseason rankings. Army was No. 14 by USA Lacrosse Magazine.",
+    "slug": "at-44-will-power-isn-39-t-just-new-to-the-rolex-24-but-new-to-daytona",
+    "title": "At 44, Will Power isn&#39;t just new to the Rolex 24, but new to Daytona",
+    "description": "Will Power has accomplished a lot in his long racing career, but this week brings a brand new experience: his first Rolex 24 and first Daytona visit.",
     "pubDate": "2026-01-24",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/army-men-earn-inside-lacrosse-090237049.html",
+    "link": "https://sports.yahoo.com/articles/44-power-isnt-just-rolex-100532166.html",
     "source": "Google News"
   },
   {
-    "slug": "malen-dybala-duo-expected-to-start-vs-milan",
-    "title": "Malen-Dybala duo expected to start vs Milan",
-    "description": "oma vs. Milan, on January 25th at 8:45 PM at the Stadio Olimpico, promises to be a crucial match for the Giallorossi. Not only is it a win in the league table, but it’s also a chance to reverse thei...",
+    "slug": "rolex-24-starting-grid-see-full-imsa-lineup-for-daytona-race",
+    "title": "Rolex 24 starting grid: See full IMSA lineup for Daytona race",
+    "description": "The Rolex 24 at Daytona is set for 1:40 p.m. today. Here is the full starting lineup.",
     "pubDate": "2026-01-24",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/malen-dybala-duo-expected-start-090200950.html",
+    "link": "https://sports.yahoo.com/articles/rolex-24-starting-grid-see-100525366.html",
     "source": "Google News"
   },
   {
-    "slug": "colorado-coach-tad-boyle-reacts-to-loss-against-kansas-basketball",
-    "title": "Colorado coach Tad Boyle reacts to loss against Kansas basketball",
-    "description": "Kansas basketball picked up a Big 12 Conference win on the road earlier this week at Colorado. Here’s what the Buffaloes’ coach said after the game.",
+    "slug": "flavio-briatore-christian-horner-interested-in-otro-s-alpine-f1-team-stake",
+    "title": "Flavio Briatore: Christian Horner interested in Otro’s Alpine F1 team stake",
+    "description": "According to Flavio Briatore, Christian Horner is in talks to acquire a stake in the Alpine F1 team",
     "pubDate": "2026-01-24",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/colorado-coach-tad-boyle-reacts-090111375.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "how-to-watch-georgia-women-39-s-basketball-vs-kentucky-tv-channel-live-stream",
-    "title": "How to watch Georgia women&#39;s basketball vs. Kentucky, TV channel, live stream",
-    "description": "Here's what you need to know to watch Georgia women's basketball take on Kentucky at Rupp Arena in Lexington.",
-    "pubDate": "2026-01-24",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/watch-georgia-womens-basketball-vs-090104823.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "8220-the-scary-thing-8221-8211-liam-rosenior-makes-bold-claim-about-robert-sanchez",
-    "title": "&#8220;The scary thing&#8221; &#8211; Liam Rosenior makes bold claim about Robert Sanchez",
-    "description": "Liam Rosenior has praised the form of Robert Sanchez and believes the Chelsea goalkeeper has another level he can get to.Chelsea opted against signing a new goalkeeper in the summer, despite heavy lin...",
-    "pubDate": "2026-01-24",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/scary-thing-liam-rosenior-makes-090000253.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "preview-juventus-women-vs-parma",
-    "title": "Preview: Juventus Women vs Parma",
-    "description": "Following a slip on the road last time out, the Juventus Women’s First Team will be hoping to bounce back in Serie A Women Matchday 11 as Parma visit the Stadio Pozzo-La Marmora in Biella. Kick-off ...",
-    "pubDate": "2026-01-24",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/preview-juventus-women-vs-parma-090000348.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "alessia-capelletti-joins-como-women-on-loan",
-    "title": "Alessia Capelletti joins Como Women on loan",
-    "description": "Alessia Capelletti will see out the remainder of the 2025/26 season with Como Women, temporarily leaving Juventus. The goalkeeper has joined the Lombard club on loan until the end of the current campa...",
-    "pubDate": "2026-01-24",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/alessia-capelletti-joins-como-women-090000798.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "camavinga-mastantuono-start-in-a-4-3-3-how-real-madrid-can-line-up-against-villarreal",
-    "title": "Camavinga, Mastantuono start in a 4-3-3: How Real Madrid can line up against Villarreal",
-    "description": "Estadio de la Ceramica will be the stage for one of the most intriguing fixtures of the La Liga weekend, as Villarreal host Real Madrid on Saturday night. With the title race already heating up, this...",
-    "pubDate": "2026-01-24",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/camavinga-mastantuono-start-4-3-090000183.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "france-star-to-miss-six-nations-opener-due-to-fertility-treatment",
-    "title": "France star to miss Six Nations opener due to fertility treatment",
-    "description": "Thibaud Flament won’t be available for the clash with Ireland in Paris on 5 February",
-    "pubDate": "2026-01-24",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/france-star-miss-six-nations-223523944.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "carrasco-pushing-to-join-roma",
-    "title": "Carrasco pushing to join Roma",
-    "description": "Roma is aggressively seeking a reinforcement for the left midfield, a position that has become a priority in the Giallorossi transfer market. According to La Gazzetta dello Sport, the red-circled box ...",
-    "pubDate": "2026-01-24",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/carrasco-pushing-join-roma-085900194.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "spizzirri-acknowledges-39-funny-timing-39-but-accepts-australian-open-heat-rules-after-loss-to-sinner",
-    "title": "Spizzirri acknowledges &#39;funny timing&#39; but accepts Australian Open heat rules after loss to Sinner",
-    "description": "He knew the extreme heat rule would come into play whether or not he broke Jannik Sinner's serve Saturday in the third game of the third set.  Eliot Spizzirri went ahead and broke the two-time defending champion 's serve anyway, taking confidence and momentum into an eight-minute break while the roo",
-    "pubDate": "2026-01-24",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/spizzirri-acknowledges-funny-timing-accepts-085703766.html",
-    "source": "JOHN PYE"
-  },
-  {
-    "slug": "official-venturino-joins-roma-from-genoa",
-    "title": "Official: Venturino joins Roma from Genoa",
-    "description": "Roma have officially welcomed their third January signing.“AS Roma have announced that Lorenzo Venturino has joined the club from Genoa on loan with an option to buy.Born in 2006, Venturino is a rig...",
-    "pubDate": "2026-01-24",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/official-venturino-joins-roma-genoa-085600574.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "today-s-papers-inter-comeback-dimarco-spice-verratti-idea",
-    "title": "Today’s Papers: Inter comeback, Dimarco spice, Verratti idea",
-    "description": "La Gazzetta dello SportInter things They fall -02 behind, and then crush Pisa to go +6 at the topSommer and Luis Henrique poor, Dimarco comes on and changes everything. Six goalscorers. Chivu: ‘Goa...",
-    "pubDate": "2026-01-24",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/today-papers-inter-comeback-dimarco-085500716.html",
+    "link": "https://sports.yahoo.com/articles/flavio-briatore-christian-horner-interested-100515512.html",
     "source": "Google News"
   },
   {
@@ -999,24 +1026,6 @@
     "source": "BBC Sport"
   },
   {
-    "slug": "spurs-open-talks-to-sign-liverpool-s-robertson",
-    "title": "Spurs open talks to sign Liverpool's Robertson",
-    "description": "Tottenham enter into talks with Liverpool as they look to secure a deal for left-back Andy Robertson.",
-    "pubDate": "2026-01-23",
-    "image": "",
-    "link": "https://www.bbc.com/sport/football/articles/c79rr2440elo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport"
-  },
-  {
-    "slug": "forest-sign-6ft-7in-napoli-striker-lucca-on-loan",
-    "title": "Forest sign 6ft 7in Napoli striker Lucca on loan",
-    "description": "Nottingham Forest sign Napoli striker Lorenzo Lucca on loan until the end of the season with an option to buy in the summer.",
-    "pubDate": "2026-01-23",
-    "image": "",
-    "link": "https://www.bbc.com/sport/football/articles/c1m7730nzlpo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport"
-  },
-  {
     "slug": "pimblett-the-five-moments-that-changed-everything",
     "title": "Pimblett - the five moments that changed everything",
     "description": "Paddy Pimblett sits down with BBC Sport to look back at five moments that have shaped him before his UFC interim title fight against Justin Gaethje.",
@@ -1044,8 +1053,26 @@
     "source": "BBC Sport"
   },
   {
-    "slug": "ospreys-draw-with-lions-after-traumatic-week",
-    "title": "Ospreys draw with Lions after traumatic week",
+    "slug": "spurs-open-talks-to-sign-liverpool-s-robertson",
+    "title": "Spurs open talks to sign Liverpool's Robertson",
+    "description": "Tottenham enter into talks with Liverpool as they look to secure a deal for left-back Andy Robertson.",
+    "pubDate": "2026-01-23",
+    "image": "",
+    "link": "https://www.bbc.com/sport/football/articles/c79rr2440elo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport"
+  },
+  {
+    "slug": "forest-sign-6ft-7in-napoli-striker-lucca-on-loan",
+    "title": "Forest sign 6ft 7in Napoli striker Lucca on loan",
+    "description": "Nottingham Forest sign Napoli striker Lorenzo Lucca on loan until the end of the season with an option to buy in the summer.",
+    "pubDate": "2026-01-23",
+    "image": "",
+    "link": "https://www.bbc.com/sport/football/articles/c1m7730nzlpo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport"
+  },
+  {
+    "slug": "ospreys-draw-with-lions-after-distressing-week",
+    "title": "Ospreys draw with Lions after distressing week",
     "description": "Ospreys finish a traumatic week to share the spoils with Lions in the United Rugby Championship (URC).",
     "pubDate": "2026-01-23",
     "image": "",
@@ -1080,6 +1107,15 @@
     "source": "BBC Sport"
   },
   {
+    "slug": "all-your-fpl-stats-and-premier-league-team-news-in-one-place",
+    "title": "All your FPL stats and Premier League team news in one place",
+    "description": "Every key bit of Premier League team news and the most important Fantasy Premier League statistics - all in one place.",
+    "pubDate": "2026-01-23",
+    "image": "",
+    "link": "https://www.bbc.com/sport/articles/cqxyyvq9077o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport"
+  },
+  {
     "slug": "a-big-blow-grealish-has-stress-fracture",
     "title": "'A big blow' - Grealish has stress fracture",
     "description": "There is no timescale on on-loan Everton winger Jack Grealish's recovery from a stress fracture in his foot, says manager David Moyes.",
@@ -1095,15 +1131,6 @@
     "pubDate": "2026-01-23",
     "image": "",
     "link": "https://www.bbc.com/sport/rugby-union/articles/c0er5njer7eo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport"
-  },
-  {
-    "slug": "all-your-fpl-stats-and-premier-league-team-news-in-one-place",
-    "title": "All your FPL stats and Premier League team news in one place",
-    "description": "Every key bit of Premier League team news and the most important Fantasy Premier League statistics - all in one place.",
-    "pubDate": "2026-01-23",
-    "image": "",
-    "link": "https://www.bbc.com/sport/articles/cqxyyvq9077o?at_medium=RSS&at_campaign=rss",
     "source": "BBC Sport"
   },
   {
@@ -1134,15 +1161,6 @@
     "source": "BBC Sport"
   },
   {
-    "slug": "former-man-utd-captain-zelem-joins-west-ham-on-loan",
-    "title": "Former Man Utd captain Zelem joins West Ham on loan",
-    "description": "West Ham sign England midfielder Katie Zelem from fellow Women's Super League side London City Lionesses on loan until the end of the season.",
-    "pubDate": "2026-01-23",
-    "image": "",
-    "link": "https://www.bbc.com/sport/football/articles/cjdj95pzlkvo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport"
-  },
-  {
     "slug": "glasner-100-committed-to-palace-for-rest-of-season",
     "title": "Glasner '100% committed' to Palace for rest of season",
     "description": "Oliver Glasner says he is \"100% committed\" to Crystal Palace for the remainder of his time as manager of the club.",
@@ -1152,30 +1170,12 @@
     "source": "BBC Sport"
   },
   {
-    "slug": "ufc-fighter-smotherman-collapses-on-stage-at-weigh-in",
-    "title": "UFC fighter Smotherman collapses on stage at weigh-in",
-    "description": "American bantamweight Cameron Smotherman collapses on the floor at the official weigh-in for Saturday's UFC 324 in Las Vegas.",
-    "pubDate": "2026-01-23",
-    "image": "",
-    "link": "https://www.bbc.com/sport/mixed-martial-arts/articles/cp9jm53ygd1o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport"
-  },
-  {
     "slug": "spurs-open-talks-to-sign-liverpool-s-robertson",
     "title": "Spurs open talks to sign Liverpool's Robertson",
     "description": "Tottenham enter into talks with Liverpool as they look to secure a deal for left-back Andy Robertson.",
     "pubDate": "2026-01-23",
     "image": "",
     "link": "https://www.bbc.com/sport/football/articles/c79rr2440elo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport"
-  },
-  {
-    "slug": "ospreys-draw-with-lions-after-traumatic-week",
-    "title": "Ospreys draw with Lions after traumatic week",
-    "description": "Ospreys finish a traumatic week to share the spoils with Lions in the United Rugby Championship (URC).",
-    "pubDate": "2026-01-23",
-    "image": "",
-    "link": "https://www.bbc.com/sport/rugby-union/articles/cvgdk576j07o?at_medium=RSS&at_campaign=rss",
     "source": "BBC Sport"
   },
   {
