@@ -18,9 +18,9 @@
     "source": "Rob Demovsky"
   },
   {
-    "slug": "nuggets-grizz-mavs-bucks-ppd-by-winter-storm",
-    "title": "Nuggets-Grizz, Mavs-Bucks ppd. by winter storm",
-    "description": "NBA matchups between the Nuggets and Grizzlies as well as the Mavericks and Bucks were among the sports events postponed because of the winter storm across much of the United States.",
+    "slug": "nuggets-grizz-among-events-ppd-by-winter-storm",
+    "title": "Nuggets-Grizz among events ppd. by winter storm",
+    "description": "Sunday's NBA matchup between the Nuggets and Grizzlies was among the sports events postponed because of the winter storm across much of the United States.",
     "pubDate": "2026-01-25",
     "image": "",
     "link": "https://www.espn.com/espn/story/_/id/47726156/nba-postpones-grizzlies-nuggets-game-due-winter-storm",
@@ -36,15 +36,6 @@
     "source": "Mark Schlabach"
   },
   {
-    "slug": "arteta-calls-out-poor-arsenal-after-man-utd-loss",
-    "title": "Arteta calls out 'poor' Arsenal after Man Utd loss",
-    "description": "Mikel Arteta has challenged Arsenal to show the mental strength to win the Premier League after falling to a nervous 3-2 home defeat against Manchester United.",
-    "pubDate": "2026-01-25",
-    "image": "",
-    "link": "https://www.espn.com/soccer/story/_/id/47726787/mikel-arteta-challenges-poor-arsenal-man-united-loss",
-    "source": "James Olley"
-  },
-  {
     "slug": "team-penske-gets-3-peat-in-rolex-24-at-daytona",
     "title": "Team Penske gets 3-peat in Rolex 24 at Daytona",
     "description": "Roger Penske's team won the Rolex 24 at Daytona for a third straight year, becoming the third squad in the 64-year history of the prestigious endurance race to do so.",
@@ -54,12 +45,21 @@
     "source": "www.espn.com - TOP"
   },
   {
-    "slug": "despite-lingering-injury-darnold-set-to-face-rams",
-    "title": "Despite lingering injury, Darnold set to face Rams",
-    "description": "Seahawks quarterback Sam Darnold will start Sunday's NFC Championship Game, but he and Drew Lock split reps at practice last week due to Darnold's lingering oblique injury.",
+    "slug": "man-utd-into-top-4-with-win-over-leader-arsenal",
+    "title": "Man Utd into top 4 with win over leader Arsenal",
+    "description": "Matheus Cunha struck in the 88th minute to hand Manchester United a sensational victory which dents Arsenal's title hopes.",
     "pubDate": "2026-01-25",
     "image": "",
-    "link": "https://www.espn.com/nfl/story/_/id/47723267/sam-darnold-set-nfc-championship-game-lingering-injury",
+    "link": "https://www.espn.com/soccer/report/_/gameId/740816",
+    "source": "PA"
+  },
+  {
+    "slug": "sources-broncos-nix-to-be-sidelined-12-weeks",
+    "title": "Sources: Broncos' Nix to be sidelined 12 weeks",
+    "description": "Broncos quarterback Bo Nix is expected to be sidelined 12 weeks after undergoing surgery last week on his broken right ankle, sources told ESPN.",
+    "pubDate": "2026-01-25",
+    "image": "",
+    "link": "https://www.espn.com/nfl/story/_/id/47722725/sources-broncos-bo-nix-sidelined-12-weeks-ankle-surgery",
     "source": "Adam Schefter"
   },
   {
@@ -270,12 +270,12 @@
     "source": "BBC Sport"
   },
   {
-    "slug": "totally-unrealistic-to-win-every-game-arteta",
-    "title": "Totally unrealistic to win every game - Arteta ",
-    "description": "Arsenal manager Mikel Arteta says his side were \"not at their best today\" but it is \"totally unrealistic\" to win every single game after his side lost 3-2 to Manchester United at the Emirates Stadium.",
+    "slug": "chelsea-outstanding-very-professional-in-palace-win-rosenior",
+    "title": "Chelsea 'outstanding' & 'very professional' in Palace win - Rosenior",
+    "description": "Chelsea head coach Liam Rosenior says his side were \"outstanding\" and \"very professional\" in their 3-1 away win over Crystal Palace in the Premier League.",
     "pubDate": "2026-01-25",
     "image": "",
-    "link": "https://www.bbc.com/sport/football/videos/cdxjd9qjk2xo?at_medium=RSS&at_campaign=rss",
+    "link": "https://www.bbc.com/sport/football/videos/cly9x273rrxo?at_medium=RSS&at_campaign=rss",
     "source": "BBC Sport"
   },
   {
@@ -342,12 +342,12 @@
     "source": "BBC Sport"
   },
   {
-    "slug": "totally-unrealistic-to-win-every-game-arteta",
-    "title": "Totally unrealistic to win every game - Arteta ",
-    "description": "Arsenal manager Mikel Arteta says his side were \"not at their best today\" but it is \"totally unrealistic\" to win every single game after his side lost 3-2 to Manchester United at the Emirates Stadium.",
+    "slug": "so-many-positives-to-take-carrick",
+    "title": "So many positives to take - Carrick",
+    "description": "Manchester United manager Michael Carrick says he is \"so proud\" of his side and there are \"many positives to take\" after they beat Mikel Arteta's Arsenal 3-2 at the Emirates Stadium.",
     "pubDate": "2026-01-25",
     "image": "",
-    "link": "https://www.bbc.com/sport/football/videos/cdxjd9qjk2xo?at_medium=RSS&at_campaign=rss",
+    "link": "https://www.bbc.com/sport/football/videos/c98pm3dpzn1o?at_medium=RSS&at_campaign=rss",
     "source": "BBC Sport"
   },
   {
@@ -423,15 +423,6 @@
     "source": "BBC Sport"
   },
   {
-    "slug": "so-many-positives-to-take-carrick",
-    "title": "So many positives to take - Carrick",
-    "description": "Manchester United manager Michael Carrick says he is \"so proud\" of his side and there are \"many positives to take\" after they beat Mikel Arteta's Arsenal 3-2 at the Emirates Stadium.",
-    "pubDate": "2026-01-25",
-    "image": "",
-    "link": "https://www.bbc.com/sport/football/videos/c98pm3dpzn1o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport"
-  },
-  {
     "slug": "false-confidence-cost-pimblett-gaethje",
     "title": "'False confidence' cost Pimblett - Gaethje",
     "description": "UFC interim lightweight champion Justin Gaethje says Paddy Pimblett's \"false confidence\" cost him in their fight at UFC 324.",
@@ -456,6 +447,15 @@
     "pubDate": "2026-01-25",
     "image": "",
     "link": "https://www.bbc.com/sport/football/videos/c5y3xvg83d8o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport"
+  },
+  {
+    "slug": "these-are-tough-moments-tough-weeks-for-palace-glasner",
+    "title": "These are 'tough moments & tough weeks' for Palace - Glasner",
+    "description": "Crystal Palace manager Oliver Glasner says his side showed great \"character\" and believes they are a group that \"never gives up\" despite falling to a 3-1 loss against Chelsea at Selhurst Park.",
+    "pubDate": "2026-01-25",
+    "image": "",
+    "link": "https://www.bbc.com/sport/football/videos/c62053n9z8go?at_medium=RSS&at_campaign=rss",
     "source": "BBC Sport"
   },
   {
@@ -501,15 +501,6 @@
     "pubDate": "2026-01-25",
     "image": "",
     "link": "https://www.bbc.com/sport/football/articles/cvgj3erkgdlo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport"
-  },
-  {
-    "slug": "these-are-tough-moments-tough-weeks-for-palace-glasner",
-    "title": "These are 'tough moments & tough weeks' for Palace - Glasner",
-    "description": "Crystal Palace manager Oliver Glasner says his side showed great \"character\" and believes they are a group that \"never gives up\" despite falling to a 3-1 loss against Chelsea at Selhurst Park.",
-    "pubDate": "2026-01-25",
-    "image": "",
-    "link": "https://www.bbc.com/sport/football/videos/c62053n9z8go?at_medium=RSS&at_campaign=rss",
     "source": "BBC Sport"
   },
   {
@@ -648,6 +639,366 @@
     "source": "BBC Sport"
   },
   {
+    "slug": "breanna-stewart-tyrese-haliburton-nbpa-minnesota-sports-teams-speak-out-after-ice-agents-shoot-and-kill-va-nurse-alex-pretti",
+    "title": "Breanna Stewart, Tyrese Haliburton, NBPA, Minnesota sports teams speak out after ICE agents shoot and kill VA nurse Alex Pretti",
+    "description": "Timberwolves head coach Chris Finch said the organization was \"heartbroken for what we are having to witness and endure and watch.\"",
+    "pubDate": "2026-01-25",
+    "image": "",
+    "link": "https://sports.yahoo.com/nba/article/breanna-stewart-tyrese-haliburton-nbpa-minnesota-sports-teams-speak-out-after-ice-agents-shoot-and-kill-va-nurse-alex-pretti-211239501.html",
+    "source": "Chris Cwik"
+  },
+  {
+    "slug": "senegal-football-boss-says-host-morocco-acted-badly-at-afcon",
+    "title": "Senegal football boss says host Morocco acted badly at AFCON",
+    "description": "Abdoulaye Fall, the president of the Senegalese Football Federation (FSF), on Sunday criticised Morocco and the Confederation of African Football one week after the controversial end to the Africa Cup of Nations.Fall, speaking in the local Wolof language at a ceremony on Saturday, pointed out that M",
+    "pubDate": "2026-01-25",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/senegal-football-boss-says-host-210742153.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "no-16-oklahoma-knocks-off-auburn-on-the-road",
+    "title": "No. 16 Oklahoma knocks off Auburn on the road",
+    "description": "OU outscored Auburn 13-6 in the final 3:43 to get out of Alabama with a win.",
+    "pubDate": "2026-01-25",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/no-16-oklahoma-knocks-off-210708848.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "bengals-free-agent-is-obvious-next-re-signing-goal-for-cincinnati",
+    "title": "Bengals free agent is obvious next re-signing goal for Cincinnati",
+    "description": "The Bengals need to get this free agent back under contract soon.",
+    "pubDate": "2026-01-25",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/bengals-free-agent-obvious-next-210701421.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "l-a-rams-qb-matthew-stafford-still-hasn-t-scored-a-buyer-for-12-5-million-drake-compound-will-he-have-better-luck-against-the-seahawks",
+    "title": "L.A. Rams QB Matthew Stafford Still Hasn’t Scored a Buyer for $12.5 Million Drake Compound—Will He Have Better Luck Against the Seahawks?",
+    "description": "Stafford has more on his plate than just a high-stakes matchup against the Seattle Seahawks in the conference championships.",
+    "pubDate": "2026-01-25",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/l-rams-qb-matthew-stafford-210700363.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "denver-broncos-vs-new-england-patriots-live-discussion",
+    "title": "Denver Broncos vs. New England Patriots - Live Discussion",
+    "description": "Join Mile High Report to discuss the action from the AFC Championship Game between the Denver Broncos and New England Patriots.",
+    "pubDate": "2026-01-25",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/denver-broncos-vs-england-patriots-193000053.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "liverpool-take-major-step-towards-bradley-barcola-agreement",
+    "title": "Liverpool take major step towards Bradley Barcola agreement",
+    "description": "Liverpool have moved closer to signing Bradley Barcola. The Reds continued to be linked with the Frenchman.Liverpool have been linked with a move for Bradley Barcola for some time now. And with good r...",
+    "pubDate": "2026-01-25",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/liverpool-major-step-towards-bradley-210500700.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "rangers-monitor-this-young-midfield-prospect-amid-dan-neil-blow-why-rohl-should-sanction-the-transfer",
+    "title": "Rangers Monitor This Young Midfield Prospect Amid Dan Neil Blow: Why Rohl Should Sanction The Transfer",
+    "description": "Despite being favourites to land Sunderland outcast Dan Neil, Rangers are now facing a strong challenge from Ipswich Town, who are reportedly leading the pack after stepping up their interest this wee...",
+    "pubDate": "2026-01-25",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/rangers-monitor-young-midfield-prospect-210500557.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "hearts-39-rattle-39-celtic-but-did-red-card-play-39-massive-part-39",
+    "title": "Hearts &#39;rattle&#39; Celtic - but did red card play &#39;massive part&#39;?",
+    "description": "Hearts and Celtic play out a thrilling draw in the Scottish Premiership title race. But did Hearts deserve to win? Or did a controversial red card cost Celtic?",
+    "pubDate": "2026-01-25",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/hearts-rattle-celtic-did-red-203306199.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "lilian-garcia-returning-to-wwe-raw-due-to-weather-emergency",
+    "title": "Lilian Garcia Returning To WWE Raw Due To Weather Emergency",
+    "description": "Lilian Garcia is returning to \"WWE Raw\" as the ongoing weather emergency has left Alicia Taylor stuck in the airport.",
+    "pubDate": "2026-01-25",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/lilian-garcia-returning-wwe-raw-210319697.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "live-updates-patriots-battle-broncos-with-trip-to-super-bowl-on-the-line",
+    "title": "Live updates: Patriots battle Broncos with trip to Super Bowl on the line",
+    "description": "Let's go, Pats!",
+    "pubDate": "2026-01-25",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/live-updates-patriots-battle-broncos-161957375.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "no-10-iowa-extends-winning-streak-to-eight-with-91-70-win-over-no-12-ohio-state",
+    "title": "No. 10 Iowa extends winning streak to eight with 91-70 win over No. 12 Ohio State",
+    "description": "Freshman Addie Deal had a season-high 20 points, Hannah Stuelke had 18 points and 15 rebounds, and Ava Heiden had 18 points as No. 10 Iowa defeated No. 12 Ohio State 91-70 on Sunday.  The Hawkeyes (18-2, 9-0 Big Ten), playing their third consecutive game against a ranked team, stayed at the top of t",
+    "pubDate": "2026-01-25",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/no-10-iowa-extends-winning-210254799.html",
+    "source": "JOHN BOHNENKAMP"
+  },
+  {
+    "slug": "report-jaguars-add-brian-picucci-as-run-game-coordinator",
+    "title": "Report: Jaguars add Brian Picucci as run game coordinator",
+    "description": "The Jaguars are adding an offensive assistant.",
+    "pubDate": "2026-01-25",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/report-jaguars-add-brian-picucci-210224209.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "patriots-vs-broncos-live-score-updates-highlights-from-2026-afc-championship-game",
+    "title": "Patriots vs. Broncos live score, updates, highlights from 2026 AFC championship game",
+    "description": "The Sporting News is tracking live scoring updates and highlights for Patriots vs. Broncos in the 2026 AFC championship game on Sunday. Follow for complete results with a trip to Super Bowl 60 on the line.",
+    "pubDate": "2026-01-25",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/patriots-vs-broncos-live-score-150001776.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "carrick-relishes-man-utd-opportunity-after-stunning-arsenal",
+    "title": "Carrick relishes Man Utd opportunity after stunning Arsenal",
+    "description": "Michael Carrick urged Manchester United to build on the remarkable start to his interim reign after Matheus Cunha's rocket sealed a stunning 3-2 win at Premier League leaders Arsenal.United are up to fourth in the Premier League and Carrick praised the players for responding to his tactical demands.",
+    "pubDate": "2026-01-25",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/carrick-relishes-man-utd-opportunity-210155359.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "giants-to-hire-chris-horton-as-special-teams-coordinator",
+    "title": "Giants to hire Chris Horton as special teams coordinator",
+    "description": "John Harbaugh has landed his special teams coordinator.",
+    "pubDate": "2026-01-25",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/giants-hire-chris-horton-special-210135356.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "lsu-women-39-s-basketball-vs-florida-time-change-due-to-winter-storm",
+    "title": "LSU women&#39;s basketball vs Florida time change due to winter storm",
+    "description": "Start time for LSU women's basketball's home game against Florida Monday night has been moved up. Here are the details.",
+    "pubDate": "2026-01-25",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/lsu-womens-basketball-vs-florida-210115288.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "girls-lit-postponed-when-will-louisville-basketball-tournament-begin",
+    "title": "Girls LIT postponed. When will Louisville basketball tournament begin?",
+    "description": "The girls Louisville Invitational Tournament has been delayed by the winter storm. Here's the latest on the girls LIT basketball schedule changes.",
+    "pubDate": "2026-01-25",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/girls-lit-postponed-louisville-basketball-210115173.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "breanna-stewart-tyrese-haliburton-other-athletes-protest-after-fatal-minneapolis-shooting",
+    "title": "Breanna Stewart, Tyrese Haliburton, other athletes protest after fatal Minneapolis shooting",
+    "description": "Unrivaled league co-founder Breanna Stewart was among a handful of athletes who have spoken out in the immediate aftermath of a second fatal shooting involving federal agents in Minneapolis. The two-time WNBA MVP held an “Abolish ICE” sign during player introductions ahead of her matchup between the",
+    "pubDate": "2026-01-25",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/breanna-stewart-tyrese-haliburton-other-210104181.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "how-the-nets-were-doomed-by-details-in-double-overtime-loss-to-celtics",
+    "title": "How the Nets were doomed by details in double overtime loss to Celtics",
+    "description": "The Nets spent most of Friday night looking like a team that actually learned something from Wednesday’s mess at Madison Square Garden. And then, when the game demanded the smallest details, Brooklyn let it slip anyway. That’s the brutal part of their 130-126 double-overtime loss to the Boston Celti",
+    "pubDate": "2026-01-25",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/nets-were-doomed-details-double-210100165.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "who-is-jarrett-stidham-39-s-wife-meet-kennedy-stidham-spouse-of-broncos-qb-with-ties-to-nba-39-s-76ers-nhl-39-s-devils",
+    "title": "Who is Jarrett Stidham&#39;s wife? Meet Kennedy Stidham, spouse of Broncos QB with ties to NBA&#39;s 76ers, NHL&#39;s Devils",
+    "description": "Here is all you need to know about Jarrett Stidham's wife.",
+    "pubDate": "2026-01-25",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/jarrett-stidhams-wife-meet-kennedy-210100355.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "what-is-the-39-mike-39-in-football-why-qbs-yell-a-uniform-number-with-that-call-before-plays",
+    "title": "What is the &#39;Mike&#39; in football? Why QBs yell a uniform number with that call before plays",
+    "description": "It's a key piece of alignment.",
+    "pubDate": "2026-01-25",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/mike-football-why-qbs-yell-210059125.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "2026-tennessee-softball-preview-alannah-leach",
+    "title": "2026 Tennessee softball preview: Alannah Leach",
+    "description": "2026 Lady Vols softball preview: Outfielder Alannah Leach",
+    "pubDate": "2026-01-25",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/2026-tennessee-softball-preview-alannah-210036193.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "patriots-vs-broncos-live-updates-score-news-from-afc-championship-game",
+    "title": "Patriots vs. Broncos: Live updates, score, news from AFC Championship Game",
+    "description": "New England looks to get back to the Super Bowl.",
+    "pubDate": "2026-01-25",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/patriots-vs-broncos-live-updates-192546314.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "bruce-prichard-recalls-sabu-almost-appearing-in-the-1996-wwe-royal-rumble",
+    "title": "Bruce Prichard Recalls Sabu Almost Appearing In The 1996 WWE Royal Rumble",
+    "description": "According to Bruce Prichard, the 1996 Rumble was supposed to have opened the door for Sabu to debut in the promotion, 10 years before he actually did.",
+    "pubDate": "2026-01-25",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/bruce-prichard-recalls-sabu-almost-210000585.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "juventus-3-0-napoli-live-post-match-show-from-turin-video",
+    "title": "Juventus 3-0 Napoli: Live post-match show from Turin – video",
+    "description": "Join our editor, Lorenzo Bettoni and writer Sam Wilson for a post-match show following Juventus’ 3-0 win over Napoli.Luciano Spalletti’s Juventus secured a massive 3-0 win over Napoli on Sunday, m...",
+    "pubDate": "2026-01-25",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/juventus-3-0-napoli-live-210000581.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "islam-makhachev-and-kamaru-usman-face-off-backstage-at-ufc-324",
+    "title": "Islam Makhachev and Kamaru Usman face off backstage at UFC 324",
+    "description": "Islam Makhachev and Kamaru Usman face off, pushing for welterweight title fight.",
+    "pubDate": "2026-01-25",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/islam-makhachev-kamaru-usman-face-210000387.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "where-is-super-bowl-60",
+    "title": "Where is Super Bowl 60?",
+    "description": "The Super Bowl is headed back to the Bay Area in 2026. Mark Schofield runs through the details of the location for Super Bowl 60.",
+    "pubDate": "2026-01-25",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/where-super-bowl-60-210000183.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "miami-defensive-back-transfers-to-tennessee-football",
+    "title": "Miami defensive back transfers to Tennessee football",
+    "description": "Tennessee football receives a transfer commitment from Miami.",
+    "pubDate": "2026-01-25",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/miami-defensive-back-transfers-tennessee-205841126.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "live-coverage-patriots-vs-broncos",
+    "title": "Live Coverage | Patriots vs. Broncos",
+    "description": "The Patriots and Broncos square off with a trip to Super Bowl 60 on the line. MassLive has full coverage from Denver.",
+    "pubDate": "2026-01-25",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/live-coverage-patriots-vs-broncos-170043813.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "giants-hire-chris-horton-as-assistant-head-coach-special-teams-coordinator",
+    "title": "Giants hire Chris Horton as assistant head coach/special teams coordinator",
+    "description": "Tom Pelissero reports that the Giants are hiring Chris Horton as their assistant head coach/special teams coordinator",
+    "pubDate": "2026-01-25",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/giants-hire-chris-horton-assistant-205750589.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "milwaukee-bucks-game-vs-mavericks-postponed-due-to-weather-in-texas",
+    "title": "Milwaukee Bucks game vs. Mavericks postponed due to weather in Texas",
+    "description": "The Milwaukee Bucks game vs. the Dallas Mavericks on Jan. 24 was postponed due to weather. The Mavericks could not get out of Texas in time to play.",
+    "pubDate": "2026-01-25",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/milwaukee-bucks-game-vs-mavericks-205704188.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "rumor-alex-anzalone-s-detroit-era-may-be-ending",
+    "title": "Rumor: Alex Anzalone’s Detroit Era May Be Ending",
+    "description": "Detroit Lions linebacker Alex Anzalone is set to hit free agency, and a reunion with Aaron Glenn and the New York Jets is gaining steam.",
+    "pubDate": "2026-01-25",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/rumor-alex-anzalone-detroit-era-205533921.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "receiver-and-returner-ian-duarte-commits-to-tennessee",
+    "title": "Receiver and returner Ian Duarte commits to Tennessee",
+    "description": "Some special teams help.",
+    "pubDate": "2026-01-25",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/receiver-returner-ian-duarte-commits-205519789.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "this-stat-shows-a-major-issue-the-lakers-need-to-fix",
+    "title": "This stat shows a major issue the Lakers need to fix",
+    "description": "The Lakers need to fix this quickly.",
+    "pubDate": "2026-01-25",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/stat-shows-major-issue-lakers-205454088.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "mariners-swipe-3-8-million-international-phenom-from-yankees",
+    "title": "Mariners swipe $3.8 million international phenom from Yankees",
+    "description": "This is a huge win for Seattle.",
+    "pubDate": "2026-01-25",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/mariners-swipe-3-8-million-205404583.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "manchester-united-should-stick-with-michael-carrick-what-39-s-the-worst-that-could-happen",
+    "title": "Manchester United should stick with Michael Carrick — What&#39;s the worst that could happen?",
+    "description": "Manchester United has been a club perpetually pivoting in a new direction, a club in constant identity crisis since Sir Alex Ferguson departed in 2013, and a club that just needs to hit pause and seriously re-evaluate itself.",
+    "pubDate": "2026-01-25",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/manchester-united-stick-michael-carrick-205258872.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "man-city-injury-list-players-out-potential-return-dates-predicted-lineup-for-next-game-vs-galatasaray",
+    "title": "Man City injury list: Players out, potential return dates, predicted lineup for next game vs. Galatasaray",
+    "description": "Manchester City need to beat Galatasaray and hope results elsewhere go their way to progress directly to the last 15 in the Champions League.",
+    "pubDate": "2026-01-25",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/man-city-injury-list-players-070002311.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "patriots-lb-robert-spillane-leaves-afc-title-game-with-injury",
+    "title": "Patriots LB Robert Spillane leaves AFC title game with injury",
+    "description": "Patriots linebacker Robert Spillane is questionable to return to Sunday's AFC title game with an injury.",
+    "pubDate": "2026-01-25",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/patriots-lb-robert-spillane-leaves-205046223.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "gutsy-effort-in-win-at-detroit-rockets-find-attention-to-detail",
+    "title": "‘Gutsy effort’: In win at Detroit, Rockets find attention to detail",
+    "description": "“We knew from the start that it felt a bit different with our physicality and attention to detail,” Ime Udoka said after Houston’s victory at Detroit.",
+    "pubDate": "2026-01-25",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/gutsy-effort-win-detroit-rockets-205025191.html",
+    "source": "Google News"
+  },
+  {
     "slug": "no-10-iowa-exploit-no-12-ohio-state-interior-weakness-win-91-70",
     "title": "No. 10 Iowa exploit No. 12 Ohio State interior weakness, win 91-70",
     "description": "The Buckeye and Hawkeye rivalry renewed Sunday in Iowa City",
@@ -657,12 +1008,21 @@
     "source": "Google News"
   },
   {
-    "slug": "39-hunter-39-rangers-have-39-big-opportunity-39-in-flag-race-rohl",
-    "title": "&#39;Hunter&#39; Rangers have &#39;big opportunity&#39; in flag race - Rohl",
+    "slug": "39-hunter-39-rangers-have-39-big-opportunity-39-in-title-race-rohl",
+    "title": "&#39;Hunter&#39; Rangers have &#39;big opportunity&#39; in title race - Rohl",
     "description": "Danny Rohl is relishing Rangers' role as the \"hunter\" in the Scottish Premiership title race after delivering a \"statement\" victory to reduce Hearts' advantage at the top.",
     "pubDate": "2026-01-25",
     "image": "",
     "link": "https://sports.yahoo.com/articles/hunter-rangers-big-opportunity-flag-201139654.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "report-liverpool-make-first-move-towards-potential-xabi-alonso-appointment",
+    "title": "Report: Liverpool make first move towards potential Xabi Alonso appointment",
+    "description": "Liverpool make first move over potential Xabi Alonso appointmentLiverpool find themselves in a position they know all too well, balancing present demands with long term planning. Even in an era of rel...",
+    "pubDate": "2026-01-25",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/report-liverpool-first-move-towards-205000005.html",
     "source": "Google News"
   },
   {
@@ -672,6 +1032,15 @@
     "pubDate": "2026-01-25",
     "image": "",
     "link": "https://sports.yahoo.com/articles/sky-sports-ipswich-town-joined-205000042.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "2026-nfl-draft-the-consensus-rankings-for-this-year-39-s-quarterback-class",
+    "title": "2026 NFL Draft: The consensus rankings for this year&#39;s quarterback class",
+    "description": "The class is not what it looked like a year ago.",
+    "pubDate": "2026-01-25",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/2026-nfl-draft-consensus-rankings-204958803.html",
     "source": "Google News"
   },
   {
@@ -693,408 +1062,30 @@
     "source": "Jason Owens"
   },
   {
-    "slug": "hearts-39-rattle-39-celtic-but-did-red-card-play-39-massive-part-39",
-    "title": "Hearts &#39;rattle&#39; Celtic - but did red card play &#39;massive part&#39;?",
-    "description": "Hearts and Celtic play out a thrilling draw in the Scottish Premiership title race. But did Hearts deserve to win? Or did a controversial red card cost Celtic?",
+    "slug": "steelers-39-hire-of-mike-mccarthy-lauded-by-hall-of-famer",
+    "title": "Steelers&#39; hire of Mike McCarthy lauded by Hall of Famer",
+    "description": "This could be something.",
     "pubDate": "2026-01-25",
     "image": "",
-    "link": "https://sports.yahoo.com/articles/hearts-rattle-celtic-did-red-203306199.html",
+    "link": "https://sports.yahoo.com/articles/steelers-hire-mike-mccarthy-lauded-204823622.html",
     "source": "Google News"
   },
   {
-    "slug": "patriots-lb-robert-spillane-exits-afc-championship-game-game-with-ankle-injury",
-    "title": "Patriots LB Robert Spillane exits AFC Championship Game game with ankle injury",
+    "slug": "jarrett-stidham-contract-full-details-of-the-broncos-starting-qb-39-s-contract",
+    "title": "Jarrett Stidham contract: Full details of the Broncos starting QB&#39;s contract",
+    "description": "Stidham is the starting quarterback of the Broncos for today's AFC Championship game.",
+    "pubDate": "2026-01-25",
+    "image": "",
+    "link": "https://sports.yahoo.com/articles/jarrett-stidham-contract-full-details-204812314.html",
+    "source": "Google News"
+  },
+  {
+    "slug": "patriots-lb-robert-spillane-exits-afc-championship-game-with-ankle-injury",
+    "title": "Patriots LB Robert Spillane exits AFC Championship Game with ankle injury",
     "description": "The Patriots linebacker suffered an ankle injury versus the Broncos.",
     "pubDate": "2026-01-25",
     "image": "",
     "link": "https://sports.yahoo.com/articles/patriots-lb-robert-spillane-exits-204741568.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "how-many-points-will-it-take-to-win-scottish-premiership",
-    "title": "How many points will it take to win Scottish Premiership?",
-    "description": "BBC Scotland crunches the numbers behind a gripping three-way fight for the Scottish top-flight title.",
-    "pubDate": "2026-01-25",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/many-points-win-scottish-premiership-083252790.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "denver-broncos-vs-new-england-patriots-live-discussion",
-    "title": "Denver Broncos vs. New England Patriots - Live Discussion",
-    "description": "Join Mile High Report to discuss the action from the AFC Championship Game between the Denver Broncos and New England Patriots.",
-    "pubDate": "2026-01-25",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/denver-broncos-vs-england-patriots-193000053.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "rangers-sign-lhp-with-7-seasons-of-mlb-starting-experience",
-    "title": "Rangers sign LHP with 7 seasons of MLB starting experience",
-    "description": "Texas is bulking up its pitching depth.",
-    "pubDate": "2026-01-25",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/rangers-sign-lhp-7-seasons-204605046.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "report-sean-mcdermott-quot-likely-quot-to-take-a-year-off",
-    "title": "Report: Sean McDermott &quot;likely&quot; to take a year off",
-    "description": "When the Bills fired coach Sean McDermott, he informed his staff that he plans to keep coaching.",
-    "pubDate": "2026-01-25",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/report-sean-mcdermott-likely-off-204547609.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "broncos-vs-patriots-first-quarter-recap",
-    "title": "Broncos vs. Patriots first quarter recap",
-    "description": "Here is your first quarter recap from the Denver Broncos and New England Patriots game in the AFC Championship Game.",
-    "pubDate": "2026-01-25",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/broncos-vs-patriots-first-quarter-204404425.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "patriots-vs-broncos-live-score-updates-highlights-from-2026-afc-championship-game",
-    "title": "Patriots vs. Broncos live score, updates, highlights from 2026 AFC championship game",
-    "description": "The Sporting News is tracking live scoring updates and highlights for Patriots vs. Broncos in the 2026 AFC championship game on Sunday. Follow for complete results with a trip to Super Bowl 60 on the line.",
-    "pubDate": "2026-01-25",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/patriots-vs-broncos-live-score-150001776.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "former-raiders-quarterback-jarrett-stidham-leads-broncos-to-early-7-0-lead",
-    "title": "Former Raiders quarterback Jarrett Stidham leads Broncos to early 7-0 lead",
-    "description": "LAS VEGAS -- The Raiders haven't enjoyed this much conversation in the week leading up to the AFC Championship in years.",
-    "pubDate": "2026-01-25",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/former-raiders-quarterback-jarrett-stidham-204345401.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "titans-to-interview-kliff-kingsbury-adam-stenavich-thad-lewis-for-offensive-coordinator",
-    "title": "Titans to interview Kliff Kingsbury, Adam Stenavich, Thad Lewis for offensive coordinator",
-    "description": "The Titans have several offensive coordinator interviews on the way.",
-    "pubDate": "2026-01-25",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/titans-interview-kliff-kingsbury-adam-204317018.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "charlie-severance-part-of-39-the-stop-39-by-tennessee-football-vs-billy-cannon-dies-at-86",
-    "title": "Charlie Severance, part of &#39;The Stop&#39; by Tennessee football vs Billy Cannon, dies at 86",
-    "description": "Charlie Severance, remembered by Tennessee fans for helping keep Billy Cannon of LSU out of the end zone in the play known as \"The Stop,\" died on Jan. 23.",
-    "pubDate": "2026-01-25",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/charlie-severance-part-stop-tennessee-204219261.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "packers-offensive-coordinator-to-interview-for-lateral-job-with-tennessee-titans",
-    "title": "Packers offensive coordinator to interview for lateral job with Tennessee Titans",
-    "description": "The difference is that Adam Stenavich is not a play-caller in Green Bay, but he would be in Tennessee.",
-    "pubDate": "2026-01-25",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/packers-offensive-coordinator-interview-lateral-204136699.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "patriots-vs-broncos-live-updates-score-news-from-afc-championship-game",
-    "title": "Patriots vs. Broncos: Live updates, score, news from AFC Championship Game",
-    "description": "New England looks to get back to the Super Bowl.",
-    "pubDate": "2026-01-25",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/patriots-vs-broncos-live-updates-192546314.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "3-offensive-coordinator-candidates-the-steelers-should-target",
-    "title": "3 offensive coordinator candidates the Steelers should target",
-    "description": "The Pittsburgh Steelers need to pursue these three offensive coordinator candidates following Arthur Smith’s departure.",
-    "pubDate": "2026-01-25",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/3-offensive-coordinator-candidates-steelers-203902472.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "just-keep-quiet-for-once-bundesliga-star-hits-back-at-critics",
-    "title": "😶 Just keep quiet for once: Bundesliga star hits back at critics",
-    "description": "It is the unfortunate fate of every striker: If goals are missing for one or two games, public criticism follows immediately. Stuttgart's Deniz Undav seems to be quite fed up with this. He emphasized...",
-    "pubDate": "2026-01-25",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/just-keep-quiet-once-bundesliga-203900961.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "bayer-leverkusen-also-interested-in-sunderland-transfer-target-jonas-omlin",
-    "title": "Bayer Leverkusen also interested in Sunderland transfer target Jonas Omlin",
-    "description": "Florian Plettenberg reports the Bayer Leverkusen are also actively pursuing Borussia Mönchengladbach keeper Jonas Omlin.  The former BMG captain no longer plays a role with his current Bundesliga cl...",
-    "pubDate": "2026-01-25",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/bayer-leverkusen-interested-sunderland-transfer-203900294.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "warriors-say-jonathan-kuminga-has-been-sidelined-by-a",
-    "title": "Warriors say Jonathan Kuminga has been sidelined by a …",
-    "description": "Warriors say Jonathan Kuminga has been sidelined by a …",
-    "pubDate": "2026-01-25",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/warriors-jonathan-kuminga-sidelined-203858213.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "timberwolves-39-trade-offer-for-coby-white-to-bulls-revealed-by-nba-insider",
-    "title": "Timberwolves&#39; trade offer for Coby White to Bulls revealed by NBA insider",
-    "description": "Minnesota still needs a point guard.",
-    "pubDate": "2026-01-25",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/timberwolves-trade-offer-coby-white-203857154.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "teams-have-been-trying-to-trade-for-important-cavs-forward",
-    "title": "Teams have been trying to trade for important Cavs forward",
-    "description": "The Cavs have a week and a half before the trade deadline.",
-    "pubDate": "2026-01-25",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/teams-trying-trade-important-cavs-203813195.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "ohio-state-once-again-one-of-the-most-watched-college-teams-for-2025",
-    "title": "Ohio State once again one of the most watched college teams for 2025",
-    "description": "Ohio State football was once again one of the most watched college teams of the 2025 season, appearing in four of the top ten rated contests.",
-    "pubDate": "2026-01-25",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/ohio-state-once-again-one-203725934.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "best-rams-vs-seahawks-same-game-parlay-for-the-nfc-championship",
-    "title": "Best Rams vs Seahawks Same Game Parlay for the NFC Championship",
-    "description": "Jason Logan has built a +334 Rams vs. Seahawks SGP for the NFC Championship game that is sure to delight the Seattle faithful.",
-    "pubDate": "2026-01-25",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/best-rams-vs-seahawks-same-140000954.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "is-evan-engram-playing-today-why-broncos-te-is-off-to-slow-start-in-afc-title-game",
-    "title": "Is Evan Engram playing today? Why Broncos TE is off to slow start in AFC title game",
-    "description": "Explaining why Denver Broncos tight end Evan Engram is off to a slow start in the AFC title game versus the New England Patriots.",
-    "pubDate": "2026-01-25",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/evan-engram-playing-today-why-203617248.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "robert-spillane-injury-update-latest-news-on-patriots-lb-39-s-status-in-afc-title-game",
-    "title": "Robert Spillane injury update: Latest news on Patriots LB&#39;s status in AFC title game",
-    "description": "New England Patriots linebacker Robert Spillane is dealing with an injury in the first half of the AFC Championship Game versus the Denver Broncos.",
-    "pubDate": "2026-01-25",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/robert-spillane-injury-latest-news-203540075.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "this-swiss-international-could-join-sunderland-will-he-be-the-right-fit-at-stadium-of-light",
-    "title": "This Swiss International Could Join Sunderland: Will He Be The Right Fit At Stadium Of Light?",
-    "description": "Fresh speculation from Germany suggests Sunderland have identified Borussia Mönchengladbach’s Jonas Omlin as a potential winter recruit. According to Saturday’s edition of Bild, relayed via Sport...",
-    "pubDate": "2026-01-25",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/swiss-international-could-join-sunderland-203500101.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "fabrizio-romano-confirms-liverpool-remain-in-talks-over-crazy-transfer",
-    "title": "Fabrizio Romano CONFIRMS Liverpool remain in talks over crazy transfer",
-    "description": "Liverpool remain in talks over a truly crazy transfer, according to Fabrizio Romano. What are they doing here?Liverpool's transfers are under intense scrutiny after an extraordinary summer spend has s...",
-    "pubDate": "2026-01-25",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/fabrizio-romano-confirms-liverpool-remain-203500012.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "browns-named-worst-landing-spot-for-super-bowl-winning-quarterback",
-    "title": "Browns named worst landing spot for Super Bowl-winning quarterback",
-    "description": "Russell Wilson will be looking for a new NFL home this offseason.  In a recent article for Bleacher Report, Kristopher Knox named the Cleveland Browns as the worst possible landing spot for Wilson, citing the presence of other QBs on the roster.",
-    "pubDate": "2026-01-25",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/browns-named-worst-landing-spot-203446471.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "tottenham-injury-list-spurs-players-out-potential-return-dates-predicted-lineup-for-next-game-vs-eintracht-frankfurt",
-    "title": "Tottenham injury list: Spurs players out, potential return dates, predicted lineup for next game vs. Eintracht Frankfurt",
-    "description": "Tottenham's form in the Premier League and the Champions League continues to contrast sharply as they prepare to face Eintracht Frankfurt.",
-    "pubDate": "2026-01-25",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/tottenham-injury-list-spurs-players-165824507.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "rams-vs-seahawks-predictions-picks-best-bets-for-today-39-s-nfc-championship-game",
-    "title": "Rams vs Seahawks Predictions, Picks & Best Bets for Today&#39;s NFC Championship Game",
-    "description": "Look for Cooper Kupp to clear a low receiving yards bar in today's NFC Championship Game, as our Rams vs. Seahawks predictions for Sunday, January 25, 2026 suggest.",
-    "pubDate": "2026-01-25",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/rams-vs-seahawks-predictions-picks-113000162.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "39-we-39-re-in-a-good-spot-39-texas-a-m-hc-trisha-ford-previews-2026-season",
-    "title": "&#39;We&#39;re in a good spot&#39;: Texas A&M HC Trisha Ford previews 2026 season",
-    "description": "Texas A&M HC Trisha Ford previews the 2026 softball season and is ready to embrace the underdog role in a rebuilding year.",
-    "pubDate": "2026-01-25",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/were-good-spot-texas-m-203340621.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "alex-honnold-says-he-was-paid-an-embarrassing-amount-for-taipei-101-climb",
-    "title": "Alex Honnold says he was paid an ‘embarrassing amount’ for Taipei 101 climb",
-    "description": "Famed rock climber made history as the first person to climb the skyscraper with safety gear or ropes",
-    "pubDate": "2026-01-25",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/alex-honnold-says-being-paid-200235718.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "gamethread-how-to-watch-northwestern-women-s-basketball-vs-no-3-ucla-tv-streaming-radio-betting-line-injury-report",
-    "title": "Gamethread/How to watch Northwestern women’s basketball vs. No. 3 UCLA: TV, streaming, radio, betting line, injury report",
-    "description": "Northwestern will face likely its highest-ranked opponent of the 2025-26 season.",
-    "pubDate": "2026-01-25",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/gamethread-watch-northwestern-women-basketball-203108734.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "is-kayshon-boutte-playing-today-why-patriots-39-wr-isn-39-t-doing-anything-early-vs-broncos",
-    "title": "Is Kayshon Boutte playing today? Why Patriots&#39; WR isn&#39;t doing anything early vs. Broncos",
-    "description": "This isn't ideal for New England.",
-    "pubDate": "2026-01-25",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/kayshon-boutte-playing-today-why-203103314.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "ravens-39-jesse-minter-has-1-huge-decision-looming",
-    "title": "Ravens&#39; Jesse Minter has 1 huge decision looming",
-    "description": "It's one he has to get right.",
-    "pubDate": "2026-01-25",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/ravens-jesse-minter-1-huge-203045653.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "live-coverage-patriots-vs-broncos",
-    "title": "Live Coverage | Patriots vs. Broncos",
-    "description": "The Patriots and Broncos square off with a trip to Super Bowl 60 on the line. MassLive has full coverage from Denver.",
-    "pubDate": "2026-01-25",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/live-coverage-patriots-vs-broncos-170043813.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "waldo-cortes-acosta-calls-out-former-title-challenger-for-ufc-mexico",
-    "title": "Waldo Cortes-Acosta calls out former title challenger for UFC Mexico",
-    "description": "Waldo Cortes-Acosta wants to beat up on a former UFC title challenger at next month's UFC Mexico card.",
-    "pubDate": "2026-01-25",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/waldo-cortes-acosta-calls-former-203027368.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "multiple-alabama-stars-featured-in-espn-39-s-top-100-players-from-2025",
-    "title": "Multiple Alabama stars featured in ESPN&#39;s Top 100 players from 2025",
-    "description": "Alabama's Ty Simpson and Bray Hubbard have been named among college football's top players from the 2025 season.",
-    "pubDate": "2026-01-25",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/multiple-alabama-stars-featured-espns-203021617.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "is-kayshon-boutte-playing-today-why-patriots-wr-is-off-to-slow-start-in-afc-title-game",
-    "title": "Is Kayshon Boutte playing today? Why Patriots WR is off to slow start in AFC title game",
-    "description": "Explaining why Kayshon Boutte is off to a slow start in the New England Patriots' playoff game versus the Denver Broncos.",
-    "pubDate": "2026-01-25",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/kayshon-boutte-playing-today-why-203014154.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "coco-gauff-says-when-the-australian-open-locker-room-began-to-feel-empty",
-    "title": "Coco Gauff says when the Australian Open locker room began to feel ‘empty’",
-    "description": "Coco Gauff booked her place in the Australian Open quarter-finals after defeating Karolina Muchova on Sunday. The world number three metaphorically stumbled during the second set before securing a 6-1, 3-6, 6-3 victory over the Czech player.",
-    "pubDate": "2026-01-25",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/coco-gauff-says-australian-open-203000675.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "cowboys-deny-eagles-request-to-interview-klayton-adams-for-oc",
-    "title": "Cowboys deny Eagles’ request to interview Klayton Adams for OC",
-    "description": "Cowboys block Eagles attempt at a poach",
-    "pubDate": "2026-01-25",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/cowboys-deny-eagles-request-interview-203000903.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "chelsea-daily-transfer-rumour-roundup-latest-on-kim-min-jae-franco-mastantuono-and-josh-acheampong",
-    "title": "Chelsea daily transfer rumour roundup: Latest on Kim Min-Jae, Franco Mastantuono, and Josh Acheampong",
-    "description": "Chelsea’s transfer focus continues to span experience, youth, and internal development as the Blues weigh up defensive reinforcements and midfield depth. Several names have emerged as the club looks to balance immediate needs with long-term planning.",
-    "pubDate": "2026-01-25",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/chelsea-daily-transfer-rumour-roundup-203000640.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "carmelo-hayes-learned-one-thing-from-wwe-stars",
-    "title": "Carmelo Hayes Learned One Thing From WWE Stars",
-    "description": "United States Champion Carmelo Hayes reveals an important thing he's learned from two of WWE's top stars.",
-    "pubDate": "2026-01-25",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/carmelo-hayes-learned-one-thing-203000539.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "muslic-attributes-schalke-s-draw-to-d-eko-s-piece-of-brilliance",
-    "title": "Muslic attributes Schalke’s draw to Džeko’s piece of brilliance",
-    "description": "Edin Džeko scored on his 2. Bundesliga debut to help Schalke into a comeback draw against Kaiserslautern. The soon-to-be-40-year-old is now the oldest goalscorer in the history of 2. Bundesliga.\"Edin...",
-    "pubDate": "2026-01-25",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/muslic-attributes-schalke-draw-d-202800949.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "is-hunter-henry-playing-today-why-patriots-te-is-off-to-slow-start-vs-broncos",
-    "title": "Is Hunter Henry playing today? Why Patriots TE is off to slow start vs. Broncos",
-    "description": "New England Patriots tight end Hunter Henry is off to a slow start in the AFC Championship Game against the Denver Broncos. Here's a closer look at what's happening.",
-    "pubDate": "2026-01-25",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/hunter-henry-playing-today-why-202745275.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "one-year-after-retirement-former-world-star-returns-to-top-flight-club",
-    "title": "🤩 One year after retirement: former world star returns to top-flight club",
-    "description": "He had actually already drawn a line under it. After his last stint with the Portuguese first division club CF Estrela Amadora, Nani ended his career at the beginning of 2025. However, now there is a ...",
-    "pubDate": "2026-01-25",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/one-retirement-former-world-star-202700814.html",
-    "source": "Google News"
-  },
-  {
-    "slug": "who-is-jarrett-stidham-39-s-wife-what-to-know-about-broncos-qb-39-s-influencer-spouse",
-    "title": "Who is Jarrett Stidham&#39;s wife? What to know about Broncos QB&#39;s influencer spouse",
-    "description": "She'll be shown on the CBS broadcast.",
-    "pubDate": "2026-01-25",
-    "image": "",
-    "link": "https://sports.yahoo.com/articles/jarrett-stidhams-wife-know-broncos-202645913.html",
     "source": "Google News"
   },
   {
@@ -1140,6 +1131,15 @@
     "pubDate": "2026-01-24",
     "image": "",
     "link": "https://www.bbc.com/sport/football/videos/cp8252gqp5po?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport"
+  },
+  {
+    "slug": "mbappe-scores-panenka-as-madrid-go-top-of-la-liga",
+    "title": "Mbappe scores Panenka as Madrid go top of La Liga",
+    "description": "Kylian Mbappe scores twice as Real Madrid beat Villarreal, meaning Barcelona have to beat Real Oviedo on Sunday to reclaim top spot.",
+    "pubDate": "2026-01-24",
+    "image": "",
+    "link": "https://www.bbc.com/sport/football/videos/c07xjr1xx9do?at_medium=RSS&at_campaign=rss",
     "source": "BBC Sport"
   },
   {
